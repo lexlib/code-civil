@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1970-01-01
+Version Consolidée au 1970-12-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 509)](#2)
@@ -2504,6 +2504,26 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 145
+
+Néanmoins, il est loisible au procureur de la République du lieu de célébration du mariage d'accorder des dispenses d'âge
+pour des motifs graves.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°70-1266 1970-12-23 art. 1 JORF 29 décembre 1970
 
 
 ###### Article 146
