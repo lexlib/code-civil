@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1942-11-04
+Version Consolidée au 1945-03-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -1217,6 +1217,52 @@ _Cité par_:
 
   - TXT_SOURCE: Arrêté du 16 juillet 1987
   - TXT_SOURCE: Arrêté du 16 juillet 1987 - art. 1 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 79
+
+L'acte de décès énoncera :
+
+1° Le jour, l'heure et le lieu de décès ;
+
+2° Les prénoms, nom, date et lieu de naissance, profession et domicile de la personne décédée ;
+
+3° Les prénoms, noms, professions et domiciles de ses père et mère ;
+
+4° Les prénoms et nom de l'autre époux, si la personne décédée était mariée, veuve ou divorcée ;
+
+5° Les prénoms, nom, âge, profession et domicile du déclarant et, s'il y a lieu, son degré de parenté avec la personne
+décédée.
+
+Le tout, autant qu'on pourra le savoir.
+
+Il sera fait mention du décès en marge de l'acte de naissance de la personne décédée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°41-5050 du 31 décembre 1941 - art. 4-1 (Ab)
+  - Loi n°78-753 du 17 juillet 1978 - art. 21 (V)
+  - Loi n°78-753 du 17 juillet 1978 - art. 5-1 (Ab)
+  - Arrêté du 9 décembre 1985 - art. Annexe, art. 1 (Ab)
+  - Code civil - art. 80 (V)
+  - Code civil - art. 83 (Ab)
+  - Code civil - art. 85 (V)
+  - Code de procédure pénale - art. R295 (V)
+  - Code de procédure pénale - art. R381 (Ab)
+  - Code de procédure pénale - art. R70 (V)
+  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+  - Code général des collectivités territoriales - art. R2213-8 (V)
+  - Loi n°41-1814 du 24 avril 1941 - art. 2 (V)
 
 _Codifié par_:
 
