@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1986-07-01
+Version Consolidée au 1987-07-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -26440,7 +26440,7 @@ _Créé par_:
 Un indivisaire peut être autorisé par justice à passer seul un acte pour lequel le consentement d'un coïndivisaire serait
 nécessaire, si le refus de celui-ci met en péril l'intérêt commun.
 
-Le juge ne peut toutefois, sinon aux fins de partage, autoriser la vente de la pleine propriété d'un bien grevé d'usufruit,
+Le juge ne peut, à la demande d'un nu-propriétaire, ordonner la vente de la pleine propriété d'un bien grevé d'usufruit
 contre la volonté de l'usufruitier.
 
 L'acte passé dans les conditions fixées par l'autorisation de justice est opposable à l'indivisaire dont le consentement a
@@ -26448,23 +26448,22 @@ fait défaut.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°87-498 du 6 juillet 1987 - art. 1 () JORF 7 juillet 1987
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
   - SPEC_APPLI: Loi n°87-498 du 6 juillet 1987 - art. 2 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
 
 _Cité par_:
 
   - Code civil - art. 818 (V)
   - Code civil - art. 819 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
 
 
 ### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=180></a>
