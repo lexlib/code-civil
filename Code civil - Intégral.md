@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1972-12-31
+Version Consolidée au 1973-12-27
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 509)](#2)
@@ -330,12 +330,12 @@ Version Consolidée au 1972-12-31
       - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#327)
     - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#328)
       - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#329)
-      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1951)](#330)
+      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1954)](#330)
         - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#331)
         - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#332)
         - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#333)
         - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#334)
-        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1951)](#335)
+        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1954)](#335)
       - [Chapitre III : Du séquestre (art. 1955 à 1963)](#336)
         - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#337)
         - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#338)
@@ -42882,6 +42882,84 @@ _Créé par_:
 Le dépôt nécessaire est d'ailleurs régi par toutes les règles précédemment énoncées.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1952
+
+Les aubergistes ou hôteliers répondent, comme dépositaires, des vêtements, bagages et objets divers apportés dans leur
+établissement par le voyageur qui loge chez eux ; le dépôt de ces sortes d'effets doit être regardé comme un dépôt
+nécessaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1954 (V)
+  - Code du tourisme. - art. L311-10 (VT)
+  - Code du tourisme. - art. L311-9 (VD)
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1953
+
+Ils sont responsables du vol ou du dommage de ces effets, soit que le vol ait été commis ou que le dommage ait été causé par
+leurs domestiques et préposés, ou par des étrangers allant et venant dans l'hôtel.
+
+Cette responsabilité est illimitée, nonobstant toute clause contraire, au cas de vol ou de détérioration des objets de toute
+nature déposés entre leurs mains ou qu'ils ont refusé de recevoir sans motif légitime.
+
+Dans tous les autres cas, les dommages-intérêts dus au voyageur sont, à l'exclusion de toute limitation conventionnelle
+inférieure, limités à l'équivalent de cent fois le prix de location du logement par journée, sauf lorsque le voyageur
+démontre que le préjudice qu'il a subi résulte d'une faute de celui qui l'héberge ou des personnes dont ce dernier doit
+répondre.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1954 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1954
+
+Les aubergistes ou hôteliers ne sont pas responsables des vols ou dommages qui arrivent par force majeure, ni de la perte qui
+résulte de la nature ou d'un vice de la chose, à charge de démontrer le fait qu'ils allèguent. 
+
+Par dérogation aux dispositions de l'article 1953, les aubergistes ou hôteliers sont responsables des objets laissés dans les
+véhicules stationnés sur les lieux dont ils ont la jouissance privative à concurrence de cinquante fois le prix de location
+du logement par journée. 
+
+Les articles 1952 et 1953 ne s'appliquent pas aux animaux vivants.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 1952 (V)
+  - Code civil - art. 1953 (V)
 
 _Codifié par_:
 
