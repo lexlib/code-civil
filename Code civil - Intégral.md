@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1896-06-20
+Version Consolidée au 1898-03-24
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 1896-06-20
         - [Section 4 : Des successions vacantes. (art. 811 à 813)](#82)
       - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#83)
         - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#84)
-        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 845 à 865)](#85)
+        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 843 à 865)](#85)
         - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#86)
         - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#87)
         - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#88)
@@ -8169,6 +8169,26 @@ _Créé par_:
 
 
 #### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=85></a>
+
+###### Article 843
+
+Tout héritier, même bénéficiaire, venant à une succession, doit rapporter à ses cohéritiers tout ce qu'il a reçu du défunt,
+par donations entre vifs, directement ou indirectement ; il ne peut retenir les dons à lui faits par le défunt, à moins
+qu'ils ne lui aient été faits expressément par préciput et hors part, ou avec dispense de rapport.
+
+Les legs faits à un héritier sont réputés faits par préciput et hors part, à moins que le testateur n'ait exprimé la volonté
+contraire, auquel cas le légataire ne peut réclamer son legs qu'en moins prenant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
 
 ###### Article 845
 
