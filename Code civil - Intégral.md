@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-02-07
+Version Consolidée au 1998-04-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 509)](#2)
