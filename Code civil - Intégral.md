@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1968-01-03
+Version Consolidée au 1968-07-04
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -149,7 +149,7 @@ Version Consolidée au 1968-01-03
       - [Chapitre Ier : Dispositions préliminaires. (art. 1101 à 1107)](#146)
       - [Chapitre II : Des conditions essentielles pour la validité des conventions. (art. 1108 à 1133)](#147)
         - [Section 1 : Du consentement. (art. 1109 à 1122)](#148)
-        - [Section 2 : De la capacité des parties contractantes. (art. 1123)](#149)
+        - [Section 2 : De la capacité des parties contractantes. (art. 1123 à 1125-1)](#149)
         - [Section 3 : De l'objet et de la matière des contrats. (art. 1126 à 1130)](#150)
         - [Section 4 : De la cause. (art. 1131 à 1133)](#151)
       - [Chapitre III : De l'effet des obligations. (art. 1134 à 1167)](#152)
@@ -185,7 +185,7 @@ Version Consolidée au 1968-01-03
         - [Section 4 : De la compensation. (art. 1289 à 1299)](#182)
         - [Section 5 : De la confusion. (art. 1300 à 1301)](#183)
         - [Section 6 : De la perte de la chose due. (art. 1302 à 1303)](#184)
-        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1305 à 1314)](#185)
+        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1304 à 1314)](#185)
       - [Chapitre VI : De la preuve des obligations et de celle du paiement. (art. 1315 à 1369)](#186)
         - [Section 1 : De la preuve littérale (art. 1317 à 1340)](#187)
           - [Paragraphe 1 : Du titre authentique. (art. 1317 à 1321)](#188)
@@ -205,7 +205,7 @@ Version Consolidée au 1968-01-03
       - [Chapitre Ier : Des quasi-contrats. (art. 1371 à 1381)](#202)
       - [Chapitre II : Des délits et des quasi-délits. (art. 1382 à 1386)](#203)
     - [Titre V : Du contrat de mariage et des régimes matrimoniaux (art. 1387 à 1581)](#204)
-      - [Chapitre Ier : Dispositions générales. (art. 1387 à 1398)](#205)
+      - [Chapitre Ier : Dispositions générales. (art. 1387 à 1399)](#205)
       - [Chapitre II : Du régime en communauté (art. 1400 à 1527)](#206)
         - [Première partie : De la communauté légale (art. 1400 à 1490)](#207)
           - [Section I : De ce qui compose la communauté activement et passivement (art. 1401 à 1420)](#208)
@@ -19528,6 +19528,83 @@ _Cité par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
 
 
+###### Article 1124
+
+Sont incapables de contracter, dans la mesure définie par la loi : 
+
+Les mineurs non émancipés ; 
+
+Les majeurs protégés au sens de l'article 488 du présent code.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°68-5 du 3 janvier 1968 - art. 2
+
+_Cite_:
+
+  - Code civil - art. 488 (VT)
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+_Créé par_:
+
+  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1125
+
+Les personnes capables de s'engager ne peuvent opposer l'incapacité de ceux avec qui elles ont contracté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+_Créé par_:
+
+  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+_Modifié par_:
+
+  - Loi n°68-5 du 3 janvier 1968 - art. 2
+
+_Cité par_:
+
+  - Code civil - art. 1127-4 (V)
+  - Code du tourisme. - art. R211-3-1 (VD)
+  - Code du tourisme. - art. R211-6 (VD)
+
+
+###### Article 1125-1
+
+Sauf autorisation de justice, il est interdit, à peine de nullité, à quiconque exerce une fonction ou occupe un emploi dans
+un établissement hébergeant des personnes âgées ou dispensant des soins psychiatriques de se rendre acquéreur d'un bien ou
+cessionnaire d'un droit appartenant à une personne admise dans l'établissement, non plus que de prendre à bail le logement
+occupé par cette personne avant son admission dans l'établissement.
+
+Pour l'application du présent article, sont réputées personnes interposées, le conjoint, les ascendants et les descendants
+des personnes auxquelles s'appliquent les interdictions ci-dessus édictées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+_Créé par_:
+
+  - Loi n°68-5 du 3 janvier 1968 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
 #### Section 3 : De l'objet et de la matière des contrats.<a id=150></a>
 
 ###### Article 1126
@@ -23191,6 +23268,47 @@ _Créé par_:
 
 #### Section 7 : De l'action en nullité ou en rescision des conventions.<a id=185></a>
 
+###### Article 1304
+
+Dans tous les cas où l'action en nullité ou en rescision d'une convention n'est pas limitée à un moindre temps par une loi
+particulière, cette action dure cinq ans.
+
+Ce temps ne court dans le cas de violence que du jour où elle a cessé ; dans le cas d'erreur ou de dol, du jour où ils ont
+été découverts.
+
+Le temps ne court, à l'égard des actes faits par un mineur, que du jour de la majorité ou de l'émancipation ; et à l'égard
+des actes faits par un majeur protégé, que du jour où il en a eu connaissance, alors qu'il était en situation de les refaire
+valablement. Il ne court contre les héritiers de l'incapable que du jour du décès, s'il n'a commencé à courir auparavant.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+  - Arrêté du 23 décembre 2009 - art. Annexe (M)
+  - Code civil - art. 414-2 (VD)
+  - Code civil - art. 435 (V)
+  - Code civil - art. 465 (V)
+  - Code civil - art. 488 (V)
+  - Code civil - art. 489 (VT)
+  - Code civil - art. 491-2 (VT)
+  - Code civil - art. 510-1 (VT)
+  - Code de procédure civile - art. 1200-2 (V)
+  - Code général des impôts, CGI. - art. 1961 (VD)
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+_Créé par_:
+
+  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
 ###### Article 1305
 
 La simple lésion donne lieu à la rescision en faveur du mineur non émancipé, contre toutes sortes de conventions.
@@ -25221,6 +25339,25 @@ consentement est nécessaire pour la validité du mariage.
 Si des conventions matrimoniales ont été passées sans cette assistance, l'annulation en pourra être demandée par le mineur ou
 par les personnes dont le consentement était requis, mais seulement jusqu'à l'expiration de l'année qui suivra la majorité
 accomplie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1399
+
+Le majeur en tutelle ou en curatelle ne peut passer de conventions matrimoniales sans être assisté, dans le contrat, de ceux
+qui doivent consentir à son mariage.
+
+A défaut de cette assistance, l'annulation des conventions peut être poursuivie dans l'année du mariage, soit par l'incapable
+lui-même, soit par ceux dont le consentement était requis, soit par le tuteur ou le curateur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
