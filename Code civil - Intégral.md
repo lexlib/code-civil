@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1854-05-31
+Version Consolidée au 1864-03-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -287,7 +287,7 @@ Version Consolidée au 1854-05-31
       - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2160)](#284)
         - [Section 1 : Dispositions générales. (art. 2157 à 2160)](#285)
       - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2167 à 2179)](#286)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2184 à 2191)](#287)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2184 à 2192)](#287)
       - [Chapitre IX : Du mode de purger les hypothèques quand il n'existe pas d'inscription sur les biens des maris et des tuteurs. (art. 2193 à 2195)](#288)
     - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#289)
       - [Chapitre Ier : De la saisie. (art. 2205)](#290)
@@ -28310,6 +28310,43 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2192
+
+Dans le cas où le titre du nouveau propriétaire comprendrait des immeubles et des meubles, ou plusieurs immeubles, les uns
+hypothéqués, les autres non hypothéqués, situés dans le même ou dans divers arrondissements de bureaux, aliénés pour un seul
+et même prix, ou pour des prix distincts et séparés, soumis ou non à la même exploitation, le prix de chaque immeuble frappé
+d'inscriptions particulières et séparées, sera déclaré dans la notification du nouveau propriétaire, par ventilation, s'il y
+a lieu, du prix total exprimé dans le titre.
+
+Le créancier surenchérisseur ne pourra, en aucun cas, être contraint d'étendre sa soumission ni sur le mobilier, ni sur
+d'autres immeubles que ceux qui sont hypothéqués à sa créance et situés dans le même arrondissement ; sauf le recours du
+nouveau propriétaire contre ses auteurs, pour l'indemnité du dommage qu'il éprouverait, soit de la division des objets de son
+acquisition, soit de celle des exploitations.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2487 (M)
+  - Code civil - art. 2487 (V)
 
 
 ### Chapitre IX : Du mode de purger les hypothèques quand il n'existe pas d'inscription sur les biens des maris et des tuteurs.<a id=288></a>
