@@ -1,13 +1,15 @@
 # Code civil  
-Version Consolidée au 1803-03-15
+Version Consolidée au 1803-03-18
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
-  - [Livre Ier : Des personnes (art. 17 à 143)](#2)
-    - [Titre Ier bis : De la nationalité française (art. 17)](#3)
-      - [Chapitre Ier : Dispositions générales (art. 17)](#4)
-    - [Titre III : Du domicile (art. 102)](#5)
-    - [Titre IV : Des absents (art. 133 à 143)](#6)
-      - [Chapitre II : De la déclaration d'absence (art. 133 à 143)](#7)
+  - [Livre Ier : Des personnes (art. 12 à 143)](#2)
+    - [Titre Ier : De la jouissance et de la privation des droits civils. (art. 12 à 16)](#3)
+      - [Chapitre Ier : De la jouissance des droits civils. (art. 12 à 16)](#4)
+    - [Titre Ier bis : De la nationalité française (art. 17)](#5)
+      - [Chapitre Ier : Dispositions générales (art. 17)](#6)
+    - [Titre III : Du domicile (art. 102)](#7)
+    - [Titre IV : Des absents (art. 133 à 143)](#8)
+      - [Chapitre II : De la déclaration d'absence (art. 133 à 143)](#9)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -145,9 +147,97 @@ _Créé par_:
 
 # Livre Ier : Des personnes<a id=2></a>
 
-## Titre Ier bis : De la nationalité française<a id=3></a>
+## Titre Ier : De la jouissance et de la privation des droits civils.<a id=3></a>
 
-### Chapitre Ier : Dispositions générales<a id=4></a>
+### Chapitre Ier : De la jouissance des droits civils.<a id=4></a>
+
+###### Article 12
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-08
+
+_Créé par_:
+
+  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+_Abrogé par_:
+
+  - Loi n°1927-08-10 art. 13
+
+
+###### Article 13
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-08
+
+_Créé par_:
+
+  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+_Abrogé par_:
+
+  - Loi n°1927-08-10 art. 13
+
+_Cité par_:
+
+  - Loi du 12 juillet 1909 - art. 1 (VT)
+
+
+###### Article 16
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 17 (M)
+  - Loi n°2004-800 du 6 août 2004 - art. 37 (V)
+  - Décret n°2012-360 du 14 mars 2012 (V)
+  - Décret n°2014-1286 du 23 octobre 2014 - art. (V)
+  - Code de la santé publique - art. L2141-1 (V)
+  - Code de la santé publique - art. L2141-11-1 (V)
+  - Code de la santé publique - art. L2151-6 (V)
+  - Code de la santé publique - art. R2141-14 (M)
+  - Code de la santé publique - art. R2141-15 (V)
+  - Code de la santé publique - art. R2151-13 (V)
+  - Code de la santé publique - art. R2151-18 (V)
+  - Code du travail - art. L341-5 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°75-596 1975-07-09 art. 6 JORF 10 juillet 1975
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2211-1 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2211-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-08
+
+_Créé par_:
+
+  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+
+## Titre Ier bis : De la nationalité française<a id=5></a>
+
+### Chapitre Ier : Dispositions générales<a id=6></a>
 
 ###### Article 17
 
@@ -170,7 +260,7 @@ _Créé par_:
   - Loi n°1803-03-08 promulguée le 18 mars 1803
 
 
-## Titre III : Du domicile<a id=5></a>
+## Titre III : Du domicile<a id=7></a>
 
 ###### Article 102
 
@@ -204,9 +294,9 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-## Titre IV : Des absents<a id=6></a>
+## Titre IV : Des absents<a id=8></a>
 
-### Chapitre II : De la déclaration d'absence<a id=7></a>
+### Chapitre II : De la déclaration d'absence<a id=9></a>
 
 ###### Article 133
 
