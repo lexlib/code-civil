@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1961-12-20
+Version Consolidée au 1962-08-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -214,7 +214,7 @@ Version Consolidée au 1961-12-20
     - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#211)
       - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#212)
       - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#213)
-        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1750)](#214)
+        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#214)
         - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#215)
         - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#216)
       - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1780 à 1799)](#217)
@@ -25103,6 +25103,49 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1751
+
+Le droit au bail du local, sans caractère professionnel ou commercial, qui sert effectivement à l'habitation de deux époux
+est, quel que soit leur régime matrimonial et nonobstant toute convention contraire, et même si le bail a été conclu avant le
+mariage, réputé appartenir à l'un et à l'autre des époux.
+
+En cas de divorce ou de séparation de corps, ce droit pourra être attribué, en considération des intérêts sociaux et
+familiaux en cause, par la juridiction saisie de la demande en divorce ou en séparation de corps, à l'un des époux, sous
+réserve des droits à récompense ou à indemnité au profit de l'autre époux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+_Modifié par_:
+
+  - Loi n°62-902 1962-08-04 JORF 7 août 1962 rectificatif JORF 15 août
+
+_Cité par_:
+
+  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (VD)
+  - Loi n°75-1351 du 31 décembre 1975 - art. 10-1 (VD)
+  - Loi n°75-1351 du 31 décembre 1975 - art. 6 (V)
+  - Loi n°82-526 du 22 juin 1982 - art. 16 (Ab)
+  - Loi n°86-1290 du 23 décembre 1986 - art. 13 (Ab)
+  - Loi n°89-462 du 6 juillet 1989 - art. 14 (V)
+  - Loi n°89-462 du 6 juillet 1989 - art. 9-1 (V)
+  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 26 (V)
+  - Arrêté du 13 décembre 2017 - art. (VD)
+  - Code de la construction et de l'habitation. - art. L254-7 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 III (champ d'application territoriale Polynésie française et Nouvelle-Calédonie)
 
 
 #### Section 2 : Des règles particulières aux baux à loyer.<a id=215></a>
