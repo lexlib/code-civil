@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1964-05-17
+Version Consolidée au 1964-06-15
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -160,7 +160,7 @@ Version Consolidée au 1964-05-17
         - [Section 4 : De la compensation. (art. 1289 à 1299)](#157)
         - [Section 5 : De la confusion. (art. 1300 à 1301)](#158)
         - [Section 6 : De la perte de la chose due. (art. 1302 à 1303)](#159)
-        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1306 à 1314)](#160)
+        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1305 à 1314)](#160)
       - [Chapitre VI : De la preuve des obligations et de celle du paiement. (art. 1315 à 1369)](#161)
         - [Section 1 : De la preuve littérale (art. 1317 à 1340)](#162)
           - [Paragraphe 1 : Du titre authentique. (art. 1317 à 1321)](#163)
@@ -18905,6 +18905,25 @@ _Créé par_:
 
 #### Section 7 : De l'action en nullité ou en rescision des conventions.<a id=160></a>
 
+###### Article 1305
+
+La simple lésion donne lieu à la rescision en faveur du mineur non émancipé, contre toutes sortes de conventions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+_Créé par_:
+
+  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+_Modifié par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2
+
+
 ###### Article 1306
 
 Le mineur n'est pas restituable pour cause de lésion, lorsqu'elle ne résulte que d'un événement casuel et imprévu.
@@ -35311,6 +35330,27 @@ _Créé par_:
 La prescription court contre toutes personnes, à moins qu'elles ne soient dans quelque exception établie par une loi.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-15
+
+_Créé par_:
+
+  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+###### Article 2252
+
+La prescription ne court pas contre les mineurs non émancipés et les majeurs en tutelle, sauf ce qui est dit à l'article 2278
+et à l'exception des autres cas déterminés par la loi.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 464 (V)
+  - Loi n°74-631 du 5 juillet 1974 - art. 20 (V)
 
 _Codifié par_:
 
