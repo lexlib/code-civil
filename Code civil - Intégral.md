@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1971-01-01
+Version Consolidée au 1971-06-27
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 509)](#2)
@@ -92,12 +92,12 @@ Version Consolidée au 1971-01-01
       - [Chapitre II : De l'usage et de l'habitation (art. 625 à 636)](#89)
     - [Titre IV : Des servitudes ou services fonciers (art. 637 à 710)](#90)
       - [Chapitre Ier : Des servitudes qui dérivent de la situation des lieux (art. 640 à 648)](#91)
-      - [Chapitre II : Des servitudes établies par la loi (art. 649 à 685)](#92)
+      - [Chapitre II : Des servitudes établies par la loi (art. 649 à 685-1)](#92)
         - [Section 1 : Du mur et du fossé mitoyens (art. 653 à 673)](#93)
         - [Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions (art. 674)](#94)
         - [Section 3 : Des vues sur la propriété de son voisin (art. 675 à 680)](#95)
         - [Section 4 : De l'égout des toits (art. 681)](#96)
-        - [Section 5 : Du droit de passage (art. 682 à 685)](#97)
+        - [Section 5 : Du droit de passage (art. 682 à 685-1)](#97)
       - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 686 à 710)](#98)
         - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 686 à 689)](#99)
         - [Section 2 : Comment s'établissent les servitudes (art. 690 à 696)](#100)
@@ -15319,6 +15319,25 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 685-1
+
+En cas de cessation de l'enclave et quelle que soit la manière dont l'assiette et le mode de la servitude ont été déterminés,
+le propriétaire du fonds servant peut, à tout moment, invoquer l'extinction de la servitude si la desserte du fonds dominant
+est assurée dans les conditions de l'article 682.
+
+A défaut d'accord amiable, cette disparition est constatée par une décision de justice.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 682 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
 
 
 ### Chapitre III : Des servitudes établies par le fait de l'homme<a id=98></a>
