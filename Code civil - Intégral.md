@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1924-02-07
+Version Consolidée au 1927-04-08
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1924-02-07
     - [Titre II : Des actes de l'état civil (art. 34 à 94)](#7)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#8)
       - [Chapitre II : Des actes de naissance. (art. 60 à 61)](#9)
-      - [Chapitre III : Des actes de mariage. (art. 65 à 74)](#10)
+      - [Chapitre III : Des actes de mariage. (art. 64 à 74)](#10)
       - [Chapitre IV : Des actes de décès. (art. 77 à 85)](#11)
       - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94)](#12)
     - [Titre III : Du domicile (art. 102 à 110)](#13)
@@ -984,6 +984,26 @@ _Créé par_:
 
 ### Chapitre III : Des actes de mariage.<a id=10></a>
 
+###### Article 64
+
+L'affiche prévue à l'article précédent restera apposée à la porte de la maison commune pendant dix jours.
+
+Le mariage ne pourra être célébré avant le dixième jour depuis et non compris celui de la publication.
+
+Si l'affichage est interrompu avant l'expiration de ce délai, il en sera fait mention sur l'affiche qui aura cessé d'être
+apposée à la porte de la maison commune.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 65
 
 Si le mariage n'a pas été célébré dans l'année, à compter de l'expiration du délai de la publication, il ne pourra plus être
@@ -1011,6 +1031,27 @@ des parties, et à l'officier de l'état civil, qui mettra son visa sur l'origin
 _Cité par_:
 
   - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 67
+
+L'officier de l'état civil fera, sans délai, une mention sommaire des oppositions sur le registre des mariages ; il fera
+aussi mention, en marge de l'inscription desdites oppositions, des jugements ou des actes de mainlevée dont expédition lui
+aura été remise.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2017-908 du 6 mai 2017 - art. 18 (V)
 
 _Codifié par_:
 
