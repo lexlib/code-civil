@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1962-08-07
+Version Consolidée au 1962-08-09
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -7,8 +7,8 @@ Version Consolidée au 1962-08-07
       - [Chapitre Ier : De la jouissance des droits civils. (art. 16)](#4)
     - [Titre II : Des actes de l'état civil (art. 34 à 100)](#5)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#6)
-      - [Chapitre II : Des actes de naissance. (art. 60 à 55)](#7)
-        - [Section 1 : Des déclarations de naissance. (art. 55)](#8)
+      - [Chapitre II : Des actes de naissance. (art. 60 à 57)](#7)
+        - [Section 1 : Des déclarations de naissance. (art. 55 à 57)](#8)
       - [Chapitre III : Des actes de mariage. (art. 63 à 76)](#9)
       - [Chapitre IV : Des actes de décès. (art. 78 à 91)](#10)
       - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 93 à 96)](#11)
@@ -628,143 +628,6 @@ _Créé par_:
   - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
-###### Article 40
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-
-_Cité par_:
-
-  - Décret n°2017-890 du 6 mai 2017 - art. 13 (VD)
-  - Loi n°2018-727 du 10 août 2018 - art. 46 (V)
-  - Ordonnance n°2019-724 du 10 juillet 2019 - art. 12 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
-###### Article 41
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-
-_Cité par_:
-
-  - Arrêté du 12 décembre 2014 - art. 33 (VD)
-  - Arrêté du 27 novembre 2018 - art. 17 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
-###### Article 42
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
-###### Article 43
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-_Cité par_:
-
-  - Ordonnance du Roi du 26 novembre 1823  - art. 4 (VT)
-
-
-###### Article 44
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-_Cité par_:
-
-  - Ordonnance du Roi du 26 novembre 1823  - art. 4 (VT)
-
-
-###### Article 45
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-_Cité par_:
-
-  - Ordonnance n°59-68 du 7 janvier 1959 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-
-
 ###### Article 46
 
 Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en sera reçue tant par titres que par témoins ;
@@ -784,6 +647,43 @@ _Cité par_:
   - Code civil - art. 194 (V)
   - Code de procédure civile - art. 1578 (V)
   - Code général des impôts, CGI. - art. 1119 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 47
+
+Tout acte de l'état civil des français et des étrangers, fait en pays étranger, fera foi, s'il est rédigé dans les formes
+usitées dans ledit pays.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°51-1142 du 1 octobre 1951 - art. 1 (V)
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 34 bis (Ab)
+  - Ordonnance n°59-68 du 7 janvier 1959 - art. 6 (V)
+  - Loi n°2000-321 du 12 avril 2000 - art. 22-1 (VT)
+  - Ordonnance n°2000-373 du 26 avril 2000 - art. 47 (VT)
+  - Ordonnance n°2000-371 du 26 avril 2000 - art. 47 (V)
+  - Ordonnance n°2000-372 du 26 avril 2000 - art. 49 (V)
+  - Ordonnance n°2002-388 du 20 mars 2002 - art. 49 (V)
+  - Décret n°2005-170 du 23 février 2005 - art. 1 (Ab)
+  - Décret n°2005-170 du 23 février 2005 - art. 2 (Ab)
+  - Décret n°2005-170 du 23 février 2005 - art. 3 (Ab)
+  - Décret n°2005-170 du 23 février 2005 - art. 4 (Ab)
+  - Décret n°2007-773 du 10 mai 2007 - art. 18 (V)
+  - Décret n°2008-521 du 2 juin 2008 - art. 5 (VD)
+  - Décret n°2015-1740 du 24 décembre 2015 (V)
+  - Décret n°2015-1740 du 24 décembre 2015 - art. 1 (V)
+  - Arrêté du 17 novembre 2016 - art. 6 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L111-6 (VD)
 
 _Codifié par_:
 
@@ -1059,6 +959,58 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 47 (Ab)
   - Code pénal - art. 433-18-1 (V)
   - Code pénal - art. R645-4 (V)
+
+
+###### Article 57
+
+L'acte de naissance énoncera le jour, l'heure et le lieu de la naissance, le sexe de l'enfant et les prénoms qui lui seront
+donnés, les prénoms, noms, âges, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant. Si les père
+et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état civil, il ne sera fait sur les
+registres aucune mention à ce sujet.    Si l'acte dressé concerne un enfant naturel, l'officier de l'état civil en donnera,
+dans le mois avis au juge du tribunal d'instance du canton de la naissance.
+
+Les prénoms de l'enfant figurant dans son acte de naissance peuvent, en cas d'intérêt légitime, être modifiés par jugement du
+tribunal de grande instance prononcé à la requête de l'enfant ou, pendant la minorité de celui-ci, à la requête de son
+représentant légal. Le jugement est rendu et publié dans les conditions prévues aux articles 99 et 101 du présent code.
+L'adjonction de prénoms pourra pareillement être décidée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°62-840 du 19 juillet 1962 - art. 8 (Ab)
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V)
+  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (VD)
+  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
+  - Décret n°2017-450 du 29 mars 2017 - art. 2
+  - Code civil - art. 2290 (T)
+  - Code civil - art. 2495 (VT)
+  - Code civil - art. 2499-1 (VT)
+  - Code civil - art. 58 (V)
+  - Code civil - art. 70 (M)
+  - Code de procédure civile - art. 1055-1 (V)
+  - Code de procédure civile - art. 1055-3 (VD)
+  - Code de procédure civile - art. 1055-4 (V)
+  - Code de procédure civile - art. 1055-5 (VD)
+  - Code de procédure civile - art. 1056-1 (V)
+
+_Modifié par_:
+
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
+  - Décret-loi 1939-07-29 art. 108
+
+_Cite_:
+
+  - Code civil - art. 101 (V)
+  - Code civil - art. 99 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ### Chapitre III : Des actes de mariage.<a id=9></a>
