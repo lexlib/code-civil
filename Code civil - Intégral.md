@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -4884,14 +4884,9 @@ _Codifié par_:
 ###### Article 50
 
 Toute contravention aux articles précédents, de la part des fonctionnaires y dénommés, sera poursuivie devant le tribunal de
-grande instance, et punie d'une amende de 20 F à 200 F.
+grande instance, et punie d'une amende de 3 à 30 euros.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°46-2154 1946-10-07 art. 38
-  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
 
 _Cité par_:
 
@@ -4901,13 +4896,13 @@ _Cité par_:
   - Code de la défense. - art. L2371-1 (T)
   - Code de procédure pénale - art. R215 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 51
@@ -5470,7 +5465,7 @@ publication, à la célébration du mariage, qu'après la remise, par chacun des
 moins de deux mois, attestant, à l'exclusion de toute autre indication, que l'intéressé a été examiné en vue du mariage.
 
 L'officier d'état civil qui ne se conformera pas aux prescriptions de l'alinéa précédent sera poursuivi devant le tribunal de
-grande instance et puni d'une amende de 20 F à 200 F.
+grande instance et puni d'une amende de 3 à 30 euros.
 
 **Liens relatifs à cet article**
 
@@ -5500,16 +5495,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance 45-2720 1945-11-02 art. 5 JORF 5 novembre 1945 rectificatif JORF 31 décembre 1945
-  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 64
@@ -5593,26 +5583,22 @@ _Créé par_:
 ###### Article 68
 
 En cas d'opposition, l'officier d'état civil ne pourra célébrer le mariage avant qu'on lui en ait remis la mainlevée, sous
-peine de 30 F d'amende et de tous dommages-intérêts.
+peine de 4,5 euros d'amende et de tous dommages-intérêts.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code civil - art. 2499-3 (VT)
-  - Code civil - art. 33 (V)
 
 _Codifié par_:
 
   - Loi n°1803-03-11
 
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
 _Modifié par_:
 
-  - Loi n°46-2154 1946-10-07 art. 38
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Cité par_:
+
+  - Code civil - art. 2499-3 (VT)
+  - Code civil - art. 33 (V)
 
 
 ###### Article 69
@@ -9127,14 +9113,14 @@ _Créé par_:
 
 Si le mariage n'a point été précédé de la publication requise ou s'il n'a pas été obtenu des dispenses permises par la loi,
 ou si les intervalles prescrits entre les publications et la célébration n'ont point été observés, le procureur de la
-République fera prononcer contre l'officier public une amende qui ne pourra excéder 30 F et contre les parties contractantes,
-ou ceux sous la puissance desquels elles ont agi, une amende proportionnée à leur fortune.
+République fera prononcer contre l'officier public une amende qui ne pourra excéder 4,5 euros et contre les parties
+contractantes, ou ceux sous la puissance desquels elles ont agi, une amende proportionnée à leur fortune.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°46-2154 1946-10-07 art. 38
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -9148,10 +9134,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 193
@@ -67300,10 +67282,26 @@ _Nouveaux textes_:
 ###### Article 2202
 
 Les conservateurs sont tenus de se conformer, dans l'exercice de leurs fonctions, à toutes les dispositions du présent
-chapitre, à peine d'une amende de 200 F à 2.000 F pour la première contravention, et de destitution pour la seconde ; sans
-préjudice des dommages et intérêts des parties, lesquels seront payés avant l'amende.
+chapitre, à peine d'une amende de 30 à 300 euros pour la première contravention [*sanctions civiles*], et de destitution pour
+la seconde ; sans préjudice des dommages et intérêts des parties, lesquels seront payés avant l'amende.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 _Nouveaux textes_:
 
@@ -67313,32 +67311,30 @@ _Cité par_:
 
   - Code de l'industrie cinématographique - art. 37 (M)
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-_Modifié par_:
-
-  - Loi n°46-2154 1946-10-07 art. 38
-  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
-
 
 ###### Article 2203
 
 Les mentions de dépôts sont faites sur le registre dont la tenue est prescrite par l'article 2200, de suite, sans aucun blanc
-ni interligne, à peine, contre le conservateur, de 400 F à 4.000 F d'amende, et des dommages et intérêts des parties,
-payables aussi par préférence à l'amende.
+ni interligne, à peine, contre le conservateur, de 60 à 600 euros d'amende, et des dommages et intérêts des parties, payables
+aussi par préférence à l'amende (sanctions civiles).
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
 _Modifié par_:
 
-  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
-  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 _Cite_:
 
@@ -67347,14 +67343,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code civil - art. 2456 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 ###### Article 2203-1
