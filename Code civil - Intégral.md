@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1939-06-19
+Version Consolidée au 1941-06-15
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -219,10 +219,10 @@ Version Consolidée au 1939-06-19
         - [Section 3 : Des devis et des marchés. (art. 1787 à 1799)](#216)
       - [Chapitre IV : Du bail à cheptel (art. 1800 à 1831)](#217)
         - [Section 1 : Dispositions générales. (art. 1800 à 1803)](#218)
-        - [Section 2 : Du cheptel simple. (art. 1804 à 1816)](#219)
+        - [Section 2 : Du cheptel simple. (art. 1804 à 1817)](#219)
         - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#220)
-        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1823 à 1830)](#221)
-          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1823 à 1824)](#222)
+        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#221)
+          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#222)
           - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1828 à 1830)](#223)
         - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#224)
     - [Titre X : Du prêt (art. 1874 à 1914)](#225)
@@ -24191,6 +24191,29 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
+###### Article 1817
+
+A la fin du bail, ou lors de sa résolution, le bailleur prélève des animaux de chaque espèce, de manière à obtenir un même
+fonds de bétail que celui qu'il a remis, notamment quant au nombre, à la race, à l'âge, au poids et à la qualité des bêtes :
+l'excédent se partage.
+
+S'il n'existe pas assez d'animaux pour reconstituer le fonds de bétail tel qu'il est ci-dessus défini, les parties se font
+raison de la perte sur la base de la valeur des animaux au jour où le contrat prend fin.
+
+Toute convention aux termes de laquelle le preneur, à la fin du bail ou lors de sa résolution, doit laisser un fonds de
+bétail d'une valeur égale au prix de l'estimation de celui qu'il aura reçu, est nulle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 #### Section 3 : Du cheptel à moitié.<a id=220></a>
 
 ###### Article 1818
@@ -24248,6 +24271,38 @@ _Créé par_:
 
 ##### Paragraphe 1 : Du cheptel donné au fermier.<a id=222></a>
 
+###### Article 1821
+
+Ce cheptel (appelé aussi cheptel de fer) est celui par lequel le propriétaire d'une exploitation rurale la donne à ferme à
+charge qu'à l'expiration du bail, le fermier laissera un même fonds de bétail que celui qu'il a reçu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1822
+
+L'état numératif, descriptif et estimatif des animaux remis, figurant au bail, n'en transporte pas la propriété au preneur ;
+il n'a d'autre objet que de servir de base au règlement à intervenir au moment où le contrat prend fin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 ###### Article 1823
 
 Tous les profits appartiennent au fermier pendant la durée de son bail, s'il n'y a convention contraire.
@@ -24267,6 +24322,30 @@ _Créé par_:
 
 Dans les cheptels donnés au fermier, le fumier n'est point dans les profits personnels des preneurs, mais appartient à la
 métairie, à l'exploitation de laquelle il doit être uniquement employé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1826
+
+A la fin du bail ou lors de sa résolution, le preneur doit laisser des animaux de chaque espèce formant un même fonds de
+bétail que celui qu'il a reçu, notamment quant au nombre, à la race, à l'âge, au poids et à la qualité des bêtes.
+
+S'il y a un excédent, il lui appartient.
+
+S'il y a un déficit, le règlement entre les parties est fait sur la base de la valeur des animaux au jour où le contrat prend
+fin.
+
+Toute convention aux termes de laquelle le preneur, à la fin du bail ou lors de sa résolution, doit laisser un fonds de
+bétail d'une valeur égale au prix de l'estimation de celui qu'il a reçu est nulle.
 
 **Liens relatifs à cet article**
 
