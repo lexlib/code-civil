@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1967-09-29
+Version Consolidée au 1967-12-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -114,7 +114,7 @@ Version Consolidée au 1967-09-29
         - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#111)
         - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#112)
         - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#113)
-    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1095)](#114)
+    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1099-1)](#114)
       - [Chapitre Ier : Dispositions générales. (art. 893 à 900)](#115)
       - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#116)
       - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 917 à 928)](#117)
@@ -134,7 +134,7 @@ Version Consolidée au 1967-09-29
         - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#131)
       - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#132)
       - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#133)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#134)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1099-1)](#134)
     - [Titre II : Des donations entre vifs et des testaments (art. 910 à 1100)](#135)
       - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 910)](#136)
       - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#137)
@@ -18705,6 +18705,30 @@ consentement, il pourra donner tout ce que la loi permet à l'époux majeur de d
 _Créé par_:
 
   - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1099-1
+
+Quand un époux acquiert un bien avec des deniers qui lui ont été donnés par l'autre à cette fin, la donation n'est que des
+deniers et non du bien auquel ils sont employés.
+
+En ce cas, les droits du donateur ou de ses héritiers n'ont pour objet qu'une somme d'argent suivant la valeur actuelle du
+bien. Si le bien a été aliéné, on considère la valeur qu'il avait au jour de l'aliénation, et si un nouveau bien a été
+subrogé au bien aliéné, la valeur de ce nouveau bien.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°67-1179 du 28 décembre 1967 - art. 1 () JORF 29 décembre 1967
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
+
+_Cité par_:
+
+  - Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
 
 
 ## Titre II : Des donations entre vifs et des testaments<a id=135></a>
