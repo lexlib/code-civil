@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1941-10-09
+Version Consolidée au 1942-07-15
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -23503,6 +23503,41 @@ _Cité par_:
   - Code civil - art. 1775 (V)
   - Code rural - art. L411-10 (Ab)
   - Code rural - art. L411-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1775
+
+Le bail des héritages ruraux quoique fait sans écrit, ne cesse à l'expiration du terme fixé par l'article précédent, que par
+l'effet d'un congé donné par écrit par l'une des parties à l'autre, six mois au moins avant ce terme.
+
+A défaut d'un congé donné dans le délai ci-dessus spécifié, il s'opère un nouveau bail dont l'effet est réglé par l'article
+1774. 
+
+Il en est de même si, à l'expiration des baux écrits, le preneur reste et est laissé en possession.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+  - Code rural - art. L411-52 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1774 (V)
+
+_Cite_:
+
+  - Code civil - art. 1774 (V)
 
 _Codifié par_:
 
