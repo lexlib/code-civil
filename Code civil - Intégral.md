@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1929-07-11
+Version Consolidée au 1930-07-30
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -19332,6 +19332,36 @@ _Créé par_:
 La vente faite à l'essai est toujours présumée faite sous une condition suspensive.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-06
+
+_Créé par_:
+
+  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1589
+
+La promesse de vente vaut vente, lorsqu'il y a consentement réciproque des deux parties sur la chose et sur le prix.
+
+Si cette promesse s'applique à des terrains déjà lotis ou à lotir, son acceptation et la convention qui en résultera
+s'établiront par le paiement d'un acompte sur le prix, quel que soit le nom donné à cet acompte, et par la prise de
+possession du terrain.
+
+La date de la convention, même régularisée ultérieurement, sera celle du versement du premier acompte.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 36 (V)
+  - Code rural - art. L412-8 (V)
+  - Code rural - art. R461-11 (M)
+  - Code rural - art. R461-15 (V)
+  - Code rural et de la pêche maritime - art. R462-12 (Ab)
 
 _Codifié par_:
 
