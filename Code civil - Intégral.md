@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1977-07-01
+Version Consolidée au 1977-12-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -157,7 +157,7 @@ Version Consolidée au 1977-07-01
     - [Dispositions générales (art. 711 à 717)](#154)
     - [Titre Ier : Des successions (art. 718 à 815-18)](#155)
       - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 724)](#156)
-      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 727 à 730)](#157)
+      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 725 à 730)](#157)
       - [Chapitre III : Des divers ordres de succession. (art. 731 à 767)](#158)
         - [Section 1 : Dispositions générales. (art. 731 à 738)](#159)
         - [Section 2 : De la représentation. (art. 739 à 744)](#160)
@@ -23504,6 +23504,40 @@ _Créé par_:
 
 
 ### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=157></a>
+
+###### Article 725
+
+Pour succéder, il faut nécessairement exister à l'instant de l'ouverture de la succession.
+
+Ainsi, sont incapables de succéder :
+
+1° Celui qui n'est pas encore conçu ;
+
+2° L'enfant qui n'est pas né viable ;
+
+3° Celui qui est mort civilement.
+
+Peut succéder celui dont l'absence est présumée selon l'article 112.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 112 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+_Modifié par_:
+
+  - Loi n°77-1447 du 28 décembre 1977 - art. 3 () JORF 29 décembre 1977
+  - Loi n°77-1447 du 28 décembre 1977 - art. 6 (V) JORF 29 décembre 1977
+
 
 ###### Article 727
 
