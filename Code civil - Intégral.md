@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1989-12-20
+Version Consolidée au 1990-01-02
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -56704,6 +56704,10 @@ Les rémunérations des gens de service pour l'année échue et l'année courant
 Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
 famille et à la natalité françaises, pour l'année échue et l'année courante :
 
+La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
+développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
+social.
+
 Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
 d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
 
@@ -56739,6 +56743,28 @@ l'égard de leurs adhérents, pour les cotisations que ceux-ci se sont engagés 
 familiales et de la péréquation des charges résultant du versement desdites prestations.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°1939-07-29 art. 63
+  - Loi n°89-1008 1989-12-31 art. 14
+  - Code du travail - art. L122-14-4 (M)
+  - Code du travail - art. L122-14-5 (Ab)
+  - Code du travail - art. L122-3-4 (M)
+  - Code du travail - art. L122-3-8 (M)
+  - Code du travail - art. L122-32-6 (M)
+  - Code du travail - art. L122-32-7 (AbD)
+  - Code du travail - art. L122-32-9 (AbD)
+  - Code du travail - art. L122-8 (M)
+  - Code du travail - art. L122-9 (Ab)
+  - Code du travail - art. L124-4-4 (M)
+  - Code du travail - art. L143-10 (M)
+  - Code du travail - art. L143-11 (M)
+  - Code du travail - art. L321-6 (T)
+  - Code du travail - art. L742-6 (V)
+  - Code du travail - art. L751-15 (AbD)
+  - Code du travail - art. L761-5 (AbD)
+  - Code du travail 74, L122-3-8, L122-8, L122-9, L122-14-4, L122-14-5, L122-32-7, L122-32-9, L122-3-4, L124-4-4, L122-32-6, L143-10, L143-11, L742-6, L751-15, L761-5, L761- L980-11-1, L321-6
 
 _Cité par_:
 
@@ -56800,36 +56826,18 @@ _Cité par_:
   - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
   - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (M)
 
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
 _Modifié par_:
 
-  - Loi n°89-488 du 10 juillet 1989 - art. 6 () JORF 14 Juillet 1989
+  - Loi n°89-1008 1989-12-31 art. 14 JORF 2 Janvier 1990
 
 _Nouveaux textes_:
 
   - Code civil - art. 2331 (M)
   - Code civil - art. 2331 (V)
-
-_Cite_:
-
-  - Code du travail - art. L122-14 (Ab)
-  - Code du travail - art. L122-3 (T)
-  - Code du travail - art. L122-32 (M)
-  - Code du travail - art. L122-8 (M)
-  - Code du travail - art. L122-9 (Ab)
-  - Code du travail - art. L124-4 (M)
-  - Code du travail - art. L143-10 (M)
-  - Code du travail - art. L143-11 (M)
-  - Code du travail - art. L742-6 (V)
-  - Code du travail - art. L751-15 (AbD)
-  - Code du travail - art. L761-5 (AbD)
-  - Code du travail - art. L761-7 (AbD)
-  - Code du travail - art. L980-11-1 (M)
-  - Code du travail 74, L122-3, L122-8, L122-9, L122-14, L122-32, L124-4, L143-10, L143-11, L742-6, L751-15, L761-5, L761-7, L980-11-1
-  - Décret n°1939-07-29 art. 63
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ##### Paragraphe II : Des privilèges sur certains meubles.<a id=415></a>
@@ -57077,6 +57085,10 @@ Les rémunérations des gens de service pour l'année échue et l'année courant
 Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
 famille et à la natalité françaises, pour l'année échue et l'année courante ;
 
+La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
+développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
+social.
+
 Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
 d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
 
@@ -57131,31 +57143,37 @@ _Cité par_:
   - Code rural - art. L321-21 (M)
   - Code rural - art. L321-21-1 (M)
 
-_Modifié par_:
-
-  - Loi n°89-488 du 10 juillet 1989 - art. 6 () JORF 14 Juillet 1989
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2375 (M)
-  - Code civil - art. 2375 (V)
-
 _Cite_:
 
-  - Code du travail - art. L122-14 (Ab)
-  - Code du travail - art. L122-3 (T)
-  - Code du travail - art. L122-32 (M)
+  - Loi n°89-1008 1989-12-31 art. 14
+  - Code du travail - art. L122-14-4 (M)
+  - Code du travail - art. L122-14-5 (Ab)
+  - Code du travail - art. L122-3-4 (M)
+  - Code du travail - art. L122-3-8 (M)
+  - Code du travail - art. L122-32-6 (M)
+  - Code du travail - art. L122-32-7 (AbD)
+  - Code du travail - art. L122-32-9 (AbD)
   - Code du travail - art. L122-8 (M)
   - Code du travail - art. L122-9 (Ab)
-  - Code du travail - art. L124-4 (M)
+  - Code du travail - art. L124-4-4 (M)
   - Code du travail - art. L143-10 (M)
   - Code du travail - art. L143-11 (M)
+  - Code du travail - art. L321-6 (T)
   - Code du travail - art. L742-6 (V)
   - Code du travail - art. L751-15 (AbD)
   - Code du travail - art. L761-5 (AbD)
   - Code du travail - art. L761-7 (AbD)
   - Code du travail - art. L980-11-1 (M)
   - Décret n°1939-07-29 art. 63
+
+_Modifié par_:
+
+  - Loi n°89-1008 1989-12-31 art. 14 JORF 2 Janvier 1990
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2375 (M)
+  - Code civil - art. 2375 (V)
 
 _Codifié par_:
 
