@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1864-03-29
+Version Consolidée au 1867-07-23
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -271,7 +271,7 @@ Version Consolidée au 1864-03-29
       - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#268)
       - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#269)
     - [Titre XV : Des transactions (art. 2044 à 2058)](#270)
-    - [Titre XVI : Du compromis (art. 2062 à 2070)](#271)
+    - [Titre XVI : Du compromis (art. 2062 à 2068)](#271)
     - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#272)
       - [Chapitre I : Du gage. (art. 2073 à 2084)](#273)
       - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#274)
@@ -26204,36 +26204,6 @@ _Créé par_:
 
 
 ###### Article 2068
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-
-###### Article 2069
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-
-###### Article 2070
 
 (article abrogé).
 
