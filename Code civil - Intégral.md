@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-12
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -12196,21 +12196,10 @@ Dans le cadre de la fixation d'une prestation compensatoire, par le juge ou par 
 révision, les parties fournissent au juge une déclaration certifiant sur l'honneur l'exactitude de leurs ressources, revenus,
 patrimoine et conditions de vie.
 
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+Dans la détermination des besoins et des ressources, le juge ne prend pas en considération les sommes versées au titre de la
+réparation des accidents du travail et les sommes versées au titre du droit à compensation d'un handicap.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 14 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 _Anciens textes_:
 
@@ -12225,6 +12214,10 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°2005-102 du 11 février 2005 - art. 15 () JORF 12 février 2005
 
 
 ###### Article 274
