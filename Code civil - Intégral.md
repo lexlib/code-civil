@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-29
+Version Consolidée au 1804-03-30
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -269,43 +269,44 @@ Version Consolidée au 1804-03-29
         - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#266)
       - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#267)
       - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#268)
-    - [Titre XVI : Du compromis (art. 2062 à 2070)](#269)
-    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#270)
-      - [Chapitre I : Du gage. (art. 2073 à 2084)](#271)
-      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#272)
-    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2195)](#273)
-      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#274)
-      - [Chapitre II : Des privilèges. (art. 2095 à 2112)](#275)
-        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#276)
-        - [Section 4 : Comment se conservent les privilèges. (art. 2110 à 2112)](#277)
-      - [Chapitre III : Des hypothèques. (art. 2114 à 2132)](#278)
-        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#279)
-        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2132)](#280)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2153)](#281)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2160)](#282)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2160)](#283)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2167 à 2179)](#284)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2184 à 2191)](#285)
-      - [Chapitre IX : Du mode de purger les hypothèques quand il n'existe pas d'inscription sur les biens des maris et des tuteurs. (art. 2193 à 2195)](#286)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#287)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#288)
-        - [Section 5 : De la vente. (art. 2205)](#289)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#290)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#291)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#292)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#293)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#294)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#295)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#296)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#297)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#298)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#299)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#300)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#301)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#302)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#303)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#304)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#305)
+    - [Titre XV : Des transactions (art. 2044 à 2058)](#269)
+    - [Titre XVI : Du compromis (art. 2062 à 2070)](#270)
+    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#271)
+      - [Chapitre I : Du gage. (art. 2073 à 2084)](#272)
+      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#273)
+    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2195)](#274)
+      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#275)
+      - [Chapitre II : Des privilèges. (art. 2095 à 2112)](#276)
+        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#277)
+        - [Section 4 : Comment se conservent les privilèges. (art. 2110 à 2112)](#278)
+      - [Chapitre III : Des hypothèques. (art. 2114 à 2132)](#279)
+        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#280)
+        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2132)](#281)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2153)](#282)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2160)](#283)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2160)](#284)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2167 à 2179)](#285)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2184 à 2191)](#286)
+      - [Chapitre IX : Du mode de purger les hypothèques quand il n'existe pas d'inscription sur les biens des maris et des tuteurs. (art. 2193 à 2195)](#287)
+    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#288)
+      - [Chapitre Ier : De la saisie. (art. 2205)](#289)
+        - [Section 5 : De la vente. (art. 2205)](#290)
+          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#291)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#292)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#293)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#294)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#295)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#296)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#297)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#298)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#299)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#300)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#301)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#302)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#303)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#304)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#305)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#306)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -25505,7 +25506,373 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-## Titre XVI : Du compromis<a id=269></a>
+## Titre XV : Des transactions<a id=269></a>
+
+###### Article 2044
+
+La transaction est un contrat par lequel les parties terminent une contestation née, ou préviennent une contestation à
+naître.
+
+Ce contrat doit être rédigé par écrit.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°46-2769 du 27 novembre 1946 - art. 15 (V)
+  - Décret n°69-535 du 21 mai 1969 - art. 12 (Ab)
+  - Décret n°72-355 du 4 mai 1972 - art. 14-1 (V)
+  - Décret n°78-262 du 8 mars 1978 - art. 12 (Ab)
+  - Loi n°82-610 du 15 juillet 1982 - art. 14 (V)
+  - Loi n°84-52 du 26 janvier 1984 - art. 20 (Ab)
+  - Loi n°84-52 du 26 janvier 1984 - art. 7 (Ab)
+  - Décret n°2008-1551 du 31 décembre 2008 (V)
+  - Loi n°2010-2 du 5 janvier 2010 - art. 6 (V)
+  - Arrêté du 17 décembre 2010 (V)
+  - Arrêté du 21 novembre 2013 - art. 17 (V)
+  - Arrêté du 20 décembre 2013 - art. 17 (V)
+  - Arrêté du 26 décembre 2013 - art. 17 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 92 (V)
+  - Décret n°2014-382 du 28 mars 2014 - art. 4 (V)
+  - Décret n°2014-444 du 29 avril 2014 (V)
+  - Décret n°2014-444 du 29 avril 2014 - art. 2 (V)
+  - Arrêté du 4 novembre 2014 - art. 1 (V)
+  - Décret n°2015-156 du 11 février 2015 - art. (V)
+  - Décret n°2016-154 du 15 février 2016 - art. 1
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Décret n°2017-427 du 29 mars 2017 - art. 21 (V)
+  - Décret n°2017-1012 du 10 mai 2017 - art. 2 (VD)
+  - Décret n°2017-1170 du 17 juillet 2017 - art. 10
+  - Décret n°2018-174 du 9 mars 2018 - art. 13
+  - Code de commerce - art. L464-2 (V)
+  - Code de commerce - art. R711-74 (V)
+  - Code de commerce - art. R821-2 (V)
+  - Code de commerce. - art. R821-14-2 (M)
+  - Code de l'action sociale et des familles - art. L14-10-3 (M)
+  - Code de l'aviation civile - art. R252-12-1 (Ab)
+  - Code de l'environnement - art. R322-26 (V)
+  - Code de l'éducation - art. D123-9 (V)
+  - Code de l'éducation - art. D762-2 (V)
+  - Code de l'éducation - art. L123-6 (V)
+  - Code de l'éducation - art. L711-1 (V)
+  - Code de l'énergie - art. R122-4 (V)
+  - Code de la propriété intellectuelle - art. R331-9 (V)
+  - Code de la recherche - art. L311-3 (V)
+  - Code de la santé publique - art. L1142-14 (V)
+  - Code de la santé publique - art. L1142-15 (V)
+  - Code de la santé publique - art. L1142-17 (V)
+  - Code de la santé publique - art. L3110-4 (T)
+  - Code de la santé publique - art. L3111-9 (V)
+  - Code de la santé publique - art. L3122-3 (V)
+  - Code de la santé publique - art. L3131-4 (V)
+  - Code de la santé publique - art. L3135-3 (V)
+  - Code de la sécurité sociale. - art. L221-3-1 (V)
+  - Code de la sécurité sociale. - art. R161-87 (V)
+  - Code de la sécurité sociale. - art. R243-45-1 (V)
+  - Code de la sécurité sociale. - art. R612-6 (VD)
+  - Code des ports maritimes - art. R*113-8 (Ab)
+  - Code des relations entre le public et l'adminis... - art. L423-1 (V)
+  - Code des transports - art. R4322-30 (V)
+  - Code des transports - art. R5312-32 (V)
+  - Code des transports - art. R5313-38 (V)
+  - Code du sport. - art. R232-16 (V)
+  - Code monétaire et financier - art. R612-11 (V)
+  - Code monétaire et financier - art. R612-19 (V)
+  - Code monétaire et financier - art. R621-11 (V)
+  - Code rural - art. D313-25 (V)
+  - Code rural - art. R621-12 (V)
+  - Code rural - art. R622-8 (Ab)
+  - Code rural et de la pêche maritime - art. R313-27 (T)
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2045
+
+Pour transiger, il faut avoir la capacité de disposer des objets compris dans la transaction. 
+
+Le tuteur ne peut transiger pour le mineur ou le majeur en tutelle que conformément à l'article 467 au titre " De la
+minorité, de la tutelle et de l'émancipation " ; et il ne peut transiger avec le mineur devenu majeur, sur le compte de
+tutelle, que conformément à l'article 472 au même titre. 
+
+Les communes et établissements publics ne peuvent transiger qu'avec l'autorisation expresse du roi (du Premier ministre).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2004-803 du 9 août 2004 - art. 31 (V)
+  - Décret  n°2007-378 du 21 mars 2007 - art. ANNEXE (Ab)
+  - Décret  n°2007-382 du 21 mars 2007 - art. ANNEXE (VT)
+  - Décret n°2007-1852 du 26 décembre 2007 (V)
+  - Décret n°2008-1561 du 31 décembre 2008 (Ab)
+  - Décret n°2009-33 du 9 janvier 2009 (VT)
+  - Décret n°2009-1199 du 8 octobre 2009 (V)
+  - Décret n°2015-281 du 11 mars 2015 - art. (V)
+
+_Cite_:
+
+  - Code civil - art. 467 (VT)
+  - Code civil - art. 472 (VT)
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2046
+
+On peut transiger sur l'intérêt civil qui résulte d'un délit.
+
+La transaction n'empêche pas la poursuite du ministère public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2047
+
+On peut ajouter à une transaction la stipulation d'une peine contre celui qui manquera de l'exécuter.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2048
+
+Les transactions se renferment dans leur objet : la renonciation qui y est faite à tous droits, actions et prétentions, ne
+s'entend que de ce qui est relatif au différend qui y a donné lieu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2049
+
+Les transactions ne règlent que les différends qui s'y trouvent compris, soit que les parties aient manifesté leur intention
+par des expressions spéciales ou générales, soit que l'on reconnaisse cette intention par une suite nécessaire de ce qui est
+exprimé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2050
+
+Si celui qui avait transigé sur un droit qu'il avait de son chef acquiert ensuite un droit semblable du chef d'une autre
+personne, il n'est point, quant au droit nouvellement acquis, lié par la transaction antérieure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2051
+
+La transaction faite par l'un des intéressés ne lie point les autres intéressés et ne peut être opposée par eux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2052
+
+Les transactions ont, entre les parties, l'autorité de la chose jugée en dernier ressort.
+
+Elles ne peuvent être attaquées pour cause d'erreur de droit, ni pour cause de lésion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2053
+
+Néanmoins, une transaction peut être rescindée lorsqu'il y a erreur dans la personne ou sur l'objet de la contestation.
+
+Elle peut l'être dans tous les cas où il y a dol ou violence.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2054
+
+Il y a également lieu à l'action en rescision contre une transaction lorsqu'elle a été faite en exécution d'un titre nul, à
+moins que les parties n'aient expressément traité sur la nullité.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2055
+
+La transaction faite sur pièces qui depuis ont été reconnues fausses est entièrement nulle.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2056
+
+La transaction sur un procès terminé par un jugement passé en force de chose jugée, dont les parties ou l'une d'elles
+n'avaient point connaissance, est nulle.
+
+Si le jugement ignoré des parties était susceptible d'appel, la transaction sera valable.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2057
+
+Lorsque les parties ont transigé généralement sur toutes les affaires qu'elles pouvaient avoir ensemble, les titres qui leur
+étaient alors inconnus, et qui auraient été postérieurement découverts, ne sont point une cause de rescision, à moins qu'ils
+n'aient été retenus par le fait de l'une des parties.
+
+Mais la transaction serait nulle si elle n'avait qu'un objet sur lequel il serait constaté, par des titres nouvellement
+découverts, que l'une des parties n'avait aucun droit.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2058
+
+L'erreur de calcul dans une transaction doit être réparée.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+_Codifié par_:
+
+  - Loi n°1804-03-20
+
+_Créé par_:
+
+  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+## Titre XVI : Du compromis<a id=270></a>
 
 ###### Article 2062
 
@@ -25672,7 +26039,7 @@ _Codifié par_:
   - Loi n°72-626 1972-07-05
 
 
-## Titre XVII : Du nantissement.<a id=270></a>
+## Titre XVII : Du nantissement.<a id=271></a>
 
 ###### Article 2071
 
@@ -25725,7 +26092,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre I : Du gage.<a id=271></a>
+### Chapitre I : Du gage.<a id=272></a>
 
 ###### Article 2073
 
@@ -26017,7 +26384,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre II : De l'antichrèse.<a id=272></a>
+### Chapitre II : De l'antichrèse.<a id=273></a>
 
 ###### Article 2085
 
@@ -26210,9 +26577,9 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-## Titre XVIII : Des privilèges et hypothèques.<a id=273></a>
+## Titre XVIII : Des privilèges et hypothèques.<a id=274></a>
 
-### Chapitre I : Dispositions générales.<a id=274></a>
+### Chapitre I : Dispositions générales.<a id=275></a>
 
 ###### Article 2092
 
@@ -26300,7 +26667,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : Des privilèges.<a id=275></a>
+### Chapitre II : Des privilèges.<a id=276></a>
 
 ###### Article 2095
 
@@ -26426,7 +26793,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 1 : Des privilèges sur les meubles.<a id=276></a>
+#### Section 1 : Des privilèges sur les meubles.<a id=277></a>
 
 ###### Article 2100
 
@@ -26451,7 +26818,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 4 : Comment se conservent les privilèges.<a id=277></a>
+#### Section 4 : Comment se conservent les privilèges.<a id=278></a>
 
 ###### Article 2110
 
@@ -26518,7 +26885,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre III : Des hypothèques.<a id=278></a>
+### Chapitre III : Des hypothèques.<a id=279></a>
 
 ###### Article 2114
 
@@ -26691,7 +27058,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 2 : Des hypothèques judiciaires.<a id=279></a>
+#### Section 2 : Des hypothèques judiciaires.<a id=280></a>
 
 ###### Article 2123
 
@@ -26747,7 +27114,7 @@ _Nouveaux textes_:
   - Code civil - art. 2412 (V)
 
 
-#### Section 3 : Des hypothèques conventionnelles.<a id=280></a>
+#### Section 3 : Des hypothèques conventionnelles.<a id=281></a>
 
 ###### Article 2124
 
@@ -26925,7 +27292,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L315-28 (Ab)
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=281></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=282></a>
 
 ###### Article 2153
 
@@ -26946,9 +27313,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=282></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=283></a>
 
-#### Section 1 : Dispositions générales.<a id=283></a>
+#### Section 1 : Dispositions générales.<a id=284></a>
 
 ###### Article 2157
 
@@ -27051,7 +27418,7 @@ _Nouveaux textes_:
   - Code civil - art. 2443 (V)
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=284></a>
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=285></a>
 
 ###### Article 2167
 
@@ -27479,7 +27846,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=285></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=286></a>
 
 ###### Article 2184
 
@@ -27704,7 +28071,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IX : Du mode de purger les hypothèques quand il n'existe pas d'inscription sur les biens des maris et des tuteurs.<a id=286></a>
+### Chapitre IX : Du mode de purger les hypothèques quand il n'existe pas d'inscription sur les biens des maris et des tuteurs.<a id=287></a>
 
 ###### Article 2193
 
@@ -27771,13 +28138,13 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=287></a>
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=288></a>
 
-### Chapitre Ier : De la saisie.<a id=288></a>
+### Chapitre Ier : De la saisie.<a id=289></a>
 
-#### Section 5 : De la vente.<a id=289></a>
+#### Section 5 : De la vente.<a id=290></a>
 
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=290></a>
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=291></a>
 
 ###### Article 2205
 
@@ -27806,9 +28173,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=291></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=292></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=292></a>
+### Chapitre Ier : De l'expropriation forcée<a id=293></a>
 
 ###### Article 2204
 
@@ -28127,7 +28494,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=293></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=294></a>
 
 ###### Article 2218
 
@@ -28153,9 +28520,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=294></a>
+## Titre XX : De la prescription et de la possession.<a id=295></a>
 
-### Chapitre Ier : Dispositions générales.<a id=295></a>
+### Chapitre Ier : Dispositions générales.<a id=296></a>
 
 ###### Article 2219
 
@@ -28342,7 +28709,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=296></a>
+### Chapitre II : De la possession.<a id=297></a>
 
 ###### Article 2228
 
@@ -28565,7 +28932,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=297></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=298></a>
 
 ###### Article 2236
 
@@ -28736,9 +29103,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=298></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=299></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=299></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=300></a>
 
 ###### Article 2242
 
@@ -28910,7 +29277,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=300></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=301></a>
 
 ###### Article 2251
 
@@ -29068,9 +29435,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=301></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=302></a>
 
-#### Section 1 : Dispositions générales.<a id=302></a>
+#### Section 1 : Dispositions générales.<a id=303></a>
 
 ###### Article 2260
 
@@ -29107,7 +29474,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. L331-7 (VD)
 
 
-#### Section 2 : De la prescription trentenaire.<a id=303></a>
+#### Section 2 : De la prescription trentenaire.<a id=304></a>
 
 ###### Article 2262
 
@@ -29170,7 +29537,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=304></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=305></a>
 
 ###### Article 2265
 
@@ -29288,7 +29655,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=305></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=306></a>
 
 ###### Article 2273
 
