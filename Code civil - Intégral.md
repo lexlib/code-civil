@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-09
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 9-1 à 509)](#2)
@@ -8,450 +8,451 @@ Version Consolidée au 1993-01-05
     - [Titre II : Des actes de l'état civil (art. 34 à 101)](#5)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#6)
       - [Chapitre II : Des actes de naissance. (art. 55 à 62)](#7)
-        - [Section 1 : Des déclarations de naissance. (art. 55 à 57)](#8)
-        - [Section 3 : De l'acte de reconnaissance. (art. 62)](#9)
-      - [Chapitre III : Des actes de mariage. (art. 63 à 76)](#10)
-      - [Chapitre IV : Des actes de décès. (art. 78 à 92)](#11)
-      - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 93 à 97)](#12)
-      - [Chapitre VI : De l'état civil des personnes nées à l'étranger qui acquièrent ou recouvrent la nationalité française. (art. 98 à 98-4)](#13)
-      - [Chapitre VII : De la rectification des actes d'état civil. (art. 99 à 101)](#14)
-    - [Titre III : Du domicile (art. 102 à 111)](#15)
-    - [Titre IV : Des absents (art. 112 à 132)](#16)
-      - [Chapitre Ier : De la présomption d'absence (art. 112 à 121)](#17)
-      - [Chapitre II : De la déclaration d'absence (art. 122 à 132)](#18)
-    - [Titre V : Du mariage (art. 144 à 228)](#19)
-      - [Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage (art. 144 à 164)](#20)
-      - [Chapitre II : Des formalités relatives à la célébration du mariage (art. 165 à 171)](#21)
-      - [Chapitre III : Des oppositions au mariage (art. 172 à 179)](#22)
-      - [Chapitre IV : Des demandes en nullité de mariage (art. 180 à 202)](#23)
-      - [Chapitre V : Des obligations qui naissent du mariage (art. 203 à 211)](#24)
-      - [Chapitre VI : Des devoirs et des droits respectifs des époux (art. 212 à 226)](#25)
-      - [Chapitre VII : De la dissolution du mariage (art. 227)](#26)
-      - [Chapitre VIII : Des seconds mariages. (art. 228)](#27)
-    - [Titre VI : Du divorce (art. 229 à 310)](#28)
-      - [Chapitre Ier : Des cas de divorce (art. 229 à 246)](#29)
-        - [Section 1 : Du divorce par consentement mutuel (art. 230 à 236)](#30)
-          - [Paragraphe 1 : Du divorce sur demande conjointe des époux. (art. 231)](#31)
-          - [Paragraphe 2 : Du divorce demandé par un époux et accepté par l'autre. (art. 233 à 236)](#32)
-        - [Section 2 : Du divorce pour rupture de la vie commune. (art. 237 à 241)](#33)
-        - [Section 3 : Du divorce pour faute. (art. 242 à 245)](#34)
-        - [Section 3 : Du divorce pour faute. (art. 246)](#35)
-      - [Chapitre II : De la procédure du divorce (art. 247 à 259-3)](#36)
-        - [Section 1 : Dispositions générales. (art. 247 à 248-1)](#37)
-        - [Section 1 : Dispositions générales (art. 248 à 250)](#38)
-        - [Section 2 : De la conciliation. (art. 251 à 252-3)](#39)
-        - [Section 2 : De la conciliation. (art. 252-2)](#40)
-        - [Section 3 : Des mesures provisoires. (art. 253 à 258)](#41)
-        - [Section 3 : Des mesures provisoires. (art. 256)](#42)
-        - [Section 4 : Des preuves. (art. 259 à 259-3)](#43)
-      - [Chapitre III : Des conséquences du divorce (art. 260 à 295)](#44)
-        - [Section 1 : De la date à laquelle se produisent les effets du divorce (art. 260 à 262-2)](#45)
-        - [Section 2 : Des conséquences du divorce pour les époux (art. 263 à 270)](#46)
-          - [Paragraphe 1 : Dispositions générales. (art. 263 à 265)](#47)
-          - [Paragraphe 3 : Des prestations compensatoires. (art. 270)](#48)
-        - [Section 2 : Des conséquences du divorce pour les époux. (art. 266 à 285-1)](#49)
-          - [Paragraphe 2 : Des suites propres aux différents cas de divorce. (art. 266 à 269)](#50)
-          - [Paragraphe 3 : Des prestations compensatoires. (art. 271 à 280-1)](#51)
-          - [Paragraphe 4 : Du devoir de secours après le divorce. (art. 281 à 285)](#52)
-          - [Paragraphe 5 : Du logement. (art. 285-1)](#53)
-        - [Section 3 : Des conséquences du divorce pour les enfants. (art. 286 à 295)](#54)
-      - [Chapitre IV : De la séparation de corps (art. 296 à 308)](#55)
-        - [Section 1 : Des cas et de la procédure de la séparation de corps (art. 296 à 298)](#56)
-        - [Section 2 : Des conséquences de la séparation de corps (art. 299 à 304)](#57)
-        - [Section 3 : De la fin de la séparation de corps (art. 305 à 308)](#58)
-      - [Chapitre V : Du conflit des lois relatives au divorce et à la séparation de corps (art. 310)](#59)
-    - [Titre VII : De la filiation (art. 311 à 342-8)](#60)
-      - [Chapitre Ier : Dispositions générales (art. 311 à 311-2)](#61)
-        - [Section 1 : Des preuves et présomptions (art. 311 à 311-2)](#62)
-      - [Chapitre Ier : Dispositions communes à la filiation légitime et à la filiation naturelle (art. 311-3 à 311-18)](#63)
-        - [Section 1 : Des présomptions relatives à la filiation. (art. 311-3)](#64)
-        - [Section 2 : Des actions relatives à la filiation. (art. 311-4 à 311-13)](#65)
-        - [Section 3 : Du conflit des lois relatives à l'établissement de la filiation. (art. 311-14 à 311-18)](#66)
-      - [Chapitre II : De la filiation légitime. (art. 312 à 333-6)](#67)
-        - [Section 1 : De la présomption de paternité. (art. 312 à 318-2)](#68)
-        - [Section 2 : Des preuves de la filiation légitime. (art. 319 à 328)](#69)
-        - [Section 3 : De la légitimation. (art. 329 à 333-6)](#70)
-          - [Paragraphe 1 : De la légitimation par mariage. (art. 331 à 332-1)](#71)
-          - [Paragraphe 2 : De la légitimation par autorité de justice (art. 333 à 333-6)](#72)
-      - [Chapitre III : De la filiation naturelle. (art. 334 à 342-8)](#73)
-        - [Section 1 : Des effets de la filiation naturelle et de ses modes d'établissement en général. (art. 334 à 334-10)](#74)
-        - [Section 2 : De la reconnaissance des enfants naturels (art. 335 à 339)](#75)
-        - [Section 3 : Des actions en recherche de paternité et de maternité. (art. 340 à 341)](#76)
-        - [Section 4 : De l'action à fins de subsides (art. 342 à 342-8)](#77)
-    - [Titre VIII : De la filiation adoptive (art. 343 à 370-2)](#78)
-      - [Chapitre Ier : De l'adoption plénière (art. 343 à 359)](#79)
-        - [Section 1 : Des conditions requises pour l'adoption plénière (art. 343 à 350)](#80)
-        - [Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière (art. 351 à 354)](#81)
-        - [Section 3 : Des effets de l'adoption plénière (art. 355 à 359)](#82)
-      - [Chapitre II : De l'adoption simple (art. 360 à 370-2)](#83)
-        - [Section 1 : Des conditions requises et du jugement (art. 360 à 362)](#84)
-        - [Section 2 : Des effets de l'adoption simple (art. 363 à 370-2)](#85)
-    - [Titre IX : De l'autorité parentale (art. 371 à 387)](#86)
-      - [Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant (art. 371 à 381)](#87)
-        - [Section 1 : De l'exercice de l'autorité parentale (art. 374-1 à 374-2)](#88)
-          - [Paragraphe 4 : De l'intervention des tiers (art. 374-1 à 374-2)](#89)
-        - [Section 1 : De l'exercice de l'autorité parentale. (art. 372 à 374)](#90)
-        - [Section 2 : De l'assistance éducative (art. 375 à 375-8)](#91)
-        - [Section 3 : De la délégation de l'autorité parentale (art. 376 à 377-3)](#92)
-        - [Section 4 : De la déchéance et du retrait partiel de l'autorité parentale. (art. 378 à 381)](#93)
-      - [Chapitre II : De l'autorité parentale relativement aux biens de l'enfant (art. 382 à 387)](#94)
-    - [Titre X : De la minorité et de l'émancipation (art. 389 à 392)](#95)
-      - [Chapitre Ier : De la minorité (art. 389 à 392)](#96)
-        - [Section 1 : De l'administration légale (art. 389 à 389-7)](#97)
-        - [Section 2 : De la tutelle (art. 390 à 392)](#98)
-          - [Sous-section 1 : Des cas d'ouverture et de fin de la tutelle (art. 390 à 392)](#99)
-    - [Titre X : De la minorité, de la tutelle et de l'émancipation. (art. 388 à 487)](#100)
-      - [Chapitre Ier : De la minorité. (art. 388)](#101)
-      - [Chapitre II : De la tutelle. (art. 393 à 475)](#102)
-        - [Section 2 : De l'organisation de la tutelle. (art. 393 à 448)](#103)
-          - [Paragraphe 1 : Du juge des tutelles. (art. 393 à 396)](#104)
-          - [Paragraphe 2 : Du tuteur. (art. 397 à 406)](#105)
-          - [Paragraphe 3 : Du conseil de famille. (art. 407 à 416)](#106)
-          - [Paragraphe 4 : Des autres organes de la tutelle. (art. 417 à 426)](#107)
-          - [Paragraphe 5 : Des charges tutélaires. (art. 427 à 448)](#108)
-        - [Section 2 : De l'organisation de la tutelle. (art. 402)](#109)
-          - [Paragraphe 2 : Du tuteur. (art. 402)](#110)
-        - [Section 3 : Du fonctionnement de la tutelle. (art. 449 à 467)](#111)
-        - [Section 4 : Des comptes de la tutelle et des responsabilités. (art. 469 à 475)](#112)
-      - [Chapitre III : De l'émancipation. (art. 476 à 487)](#113)
-    - [Titre XI : De la majorité et des majeurs protégés par la loi (art. 445 à 468)](#114)
-      - [Chapitre II : Des mesures de protection juridique des majeurs (art. 445 à 468)](#115)
-        - [Section 4 : De la curatelle et de la tutelle (art. 445 à 468)](#116)
-          - [Sous-section 3 : Des organes de protection (art. 445)](#117)
-          - [Sous-section 6 : Des actes faits dans la curatelle (art. 468)](#118)
-    - [Titre XI : De la majorité et des majeurs qui sont protégés par la loi. (art. 488 à 514)](#119)
-      - [Chapitre Ier : Dispositions générales. (art. 488 à 490-3)](#120)
-      - [Chapitre II : Des majeurs sous la sauvegarde de justice. (art. 491 à 491-6)](#121)
-      - [Chapitre III : Des majeurs en tutelle. (art. 492 à 507)](#122)
-      - [Chapitre IV : Des majeurs en curatelle. (art. 508 à 514)](#123)
-    - [Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle (art. 509)](#124)
-      - [Chapitre Ier : Des modalités de la gestion (art. 509)](#125)
-        - [Section 2 : Des actes du tuteur (art. 509)](#126)
-          - [Paragraphe 3 : Des actes que le tuteur ne peut accomplir (art. 509)](#127)
-  - [Livre II : Des biens et des différentes modifications de la propriété (art. 516 à 710)](#128)
-    - [Titre Ier : De la distinction des biens (art. 516 à 543)](#129)
-      - [Chapitre Ier : Des immeubles (art. 517 à 526)](#130)
-      - [Chapitre II : Des meubles (art. 527 à 536)](#131)
-      - [Chapitre III : Des biens dans leurs rapports avec ceux qui les possèdent (art. 537 à 543)](#132)
-    - [Titre II : De la propriété (art. 544 à 577)](#133)
-      - [Chapitre Ier : Du droit d'accession sur ce qui est produit par la chose (art. 547 à 550)](#134)
-      - [Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose (art. 551 à 577)](#135)
-        - [Section 1 : Du droit d'accession relativement aux choses immobilières (art. 552 à 564)](#136)
-        - [Section 2 : Du droit d'accession relativement aux choses mobilières (art. 565 à 577)](#137)
-    - [Titre III : De l'usufruit, de l'usage et de l'habitation (art. 578 à 636)](#138)
-      - [Chapitre Ier : De l'usufruit (art. 578 à 624)](#139)
-        - [Section 1 : Des droits de l'usufruitier (art. 582 à 599)](#140)
-        - [Section 2 : Des obligations de l'usufruitier (art. 600 à 616)](#141)
-        - [Section 3 : Comment l'usufruit prend fin (art. 617 à 624)](#142)
-      - [Chapitre II : De l'usage et de l'habitation (art. 625 à 636)](#143)
-    - [Titre IV : Des servitudes ou services fonciers (art. 637 à 710)](#144)
-      - [Chapitre Ier : Des servitudes qui dérivent de la situation des lieux (art. 640 à 648)](#145)
-      - [Chapitre II : Des servitudes établies par la loi (art. 649 à 685-1)](#146)
-        - [Section 1 : Du mur et du fossé mitoyens (art. 653 à 673)](#147)
-        - [Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions (art. 674)](#148)
-        - [Section 3 : Des vues sur la propriété de son voisin (art. 675 à 680)](#149)
-        - [Section 4 : De l'égout des toits (art. 681)](#150)
-        - [Section 5 : Du droit de passage (art. 682 à 685-1)](#151)
-      - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 686 à 710)](#152)
-        - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 686 à 689)](#153)
-        - [Section 2 : Comment s'établissent les servitudes (art. 690 à 696)](#154)
-        - [Section 3 : Des droits du propriétaire du fonds auquel la servitude est due (art. 697 à 702)](#155)
-        - [Section 4 : Comment les servitudes s'éteignent (art. 703 à 710)](#156)
-  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 2283)](#157)
-    - [Dispositions générales (art. 711 à 717)](#158)
-    - [Titre Ier : Des successions (art. 718 à 832-3)](#159)
-      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 724)](#160)
-      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 725 à 730)](#161)
-      - [Chapitre III : Des divers ordres de succession. (art. 731 à 767)](#162)
-        - [Section 1 : Dispositions générales. (art. 731 à 738)](#163)
-        - [Section 2 : De la représentation. (art. 739 à 744)](#164)
-        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#165)
-        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#166)
-        - [Section 5 : Des successions collatérales. (art. 750 à 755)](#167)
-        - [Section 6 : Des droits successoraux résultant de la filiation naturelle. (art. 756 à 764)](#168)
-        - [Section 7 : Des droits du conjoint survivant. (art. 765 à 767)](#169)
-      - [Chapitre IV : De l'option de l'héritier (art. 768 à 808)](#170)
-        - [Section 1 : Dispositions générales. (art. 768 à 781)](#171)
-        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#172)
-        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#173)
-          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#174)
-          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#175)
-        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#176)
-      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 814)](#177)
-        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#178)
-        - [Section 4 : Des successions vacantes. (art. 811 à 814)](#179)
-      - [Chapitre VI : De l'administration de la succession par un mandataire. (art. 815-5)](#180)
-        - [Section 1 : Du mandat à effet posthume. (art. 815-5)](#181)
-      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 815 à 892)](#182)
-        - [Section 1 : De l'indivision et de l'action en partage. (art. 815 à 842)](#183)
-        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 843 à 869)](#184)
-        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#185)
-        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 883 à 886)](#186)
-        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#187)
-      - [Chapitre VII : Du régime légal de l'indivision. (art. 815-8 à 815-18)](#188)
-        - [Section 1 : Des actes relatifs aux biens indivis. (art. 815-8 à 815-18)](#189)
-      - [Chapitre VIII : Du partage. (art. 832-2 à 832-3)](#190)
-        - [Section 1 : Des opérations de partage. (art. 832-2 à 832-3)](#191)
-          - [Sous-section 1 : Dispositions communes. (art. 832-2 à 832-3)](#192)
-            - [Paragraphe 3 : Des attributions préférentielles. (art. 832-2 à 832-3)](#193)
-    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1099-1)](#194)
-      - [Chapitre Ier : Dispositions générales. (art. 893 à 900-8)](#195)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#196)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 913-1 à 930)](#197)
-        - [Section 1 : De la portion de biens disponible. (art. 913-1 à 919)](#198)
-        - [Section 2 : De la réduction des donations et legs. (art. 920 à 930)](#199)
-      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#200)
-        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#201)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#202)
-      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#203)
-        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 980)](#204)
-        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 981 à 1001)](#205)
-        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#206)
-        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#207)
-        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#208)
-        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#209)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#210)
-        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#211)
-      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#212)
-      - [Chapitre VII : Des partages faits par les ascendants. (art. 1075 à 1080)](#213)
-        - [Section 1 : Des donations-partages. (art. 1076 à 1078-3)](#214)
-        - [Section 2 : Des testaments-partages. (art. 1079 à 1080)](#215)
-      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#216)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1099-1)](#217)
-    - [Titre II : Des donations entre vifs et des testaments (art. 908 à 1100)](#218)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 908 à 910)](#219)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 913 à 916)](#220)
-        - [Section 1 : De la portion de biens disponible. (art. 913 à 916)](#221)
-      - [Chapitre IV : Des donations entre vifs (art. 937 à 962)](#222)
-        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#223)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#224)
-      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1069 à 1072)](#225)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1094 à 1100)](#226)
-    - [Titre III : Des contrats ou des obligations conventionnelles en général (art. 1101 à 1369)](#227)
-      - [Chapitre Ier : Dispositions préliminaires. (art. 1101 à 1107)](#228)
-      - [Chapitre II : Des conditions essentielles pour la validité des conventions. (art. 1108 à 1133)](#229)
-        - [Section 1 : Du consentement. (art. 1109 à 1122)](#230)
-        - [Section 2 : De la capacité des parties contractantes. (art. 1123 à 1125-1)](#231)
-        - [Section 3 : De l'objet et de la matière des contrats. (art. 1126 à 1130)](#232)
-        - [Section 4 : De la cause. (art. 1131 à 1133)](#233)
-      - [Chapitre III : De l'effet des obligations. (art. 1134 à 1167)](#234)
-        - [Section 1 : Dispositions générales. (art. 1134 à 1135)](#235)
-        - [Section 2 : De l'obligation de donner. (art. 1136 à 1141)](#236)
-        - [Section 3 : De l'obligation de faire ou de ne pas faire. (art. 1142 à 1145)](#237)
-        - [Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation. (art. 1146 à 1155)](#238)
-        - [Section 5 : De l'interprétation des conventions. (art. 1156 à 1164)](#239)
-        - [Section 6 : De l'effet des conventions à l'égard des tiers. (art. 1165 à 1167)](#240)
-      - [Chapitre IV : Des diverses espèces d'obligations. (art. 1168 à 1233)](#241)
-        - [Section 1 : Des obligations conditionnelles. (art. 1168 à 1184)](#242)
-          - [Paragraphe 1 : De la condition en général, et de ses diverses espèces. (art. 1168 à 1180)](#243)
-          - [Paragraphe 2 : De la condition suspensive. (art. 1181 à 1182)](#244)
-          - [Paragraphe 3 : De la condition résolutoire. (art. 1183 à 1184)](#245)
-        - [Section 2 : Des obligations à terme. (art. 1185 à 1188)](#246)
-        - [Section 3 : Des obligations alternatives. (art. 1189 à 1196)](#247)
-        - [Section 4 : Des obligations solidaires. (art. 1197 à 1216)](#248)
-          - [Paragraphe 1 : De la solidarité entre les créanciers. (art. 1197 à 1199)](#249)
-          - [Paragraphe 2 : De la solidarité de la part des débiteurs. (art. 1200 à 1216)](#250)
-        - [Section 5 : Des obligations divisibles et indivisibles. (art. 1217 à 1225)](#251)
-          - [Paragraphe 1 : Des effets de l'obligation divisible. (art. 1220 à 1221)](#252)
-          - [Paragraphe 2 : Des effets de l'obligation indivisible. (art. 1222 à 1225)](#253)
-        - [Section 6 : Des obligations avec clauses pénales. (art. 1226 à 1233)](#254)
-      - [Chapitre V : De l'extinction des obligations. (art. 1234 à 1314)](#255)
-        - [Section 1 : Du paiement (art. 1235 à 1264)](#256)
-          - [Paragraphe 1 : Du paiement en général. (art. 1235 à 1248)](#257)
-          - [Paragraphe 2 : Du paiement avec subrogation. (art. 1249 à 1252)](#258)
-          - [Paragraphe 3 : De l'imputation des paiements. (art. 1253 à 1256)](#259)
-          - [Paragraphe 4 : Des offres de paiement, et de la consignation. (art. 1257 à 1264)](#260)
-        - [Section 2 : De la novation. (art. 1271 à 1281)](#261)
-        - [Section 3 : De la remise de la dette. (art. 1282 à 1288)](#262)
-        - [Section 4 : De la compensation. (art. 1289 à 1299)](#263)
-        - [Section 5 : De la confusion. (art. 1300 à 1301)](#264)
-        - [Section 6 : De la perte de la chose due. (art. 1302 à 1303)](#265)
-        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1304 à 1314)](#266)
-      - [Chapitre VI : De la preuve des obligations et de celle du paiement. (art. 1315 à 1369)](#267)
-        - [Section 1 : De la preuve littérale (art. 1317 à 1340)](#268)
-          - [Paragraphe 1 : Du titre authentique. (art. 1317 à 1321)](#269)
-          - [Paragraphe 2 : De l'acte sous seing privé. (art. 1322 à 1332)](#270)
-          - [Paragraphe 3 : Des tailles. (art. 1333)](#271)
-          - [Paragraphe 4 : Des copies des titres. (art. 1334 à 1336)](#272)
-          - [Paragraphe 5 : Des actes récognitifs et confirmatifs. (art. 1337 à 1340)](#273)
-        - [Section 2 : De la preuve testimoniale. (art. 1341 à 1348)](#274)
-        - [Section 3 : Des présomptions. (art. 1349 à 1353)](#275)
-          - [Paragraphe 1 : Des présomptions établies par la loi. (art. 1350 à 1352)](#276)
-          - [Paragraphe 2 : Des présomptions qui ne sont point établies par la loi. (art. 1353)](#277)
-        - [Section 4 : De l'aveu de la partie. (art. 1354 à 1356)](#278)
-        - [Section 5 : Du serment. (art. 1357 à 1369)](#279)
-          - [Paragraphe 1 : Du serment décisoire. (art. 1358 à 1365)](#280)
-          - [Paragraphe 2 : Du serment déféré d'office. (art. 1366 à 1369)](#281)
-    - [Titre IV : Des engagements qui se forment sans convention (art. 1370 à 1386)](#282)
-      - [Chapitre Ier : Des quasi-contrats. (art. 1371 à 1381)](#283)
-      - [Chapitre II : Des délits et des quasi-délits. (art. 1382 à 1386)](#284)
-    - [Titre V : Du contrat de mariage et des régimes matrimoniaux (art. 1387 à 1581)](#285)
-      - [Chapitre Ier : Dispositions générales. (art. 1387 à 1399)](#286)
-      - [Chapitre II : Du régime en communauté (art. 1400 à 1527)](#287)
-        - [Première partie : De la communauté légale (art. 1400 à 1481)](#288)
-          - [Section 1 : De ce qui compose la communauté activement et passivement (art. 1401 à 1418)](#289)
-            - [Paragraphe 1 : De l'actif de la communauté (art. 1401 à 1408)](#290)
-            - [Paragraphe 2 : Du passif de la communauté (art. 1409 à 1418)](#291)
-          - [Section 2 : De l'administration de la communauté et des biens propres. (art. 1421 à 1440)](#292)
-          - [Section 3 : De la dissolution de la communauté (art. 1441 à 1491)](#293)
-            - [Paragraphe 1 : Des causes de dissolution et de la séparation de biens. (art. 1441 à 1449)](#294)
-            - [Paragraphe 2 : De la liquidation et du partage de la communauté. (art. 1467 à 1480)](#295)
-            - [Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution. (art. 1482 à 1491)](#296)
-          - [Section III : De la dissolution de la communauté (art. 1442 à 1481)](#297)
-            - [Paragraphe I : Des causes de dissolution et de la séparation de biens. (art. 1442 à 1451)](#298)
-            - [Paragraphe II : De la liquidation et du partage de la communauté. (art. 1477 à 1481)](#299)
-        - [Deuxième partie : De la communauté conventionnelle. (art. 1497 à 1526)](#300)
-          - [Section 1 : De la communauté de meubles et acquêts. (art. 1498 à 1501)](#301)
-          - [Section 2 : De la clause d'administration conjointe. (art. 1503)](#302)
-          - [Section 3 : De la clause de prélèvement moyennant indemnité. (art. 1511 à 1514)](#303)
-          - [Section 4 : Du préciput. (art. 1515 à 1519)](#304)
-          - [Section IV : Du préciput. (art. 1518)](#305)
-          - [Section 5 : De la stipulation de parts inégales. (art. 1520 à 1525)](#306)
-          - [Section 6 : De la communauté universelle. (art. 1526)](#307)
-        - [Dispositions communes aux deux parties du chapitre II. (art. 1527)](#308)
-      - [Chapitre III : Du régime de séparation de biens. (art. 1536 à 1543)](#309)
-      - [Chapitre IV : Du régime de participation aux acquêts. (art. 1569 à 1581)](#310)
-    - [Titre VI : De la vente (art. 1582 à 1701)](#311)
-      - [Chapitre Ier : De la nature et de la forme de la vente. (art. 1582 à 1593)](#312)
-      - [Chapitre II : Qui peut acheter ou vendre. (art. 1594 à 1597)](#313)
-      - [Chapitre III : Des choses qui peuvent être vendues. (art. 1598 à 1601)](#314)
-      - [Chapitre III-1 : De la vente d'immeubles à construire. (art. 1601-1 à 1601-4)](#315)
-      - [Chapitre IV : Des obligations du vendeur (art. 1602 à 1649)](#316)
-        - [Section 1 : Dispositions générales. (art. 1602 à 1603)](#317)
-        - [Section 2 : De la délivrance. (art. 1604 à 1624)](#318)
-        - [Section 3 : De la garantie. (art. 1625 à 1649)](#319)
-          - [Paragraphe 1 : De la garantie en cas d'éviction. (art. 1626 à 1640)](#320)
-          - [Paragraphe 2 : De la garantie des défauts de la chose vendue. (art. 1641 à 1649)](#321)
-      - [Chapitre V : Des obligations de l'acheteur. (art. 1650 à 1657)](#322)
-      - [Chapitre VI : De la nullité et de la résolution de la vente. (art. 1658 à 1685)](#323)
-        - [Section 1 : De la faculté de rachat. (art. 1659 à 1673)](#324)
-        - [Section 2 : De la rescision de la vente pour cause de lésion. (art. 1674 à 1685)](#325)
-      - [Chapitre VII : De la licitation. (art. 1686 à 1688)](#326)
-      - [Chapitre VIII : Du transport des créances et autres droits incorporels. (art. 1689 à 1701)](#327)
-    - [Titre VII : De l'échange (art. 1702 à 1707)](#328)
-    - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#329)
-      - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#330)
-      - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#331)
-        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#332)
-        - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#333)
-        - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#334)
-      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1779 à 1799)](#335)
-        - [Section 1 : Du louage des domestiques et ouvriers. (art. 1780)](#336)
-        - [Section 2 : Des voituriers par terre et par eau. (art. 1782 à 1786)](#337)
-        - [Section 3 : Des devis et des marchés. (art. 1787 à 1799)](#338)
-      - [Chapitre IV : Du bail à cheptel (art. 1800 à 1831)](#339)
-        - [Section 1 : Dispositions générales. (art. 1800 à 1803)](#340)
-        - [Section 2 : Du cheptel simple. (art. 1804 à 1817)](#341)
-        - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#342)
-        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#343)
-          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#344)
-          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#345)
-        - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#346)
-    - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-1 à 1831-5)](#347)
-    - [Titre IX : De la société (art. 1832 à 1873)](#348)
-      - [Chapitre Ier : Dispositions générales. (art. 1832 à 1844-17)](#349)
-      - [Chapitre II : De la société civile (art. 1845 à 1870-1)](#350)
-        - [Section 1 : Dispositions générales. (art. 1845)](#351)
-        - [Section I : Dispositions générales. (art. 1845-1)](#352)
-        - [Section 2 : Gérance. (art. 1846 à 1851)](#353)
-        - [Section 3 : Décisions collectives. (art. 1852 à 1854)](#354)
-        - [Section 4 : Information des associés. (art. 1855 à 1856)](#355)
-        - [Section 5 : Engagement des associés à l'égard des tiers. (art. 1857 à 1860)](#356)
-        - [Section 6 : Cession des parts sociales. (art. 1861 à 1868)](#357)
-        - [Section 7 : Retrait ou décès d'un associé. (art. 1869 à 1870-1)](#358)
-      - [Chapitre III : De la société en participation. (art. 1871 à 1873)](#359)
-    - [Titre IX bis : Des conventions relatives à l'exercice des droits indivis (art. 1873-1 à 1873-18)](#360)
-      - [Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier. (art. 1873-2 à 1873-15)](#361)
-      - [Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier. (art. 1873-16 à 1873-18)](#362)
-    - [Titre X : Du prêt (art. 1874 à 1914)](#363)
-      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#364)
-        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#365)
-        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#366)
-        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#367)
-      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#368)
-        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#369)
-        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#370)
-        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#371)
-      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#372)
-    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#373)
-      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#374)
-      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1954)](#375)
-        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#376)
-        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#377)
-        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#378)
-        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#379)
-        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1954)](#380)
-      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#381)
-        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#382)
-        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#383)
-        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#384)
-    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#385)
-      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#386)
-      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#387)
-        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#388)
-        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#389)
-    - [Titre XIII : Du mandat (art. 1984 à 2010)](#390)
-      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#391)
-      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#392)
-      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#393)
-      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#394)
-    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#395)
-      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#396)
-      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#397)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#398)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#399)
-        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#400)
-        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#401)
-      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#402)
-      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#403)
-    - [Titre XV : Des transactions (art. 2044 à 2058)](#404)
-    - [Titre XVI : Du compromis (art. 2059 à 2068)](#405)
-    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#406)
-      - [Chapitre I : Du gage. (art. 2073 à 2084)](#407)
-      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#408)
-    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#409)
-      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#410)
-      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#411)
-        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#412)
-        - [Section I : Des privilèges sur les meubles (art. 2101 à 2102)](#413)
-          - [Paragraphe I : Des privilèges généraux sur les meubles. (art. 2101)](#414)
-          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#415)
-        - [Section II : Des privilèges spéciaux sur les immeubles. (art. 2103)](#416)
-        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#417)
-        - [Section III : Des privilèges généraux sur les immeubles (art. 2104)](#418)
-        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#419)
-        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#420)
-      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#421)
-        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#422)
-        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#423)
-        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#424)
-        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#425)
-        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2142)](#426)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#427)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#428)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#429)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#430)
-        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163 à 2165)](#431)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#432)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#433)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#434)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#435)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#436)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2217)](#437)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#438)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#439)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#440)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#441)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#442)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#443)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#444)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#445)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2270-1 à 2281)](#446)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#447)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#448)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270)](#449)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#450)
-      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#451)
+        - [Section 1 : Des déclarations de naissance. (art. 55 à 59)](#8)
+        - [Section 2 : Des changements de prénoms et de nom. (art. 60)](#9)
+        - [Section 3 : De l'acte de reconnaissance. (art. 62)](#10)
+      - [Chapitre III : Des actes de mariage. (art. 63 à 76)](#11)
+      - [Chapitre IV : Des actes de décès. (art. 78 à 92)](#12)
+      - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 93 à 97)](#13)
+      - [Chapitre VI : De l'état civil des personnes nées à l'étranger qui acquièrent ou recouvrent la nationalité française. (art. 98 à 98-4)](#14)
+      - [Chapitre VII : De la rectification des actes d'état civil. (art. 99 à 101)](#15)
+    - [Titre III : Du domicile (art. 102 à 111)](#16)
+    - [Titre IV : Des absents (art. 112 à 132)](#17)
+      - [Chapitre Ier : De la présomption d'absence (art. 112 à 121)](#18)
+      - [Chapitre II : De la déclaration d'absence (art. 122 à 132)](#19)
+    - [Titre V : Du mariage (art. 144 à 228)](#20)
+      - [Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage (art. 144 à 164)](#21)
+      - [Chapitre II : Des formalités relatives à la célébration du mariage (art. 165 à 171)](#22)
+      - [Chapitre III : Des oppositions au mariage (art. 172 à 179)](#23)
+      - [Chapitre IV : Des demandes en nullité de mariage (art. 180 à 202)](#24)
+      - [Chapitre V : Des obligations qui naissent du mariage (art. 203 à 211)](#25)
+      - [Chapitre VI : Des devoirs et des droits respectifs des époux (art. 212 à 226)](#26)
+      - [Chapitre VII : De la dissolution du mariage (art. 227)](#27)
+      - [Chapitre VIII : Des seconds mariages. (art. 228)](#28)
+    - [Titre VI : Du divorce (art. 229 à 310)](#29)
+      - [Chapitre Ier : Des cas de divorce (art. 229 à 246)](#30)
+        - [Section 1 : Du divorce par consentement mutuel (art. 230 à 236)](#31)
+          - [Paragraphe 1 : Du divorce sur demande conjointe des époux. (art. 231)](#32)
+          - [Paragraphe 2 : Du divorce demandé par un époux et accepté par l'autre. (art. 233 à 236)](#33)
+        - [Section 2 : Du divorce pour rupture de la vie commune. (art. 237 à 241)](#34)
+        - [Section 3 : Du divorce pour faute. (art. 242 à 245)](#35)
+        - [Section 3 : Du divorce pour faute. (art. 246)](#36)
+      - [Chapitre II : De la procédure du divorce (art. 247 à 259-3)](#37)
+        - [Section 1 : Dispositions générales. (art. 247 à 248-1)](#38)
+        - [Section 1 : Dispositions générales (art. 248 à 250)](#39)
+        - [Section 2 : De la conciliation. (art. 251 à 252-3)](#40)
+        - [Section 2 : De la conciliation. (art. 252-2)](#41)
+        - [Section 3 : Des mesures provisoires. (art. 253 à 258)](#42)
+        - [Section 3 : Des mesures provisoires. (art. 256)](#43)
+        - [Section 4 : Des preuves. (art. 259 à 259-3)](#44)
+      - [Chapitre III : Des conséquences du divorce (art. 260 à 295)](#45)
+        - [Section 1 : De la date à laquelle se produisent les effets du divorce (art. 260 à 262-2)](#46)
+        - [Section 2 : Des conséquences du divorce pour les époux (art. 263 à 270)](#47)
+          - [Paragraphe 1 : Dispositions générales. (art. 263 à 265)](#48)
+          - [Paragraphe 3 : Des prestations compensatoires. (art. 270)](#49)
+        - [Section 2 : Des conséquences du divorce pour les époux. (art. 266 à 285-1)](#50)
+          - [Paragraphe 2 : Des suites propres aux différents cas de divorce. (art. 266 à 269)](#51)
+          - [Paragraphe 3 : Des prestations compensatoires. (art. 271 à 280-1)](#52)
+          - [Paragraphe 4 : Du devoir de secours après le divorce. (art. 281 à 285)](#53)
+          - [Paragraphe 5 : Du logement. (art. 285-1)](#54)
+        - [Section 3 : Des conséquences du divorce pour les enfants. (art. 286 à 295)](#55)
+      - [Chapitre IV : De la séparation de corps (art. 296 à 308)](#56)
+        - [Section 1 : Des cas et de la procédure de la séparation de corps (art. 296 à 298)](#57)
+        - [Section 2 : Des conséquences de la séparation de corps (art. 299 à 304)](#58)
+        - [Section 3 : De la fin de la séparation de corps (art. 305 à 308)](#59)
+      - [Chapitre V : Du conflit des lois relatives au divorce et à la séparation de corps (art. 310)](#60)
+    - [Titre VII : De la filiation (art. 311 à 342-8)](#61)
+      - [Chapitre Ier : Dispositions générales (art. 311 à 311-2)](#62)
+        - [Section 1 : Des preuves et présomptions (art. 311 à 311-2)](#63)
+      - [Chapitre Ier : Dispositions communes à la filiation légitime et à la filiation naturelle (art. 311-3 à 311-18)](#64)
+        - [Section 1 : Des présomptions relatives à la filiation. (art. 311-3)](#65)
+        - [Section 2 : Des actions relatives à la filiation. (art. 311-4 à 311-13)](#66)
+        - [Section 3 : Du conflit des lois relatives à l'établissement de la filiation. (art. 311-14 à 311-18)](#67)
+      - [Chapitre II : De la filiation légitime. (art. 312 à 333-6)](#68)
+        - [Section 1 : De la présomption de paternité. (art. 312 à 318-2)](#69)
+        - [Section 2 : Des preuves de la filiation légitime. (art. 319 à 328)](#70)
+        - [Section 3 : De la légitimation. (art. 329 à 333-6)](#71)
+          - [Paragraphe 1 : De la légitimation par mariage. (art. 331 à 332-1)](#72)
+          - [Paragraphe 2 : De la légitimation par autorité de justice (art. 333 à 333-6)](#73)
+      - [Chapitre III : De la filiation naturelle. (art. 334 à 342-8)](#74)
+        - [Section 1 : Des effets de la filiation naturelle et de ses modes d'établissement en général. (art. 334 à 334-10)](#75)
+        - [Section 2 : De la reconnaissance des enfants naturels (art. 335 à 339)](#76)
+        - [Section 3 : Des actions en recherche de paternité et de maternité. (art. 340 à 341-1)](#77)
+        - [Section 4 : De l'action à fins de subsides (art. 342 à 342-8)](#78)
+    - [Titre VIII : De la filiation adoptive (art. 343 à 370-2)](#79)
+      - [Chapitre Ier : De l'adoption plénière (art. 343 à 359)](#80)
+        - [Section 1 : Des conditions requises pour l'adoption plénière (art. 343 à 350)](#81)
+        - [Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière (art. 351 à 354)](#82)
+        - [Section 3 : Des effets de l'adoption plénière (art. 355 à 359)](#83)
+      - [Chapitre II : De l'adoption simple (art. 360 à 370-2)](#84)
+        - [Section 1 : Des conditions requises et du jugement (art. 360 à 362)](#85)
+        - [Section 2 : Des effets de l'adoption simple (art. 363 à 370-2)](#86)
+    - [Titre IX : De l'autorité parentale (art. 371 à 387)](#87)
+      - [Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant (art. 371 à 381)](#88)
+        - [Section 1 : De l'exercice de l'autorité parentale (art. 374-1 à 374-2)](#89)
+          - [Paragraphe 4 : De l'intervention des tiers (art. 374-1 à 374-2)](#90)
+        - [Section 1 : De l'exercice de l'autorité parentale. (art. 372 à 374)](#91)
+        - [Section 2 : De l'assistance éducative (art. 375 à 375-8)](#92)
+        - [Section 3 : De la délégation de l'autorité parentale (art. 376 à 377-3)](#93)
+        - [Section 4 : De la déchéance et du retrait partiel de l'autorité parentale. (art. 378 à 381)](#94)
+      - [Chapitre II : De l'autorité parentale relativement aux biens de l'enfant (art. 382 à 387)](#95)
+    - [Titre X : De la minorité et de l'émancipation (art. 389 à 392)](#96)
+      - [Chapitre Ier : De la minorité (art. 389 à 392)](#97)
+        - [Section 1 : De l'administration légale (art. 389 à 389-7)](#98)
+        - [Section 2 : De la tutelle (art. 390 à 392)](#99)
+          - [Sous-section 1 : Des cas d'ouverture et de fin de la tutelle (art. 390 à 392)](#100)
+    - [Titre X : De la minorité, de la tutelle et de l'émancipation. (art. 388 à 487)](#101)
+      - [Chapitre Ier : De la minorité. (art. 388 à 388-2)](#102)
+      - [Chapitre II : De la tutelle. (art. 393 à 475)](#103)
+        - [Section 2 : De l'organisation de la tutelle. (art. 393 à 448)](#104)
+          - [Paragraphe 1 : Du juge des tutelles. (art. 393 à 396)](#105)
+          - [Paragraphe 2 : Du tuteur. (art. 397 à 406)](#106)
+          - [Paragraphe 3 : Du conseil de famille. (art. 407 à 416)](#107)
+          - [Paragraphe 4 : Des autres organes de la tutelle. (art. 417 à 426)](#108)
+          - [Paragraphe 5 : Des charges tutélaires. (art. 427 à 448)](#109)
+        - [Section 2 : De l'organisation de la tutelle. (art. 402)](#110)
+          - [Paragraphe 2 : Du tuteur. (art. 402)](#111)
+        - [Section 3 : Du fonctionnement de la tutelle. (art. 449 à 467)](#112)
+        - [Section 4 : Des comptes de la tutelle et des responsabilités. (art. 469 à 475)](#113)
+      - [Chapitre III : De l'émancipation. (art. 476 à 487)](#114)
+    - [Titre XI : De la majorité et des majeurs protégés par la loi (art. 445 à 468)](#115)
+      - [Chapitre II : Des mesures de protection juridique des majeurs (art. 445 à 468)](#116)
+        - [Section 4 : De la curatelle et de la tutelle (art. 445 à 468)](#117)
+          - [Sous-section 3 : Des organes de protection (art. 445)](#118)
+          - [Sous-section 6 : Des actes faits dans la curatelle (art. 468)](#119)
+    - [Titre XI : De la majorité et des majeurs qui sont protégés par la loi. (art. 488 à 514)](#120)
+      - [Chapitre Ier : Dispositions générales. (art. 488 à 490-3)](#121)
+      - [Chapitre II : Des majeurs sous la sauvegarde de justice. (art. 491 à 491-6)](#122)
+      - [Chapitre III : Des majeurs en tutelle. (art. 492 à 507)](#123)
+      - [Chapitre IV : Des majeurs en curatelle. (art. 508 à 514)](#124)
+    - [Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle (art. 509)](#125)
+      - [Chapitre Ier : Des modalités de la gestion (art. 509)](#126)
+        - [Section 2 : Des actes du tuteur (art. 509)](#127)
+          - [Paragraphe 3 : Des actes que le tuteur ne peut accomplir (art. 509)](#128)
+  - [Livre II : Des biens et des différentes modifications de la propriété (art. 516 à 710)](#129)
+    - [Titre Ier : De la distinction des biens (art. 516 à 543)](#130)
+      - [Chapitre Ier : Des immeubles (art. 517 à 526)](#131)
+      - [Chapitre II : Des meubles (art. 527 à 536)](#132)
+      - [Chapitre III : Des biens dans leurs rapports avec ceux qui les possèdent (art. 537 à 543)](#133)
+    - [Titre II : De la propriété (art. 544 à 577)](#134)
+      - [Chapitre Ier : Du droit d'accession sur ce qui est produit par la chose (art. 547 à 550)](#135)
+      - [Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose (art. 551 à 577)](#136)
+        - [Section 1 : Du droit d'accession relativement aux choses immobilières (art. 552 à 564)](#137)
+        - [Section 2 : Du droit d'accession relativement aux choses mobilières (art. 565 à 577)](#138)
+    - [Titre III : De l'usufruit, de l'usage et de l'habitation (art. 578 à 636)](#139)
+      - [Chapitre Ier : De l'usufruit (art. 578 à 624)](#140)
+        - [Section 1 : Des droits de l'usufruitier (art. 582 à 599)](#141)
+        - [Section 2 : Des obligations de l'usufruitier (art. 600 à 616)](#142)
+        - [Section 3 : Comment l'usufruit prend fin (art. 617 à 624)](#143)
+      - [Chapitre II : De l'usage et de l'habitation (art. 625 à 636)](#144)
+    - [Titre IV : Des servitudes ou services fonciers (art. 637 à 710)](#145)
+      - [Chapitre Ier : Des servitudes qui dérivent de la situation des lieux (art. 640 à 648)](#146)
+      - [Chapitre II : Des servitudes établies par la loi (art. 649 à 685-1)](#147)
+        - [Section 1 : Du mur et du fossé mitoyens (art. 653 à 673)](#148)
+        - [Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions (art. 674)](#149)
+        - [Section 3 : Des vues sur la propriété de son voisin (art. 675 à 680)](#150)
+        - [Section 4 : De l'égout des toits (art. 681)](#151)
+        - [Section 5 : Du droit de passage (art. 682 à 685-1)](#152)
+      - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 686 à 710)](#153)
+        - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 686 à 689)](#154)
+        - [Section 2 : Comment s'établissent les servitudes (art. 690 à 696)](#155)
+        - [Section 3 : Des droits du propriétaire du fonds auquel la servitude est due (art. 697 à 702)](#156)
+        - [Section 4 : Comment les servitudes s'éteignent (art. 703 à 710)](#157)
+  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 2283)](#158)
+    - [Dispositions générales (art. 711 à 717)](#159)
+    - [Titre Ier : Des successions (art. 718 à 832-3)](#160)
+      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 724)](#161)
+      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 725 à 730)](#162)
+      - [Chapitre III : Des divers ordres de succession. (art. 731 à 767)](#163)
+        - [Section 1 : Dispositions générales. (art. 731 à 738)](#164)
+        - [Section 2 : De la représentation. (art. 739 à 744)](#165)
+        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#166)
+        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#167)
+        - [Section 5 : Des successions collatérales. (art. 750 à 755)](#168)
+        - [Section 6 : Des droits successoraux résultant de la filiation naturelle. (art. 756 à 764)](#169)
+        - [Section 7 : Des droits du conjoint survivant. (art. 765 à 767)](#170)
+      - [Chapitre IV : De l'option de l'héritier (art. 768 à 808)](#171)
+        - [Section 1 : Dispositions générales. (art. 768 à 781)](#172)
+        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#173)
+        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#174)
+          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#175)
+          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#176)
+        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#177)
+      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 814)](#178)
+        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#179)
+        - [Section 4 : Des successions vacantes. (art. 811 à 814)](#180)
+      - [Chapitre VI : De l'administration de la succession par un mandataire. (art. 815-5)](#181)
+        - [Section 1 : Du mandat à effet posthume. (art. 815-5)](#182)
+      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 815 à 892)](#183)
+        - [Section 1 : De l'indivision et de l'action en partage. (art. 815 à 842)](#184)
+        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 843 à 869)](#185)
+        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#186)
+        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 883 à 886)](#187)
+        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#188)
+      - [Chapitre VII : Du régime légal de l'indivision. (art. 815-8 à 815-18)](#189)
+        - [Section 1 : Des actes relatifs aux biens indivis. (art. 815-8 à 815-18)](#190)
+      - [Chapitre VIII : Du partage. (art. 832-2 à 832-3)](#191)
+        - [Section 1 : Des opérations de partage. (art. 832-2 à 832-3)](#192)
+          - [Sous-section 1 : Dispositions communes. (art. 832-2 à 832-3)](#193)
+            - [Paragraphe 3 : Des attributions préférentielles. (art. 832-2 à 832-3)](#194)
+    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1099-1)](#195)
+      - [Chapitre Ier : Dispositions générales. (art. 893 à 900-8)](#196)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#197)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 913-1 à 930)](#198)
+        - [Section 1 : De la portion de biens disponible. (art. 913-1 à 919)](#199)
+        - [Section 2 : De la réduction des donations et legs. (art. 920 à 930)](#200)
+      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#201)
+        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#202)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#203)
+      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#204)
+        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 980)](#205)
+        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 981 à 1001)](#206)
+        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#207)
+        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#208)
+        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#209)
+        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#210)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#211)
+        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#212)
+      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#213)
+      - [Chapitre VII : Des partages faits par les ascendants. (art. 1075 à 1080)](#214)
+        - [Section 1 : Des donations-partages. (art. 1076 à 1078-3)](#215)
+        - [Section 2 : Des testaments-partages. (art. 1079 à 1080)](#216)
+      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#217)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1099-1)](#218)
+    - [Titre II : Des donations entre vifs et des testaments (art. 908 à 1100)](#219)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 908 à 910)](#220)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 913 à 916)](#221)
+        - [Section 1 : De la portion de biens disponible. (art. 913 à 916)](#222)
+      - [Chapitre IV : Des donations entre vifs (art. 937 à 962)](#223)
+        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#224)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#225)
+      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1069 à 1072)](#226)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1094 à 1100)](#227)
+    - [Titre III : Des contrats ou des obligations conventionnelles en général (art. 1101 à 1369)](#228)
+      - [Chapitre Ier : Dispositions préliminaires. (art. 1101 à 1107)](#229)
+      - [Chapitre II : Des conditions essentielles pour la validité des conventions. (art. 1108 à 1133)](#230)
+        - [Section 1 : Du consentement. (art. 1109 à 1122)](#231)
+        - [Section 2 : De la capacité des parties contractantes. (art. 1123 à 1125-1)](#232)
+        - [Section 3 : De l'objet et de la matière des contrats. (art. 1126 à 1130)](#233)
+        - [Section 4 : De la cause. (art. 1131 à 1133)](#234)
+      - [Chapitre III : De l'effet des obligations. (art. 1134 à 1167)](#235)
+        - [Section 1 : Dispositions générales. (art. 1134 à 1135)](#236)
+        - [Section 2 : De l'obligation de donner. (art. 1136 à 1141)](#237)
+        - [Section 3 : De l'obligation de faire ou de ne pas faire. (art. 1142 à 1145)](#238)
+        - [Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation. (art. 1146 à 1155)](#239)
+        - [Section 5 : De l'interprétation des conventions. (art. 1156 à 1164)](#240)
+        - [Section 6 : De l'effet des conventions à l'égard des tiers. (art. 1165 à 1167)](#241)
+      - [Chapitre IV : Des diverses espèces d'obligations. (art. 1168 à 1233)](#242)
+        - [Section 1 : Des obligations conditionnelles. (art. 1168 à 1184)](#243)
+          - [Paragraphe 1 : De la condition en général, et de ses diverses espèces. (art. 1168 à 1180)](#244)
+          - [Paragraphe 2 : De la condition suspensive. (art. 1181 à 1182)](#245)
+          - [Paragraphe 3 : De la condition résolutoire. (art. 1183 à 1184)](#246)
+        - [Section 2 : Des obligations à terme. (art. 1185 à 1188)](#247)
+        - [Section 3 : Des obligations alternatives. (art. 1189 à 1196)](#248)
+        - [Section 4 : Des obligations solidaires. (art. 1197 à 1216)](#249)
+          - [Paragraphe 1 : De la solidarité entre les créanciers. (art. 1197 à 1199)](#250)
+          - [Paragraphe 2 : De la solidarité de la part des débiteurs. (art. 1200 à 1216)](#251)
+        - [Section 5 : Des obligations divisibles et indivisibles. (art. 1217 à 1225)](#252)
+          - [Paragraphe 1 : Des effets de l'obligation divisible. (art. 1220 à 1221)](#253)
+          - [Paragraphe 2 : Des effets de l'obligation indivisible. (art. 1222 à 1225)](#254)
+        - [Section 6 : Des obligations avec clauses pénales. (art. 1226 à 1233)](#255)
+      - [Chapitre V : De l'extinction des obligations. (art. 1234 à 1314)](#256)
+        - [Section 1 : Du paiement (art. 1235 à 1264)](#257)
+          - [Paragraphe 1 : Du paiement en général. (art. 1235 à 1248)](#258)
+          - [Paragraphe 2 : Du paiement avec subrogation. (art. 1249 à 1252)](#259)
+          - [Paragraphe 3 : De l'imputation des paiements. (art. 1253 à 1256)](#260)
+          - [Paragraphe 4 : Des offres de paiement, et de la consignation. (art. 1257 à 1264)](#261)
+        - [Section 2 : De la novation. (art. 1271 à 1281)](#262)
+        - [Section 3 : De la remise de la dette. (art. 1282 à 1288)](#263)
+        - [Section 4 : De la compensation. (art. 1289 à 1299)](#264)
+        - [Section 5 : De la confusion. (art. 1300 à 1301)](#265)
+        - [Section 6 : De la perte de la chose due. (art. 1302 à 1303)](#266)
+        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1304 à 1314)](#267)
+      - [Chapitre VI : De la preuve des obligations et de celle du paiement. (art. 1315 à 1369)](#268)
+        - [Section 1 : De la preuve littérale (art. 1317 à 1340)](#269)
+          - [Paragraphe 1 : Du titre authentique. (art. 1317 à 1321)](#270)
+          - [Paragraphe 2 : De l'acte sous seing privé. (art. 1322 à 1332)](#271)
+          - [Paragraphe 3 : Des tailles. (art. 1333)](#272)
+          - [Paragraphe 4 : Des copies des titres. (art. 1334 à 1336)](#273)
+          - [Paragraphe 5 : Des actes récognitifs et confirmatifs. (art. 1337 à 1340)](#274)
+        - [Section 2 : De la preuve testimoniale. (art. 1341 à 1348)](#275)
+        - [Section 3 : Des présomptions. (art. 1349 à 1353)](#276)
+          - [Paragraphe 1 : Des présomptions établies par la loi. (art. 1350 à 1352)](#277)
+          - [Paragraphe 2 : Des présomptions qui ne sont point établies par la loi. (art. 1353)](#278)
+        - [Section 4 : De l'aveu de la partie. (art. 1354 à 1356)](#279)
+        - [Section 5 : Du serment. (art. 1357 à 1369)](#280)
+          - [Paragraphe 1 : Du serment décisoire. (art. 1358 à 1365)](#281)
+          - [Paragraphe 2 : Du serment déféré d'office. (art. 1366 à 1369)](#282)
+    - [Titre IV : Des engagements qui se forment sans convention (art. 1370 à 1386)](#283)
+      - [Chapitre Ier : Des quasi-contrats. (art. 1371 à 1381)](#284)
+      - [Chapitre II : Des délits et des quasi-délits. (art. 1382 à 1386)](#285)
+    - [Titre V : Du contrat de mariage et des régimes matrimoniaux (art. 1387 à 1581)](#286)
+      - [Chapitre Ier : Dispositions générales. (art. 1387 à 1399)](#287)
+      - [Chapitre II : Du régime en communauté (art. 1400 à 1527)](#288)
+        - [Première partie : De la communauté légale (art. 1400 à 1481)](#289)
+          - [Section 1 : De ce qui compose la communauté activement et passivement (art. 1401 à 1418)](#290)
+            - [Paragraphe 1 : De l'actif de la communauté (art. 1401 à 1408)](#291)
+            - [Paragraphe 2 : Du passif de la communauté (art. 1409 à 1418)](#292)
+          - [Section 2 : De l'administration de la communauté et des biens propres. (art. 1421 à 1440)](#293)
+          - [Section 3 : De la dissolution de la communauté (art. 1441 à 1491)](#294)
+            - [Paragraphe 1 : Des causes de dissolution et de la séparation de biens. (art. 1441 à 1449)](#295)
+            - [Paragraphe 2 : De la liquidation et du partage de la communauté. (art. 1467 à 1480)](#296)
+            - [Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution. (art. 1482 à 1491)](#297)
+          - [Section III : De la dissolution de la communauté (art. 1442 à 1481)](#298)
+            - [Paragraphe I : Des causes de dissolution et de la séparation de biens. (art. 1442 à 1451)](#299)
+            - [Paragraphe II : De la liquidation et du partage de la communauté. (art. 1477 à 1481)](#300)
+        - [Deuxième partie : De la communauté conventionnelle. (art. 1497 à 1526)](#301)
+          - [Section 1 : De la communauté de meubles et acquêts. (art. 1498 à 1501)](#302)
+          - [Section 2 : De la clause d'administration conjointe. (art. 1503)](#303)
+          - [Section 3 : De la clause de prélèvement moyennant indemnité. (art. 1511 à 1514)](#304)
+          - [Section 4 : Du préciput. (art. 1515 à 1519)](#305)
+          - [Section IV : Du préciput. (art. 1518)](#306)
+          - [Section 5 : De la stipulation de parts inégales. (art. 1520 à 1525)](#307)
+          - [Section 6 : De la communauté universelle. (art. 1526)](#308)
+        - [Dispositions communes aux deux parties du chapitre II. (art. 1527)](#309)
+      - [Chapitre III : Du régime de séparation de biens. (art. 1536 à 1543)](#310)
+      - [Chapitre IV : Du régime de participation aux acquêts. (art. 1569 à 1581)](#311)
+    - [Titre VI : De la vente (art. 1582 à 1701)](#312)
+      - [Chapitre Ier : De la nature et de la forme de la vente. (art. 1582 à 1593)](#313)
+      - [Chapitre II : Qui peut acheter ou vendre. (art. 1594 à 1597)](#314)
+      - [Chapitre III : Des choses qui peuvent être vendues. (art. 1598 à 1601)](#315)
+      - [Chapitre III-1 : De la vente d'immeubles à construire. (art. 1601-1 à 1601-4)](#316)
+      - [Chapitre IV : Des obligations du vendeur (art. 1602 à 1649)](#317)
+        - [Section 1 : Dispositions générales. (art. 1602 à 1603)](#318)
+        - [Section 2 : De la délivrance. (art. 1604 à 1624)](#319)
+        - [Section 3 : De la garantie. (art. 1625 à 1649)](#320)
+          - [Paragraphe 1 : De la garantie en cas d'éviction. (art. 1626 à 1640)](#321)
+          - [Paragraphe 2 : De la garantie des défauts de la chose vendue. (art. 1641 à 1649)](#322)
+      - [Chapitre V : Des obligations de l'acheteur. (art. 1650 à 1657)](#323)
+      - [Chapitre VI : De la nullité et de la résolution de la vente. (art. 1658 à 1685)](#324)
+        - [Section 1 : De la faculté de rachat. (art. 1659 à 1673)](#325)
+        - [Section 2 : De la rescision de la vente pour cause de lésion. (art. 1674 à 1685)](#326)
+      - [Chapitre VII : De la licitation. (art. 1686 à 1688)](#327)
+      - [Chapitre VIII : Du transport des créances et autres droits incorporels. (art. 1689 à 1701)](#328)
+    - [Titre VII : De l'échange (art. 1702 à 1707)](#329)
+    - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#330)
+      - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#331)
+      - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#332)
+        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#333)
+        - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#334)
+        - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#335)
+      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1779 à 1799)](#336)
+        - [Section 1 : Du louage des domestiques et ouvriers. (art. 1780)](#337)
+        - [Section 2 : Des voituriers par terre et par eau. (art. 1782 à 1786)](#338)
+        - [Section 3 : Des devis et des marchés. (art. 1787 à 1799)](#339)
+      - [Chapitre IV : Du bail à cheptel (art. 1800 à 1831)](#340)
+        - [Section 1 : Dispositions générales. (art. 1800 à 1803)](#341)
+        - [Section 2 : Du cheptel simple. (art. 1804 à 1817)](#342)
+        - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#343)
+        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#344)
+          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#345)
+          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#346)
+        - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#347)
+    - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-1 à 1831-5)](#348)
+    - [Titre IX : De la société (art. 1832 à 1873)](#349)
+      - [Chapitre Ier : Dispositions générales. (art. 1832 à 1844-17)](#350)
+      - [Chapitre II : De la société civile (art. 1845 à 1870-1)](#351)
+        - [Section 1 : Dispositions générales. (art. 1845)](#352)
+        - [Section I : Dispositions générales. (art. 1845-1)](#353)
+        - [Section 2 : Gérance. (art. 1846 à 1851)](#354)
+        - [Section 3 : Décisions collectives. (art. 1852 à 1854)](#355)
+        - [Section 4 : Information des associés. (art. 1855 à 1856)](#356)
+        - [Section 5 : Engagement des associés à l'égard des tiers. (art. 1857 à 1860)](#357)
+        - [Section 6 : Cession des parts sociales. (art. 1861 à 1868)](#358)
+        - [Section 7 : Retrait ou décès d'un associé. (art. 1869 à 1870-1)](#359)
+      - [Chapitre III : De la société en participation. (art. 1871 à 1873)](#360)
+    - [Titre IX bis : Des conventions relatives à l'exercice des droits indivis (art. 1873-1 à 1873-18)](#361)
+      - [Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier. (art. 1873-2 à 1873-15)](#362)
+      - [Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier. (art. 1873-16 à 1873-18)](#363)
+    - [Titre X : Du prêt (art. 1874 à 1914)](#364)
+      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#365)
+        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#366)
+        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#367)
+        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#368)
+      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#369)
+        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#370)
+        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#371)
+        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#372)
+      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#373)
+    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#374)
+      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#375)
+      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1954)](#376)
+        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#377)
+        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#378)
+        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#379)
+        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#380)
+        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1954)](#381)
+      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#382)
+        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#383)
+        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#384)
+        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#385)
+    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#386)
+      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#387)
+      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#388)
+        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#389)
+        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#390)
+    - [Titre XIII : Du mandat (art. 1984 à 2010)](#391)
+      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#392)
+      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#393)
+      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#394)
+      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#395)
+    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#396)
+      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#397)
+      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#398)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#399)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#400)
+        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#401)
+        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#402)
+      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#403)
+      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#404)
+    - [Titre XV : Des transactions (art. 2044 à 2058)](#405)
+    - [Titre XVI : Du compromis (art. 2059 à 2068)](#406)
+    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#407)
+      - [Chapitre I : Du gage. (art. 2073 à 2084)](#408)
+      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#409)
+    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#410)
+      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#411)
+      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#412)
+        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#413)
+        - [Section I : Des privilèges sur les meubles (art. 2101 à 2102)](#414)
+          - [Paragraphe I : Des privilèges généraux sur les meubles. (art. 2101)](#415)
+          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#416)
+        - [Section II : Des privilèges spéciaux sur les immeubles. (art. 2103)](#417)
+        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#418)
+        - [Section III : Des privilèges généraux sur les immeubles (art. 2104)](#419)
+        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#420)
+        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#421)
+      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#422)
+        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#423)
+        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#424)
+        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#425)
+        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#426)
+        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2142)](#427)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#428)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#429)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#430)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#431)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163 à 2165)](#432)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#433)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#434)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#435)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#436)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#437)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2217)](#438)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#439)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#440)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#441)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#442)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#443)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#444)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#445)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#446)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2270-1 à 2281)](#447)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#448)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#449)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270)](#450)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#451)
+      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#452)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -808,8 +809,8 @@ _Créé par_:
 
 ###### Article 48
 
-Tout acte de l'état civil des Français en pays étranger sera valable, s'il a été reçu, conformément aux lois françaises, par
-les agents diplomatiques ou par les consuls.
+Tout acte de l'état civil des Français en pays étranger sera valable s'il a été reçu, conformément aux lois françaises, par
+les agents diplomatiques ou consulaires.
 
 Un double des registres de l'état civil tenus par ces agents sera adressé à la fin de chaque année au ministère des affaires
 étrangères, qui en assurera la garde et pourra en délivrer des extraits.
@@ -824,9 +825,9 @@ _Codifié par_:
 
   - Loi n°1803-03-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
+  - Loi n°93-22 du 8 janvier 1993 - art. 1 () JORF 9 janvier 1993
 
 
 ###### Article 49
@@ -842,9 +843,9 @@ Si l'acte en marge duquel doit être effectuée cette mention a été dressé ou
 adressé, dans le délai de trois jours, à l'officier de l'état civil de cette commune et celui-ci en avisera aussitôt, si le
 double du registre est au greffe, le procureur de la République de son arrondissement.
 
-Si l'acte en marge duquel une mention devra être effectuée a été dressé ou transcrit dans une colonie ou à l'étranger,
-l'officier de l'état civil qui a dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les trois jours, le
-ministre des colonies ou le ministre des affaires étrangères.
+Si l'acte en marge duquel une mention devra être effectuée a été dressé ou transcrit à l'étranger, l'officier de l'état civil
+qui a dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les trois jours, le ministre des affaires
+étrangères.
 
 **Liens relatifs à cet article**
 
@@ -856,13 +857,13 @@ _Cité par_:
   - Décret n°2012-966 du 20 août 2012 - art. 6 (VD)
   - Code de procédure civile - art. 1047 (V)
 
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 2 () JORF 9 janvier 1993
+
 _Codifié par_:
 
   - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 50
@@ -978,15 +979,13 @@ registres qu'en vertu d'un jugement rendu par le tribunal de l'arrondissement da
 sommaire en sera faite en marge à la date de la naissance. Si le lieu de la naissance est inconnu, le tribunal compétent sera
 celui du domicile du requérant.
 
-En pays étranger, les déclarations aux agents diplomatiques ou aux consuls seront faites dans les dix jours de
-l'accouchement. Toutefois, ce délai pourra être prolongé dans certaines circonscriptions consulaires en vertu d'un décret du
-Président de la République qui fixera la mesure et les conditions de cette prolongation.
+En pays étranger, les déclarations aux agents diplomatiques ou consulaires seront faites dans les quinze jours de
+l'accouchement. Toutefois, ce délai pourra être prolongé par décret dans certaines circonscriptions consulaires.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°60-1265 du 25 novembre 1960 - art. 1 (V)
   - TXT_SOURCE: Décret n°60-1265 du 25 novembre 1960
   - TXT_SOURCE: Décret n°60-1265 du 25 novembre 1960 - art. 1 (Ab)
   - TXT_SOURCE: Ordonnance n°98-580 du 8 juillet 1998
@@ -996,9 +995,10 @@ _Codifié par_:
 
   - Loi n°1803-03-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
+  - Loi n°93-22 1993-01-08 art. 3 I, II JORF 9 janvier 1993
+  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -1015,18 +1015,56 @@ _Cité par_:
   - Code pénal - art. R645-4 (V)
 
 
+###### Article 56
+
+La naissance de l'enfant sera déclarée par le père, ou, à défaut du père, par les docteurs en médecine ou en chirurgie,
+sages-femmes, officiers de santé ou autres personnes qui auront assisté à l'accouchement ; et lorsque la mère sera accouchée
+hors de son domicile, par la personne chez qui elle sera accouchée.
+
+L'acte de naissance sera rédigé immédiatement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+_Cité par_:
+
+  - Décret n°2004-1159 du 29 octobre 2004 - art. 2 (V)
+  - CODE PENAL - art. R40 (Ab)
+  - Code pénal - art. 433-18-1 (V)
+  - Code pénal - art. R645-4 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 57
 
 L'acte de naissance énoncera le jour, l'heure et le lieu de la naissance, le sexe de l'enfant et les prénoms qui lui seront
 donnés, les prénoms, noms, âges, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant. Si les père
 et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état civil, il ne sera fait sur les
-registres aucune mention à ce sujet.    Si l'acte dressé concerne un enfant naturel, l'officier de l'état civil en donnera,
-dans le mois avis au juge du tribunal d'instance du canton de la naissance.
+registres aucune mention à ce sujet.
 
-Les prénoms de l'enfant figurant dans son acte de naissance peuvent, en cas d'intérêt légitime, être modifiés par jugement du
-tribunal de grande instance prononcé à la requête de l'enfant ou, pendant la minorité de celui-ci, à la requête de son
-représentant légal. Le jugement est rendu et publié dans les conditions prévues aux articles 99 et 101 du présent code.
-L'adjonction de prénoms pourra pareillement être décidée.
+Les prénoms de l'enfant sont choisis par ses père et mère. Si ces derniers ne sont pas connus, l'officier de l'état civil
+attribue à l'enfant plusieurs prénoms dont le dernier lui tient lieu de patronyme. L'officier de l'état civil porte
+immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom inscrit dans l'acte de naissance peut être choisi
+comme prénom usuel.
+
+Lorsque ces prénoms ou l'un d'eux, seul ou associé aux autres prénoms ou au nom, lui paraissent contraires à l'intérêt de
+l'enfant ou au droit des tiers à voir protéger leur patronyme, l'officier de l'état civil en avise sans délai le procureur de
+la République. Celui-ci peut saisir le juge aux affaires familiales.
+
+Si le juge estime que le prénom n'est pas conforme à l'intérêt de l'enfant ou méconnaît le droit des tiers à voir protéger
+leur patronyme, il en ordonne la suppression sur les registres de l'état civil. Il attribue, le cas échéant, à l'enfant un
+autre prénom qu'il détermine lui-même à défaut par les parents d'un nouveau choix qui soit conforme aux intérêts susvisés.
+Mention de la décision est portée en marge des actes de l'état civil de l'enfant.
 
 **Liens relatifs à cet article**
 
@@ -1050,13 +1088,62 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-  - Décret-loi 1939-07-29 art. 108
+  - Loi n°93-22 1993-01-08 art. 3 I, III JORF 9 janvier 1993
+  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+
+###### Article 58
+
+Toute personne qui aura trouvé un enfant nouveau-né est tenue d'en faire la déclaration à l'officier de l'état civil du lieu
+de la découverte. Si elle ne consent pas à se charger de l'enfant, elle doit le remettre, ainsi que les vêtements et autres
+effets trouvés avec lui, à l'officier de l'état civil. 
+
+Il est dressé un procès-verbal détaillé qui, outre les indications prévues à l'article 34 du présent code, énonce la date,
+l'heure, le lieu et les circonstances de la découverte, l'âge apparent et le sexe de l'enfant, toute particularité pouvant
+contribuer à son identification ainsi que l'autorité ou la personne à laquelle il est confié. Ce procès-verbal est inscrit à
+sa date sur les registres de l'état civil. 
+
+A la suite et séparément de ce procès-verbal, l'officier de l'état civil établit un acte tenant lieu d'acte de naissance. En
+plus des indications prévues à l'article 34, cet acte énonce le sexe de l'enfant ainsi que les prénoms et nom qui lui sont
+donnés ; il fixe une date de naissance pouvant correspondre à son âge apparent et désigne comme lieu de naissance la commune
+où l'enfant a été découvert. 
+
+Pareil acte doit être établi, sur déclaration des services de l'assistance à l'enfance, pour les enfants placés sous leur
+tutelle et dépourvus d'acte de naissance connu ou pour lesquels le secret de la naissance a été réclamé. 
+
+Les copies et extraits du procès-verbal de découverte ou de l'acte provisoire de naissance sont délivrés dans les conditions
+et selon les distinctions faites à l'article 57 du présent code. 
+
+Si l'acte de naissance de l'enfant vient à être retrouvé ou si sa naissance est judiciairement déclarée, le procès-verbal de
+la découverte et l'acte provisoire de naissance sont annulés à la requête du procureur de la République ou des parties
+intéressées.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+_Cité par_:
+
+  - CODE PENAL - art. R40 (Ab)
+  - Code civil - art. 19-2 (V)
+  - Code civil - art. 2492 (VD)
+  - Code civil - art. 354 (V)
+  - Code de l'action sociale et des familles - art. L221-8 (V)
+  - Code de la famille et de l'aide sociale. - art. 81 (Ab)
+  - Code de la nationalité française. - art. 22 (Ab)
+  - Code pénal - art. R645-5 (V)
 
 _Cite_:
 
-  - Code civil - art. 101 (V)
-  - Code civil - art. 99 (V)
+  - Code civil - art. 34 (V)
+  - Code civil - art. 57 (V)
 
 _Codifié par_:
 
@@ -1067,23 +1154,102 @@ _Créé par_:
   - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
-#### Section 3 : De l'acte de reconnaissance.<a id=9></a>
+###### Article 59
 
-###### Article 62
+En cas de naissance pendant un voyage maritime, il en sera dressé acte dans les trois jours de l'accouchement sur la
+déclaration du père, s'il est à bord.
 
-L'acte de reconnaissance d'un enfant naturel sera inscrit sur les registres à sa date ; il en sera fait mention en marge de
-l'acte de naissance, s'il en existe un, et il en sera donné avis, dans le mois, au juge du tribunal d'instance du canton de
-la naissance.
+Si la naissance a lieu pendant un arrêt dans un port, l'acte sera dressé dans les mêmes conditions, lorsqu'il y aura
+impossibilité de communiquer avec la terre, ou lorsqu'il n'existera pas dans le port, si l'on est à l'étranger, d'agent
+diplomatique ou consulaire français investi des fonctions d'officier de l'état civil.
 
-Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance pourra être reçue par les officiers
-instrumentaires désignés en cet article, et dans les formes qui y sont indiquées.
+Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par l'officier du commissariat de la marine ou, à son défaut, par
+le commandant ou celui qui en remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou patron, ou par
+celui qui en remplit les fonctions.
+
+Il y sera fait mention de celle des circonstances ci-dessus prévues, dans laquelle l'acte a été dressé. L'acte sera inscrit à
+la suite du rôle d'équipage.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 8 (V)
+  - Décret n°65-422 du 1 juin 1965 - art. 9 (V)
+  - Code civil - art. 62 (V)
+  - Code civil - art. 86 (V)
+  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
 _Modifié par_:
 
-  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
-  - Décret-loi 1939-07-29 art. 109
+  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+
+#### Section 2 : Des changements de prénoms et de nom.<a id=9></a>
+
+###### Article 60
+
+Toute personne qui justifie d'un intérêt légitime peut demander à changer de prénom. La demande est portée devant le juge aux
+affaires familiales à la requête de l'intéressé ou, s'il s'agit d'un incapable, à la requête de son représentant légal.
+L'adjonction ou la suppression de prénoms peut pareillement être décidée.
+
+Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
+  - Arrêté du 23 décembre 2004 - art. 2 (V)
+  - Décret n°2017-450 du 29 mars 2017 (V)
+  - Décret n°2017-450 du 29 mars 2017 - art. 2
+  - Code de procédure civile - art. 1055-2 (V)
+  - Code de procédure civile - art. 1055-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+
+
+#### Section 3 : De l'acte de reconnaissance.<a id=10></a>
+
+###### Article 62
+
+L'acte de reconnaissance d'un enfant naturel énonce les prénoms, nom, date de naissance ou, à défaut, âge, lieu de naissance
+et domicile de l'auteur de la reconnaissance.
+
+Il indique les date et lieu de naissance, le sexe et les prénoms de l'enfant ou, à défaut, tous renseignements utiles sur la
+naissance, sous réserve des dispositions de l'article 341-1.
+
+L'acte de reconnaissance sera inscrit à sa date sur les registres de l'état civil.
+
+Seules les mentions prévues au premier alinéa sont portées en marge de l'acte de naissance s'il en existe un.
+
+Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance pourra être reçue par les officiers
+instrumentaires désignés en cet article et dans les formes qui y sont indiquées.
+
+**Liens relatifs à cet article**
 
 _Cité par_:
 
@@ -1094,20 +1260,21 @@ _Cité par_:
   - Code civil - art. 335 (M)
   - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
 
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 5 () JORF 9 janvier 1993
+
 _Cite_:
 
+  - Code civil - art. 341-1 (T)
   - Code civil - art. 59 (V)
 
 _Codifié par_:
 
   - Loi n°1803-03-11
 
-_Créé par_:
 
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
-### Chapitre III : Des actes de mariage.<a id=10></a>
+### Chapitre III : Des actes de mariage.<a id=11></a>
 
 ###### Article 63
 
@@ -1528,7 +1695,7 @@ _Modifié par_:
   - Loi n°59-71 1959-01-07 art. 1 JORF 8 janvier 1959
 
 
-### Chapitre IV : Des actes de décès.<a id=11></a>
+### Chapitre IV : Des actes de décès.<a id=12></a>
 
 ###### Article 78
 
@@ -1611,6 +1778,35 @@ _Créé par_:
   - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 79-1
+
+Lorsqu'un enfant est décédé avant que sa naissance ait été déclarée à l'état civil, l'officier de l'état civil établit un
+acte de naissance et un acte de décès sur production d'un certificat médical indiquant que l'enfant est né vivant et viable
+et précisant les jours et heures de sa naissance et de son décès.
+
+A défaut du certificat médical prévu à l'alinéa précédent, l'officier de l'état civil établit un acte d'enfant sans vie. Cet
+acte est inscrit à sa date sur les registres de décès et il énonce les jour, heure et lieu de l'accouchement, les prénoms et
+noms, dates et lieux de naissance, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant. L'acte
+dressé ne préjuge pas de savoir si l'enfant a vécu ou non ; tout intéressé pourra saisir le tribunal de grande instance à
+l'effet de statuer sur la question.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 6 () JORF 9 janvier 1993
+
+_Cité par_:
+
+  - Arrêté du 20 août 2008 (V)
+  - Décret n°2008-800 du 20 août 2008 - art. 1 (V)
+  - Code de la santé publique - art. R1112-72 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+
 ###### Article 80
 
 Lorsqu'un décès se sera produit ailleurs que dans la commune où le défunt était domicilié, l'officier de l'état civil qui
@@ -1619,10 +1815,9 @@ expédition de cet acte, laquelle sera immédiatement transcrite sur les registr
 villes divisées en arrondissements, lorsque le décès est survenu dans un arrondissement autre que celui où le défunt était
 domicilié.
 
-En cas de décès dans les hôpitaux ou les formations sanitaires, les hôpitaux maritimes, coloniaux, civils, ou autres
-établissements publics, soit en France, soit dans les colonies ou les pays de protectorat, les directeurs, administrateurs ou
-maîtres de ces hôpitaux ou établissements devront en donner avis, dans les vingt-quatre heures, à l'officier de l'état civil
-ou à celui qui en remplit les fonctions.
+En cas de décès dans les hôpitaux ou les formations sanitaires, les hôpitaux maritimes, civils, ou autres établissements
+publics, les directeurs, administrateurs ou maîtres de ces hôpitaux ou établissements devront en donner avis, dans les vingt-
+quatre heures, à l'officier de l'état civil ou à celui qui en remplit les fonctions.
 
 Celui-ci s'y transportera pour s'assurer du décès et en dressera l'acte, conformément à l'article précédent, sur les
 déclarations qui lui auront été faites, et sur les renseignements qu'il aura pris.
@@ -1645,10 +1840,6 @@ _Cité par_:
   - Code de la santé publique - art. R1112-71 (V)
   - Code général des collectivités territoriales - art. R2213-8 (V)
 
-_Modifié par_:
-
-  - Ordonnance 58-779 1958-08-23 art. 4 JORF 30 août 1958
-
 _Cite_:
 
   - Code civil - art. 79 (V)
@@ -1657,9 +1848,9 @@ _Codifié par_:
 
   - Loi n°1803-03-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
+  - Loi n°93-22 du 8 janvier 1993 - art. 7 () JORF 9 janvier 1993
 
 
 ###### Article 81
@@ -2022,7 +2213,7 @@ _Créé par_:
   - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
-### Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux.<a id=12></a>
+### Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux.<a id=13></a>
 
 ###### Article 93
 
@@ -2165,7 +2356,7 @@ _Créé par_:
   - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
-### Chapitre VI : De l'état civil des personnes nées à l'étranger qui acquièrent ou recouvrent la nationalité française.<a id=13></a>
+### Chapitre VI : De l'état civil des personnes nées à l'étranger qui acquièrent ou recouvrent la nationalité française.<a id=14></a>
 
 ###### Article 98
 
@@ -2311,7 +2502,7 @@ _Créé par_:
   - Loi n°78-731 du 12 juillet 1978 - art. 6 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
 
 
-### Chapitre VII : De la rectification des actes d'état civil.<a id=14></a>
+### Chapitre VII : De la rectification des actes d'état civil.<a id=15></a>
 
 ###### Article 99
 
@@ -2360,24 +2551,26 @@ _Créé par_:
 
 Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser les actes mentionnés aux articles 98
 à 98-2 peuvent procéder à la rectification administrative des erreurs et omissions purement matérielles contenues dans ces
-actes.
+actes ou dans les mentions qui y sont apposées en marge, à l'exception de celles inscrites après l'établissement des actes.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°78-731 du 12 juillet 1978 - art. 7 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
 
 _Cité par_:
 
   - Décret n°80-308 du 25 avril 1980 - art. 5 (V)
   - Code de procédure civile - art. 1047 (V)
 
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 8 () JORF 9 janvier 1993
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2016-1547 du 18 novembre 2016 - art. 55
+
 _Cite_:
 
   - Code civil - art. 98 (V)
-  - Code civil - art. 98-1 (V)
-  - Code civil - art. 98-2 (V)
 
 _Nouveaux textes_:
 
@@ -2442,7 +2635,7 @@ _Créé par_:
   - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
-## Titre III : Du domicile<a id=15></a>
+## Titre III : Du domicile<a id=16></a>
 
 ###### Article 102
 
@@ -2740,9 +2933,9 @@ _Créé par_:
   - Loi n°1803-03-14 promulguée le 24 mars 1803
 
 
-## Titre IV : Des absents<a id=16></a>
+## Titre IV : Des absents<a id=17></a>
 
-### Chapitre Ier : De la présomption d'absence<a id=17></a>
+### Chapitre Ier : De la présomption d'absence<a id=18></a>
 
 ###### Article 112
 
@@ -3057,7 +3250,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-### Chapitre II : De la déclaration d'absence<a id=18></a>
+### Chapitre II : De la déclaration d'absence<a id=19></a>
 
 ###### Article 122
 
@@ -3415,9 +3608,9 @@ _Cité par_:
   - Code civil - art. 92 (V)
 
 
-## Titre V : Du mariage<a id=19></a>
+## Titre V : Du mariage<a id=20></a>
 
-### Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage<a id=20></a>
+### Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage<a id=21></a>
 
 ###### Article 144
 
@@ -3992,7 +4185,7 @@ _Créé par_:
   - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-### Chapitre II : Des formalités relatives à la célébration du mariage<a id=21></a>
+### Chapitre II : Des formalités relatives à la célébration du mariage<a id=22></a>
 
 ###### Article 165
 
@@ -4139,7 +4332,7 @@ _Modifié par_:
   - Loi n°59-1583 1959-12-31 art. 23 JORF 8 janvier 1959
 
 
-### Chapitre III : Des oppositions au mariage<a id=22></a>
+### Chapitre III : Des oppositions au mariage<a id=23></a>
 
 ###### Article 172
 
@@ -4322,7 +4515,7 @@ _Créé par_:
   - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-### Chapitre IV : Des demandes en nullité de mariage<a id=23></a>
+### Chapitre IV : Des demandes en nullité de mariage<a id=24></a>
 
 ###### Article 180
 
@@ -4859,7 +5052,7 @@ _Modifié par_:
 
 Il produit aussi ses effets à l'égard des enfants, quand bien même aucun des époux n'aurait été de bonne foi.
 
-Il est statué sur leur garde comme en matière de divorce.
+Le juge statue sur les modalités de l'exercice de l'autorité parentale comme en matière de divorce.
 
 **Liens relatifs à cet article**
 
@@ -4871,16 +5064,12 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 _Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 3 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 34 () JORF 9 janvier 1993
 
 
-### Chapitre V : Des obligations qui naissent du mariage<a id=24></a>
+### Chapitre V : Des obligations qui naissent du mariage<a id=25></a>
 
 ###### Article 203
 
@@ -5219,7 +5408,7 @@ _Créé par_:
   - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-### Chapitre VI : Des devoirs et des droits respectifs des époux<a id=25></a>
+### Chapitre VI : Des devoirs et des droits respectifs des époux<a id=26></a>
 
 ###### Article 212
 
@@ -5750,7 +5939,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
 
 
-### Chapitre VII : De la dissolution du mariage<a id=26></a>
+### Chapitre VII : De la dissolution du mariage<a id=27></a>
 
 ###### Article 227
 
@@ -5771,7 +5960,7 @@ _Créé par_:
   - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-### Chapitre VIII : Des seconds mariages.<a id=27></a>
+### Chapitre VIII : Des seconds mariages.<a id=28></a>
 
 ###### Article 228
 
@@ -5820,9 +6009,9 @@ _Anciens textes_:
   - Code civil - art. 247 (M)
 
 
-## Titre VI : Du divorce<a id=28></a>
+## Titre VI : Du divorce<a id=29></a>
 
-### Chapitre Ier : Des cas de divorce<a id=29></a>
+### Chapitre Ier : Des cas de divorce<a id=30></a>
 
 ###### Article 229
 
@@ -5854,7 +6043,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 1 : Du divorce par consentement mutuel<a id=30></a>
+#### Section 1 : Du divorce par consentement mutuel<a id=31></a>
 
 ###### Article 230
 
@@ -5911,7 +6100,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 862 (V)
 
 
-##### Paragraphe 1 : Du divorce sur demande conjointe des époux.<a id=31></a>
+##### Paragraphe 1 : Du divorce sur demande conjointe des époux.<a id=32></a>
 
 ###### Article 231
 
@@ -5953,7 +6142,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-##### Paragraphe 2 : Du divorce demandé par un époux et accepté par l'autre.<a id=32></a>
+##### Paragraphe 2 : Du divorce demandé par un époux et accepté par l'autre.<a id=33></a>
 
 ###### Article 233
 
@@ -6065,7 +6254,7 @@ _Abrogé par_:
   - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
-#### Section 2 : Du divorce pour rupture de la vie commune.<a id=33></a>
+#### Section 2 : Du divorce pour rupture de la vie commune.<a id=34></a>
 
 ###### Article 237
 
@@ -6281,7 +6470,7 @@ _Abrogé par_:
   - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
-#### Section 3 : Du divorce pour faute.<a id=34></a>
+#### Section 3 : Du divorce pour faute.<a id=35></a>
 
 ###### Article 242
 
@@ -6391,7 +6580,7 @@ _Cité par_:
   - Code de procédure civile - art. 1136-2 (VD)
 
 
-#### Section 3 : Du divorce pour faute.<a id=35></a>
+#### Section 3 : Du divorce pour faute.<a id=36></a>
 
 ###### Article 246
 
@@ -6428,9 +6617,9 @@ _Cite_:
   - Code civil 231, 232, 233 à 245
 
 
-### Chapitre II : De la procédure du divorce<a id=36></a>
+### Chapitre II : De la procédure du divorce<a id=37></a>
 
-#### Section 1 : Dispositions générales.<a id=37></a>
+#### Section 1 : Dispositions générales.<a id=38></a>
 
 ###### Article 247
 
@@ -6502,7 +6691,7 @@ _Nouveaux textes_:
   - Code civil - art. 245-1 (V)
 
 
-#### Section 1 : Dispositions générales<a id=38></a>
+#### Section 1 : Dispositions générales<a id=39></a>
 
 ###### Article 248
 
@@ -6663,7 +6852,7 @@ _Cité par_:
   - Code de procédure civile - art. 1099 (V)
 
 
-#### Section 2 : De la conciliation.<a id=39></a>
+#### Section 2 : De la conciliation.<a id=40></a>
 
 ###### Article 251
 
@@ -6845,7 +7034,7 @@ _Nouveaux textes_:
   - Code civil - art. 252-4 (V)
 
 
-#### Section 2 : De la conciliation.<a id=40></a>
+#### Section 2 : De la conciliation.<a id=41></a>
 
 ###### Article 252-2
 
@@ -6877,7 +7066,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 3 : Des mesures provisoires.<a id=41></a>
+#### Section 3 : Des mesures provisoires.<a id=42></a>
 
 ###### Article 253
 
@@ -7082,14 +7271,14 @@ _Cité par_:
   - Nouveau code de procédure civile - art. 1073 (M)
 
 
-#### Section 3 : Des mesures provisoires.<a id=42></a>
+#### Section 3 : Des mesures provisoires.<a id=43></a>
 
 ###### Article 256
 
 S'il y a des enfants mineurs, le juge se prononce sur les modalités de l'exercice de l'autorité parentale. Il peut également
 décider de les confier à un tiers. Il se prononce également sur le droit de visite et d'hébergement et fixe la contribution
-due, pour leur entretien et leur éducation, par l'époux qui n'a pas l'exercice de l'autorité parentale ou chez lequel les
-enfants ne résident pas habituellement.
+due pour leur entretien et leur éducation par le parent chez lequel les enfants ne résident pas habituellement ou qui
+n'exerce pas l'autorité parentale.
 
 **Liens relatifs à cet article**
 
@@ -7099,19 +7288,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°87-570 du 22 juillet 1987 - art. 2 () JORF 24 juillet 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 35 () JORF 9 janvier 1993
 
 _Cité par_:
 
   - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
 
 
-#### Section 4 : Des preuves.<a id=43></a>
+#### Section 4 : Des preuves.<a id=44></a>
 
 ###### Article 259
 
@@ -7220,9 +7404,9 @@ _Créé par_:
   - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
-### Chapitre III : Des conséquences du divorce<a id=44></a>
+### Chapitre III : Des conséquences du divorce<a id=45></a>
 
-#### Section 1 : De la date à laquelle se produisent les effets du divorce<a id=45></a>
+#### Section 1 : De la date à laquelle se produisent les effets du divorce<a id=46></a>
 
 ###### Article 260
 
@@ -7424,9 +7608,9 @@ _Créé par_:
   - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
-#### Section 2 : Des conséquences du divorce pour les époux<a id=46></a>
+#### Section 2 : Des conséquences du divorce pour les époux<a id=47></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=47></a>
+##### Paragraphe 1 : Dispositions générales.<a id=48></a>
 
 ###### Article 263
 
@@ -7540,7 +7724,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-##### Paragraphe 3 : Des prestations compensatoires.<a id=48></a>
+##### Paragraphe 3 : Des prestations compensatoires.<a id=49></a>
 
 ###### Article 270
 
@@ -7584,9 +7768,9 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 2 : Des conséquences du divorce pour les époux.<a id=49></a>
+#### Section 2 : Des conséquences du divorce pour les époux.<a id=50></a>
 
-##### Paragraphe 2 : Des suites propres aux différents cas de divorce.<a id=50></a>
+##### Paragraphe 2 : Des suites propres aux différents cas de divorce.<a id=51></a>
 
 ###### Article 266
 
@@ -7769,7 +7953,7 @@ _Abrogé par_:
   - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 3 : Des prestations compensatoires.<a id=51></a>
+##### Paragraphe 3 : Des prestations compensatoires.<a id=52></a>
 
 ###### Article 271
 
@@ -8263,7 +8447,7 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-##### Paragraphe 4 : Du devoir de secours après le divorce.<a id=52></a>
+##### Paragraphe 4 : Du devoir de secours après le divorce.<a id=53></a>
 
 ###### Article 281
 
@@ -8427,7 +8611,7 @@ _Cité par_:
   - Code civil - art. 303 (M)
 
 
-##### Paragraphe 5 : Du logement.<a id=53></a>
+##### Paragraphe 5 : Du logement.<a id=54></a>
 
 ###### Article 285-1
 
@@ -8469,7 +8653,7 @@ _Modifié par_:
   - Loi n°87-570 du 22 juillet 1987 - art. 4 () JORF 24 juillet 1987
 
 
-#### Section 3 : Des conséquences du divorce pour les enfants.<a id=54></a>
+#### Section 3 : Des conséquences du divorce pour les enfants.<a id=55></a>
 
 ###### Article 286
 
@@ -8494,29 +8678,32 @@ _Créé par_:
 
 ###### Article 287
 
-Selon l'intérêt des enfants mineurs, l'autorité parentale est exercée soit en commun par les deux parents après que le juge
-ait recueilli leur avis, soit par l'un d'eux. En cas d'exercice en commun de l'autorité parentale, le juge indique le parent
-chez lequel les enfants ont leur résidence habituelle.
+L'autorité parentale est exercée en commun par les deux parents. Le juge désigne, à défaut d'accord amiable ou si cet accord
+lui apparaît contraire à l'intérêt de l'enfant, le parent chez lequel les enfants ont leur résidence habituelle.
+
+Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'autorité parentale à l'un des deux parents.
+
+Les parents peuvent, de leur propre initiative ou à la demande du juge, présenter leurs observations sur les modalités de
+l'exercice de l'autorité parentale.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-_Modifié par_:
-
-  - Loi n°87-570 du 22 juillet 1987 - art. 5 () JORF 24 juillet 1987
 
 _Cité par_:
 
   - Code civil - art. 373-2 (M)
   - Code civil - art. 375-3 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 36 () JORF 9 janvier 1993
+
+_Abrogé par_:
+
+  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 
 ###### Article 287-1
@@ -8663,29 +8850,26 @@ Le juge tient compte :
 
 2° Des renseignements qui ont été recueillis dans l'enquête et la contre-enquête sociale prévues à l'article 287-1 ;
 
-3° Des sentiments exprimés par les enfants. Lorsque ceux-ci ont moins de treize ans, ils ne peuvent être entendus que si leur
-audition paraît nécessaire et ne comporte pas d'inconvénients pour eux ; lorsqu'ils ont plus de treize ans, leur audition ne
-peut être écartée que par décision spécialement motivée. Cette décision n'est susceptible d'appel qu'avec la décision qui
-statue sur l'autorité parentale.
+3° Des sentiments exprimés par les enfants mineurs dans les conditions prévues à l'article 388-1.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
 _Modifié par_:
 
-  - Loi n°87-570 du 22 juillet 1987 - art. 10 () JORF 24 juillet 1987
+  - Loi n°93-22 du 8 janvier 1993 - art. 57 () JORF 9 janvier 1993
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 _Cite_:
 
   - Code civil - art. 287-1 (M)
+  - Code civil - art. 388-1 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 291
@@ -8741,8 +8925,8 @@ _Abrogé par_:
 ###### Article 293
 
 La contribution à l'entretien et à l'éducation des enfants prévue à l'article 288 prend la forme d'une pension alimentaire
-versée, selon le cas, au parent qui a l'exercice de l'autorité parentale ou chez lequel les enfants ont leur résidence
-habituelle ou à la personne à laquelle les enfants ont été confiés.
+versée, selon le cas, au parent chez lequel les enfants ont leur résidence habituelle ou qui exerce l'autorité parentale ou à
+la personne à laquelle les enfants ont été confiés.
 
 Les modalités et les garanties de cette pension alimentaire sont fixées par le jugement ou, en cas de divorce sur demande
 conjointe, par la convention des époux homologuée par le juge.
@@ -8755,12 +8939,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°87-570 du 22 juillet 1987 - art. 11 () JORF 24 juillet 1987
+  - Loi n°93-22 du 8 janvier 1993 - art. 37 () JORF 9 janvier 1993
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 _Cite_:
 
@@ -8858,9 +9041,9 @@ _Abrogé par_:
   - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 
-### Chapitre IV : De la séparation de corps<a id=55></a>
+### Chapitre IV : De la séparation de corps<a id=56></a>
 
-#### Section 1 : Des cas et de la procédure de la séparation de corps<a id=56></a>
+#### Section 1 : Des cas et de la procédure de la séparation de corps<a id=57></a>
 
 ###### Article 296
 
@@ -8950,7 +9133,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
 
 
-#### Section 2 : Des conséquences de la séparation de corps<a id=57></a>
+#### Section 2 : Des conséquences de la séparation de corps<a id=58></a>
 
 ###### Article 299
 
@@ -9121,7 +9304,7 @@ _Créé par_:
   - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
-#### Section 3 : De la fin de la séparation de corps<a id=58></a>
+#### Section 3 : De la fin de la séparation de corps<a id=59></a>
 
 ###### Article 305
 
@@ -9231,7 +9414,7 @@ _Créé par_:
   - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
-### Chapitre V : Du conflit des lois relatives au divorce et à la séparation de corps<a id=59></a>
+### Chapitre V : Du conflit des lois relatives au divorce et à la séparation de corps<a id=60></a>
 
 ###### Article 310
 
@@ -9276,11 +9459,11 @@ _Cité par_:
   - Loi n°1941-04-02 du 2 avril 1941 - art. 6 (Ab)
 
 
-## Titre VII : De la filiation<a id=60></a>
+## Titre VII : De la filiation<a id=61></a>
 
-### Chapitre Ier : Dispositions générales<a id=61></a>
+### Chapitre Ier : Dispositions générales<a id=62></a>
 
-#### Section 1 : Des preuves et présomptions<a id=62></a>
+#### Section 1 : Des preuves et présomptions<a id=63></a>
 
 ###### Article 311
 
@@ -9377,9 +9560,9 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-### Chapitre Ier : Dispositions communes à la filiation légitime et à la filiation naturelle<a id=63></a>
+### Chapitre Ier : Dispositions communes à la filiation légitime et à la filiation naturelle<a id=64></a>
 
-#### Section 1 : Des présomptions relatives à la filiation.<a id=64></a>
+#### Section 1 : Des présomptions relatives à la filiation.<a id=65></a>
 
 ###### Article 311-3
 
@@ -9389,30 +9572,34 @@ Les parents ou l'enfant peuvent demander au juge des tutelles que leur soit dél
 Sans préjudice de tous autres moyens de preuve auxquels ils pourraient recourir pour en établir l'existence en justice, si
 elle venait à être contestée.
 
+Le lien de filiation établi par la possession d'état constatée dans l'acte de notoriété est mentionné en marge de l'acte de
+naissance de l'enfant.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 13 () JORF 9 janvier 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cite_:
 
   - Code civil - art. 71 (V)
   - Code civil - art. 72 (V)
 
+_Codifié par_:
 
-#### Section 2 : Des actions relatives à la filiation.<a id=65></a>
+  - Loi n°1803-03-14
+
+
+#### Section 2 : Des actions relatives à la filiation.<a id=66></a>
 
 ###### Article 311-4
 
@@ -9633,9 +9820,9 @@ _Nouveaux textes_:
 
 ###### Article 311-11
 
-Pareillement quand, sur l'une des actions ouvertes par les articles 340 et 342 ci-dessous, il est opposé une fin de non-
-recevoir ou une défense tirée de ce que la mère a eu, pendant la période légale de la conception, des relations avec un
-tiers, le juge peut ordonner que celui-ci soit appelé en la cause.
+Pareillement quand, sur l'une des actions ouvertes par les articles 340 et 342 ci-dessous, il est opposé une défense tirée de
+ce que la mère a eu, pendant la période légale de la conception, des relations avec un tiers, le juge peut ordonner que
+celui-ci soit appelé en la cause.
 
 **Liens relatifs à cet article**
 
@@ -9643,17 +9830,18 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 14 () JORF 9 janvier 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
   - TXT_ASSOCIE: Code civil - art. 342-3 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cite_:
 
@@ -9715,7 +9903,7 @@ _Abrogé par_:
   - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
-#### Section 3 : Du conflit des lois relatives à l'établissement de la filiation.<a id=66></a>
+#### Section 3 : Du conflit des lois relatives à l'établissement de la filiation.<a id=67></a>
 
 ###### Article 311-14
 
@@ -9837,9 +10025,9 @@ _Créé par_:
   - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 
-### Chapitre II : De la filiation légitime.<a id=67></a>
+### Chapitre II : De la filiation légitime.<a id=68></a>
 
-#### Section 1 : De la présomption de paternité.<a id=68></a>
+#### Section 1 : De la présomption de paternité.<a id=69></a>
 
 ###### Article 312
 
@@ -9943,22 +10131,21 @@ est établie à l'égard de la mère comme s'il y avait eu désaveu admis en jus
 Chacun des époux peut demander que les effets de la présomption de paternité soient rétablis, en justifiant que, dans la
 période légale de la conception, une réunion de fait a eu lieu entre eux, qui rend vraisemblable la paternité du mari.
 
+L'action est ouverte à l'enfant pendant les deux années qui suivent sa majorité.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 15 () JORF 9 janvier 1993
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cite_:
 
@@ -10110,29 +10297,26 @@ _Abrogé par_:
 
 ###### Article 317
 
-L'action en désaveu est dirigée, en présence de la mère, contre un tuteur ad hoc, désigné à l'enfant par le juge des
-tutelles.
+L'action en désaveu est dirigée, en présence de la mère contre un administrateur ad hoc, désigné à l'enfant par le juge des
+tutelles, dans les conditions prévues à l'article 389-3.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 2492 (VD)
+
+_Cite_:
+
+  - Code civil - art. 389-3 (M)
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-_Cité par_:
-
-  - Code civil - art. 2492 (VD)
+  - Loi n°93-22 du 8 janvier 1993 - art. 59 () JORF 9 janvier 1993
 
 
 ###### Article 318
@@ -10170,40 +10354,28 @@ _Codifié par_:
 ###### Article 318-1
 
 A peine d'irrecevabilité, l'action, dirigée contre le mari ou ses héritiers, est jointe à une demande de légitimation formée
-dans les termes de l'article 331-1 ci-dessous.
+devant le tribunal de grande instance.
 
 Elle doit être introduite par la mère et son nouveau conjoint dans les six mois de leur mariage et avant que l'enfant n'ait
 atteint l'âge de sept ans.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Loi n°72-3 du 3 janvier 1972 - art. 18 (V)
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 16 () JORF 9 janvier 1993
+
 _Anciens textes_:
 
   - Code civil - art. 311-5 (T)
 
-_Cite_:
-
-  - Code civil - art. 331-1 (Ab)
-
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 18 (V)
-
-_Cité par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 18 (V)
 
 
 ###### Article 318-2
@@ -10230,7 +10402,7 @@ _Abrogé par_:
   - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
-#### Section 2 : Des preuves de la filiation légitime.<a id=69></a>
+#### Section 2 : Des preuves de la filiation légitime.<a id=70></a>
 
 ###### Article 319
 
@@ -10364,73 +10536,28 @@ _Abrogé par_:
 ###### Article 323
 
 A défaut de titre et de possession d'état, ou si l'enfant a été inscrit, soit sous de faux noms, soit sans indication du nom
-de la mère, la preuve de la filiation peut se faire par témoins.
-
-La preuve par témoins ne peut, néanmoins, être admise que lorsqu'il existe, soit un commencement de preuve par écrit, soit
-des présomptions ou indices assez graves pour en déterminer l'admission.
+de la mère, la preuve de la filiation ne peut être judiciairement rapportée que s'il existe des présomptions ou indices assez
+graves pour en déterminer l'admission.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-_Cité par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
-  - Code civil - art. 328 (M)
 
 _Anciens textes_:
 
   - Code civil - art. 311-9 (T)
 
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-
-###### Article 324
-
-Le commencement de preuve par écrit résulte des titres de famille, des registres et papiers domestiques, ainsi que de tous
-autres écrits publics ou privés émanés d'une partie engagée dans la contestation ou qui y aurait intérêt si elle était
-vivante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-_Abrogé par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993
-
 _Cité par_:
 
+  - Code civil - art. 328 (M)
   - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
-  - Code civil - art. 341 (M)
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Code civil - art. 311-10 (T)
+  - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 17 () JORF 9 janvier 1993
+  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993
 
 
 ###### Article 325
@@ -10557,12 +10684,11 @@ _Cite_:
   - Code civil - art. 323 (M)
 
 
-#### Section 3 : De la légitimation.<a id=70></a>
+#### Section 3 : De la légitimation.<a id=71></a>
 
 ###### Article 329
 
-La légitimation peut bénéficier à tous les enfants naturels, pourvu que, soit par reconnaissance volontaire, soit par
-jugement, leur filiation ait été légalement établie.
+La légitimation peut bénéficier à tous les enfants naturels pourvu que leur filiation ait été légalement établie.
 
 **Liens relatifs à cet article**
 
@@ -10570,16 +10696,13 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 18 () JORF 9 janvier 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
 
 _Cité par_:
 
@@ -10610,11 +10733,12 @@ _Créé par_:
   - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 
-##### Paragraphe 1 : De la légitimation par mariage.<a id=71></a>
+##### Paragraphe 1 : De la légitimation par mariage.<a id=72></a>
 
 ###### Article 331
 
-Tous les enfants nés hors mariage sont légitimés de plein droit par le mariage subséquent de leurs père et mère.
+Tous les enfants nés hors mariage "fussent-ils décédés" sont légitimés de plein droit par le mariage subséquent de leurs père
+et mère.
 
 Si leur filiation n'était pas déjà établie, ces enfants font l'objet d'une reconnaissance au moment de la célébration du
 mariage. En ce cas, l'officier de l'état civil qui procède à la célébration constate la reconnaissance et la légitimation
@@ -10622,16 +10746,11 @@ dans un acte séparé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 10 () JORF 9 janvier 1993
+  - Loi n°2002-304 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+  - Loi n°2003-516 du 18 juin 2003 - art. 5 () JORF 19 juin 2003
 
 _Cité par_:
 
@@ -10683,22 +10802,18 @@ Toute légitimation est mentionnée en marge de l'acte de naissance de l'enfant 
 Cette mention peut être requise par tout intéressé. Dans le cas de l'article 331, l'officier de l'état civil y pourvoit lui-
 même, s'il a eu connaissance de l'existence des enfants.
 
+La mention de la légitimation sur l'acte de naissance d'un enfant majeur est dépourvue d'effet sur son patronyme si l'acte ne
+comporte pas, en outre, la mention du consentement de l'intéressé à la modification de son patronyme.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 19 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -10712,41 +10827,19 @@ _Cite_:
   - Code civil - art. 331 (M)
 
 
-###### Article 332
-
-La légitimation peut avoir lieu après la mort de l'enfant, s'il a laissé des descendants ; elle profite alors à ceux-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-_Abrogé par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 10 () JORF 9 janvier 1993
-
-_Cité par_:
-
-  - Code civil - art. 333-6 (M)
-
-
 ###### Article 332-1
 
 La légitimation confère à l'enfant légitimé les droits et les devoirs de l'enfant légitime.
 
+Toutefois, la légitimation ne peut avoir pour effet de modifier le patronyme d'un enfant majeur sans le consentement de
+celui-ci.
+
 Elle prend effet à la date du mariage.
+
+**Nota:**
+
+NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
+1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -10754,16 +10847,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 20 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -10773,7 +10859,7 @@ _Cité par_:
   - Code civil - art. 333-6 (Ab)
 
 
-##### Paragraphe 2 : De la légitimation par autorité de justice<a id=72></a>
+##### Paragraphe 2 : De la légitimation par autorité de justice<a id=73></a>
 
 ###### Article 333
 
@@ -10975,9 +11061,9 @@ _Cite_:
   - Code civil - art. 332-1 (M)
 
 
-### Chapitre III : De la filiation naturelle.<a id=73></a>
+### Chapitre III : De la filiation naturelle.<a id=74></a>
 
-#### Section 1 : Des effets de la filiation naturelle et de ses modes d'établissement en général.<a id=74></a>
+#### Section 1 : Des effets de la filiation naturelle et de ses modes d'établissement en général.<a id=75></a>
 
 ###### Article 334
 
@@ -11331,29 +11417,28 @@ _Cite_:
   - Code civil - art. 162 (M)
 
 
-#### Section 2 : De la reconnaissance des enfants naturels<a id=75></a>
+#### Section 2 : De la reconnaissance des enfants naturels<a id=76></a>
 
 ###### Article 335
 
-La reconnaissance d'un enfant naturel sera faite par acte authentique, lorsqu'elle ne l'aura pas été dans l'acte de
-naissance.
+La reconnaissance d'un enfant naturel peut être faite dans l'acte de naissance, par acte reçu par l'officier de l'état civil
+ou par tout autre acte authentique.
+
+L'acte comporte les énonciations prévues à l'article 62.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 62 (M)
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 22 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -11474,27 +11559,27 @@ _Cité par_:
   - Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
 
 
-#### Section 3 : Des actions en recherche de paternité et de maternité.<a id=76></a>
+#### Section 3 : Des actions en recherche de paternité et de maternité.<a id=77></a>
 
 ###### Article 340
 
-La paternité hors mariage peut être judiciairement déclarée :
+La paternité hors mariage peut être judiciairement déclarée.
 
-1° Dans le cas d'enlèvement ou de viol, lorsque l'époque des faits se rapportera à celle de la conception ;
-
-2° Dans le cas de séduction, accomplie à l'aide de manoeuvres dolosives, abus d'autorité, promesse de mariage ou
-fiançailles ;
-
-3° Dans le cas où il existe des lettres ou quelque autre écrit émanant du père prétendu, propres à établir la paternité d'une
-manière non équivoque ;
-
-4° Dans le cas où le père prétendu et la mère ont vécu pendant la période légale de la conception en état de concubinage,
-impliquant, à défaut de communauté de vie, des relations stables et continues ;
-
-5° Dans le cas où le père prétendu a pourvu ou participé à l'entretien, à l'éducation ou à l'établissement de l'enfant en
-qualité de père.
+La preuve ne peut en être rapportée que s'il existe des présomptions ou indices graves.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 23 () JORF 9 janvier 1993
+
+_Transféré par_:
+
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -11505,62 +11590,6 @@ _Nouveaux textes_:
 
   - Code civil - art. 327 (M)
   - Code civil - art. 327 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-###### Article 340-1
-
-L'action en recherche de paternité ne sera pas recevable :
-
-1° S'il est établi que, pendant la période légale de la conception, la mère était d'une inconduite notoire ou qu'elle a eu
-commerce avec un autre individu, à moins qu'il ne résulte d'un examen des sangs ou de toute autre méthode médicale certaine
-que cet individu ne peut être le père ;
-
-2° Si le père prétendu était, pendant la même période, soit par suite d'éloignement, soit par l'effet de quelque accident,
-dans l'impossibilité physique d'être le père ;
-
-3° Si le père prétendu établit par un examen des sangs ou par toute autre méthode médicale certaine qu'il ne peut être le
-père de l'enfant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-_Abrogé par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993
-
-_Cité par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
-  - Code civil - art. 342-4 (M)
 
 
 ###### Article 340-2
@@ -11601,8 +11630,9 @@ _Cite_:
 
 ###### Article 340-3
 
-L'action en recherche de paternité est exercée contre le père prétendu ou contre ses héritiers ; si les héritiers ont renoncé
-à la succession, contre l'Etat.
+L'action en recherche de paternité est exercée contre le père prétendu ou contre ses héritiers ; à défaut d'héritiers ou si
+ceux-ci ont renoncé à la succession, contre l'Etat, les héritiers renonçants devant être cependant appelés à la procédure
+pour y faire valoir leurs droits.
 
 **Liens relatifs à cet article**
 
@@ -11610,16 +11640,17 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 24 () JORF 9 janvier 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -11630,11 +11661,14 @@ _Cité par_:
 
 L'action doit, à peine de déchéance, être exercée dans les deux années qui suivent la naissance.
 
-Toutefois, dans les quatrième et cinquième cas de l'article 340, elle peut être exercée jusqu'à l'expiration des deux années
-qui suivent la cessation, soit du concubinage, soit des actes de participation à l'entretien et à l'éducation de l'enfant.
+Toutefois, si le père prétendu et la mère ont vécu pendant la période légale de la conception en état de concubinage
+impliquant, à défaut de communauté de vie, des relations stables ou continues, l'action peut être exercée jusqu'à
+l'expiration des deux années qui suivent la cessation du concubinage. Si le père prétendu a participé à l'entretien, à
+l'éducation ou à l'établissement de l'enfant en qualité de père, l'action peut être exercée jusqu'à l'expiration des deux
+années qui suivent la cessation de cette contribution.
 
 Si elle n'a pas été exercée pendant la minorité de l'enfant, celui-ci peut encore l'exercer pendant les deux années qui
-suivent sa majorité.
+suivent la majorité.
 
 **Liens relatifs à cet article**
 
@@ -11642,20 +11676,17 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 25 () JORF 9 janvier 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-_Cite_:
+_Abrogé par_:
 
-  - Code civil - art. 340 (M)
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 340-5
@@ -11741,14 +11772,38 @@ _Abrogé par_:
 
 ###### Article 341
 
-La recherche de la maternité est admise.
+La recherche de la maternité est admise sous réserve de l'application de l'article 341-1.
 
 L'enfant qui exerce l'action sera tenu de prouver qu'il est celui dont la mère prétendue est accouchée.
 
-Il sera reçu à le prouver en établissant qu'il a, à l'égard de celle-ci, la possession d'état d'enfant naturel.
+La preuve ne peut en être rapportée que s'il existe des présomptions ou indices graves.
 
-A défaut, la preuve de la filiation pourra être faite par témoins, s'il existe, soit des présomptions ou indices graves, soit
-un commencement de preuve par écrit, au sens de l'article 324 ci-dessus.
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 341-1 (T)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 26 () JORF 9 janvier 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+
+###### Article 341-1
+
+Lors de l'accouchement, la mère peut demander que le secret de son admission et de son identité soit préservé.
 
 **Liens relatifs à cet article**
 
@@ -11758,21 +11813,24 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°93-22 du 8 janvier 1993 - art. 27 () JORF 9 janvier 1993
 
-**Liens**:
+_Transféré par_:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code civil - art. 324 (Ab)
+  - Code civil - art. 326 (M)
+  - Code civil - art. 326 (V)
+
+_Cité par_:
+
+  - Code civil - art. 341 (Ab)
+  - Code civil - art. 62 (V)
 
 
-#### Section 4 : De l'action à fins de subsides<a id=77></a>
+#### Section 4 : De l'action à fins de subsides<a id=78></a>
 
 ###### Article 342
 
@@ -11925,8 +11983,7 @@ _Cité par_:
 
 ###### Article 342-4
 
-Le défendeur peut écarter la demande, soit en faisant la preuve, conformément à l'article 340-1, 2° et 3°, qu'il ne pouvait
-être le père de l'enfant, soit en établissant que la mère se livrait à la débauche.
+Le défendeur peut écarter la demande en faisant la preuve par tous moyens qu'il ne peut être le père de l'enfant.
 
 **Liens relatifs à cet article**
 
@@ -11934,20 +11991,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-_Cite_:
-
-  - Code civil - art. 340-1 (Ab)
+  - Loi n°93-22 du 8 janvier 1993 - art. 28 () JORF 9 janvier 1993
 
 
 ###### Article 342-5
@@ -12066,11 +12112,11 @@ _Créé par_:
   - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 
-## Titre VIII : De la filiation adoptive<a id=78></a>
+## Titre VIII : De la filiation adoptive<a id=79></a>
 
-### Chapitre Ier : De l'adoption plénière<a id=79></a>
+### Chapitre Ier : De l'adoption plénière<a id=80></a>
 
-#### Section 1 : Des conditions requises pour l'adoption plénière<a id=80></a>
+#### Section 1 : Des conditions requises pour l'adoption plénière<a id=81></a>
 
 ###### Article 343
 
@@ -12212,6 +12258,22 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°76-1179 1976-12-22 art. 5 JORF 23 décembre 1976
+
+
+###### Article 345-1
+
+L'adoption plénière de l'enfant du conjoint n'est permise que lorsque cet enfant n'a de filiation légalement établie qu'à
+l'égard de ce conjoint.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 29 () JORF 9 janvier 1993
 
 
 ###### Article 346
@@ -12533,32 +12595,18 @@ relations nécessaires au maintien de liens affectifs.
 
 La simple rétractation du consentement à l'adoption, la demande de nouvelles ou l'intention exprimée mais non suivie d'effet
 de reprendre l'enfant n'est pas une marque d'intérêt suffisante pour motiver de plein droit le rejet d'une demande en
-déclaration d'abandon.
+déclaration d'abandon. Ces démarches n'interrompent pas le délai figurant au premier alinéa.
 
 L'abandon n'est pas déclaré si, au cours du délai prévu au premier alinéa du présent article, un membre de la famille a
 demandé à assumer la charge de l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier.
 
 Lorsqu'il déclare l'enfant abandonné, le tribunal délègue par la même décision les droits d'autorité parentale sur l'enfant
-au service de l'aide sociale à l'enfance, à l'établissement ou au particulier gardien de l'enfant.
+au service de l'aide sociale à l'enfance, à l'établissement ou au particulier qui a recueilli l'enfant ou à qui ce dernier a
+été confié.
 
 La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur l'identité de l'enfant.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
-_Modifié par_:
-
-  - Loi n°76-1179 1976-12-22 art. 8 JORF 23 décembre 1976
 
 _Cité par_:
 
@@ -12573,8 +12621,12 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
+_Modifié par_:
 
-#### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière<a id=81></a>
+  - Loi n°93-22 du 8 janvier 1993 - art. 30 () JORF 9 janvier 1993
+
+
+#### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière<a id=82></a>
 
 ###### Article 351
 
@@ -12659,8 +12711,9 @@ _Codifié par_:
 
 ###### Article 353
 
-L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande instance qui vérifie si les conditions de la
-loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant.
+L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande instance qui vérifie dans un délai de six mois
+à compter de la saisine du tribunal si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de
+l'enfant.
 
 Dans le cas où l'adoptant a des descendants le tribunal vérifie en outre si l'adoption n'est pas de nature à compromettre la
 vie familiale.
@@ -12671,17 +12724,6 @@ son nom par le conjoint survivant ou l'un des héritiers de l'adoptant.
 Le jugement prononçant l'adoption n'est pas motivé.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 _Cité par_:
 
@@ -12694,7 +12736,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°76-1179 1976-12-22 art. 9 JORF 23 décembre 1976
+  - Loi n°93-22 du 8 janvier 1993 - art. 33 () JORF 9 janvier 1993
 
 _Codifié par_:
 
@@ -12782,7 +12824,7 @@ _Cite_:
   - Code civil - art. 58 (V)
 
 
-#### Section 3 : Des effets de l'adoption plénière<a id=82></a>
+#### Section 3 : Des effets de l'adoption plénière<a id=83></a>
 
 ###### Article 355
 
@@ -12945,15 +12987,15 @@ _Cité par_:
   - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
 
 
-### Chapitre II : De l'adoption simple<a id=83></a>
+### Chapitre II : De l'adoption simple<a id=84></a>
 
-#### Section 1 : Des conditions requises et du jugement<a id=84></a>
+#### Section 1 : Des conditions requises et du jugement<a id=85></a>
 
 ###### Article 360
 
 L'adoption simple est permise quel que soit l'âge de l'adopté.
 
-Si l'adopté est âgé de plus de quinze ans, il doit consentir personnellement à l'adoption.
+Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement à l'adoption.
 
 **Liens relatifs à cet article**
 
@@ -12961,20 +13003,13 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
 _Cité par_:
 
   - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 31 () JORF 9 janvier 1993
 
 
 ###### Article 361
@@ -13045,12 +13080,20 @@ _Cité par_:
   - Code civil - art. 370-1 (V)
 
 
-#### Section 2 : Des effets de l'adoption simple<a id=85></a>
+#### Section 2 : Des effets de l'adoption simple<a id=86></a>
 
 ###### Article 363
 
-L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier. Le tribunal peut toutefois
-décider que l'adopté ne portera que le nom de l'adoptant.
+L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier.
+
+Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant. Cette
+demande peut également être formée postérieurement à l'adoption. Si l'adopté est âgé de plus de treize ans, son consentement
+personnel à cette substitution de patronyme est nécessaire.
+
+**Nota:**
+
+NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
+1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -13058,16 +13101,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 32 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -13371,9 +13407,9 @@ _Créé par_:
   - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 
-## Titre IX : De l'autorité parentale<a id=86></a>
+## Titre IX : De l'autorité parentale<a id=87></a>
 
-### Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant<a id=87></a>
+### Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant<a id=88></a>
 
 ###### Article 371
 
@@ -13576,23 +13612,24 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 1 : De l'exercice de l'autorité parentale<a id=88></a>
+#### Section 1 : De l'exercice de l'autorité parentale<a id=89></a>
 
-##### Paragraphe 4 : De l'intervention des tiers<a id=89></a>
+##### Paragraphe 4 : De l'intervention des tiers<a id=90></a>
 
 ###### Article 374-1
 
-Les mêmes règles sont applicables, à défaut de reconnaissance volontaire, quand la filiation est établie, soit à l'égard des
-deux parents, soit à l'égard d'un seul d'entre eux.
-
-Toutefois, en statuant sur l'une ou l'autre filiation, le tribunal peut toujours décider de confier provisoirement l'enfant à
-un tiers qui sera chargé de requérir l'organisation de la tutelle.
+Le tribunal qui statue sur l'établissement d'une filiation naturelle peut décider de confier provisoirement l'enfant à un
+tiers qui sera chargé de requérir l'organisation de la tutelle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-03-14
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
 
 _Cité par_:
 
@@ -13602,12 +13639,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°87-570 du 22 juillet 1987 - art. 19 () JORF 24 juillet 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 45 () JORF 9 janvier 1993
 
 
 ###### Article 374-2
@@ -13638,11 +13670,16 @@ _Créé par_:
   - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 
-#### Section 1 : De l'exercice de l'autorité parentale.<a id=90></a>
+#### Section 1 : De l'exercice de l'autorité parentale.<a id=91></a>
 
 ###### Article 372
 
-Pendant le mariage, les père et mère exercent en commun leur autorité.
+L'autorité parentale est exercée en commun par les deux parents s'ils sont mariés.
+
+Elle est également exercée en commun si les parents d'un enfant naturel, l'ayant tous deux reconnu avant qu'il ait atteint
+l'âge d'un an, vivent en commun au moment de la reconnaissance concomitante ou de la seconde reconnaissance.
+
+Les dispositions de l'alinéa précédent ne font pas obstacle à celles des troisième et quatrième alinéas de l'article 374.
 
 **Liens relatifs à cet article**
 
@@ -13650,19 +13687,13 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 46 *dérogations*
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 38 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -13717,26 +13748,51 @@ _Nouveaux textes_:
   - Code civil - art. 372-1-1 (M)
 
 
-###### Article 372-2
+###### Article 372-1-1
 
-A l'égard des tiers de bonne foi, chacun des époux est réputé agir avec l'accord de l'autre, quand il fait seul un acte usuel
-de l'autorité parentale relativement à la personne de l'enfant.
+Si les père et mère ne parvenaient pas à s'accorder sur ce qu'exige l'intérêt de l'enfant, la pratique qu'ils avaient
+précédemment pu suivre dans des occasions semblables leur tiendrait lieu de règle.
+
+A défaut d'une telle pratique ou en cas de contestation sur son existence ou son bien-fondé, le parent le plus diligent
+pourra saisir le juge des tutelles qui statuera après avoir tenté de concilier les parties.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*
+
+_Créé par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 39 () JORF 9 janvier 1993
+  - Loi n°93-22 du 8 janvier 1993 - art. 40 () JORF 9 janvier 1993
+
+_Cité par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 52 (Ab)
+  - Code de la santé publique - art. R355-45 (Ab)
+  - Code de la santé publique - art. R3711-13 (V)
+  - Nouveau code de procédure civile - art. 1179 (M)
+
+_Anciens textes_:
+
+  - Code civil - art. 372-1 (T)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 372-2
+
+A l'égard des tiers de bonne foi, chacun des parents est réputé agir avec l'accord de l'autre, quand il fait seul un acte
+usuel de l'autorité parentale relativement à la personne de l'enfant.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 41 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -13823,9 +13879,8 @@ _Cité par_:
 
 ###### Article 373-2
 
-Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée soit en commun par les deux parents,
-soit par celui d'entre eux à qui le tribunal l'a confiée, sauf, dans ce dernier cas, le droit de visite et de surveillance de
-l'autre. S'ils exercent en commun leur autorité, les articles 372-1 et 372-2 demeurent applicables.
+Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée dans les conditions prévues à
+l'article 287.
 
 **Liens relatifs à cet article**
 
@@ -13836,17 +13891,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°87-570 du 22 juillet 1987 - art. 15 () JORF 24 juillet 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 42 () JORF 9 janvier 1993
 
 _Cite_:
 
-  - Code civil - art. 372-1 (T)
-  - Code civil - art. 372-2 (M)
+  - Code civil - art. 287 (M)
 
 _Codifié par_:
 
@@ -13859,16 +13908,23 @@ Le divorce ou la séparation de corps ne fait pas obstacle à la dévolution pr�
 père et mère qui demeure en état d'exercer l'autorité parentale aurait été privé de l'exercice de certains des attributs de
 cette autorité par l'effet du jugement prononcé contre lui.
 
-Néanmoins, le tribunal qui avait statué en dernier lieu sur les modalités de l'exercice de l'autorité parentale peut toujours
-être saisi par la famille ou par le ministère public, afin de confier l'enfant à un tiers, avec ou sans ouverture d'une
-tutelle, ainsi qu'il est dit à l'article suivant.
+Néanmoins, le tribunal qui avait statué en dernier lieu sur la garde peut toujours être saisi par la famille ou par le
+ministère public, afin de confier l'enfant à un tiers, avec ou sans ouverture d'une tutelle, ainsi qu'il est dit à l'article
+suivant.
 
-Dans des circonstances exceptionnelles, le tribunal qui statue sur les modalités de l'exercice de l'autorité parentale après
-divorce ou séparation de corps peut décider, du vivant même des parents, qu'en cas de décès de celui d'entre eux qui exerce
-cette autorité, l'enfant n'est pas confié au survivant. Il peut, dans ce cas, désigner la personne à laquelle l'enfant est
-provisoirement confié.
+Dans des circonstances exceptionnelles, le juge aux affaires familiales qui statue sur les modalités de l'exercice de
+l'autorité parentale après divorce ou séparation de corps peut décider, du vivant même des parents, qu'en cas de décès de
+celui d'entre eux qui exerce cette autorité, l'enfant n'est pas confié au survivant. Il peut, dans ce cas, désigner la
+personne à laquelle l'enfant est provisoirement confié.
+
+Les dispositions des deuxième et troisième alinéas sont applicables aux parents d'un enfant naturel qui exercent en commun
+l'autorité parentale, lorsqu'ils résident séparément.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 _Cité par_:
 
@@ -13879,23 +13935,18 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L521-2 (V)
   - Code de procédure civile - art. 1180 (V)
 
-_Modifié par_:
-
-  - Loi n°87-570 du 22 juillet 1987 - art. 16 () JORF 24 juillet 1987
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 43 () JORF 9 janvier 1993
 
 _Cite_:
 
   - Code civil - art. 373-1 (M)
   - Code civil - art. 373-4 (M)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 373-4
@@ -13965,54 +14016,46 @@ _Créé par_:
 
 ###### Article 374
 
-L'autorité parentale est exercée sur l'enfant naturel par celui des père et mère qui l'a volontairement reconnu, s'il n'a été
-reconnu que par l'un d'eux. Si l'un et l'autre l'ont reconnu, l'autorité parentale est exercée par la mère.
+Lorsque la filiation d'un enfant naturel n'est établie qu'à l'égard de l'un de ses deux parents, celui-ci exerce seul
+l'autorité parentale.
 
-L'autorité parentale peut être exercée en commun par les deux parents s'ils en font la déclaration conjointe devant le juge
-des tutelles.
+Lorsque sa filiation est établie à l'égard de ses deux parents selon des modalités autres que celles prévues à l'article 372,
+l'autorité parentale est exercée par la mère. Toutefois, elle est exercée en commun par les deux parents s'ils en font la
+déclaration conjointe devant le juge aux affaires familiales.
 
-A la demande du père ou de la mère ou du ministère public, le juge aux affaires matrimoniales peut modifier les conditions
-d'exercice de l'autorité parentale et décider qu'elle sera exercée soit par l'un des deux parents, soit en commun par le père
-et la mère ; il indique, dans ce cas, le parent chez lequel l'enfant a sa résidence habituelle.
+Dans tous les cas, le juge aux affaires familiales peut, à la demande du père, de la mère ou du ministère public, modifier
+les conditions d'exercice de l'autorité parentale à l'égard d'un enfant naturel. Il peut décider qu'elle sera exercée soit
+par l'un des deux parents, soit en commun par le père et la mère ; il désigne, dans ce cas, le parent chez lequel l'enfant
+aura sa résidence habituelle.
 
-Le juge aux affaires matrimoniales peut toujours accorder un droit de visite et de surveillance au parent qui n'a pas
-l'exercice de l'autorité parentale.
+Le juge aux affaires familiales peut accorder un droit de surveillance au parent qui n'a pas l'exercice de l'autorité
+parentale. Il ne peut lui refuser un droit de visite et d'hébergement que pour des motifs graves.
 
-En cas d'exercice conjoint de l'autorité parentale, les articles 372-1 et 372-2 sont applicables comme si l'enfant était un
-enfant légitime.
+En cas d'exercice en commun de l'autorité parentale, le parent chez lequel les enfants ne résident pas habituellement
+contribue à leur entretien et à leur éducation à proportion des facultés respectives des parents.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
   - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
   - Code civil - art. 340-6 (M)
   - Code civil - art. 372 (M)
+  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
   - Nouveau code de procédure civile - art. 1180-1 (M)
   - Nouveau code de procédure civile - art. 1180-2 (M)
-
-_Modifié par_:
-
-  - Loi n°87-570 du 22 juillet 1987 - art. 18 () JORF 24 juillet 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-_Cite_:
-
-  - Code civil - art. 372-1 (T)
-  - Code civil - art. 372-2 (M)
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
+_Modifié par_:
 
-#### Section 2 : De l'assistance éducative<a id=91></a>
+  - Loi n°93-22 du 8 janvier 1993 - art. 44 () JORF 9 janvier 1993
+
+
+#### Section 2 : De l'assistance éducative<a id=92></a>
 
 ###### Article 375
 
@@ -14447,7 +14490,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 3 : De la délégation de l'autorité parentale<a id=92></a>
+#### Section 3 : De la délégation de l'autorité parentale<a id=93></a>
 
 ###### Article 376
 
@@ -14680,7 +14723,7 @@ _Créé par_:
   - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 
-#### Section 4 : De la déchéance et du retrait partiel de l'autorité parentale.<a id=93></a>
+#### Section 4 : De la déchéance et du retrait partiel de l'autorité parentale.<a id=94></a>
 
 ###### Article 378
 
@@ -14953,7 +14996,7 @@ _Cite_:
   - Code civil - art. 378-1 (M)
 
 
-### Chapitre II : De l'autorité parentale relativement aux biens de l'enfant<a id=94></a>
+### Chapitre II : De l'autorité parentale relativement aux biens de l'enfant<a id=95></a>
 
 ###### Article 382
 
@@ -15139,11 +15182,11 @@ _Cité par_:
   - Code de procédure civile - art. 1180-14 (V)
 
 
-## Titre X : De la minorité et de l'émancipation<a id=95></a>
+## Titre X : De la minorité et de l'émancipation<a id=96></a>
 
-### Chapitre Ier : De la minorité<a id=96></a>
+### Chapitre Ier : De la minorité<a id=97></a>
 
-#### Section 1 : De l'administration légale<a id=97></a>
+#### Section 1 : De l'administration légale<a id=98></a>
 
 ###### Article 389
 
@@ -15242,17 +15285,30 @@ L'administrateur légal représentera le mineur dans tous les actes civils, sauf
 autorise les mineurs à agir eux-mêmes.
 
 Quand ses intérêts sont en opposition avec ceux du mineur, il doit faire nommer un administrateur ad hoc par le juge des
-tutelles.
+tutelles. A défaut de diligence de l'administrateur légal, le juge peut procéder à cette nomination à la demande du ministère
+public, du mineur lui-même ou d'office.
 
-Ne sont pas soumis à l'administration légale, les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
+Ne sont pas soumis à l'administration légale les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
 seraient administrés par un tiers. Ce tiers administrateur aura les pouvoirs qui lui auront été conférés par la donation ou
 le testament ; à défaut, ceux d'un administrateur légal sous contrôle judiciaire.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+  - Loi n°1803-03-14
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 58 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -15261,10 +15317,6 @@ _Cité par_:
   - Code civil - art. 388-2 (V)
   - Code de procédure civile - art. 1210-1 (M)
   - Code de procédure pénale - art. R93 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 389-4
@@ -15378,9 +15430,9 @@ _Créé par_:
   - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
-#### Section 2 : De la tutelle<a id=98></a>
+#### Section 2 : De la tutelle<a id=99></a>
 
-##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle<a id=99></a>
+##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle<a id=100></a>
 
 ###### Article 390
 
@@ -15472,9 +15524,9 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-## Titre X : De la minorité, de la tutelle et de l'émancipation.<a id=100></a>
+## Titre X : De la minorité, de la tutelle et de l'émancipation.<a id=101></a>
 
-### Chapitre Ier : De la minorité.<a id=101></a>
+### Chapitre Ier : De la minorité.<a id=102></a>
 
 ###### Article 388
 
@@ -15506,11 +15558,93 @@ _Créé par_:
   - Loi n°1803-03-26 promulguée le 5 avril 1803
 
 
-### Chapitre II : De la tutelle.<a id=102></a>
+###### Article 388-1
 
-#### Section 2 : De l'organisation de la tutelle.<a id=103></a>
+Dans toute procédure le concernant, le mineur capable de discernement peut, sans préjudice des dispositions prévoyant son
+intervention ou son consentement, être entendu par le juge ou la personne désignée par le juge à cet effet.
 
-##### Paragraphe 1 : Du juge des tutelles.<a id=104></a>
+Lorsque le mineur en fait la demande, son audition ne peut être écartée que par une décision spécialement motivée. Il peut
+être entendu seul, avec un avocat ou une personne de son choix. Si ce choix n'apparaît pas conforme à l'intérêt du mineur, le
+juge peut procéder à la désignation d'une autre personne.
+
+L'audition du mineur ne lui confère pas la qualité de partie à la procédure.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°91-647 du 10 juillet 1991 - art. 10 (VD)
+  - Loi n°91-647 du 10 juillet 1991 - art. 9-1 (V)
+  - Décret n°91-1266 du 19 décembre 1991 - art. 70-1 (V)
+  - Décret n°96-887 du 10 octobre 1996 - art. Annexe (V)
+  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+  - Code civil - art. 229-2 (V)
+  - Code civil - art. 290 (Ab)
+  - Code civil - art. 373-2-11 (V)
+  - Code civil - art. 411 (VT)
+  - Code de procédure civile - art. 1144 (V)
+  - Code de procédure civile - art. 1148-2 (V)
+  - Code de procédure civile - art. 1180-9 (V)
+  - Code de procédure civile - art. 1236 (V)
+  - Code de procédure civile - art. 338-1 (V)
+  - Code de procédure civile - art. 695 (V)
+  - Code de procédure pénale - art. A43-13 (V)
+  - Code de procédure pénale - art. R224-2 (V)
+  - Code de procédure pénale - art. R93 (V)
+
+_Créé par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 53 () JORF 9 janvier 1993
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
+
+
+###### Article 388-2
+
+Lorsque, dans une procédure, les intérêts d'un mineur apparaissent en opposition avec ceux de ses représentants légaux, le
+juge des tutelles dans les conditions prévues à l'article 389-3 ou, à défaut, le juge saisi de l'instance lui désigne un
+administrateur ad hoc chargé de le représenter.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 56 () JORF 9 janvier 1993
+
+_Cité par_:
+
+  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+  - Code de procédure civile - art. 1210-1 (V)
+  - Code de procédure pénale - art. R93 (V)
+
+_Cite_:
+
+  - Code civil - art. 389-3 (VT)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
+
+
+### Chapitre II : De la tutelle.<a id=103></a>
+
+#### Section 2 : De l'organisation de la tutelle.<a id=104></a>
+
+##### Paragraphe 1 : Du juge des tutelles.<a id=105></a>
 
 ###### Article 393
 
@@ -15622,7 +15756,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-##### Paragraphe 2 : Du tuteur.<a id=105></a>
+##### Paragraphe 2 : Du tuteur.<a id=106></a>
 
 ###### Article 397
 
@@ -15786,7 +15920,7 @@ _Cité par_:
   - Décret du 26 mars 1910 - art. 11 (Ab)
 
 
-##### Paragraphe 3 : Du conseil de famille.<a id=106></a>
+##### Paragraphe 3 : Du conseil de famille.<a id=107></a>
 
 ###### Article 407
 
@@ -16078,7 +16212,7 @@ _Cité par_:
   - Code de procédure civile - art. 1212 (V)
 
 
-##### Paragraphe 4 : Des autres organes de la tutelle.<a id=107></a>
+##### Paragraphe 4 : Des autres organes de la tutelle.<a id=108></a>
 
 ###### Article 417
 
@@ -16318,7 +16452,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-##### Paragraphe 5 : Des charges tutélaires.<a id=108></a>
+##### Paragraphe 5 : Des charges tutélaires.<a id=109></a>
 
 ###### Article 427
 
@@ -16846,9 +16980,9 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 2 : De l'organisation de la tutelle.<a id=109></a>
+#### Section 2 : De l'organisation de la tutelle.<a id=110></a>
 
-##### Paragraphe 2 : Du tuteur.<a id=110></a>
+##### Paragraphe 2 : Du tuteur.<a id=111></a>
 
 ###### Article 402
 
@@ -16870,7 +17004,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 3 : Du fonctionnement de la tutelle.<a id=111></a>
+#### Section 3 : Du fonctionnement de la tutelle.<a id=112></a>
 
 ###### Article 449
 
@@ -17489,7 +17623,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-#### Section 4 : Des comptes de la tutelle et des responsabilités.<a id=112></a>
+#### Section 4 : Des comptes de la tutelle et des responsabilités.<a id=113></a>
 
 ###### Article 469
 
@@ -17689,7 +17823,7 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-### Chapitre III : De l'émancipation.<a id=113></a>
+### Chapitre III : De l'émancipation.<a id=114></a>
 
 ###### Article 476
 
@@ -17726,15 +17860,17 @@ _Transféré par_:
 
 Le mineur, même non marié, pourra être émancipé lorsqu'il aura atteint l'âge de seize ans révolus.
 
-Cette émancipation sera prononcée, s'il y a de justes motifs, par le juge des tutelles, à la demande des père et mère ou de
-l'un d'eux.    Lorsque la demande sera présentée par un seul des parents, le juge décidera, après avoir entendu l'autre, à
-moins que ce dernier soit dans l'impossibilité de manifester sa volonté.
+Après audition du mineur, cette émancipation sera prononcée, s'il y a de justes motifs, par le juge des tutelles, à la
+demande des père et mère ou de l'un d'eux.
+
+Lorsque la demande sera présentée par un seul des parents, le juge décidera, après avoir entendu l'autre, à moins que ce
+dernier soit dans l'impossibilité de manifester sa volonté.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 _Cité par_:
 
@@ -17750,7 +17886,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°74-631 du 5 juillet 1974 - art. 4 () JORF 7 juillet 1974
+  - Loi n°93-22 du 8 janvier 1993 - art. 61 () JORF 9 janvier 1993
+
+_Transféré par_:
+
+  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Nouveaux textes_:
 
@@ -17963,13 +18103,13 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-## Titre XI : De la majorité et des majeurs protégés par la loi<a id=114></a>
+## Titre XI : De la majorité et des majeurs protégés par la loi<a id=115></a>
 
-### Chapitre II : Des mesures de protection juridique des majeurs<a id=115></a>
+### Chapitre II : Des mesures de protection juridique des majeurs<a id=116></a>
 
-#### Section 4 : De la curatelle et de la tutelle<a id=116></a>
+#### Section 4 : De la curatelle et de la tutelle<a id=117></a>
 
-##### Sous-section 3 : Des organes de protection<a id=117></a>
+##### Sous-section 3 : Des organes de protection<a id=118></a>
 
 ###### Article 445
 
@@ -17996,7 +18136,7 @@ _Créé par_:
   - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
-##### Sous-section 6 : Des actes faits dans la curatelle<a id=118></a>
+##### Sous-section 6 : Des actes faits dans la curatelle<a id=119></a>
 
 ###### Article 468
 
@@ -18032,9 +18172,9 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-## Titre XI : De la majorité et des majeurs qui sont protégés par la loi.<a id=119></a>
+## Titre XI : De la majorité et des majeurs qui sont protégés par la loi.<a id=120></a>
 
-### Chapitre Ier : Dispositions générales.<a id=120></a>
+### Chapitre Ier : Dispositions générales.<a id=121></a>
 
 ###### Article 488
 
@@ -18384,7 +18524,7 @@ _Cité par_:
   - Nouveau code de procédure civile - art. 1232 (V)
 
 
-### Chapitre II : Des majeurs sous la sauvegarde de justice.<a id=121></a>
+### Chapitre II : Des majeurs sous la sauvegarde de justice.<a id=122></a>
 
 ###### Article 491
 
@@ -18681,7 +18821,7 @@ _Abrogé par_:
   - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
-### Chapitre III : Des majeurs en tutelle.<a id=122></a>
+### Chapitre III : Des majeurs en tutelle.<a id=123></a>
 
 ###### Article 492
 
@@ -19473,7 +19613,7 @@ _Cite_:
   - Code civil - art. 493 (VD)
 
 
-### Chapitre IV : Des majeurs en curatelle.<a id=123></a>
+### Chapitre IV : Des majeurs en curatelle.<a id=124></a>
 
 ###### Article 508
 
@@ -19937,13 +20077,13 @@ _Cité par_:
   - Code civil - art. 413-5 (VD)
 
 
-## Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle<a id=124></a>
+## Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle<a id=125></a>
 
-### Chapitre Ier : Des modalités de la gestion<a id=125></a>
+### Chapitre Ier : Des modalités de la gestion<a id=126></a>
 
-#### Section 2 : Des actes du tuteur<a id=126></a>
+#### Section 2 : Des actes du tuteur<a id=127></a>
 
-##### Paragraphe 3 : Des actes que le tuteur ne peut accomplir<a id=127></a>
+##### Paragraphe 3 : Des actes que le tuteur ne peut accomplir<a id=128></a>
 
 ###### Article 509
 
@@ -19979,9 +20119,9 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
 
 
-# Livre II : Des biens et des différentes modifications de la propriété<a id=128></a>
+# Livre II : Des biens et des différentes modifications de la propriété<a id=129></a>
 
-## Titre Ier : De la distinction des biens<a id=129></a>
+## Titre Ier : De la distinction des biens<a id=130></a>
 
 ###### Article 516
 
@@ -20002,7 +20142,7 @@ _Créé par_:
   - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
-### Chapitre Ier : Des immeubles<a id=130></a>
+### Chapitre Ier : Des immeubles<a id=131></a>
 
 ###### Article 517
 
@@ -20256,7 +20396,7 @@ _Créé par_:
   - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
-### Chapitre II : Des meubles<a id=131></a>
+### Chapitre II : Des meubles<a id=132></a>
 
 ###### Article 527
 
@@ -20449,7 +20589,7 @@ _Créé par_:
   - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
-### Chapitre III : Des biens dans leurs rapports avec ceux qui les possèdent<a id=132></a>
+### Chapitre III : Des biens dans leurs rapports avec ceux qui les possèdent<a id=133></a>
 
 ###### Article 537
 
@@ -20613,7 +20753,7 @@ _Créé par_:
   - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
-## Titre II : De la propriété<a id=133></a>
+## Titre II : De la propriété<a id=134></a>
 
 ###### Article 544
 
@@ -20669,7 +20809,7 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
-### Chapitre Ier : Du droit d'accession sur ce qui est produit par la chose<a id=134></a>
+### Chapitre Ier : Du droit d'accession sur ce qui est produit par la chose<a id=135></a>
 
 ###### Article 547
 
@@ -20760,7 +20900,7 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
-### Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose<a id=135></a>
+### Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose<a id=136></a>
 
 ###### Article 551
 
@@ -20777,7 +20917,7 @@ _Codifié par_:
   - Loi n°1804-01-27
 
 
-#### Section 1 : Du droit d'accession relativement aux choses immobilières<a id=136></a>
+#### Section 1 : Du droit d'accession relativement aux choses immobilières<a id=137></a>
 
 ###### Article 552
 
@@ -21134,7 +21274,7 @@ _Modifié par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
 
 
-#### Section 2 : Du droit d'accession relativement aux choses mobilières<a id=137></a>
+#### Section 2 : Du droit d'accession relativement aux choses mobilières<a id=138></a>
 
 ###### Article 565
 
@@ -21402,9 +21542,9 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
-## Titre III : De l'usufruit, de l'usage et de l'habitation<a id=138></a>
+## Titre III : De l'usufruit, de l'usage et de l'habitation<a id=139></a>
 
-### Chapitre Ier : De l'usufruit<a id=139></a>
+### Chapitre Ier : De l'usufruit<a id=140></a>
 
 ###### Article 578
 
@@ -21467,7 +21607,7 @@ _Créé par_:
   - Loi n°1804-01-30 promulguée le 9 février 1804
 
 
-#### Section 1 : Des droits de l'usufruitier<a id=140></a>
+#### Section 1 : Des droits de l'usufruitier<a id=141></a>
 
 ###### Article 582
 
@@ -21816,7 +21956,7 @@ _Créé par_:
   - Loi n°1804-01-30 promulguée le 9 février 1804
 
 
-#### Section 2 : Des obligations de l'usufruitier<a id=141></a>
+#### Section 2 : Des obligations de l'usufruitier<a id=142></a>
 
 ###### Article 600
 
@@ -22163,7 +22303,7 @@ _Modifié par_:
   - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
 
 
-#### Section 3 : Comment l'usufruit prend fin<a id=142></a>
+#### Section 3 : Comment l'usufruit prend fin<a id=143></a>
 
 ###### Article 617
 
@@ -22316,7 +22456,7 @@ _Créé par_:
   - Loi n°1804-01-30 promulguée le 9 février 1804
 
 
-### Chapitre II : De l'usage et de l'habitation<a id=143></a>
+### Chapitre II : De l'usage et de l'habitation<a id=144></a>
 
 ###### Article 625
 
@@ -22549,7 +22689,7 @@ _Créé par_:
   - Loi n°1804-01-30 promulguée le 9 février 1804
 
 
-## Titre IV : Des servitudes ou services fonciers<a id=144></a>
+## Titre IV : Des servitudes ou services fonciers<a id=145></a>
 
 ###### Article 637
 
@@ -22602,7 +22742,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-### Chapitre Ier : Des servitudes qui dérivent de la situation des lieux<a id=145></a>
+### Chapitre Ier : Des servitudes qui dérivent de la situation des lieux<a id=146></a>
 
 ###### Article 640
 
@@ -22851,7 +22991,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-### Chapitre II : Des servitudes établies par la loi<a id=146></a>
+### Chapitre II : Des servitudes établies par la loi<a id=147></a>
 
 ###### Article 649
 
@@ -22919,7 +23059,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 1 : Du mur et du fossé mitoyens<a id=147></a>
+#### Section 1 : Du mur et du fossé mitoyens<a id=148></a>
 
 ###### Article 653
 
@@ -23335,7 +23475,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions<a id=148></a>
+#### Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions<a id=149></a>
 
 ###### Article 674
 
@@ -23368,7 +23508,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 3 : Des vues sur la propriété de son voisin<a id=149></a>
+#### Section 3 : Des vues sur la propriété de son voisin<a id=150></a>
 
 ###### Article 675
 
@@ -23514,7 +23654,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 4 : De l'égout des toits<a id=150></a>
+#### Section 4 : De l'égout des toits<a id=151></a>
 
 ###### Article 681
 
@@ -23532,7 +23672,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 5 : Du droit de passage<a id=151></a>
+#### Section 5 : Du droit de passage<a id=152></a>
 
 ###### Article 682
 
@@ -23663,9 +23803,9 @@ _Codifié par_:
   - Loi n°1804-01-31
 
 
-### Chapitre III : Des servitudes établies par le fait de l'homme<a id=152></a>
+### Chapitre III : Des servitudes établies par le fait de l'homme<a id=153></a>
 
-#### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens<a id=153></a>
+#### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens<a id=154></a>
 
 ###### Article 686
 
@@ -23749,7 +23889,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 2 : Comment s'établissent les servitudes<a id=154></a>
+#### Section 2 : Comment s'établissent les servitudes<a id=155></a>
 
 ###### Article 690
 
@@ -23866,7 +24006,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due<a id=155></a>
+#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due<a id=156></a>
 
 ###### Article 697
 
@@ -23974,7 +24114,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 4 : Comment les servitudes s'éteignent<a id=156></a>
+#### Section 4 : Comment les servitudes s'éteignent<a id=157></a>
 
 ###### Article 703
 
@@ -24118,9 +24258,9 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-# Livre III : Des différentes manières dont on acquiert la propriété<a id=157></a>
+# Livre III : Des différentes manières dont on acquiert la propriété<a id=158></a>
 
-## Dispositions générales<a id=158></a>
+## Dispositions générales<a id=159></a>
 
 ###### Article 711
 
@@ -24261,9 +24401,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-## Titre Ier : Des successions<a id=159></a>
+## Titre Ier : Des successions<a id=160></a>
 
-### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=160></a>
+### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=161></a>
 
 ###### Article 718
 
@@ -24391,7 +24531,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=161></a>
+### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=162></a>
 
 ###### Article 725
 
@@ -24508,9 +24648,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre III : Des divers ordres de succession.<a id=162></a>
+### Chapitre III : Des divers ordres de succession.<a id=163></a>
 
-#### Section 1 : Dispositions générales.<a id=163></a>
+#### Section 1 : Dispositions générales.<a id=164></a>
 
 ###### Article 731
 
@@ -24675,7 +24815,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De la représentation.<a id=164></a>
+#### Section 2 : De la représentation.<a id=165></a>
 
 ###### Article 739
 
@@ -24793,7 +24933,7 @@ _Modifié par_:
   - Loi n°72-3 du 3 janvier 1972 - art. 4 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 
-#### Section 3 : Des successions déférées aux descendants.<a id=165></a>
+#### Section 3 : Des successions déférées aux descendants.<a id=166></a>
 
 ###### Article 745
 
@@ -24814,7 +24954,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions déférées aux ascendants.<a id=166></a>
+#### Section 4 : Des successions déférées aux ascendants.<a id=167></a>
 
 ###### Article 746
 
@@ -24873,7 +25013,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : Des successions collatérales.<a id=167></a>
+#### Section 5 : Des successions collatérales.<a id=168></a>
 
 ###### Article 750
 
@@ -24991,7 +25131,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 6 : Des droits successoraux résultant de la filiation naturelle.<a id=168></a>
+#### Section 6 : Des droits successoraux résultant de la filiation naturelle.<a id=169></a>
 
 ###### Article 756
 
@@ -25392,7 +25532,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. L123-6 (V)
 
 
-#### Section 7 : Des droits du conjoint survivant.<a id=169></a>
+#### Section 7 : Des droits du conjoint survivant.<a id=170></a>
 
 ###### Article 765
 
@@ -25522,9 +25662,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre IV : De l'option de l'héritier<a id=170></a>
+### Chapitre IV : De l'option de l'héritier<a id=171></a>
 
-#### Section 1 : Dispositions générales.<a id=171></a>
+#### Section 1 : Dispositions générales.<a id=172></a>
 
 ###### Article 768
 
@@ -25781,7 +25921,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De l'acceptation pure et simple de la succession.<a id=172></a>
+#### Section 2 : De l'acceptation pure et simple de la succession.<a id=173></a>
 
 ###### Article 782
 
@@ -25871,9 +26011,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=173></a>
+#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=174></a>
 
-##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=174></a>
+##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=175></a>
 
 ###### Article 787
 
@@ -25969,7 +26109,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=175></a>
+##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=176></a>
 
 ###### Article 791
 
@@ -26260,7 +26400,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : De la renonciation à la succession.<a id=176></a>
+#### Section 4 : De la renonciation à la succession.<a id=177></a>
 
 ###### Article 804
 
@@ -26353,9 +26493,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=177></a>
+### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=178></a>
 
-#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=178></a>
+#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=179></a>
 
 ###### Article 809
 
@@ -26395,7 +26535,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions vacantes.<a id=179></a>
+#### Section 4 : Des successions vacantes.<a id=180></a>
 
 ###### Article 811
 
@@ -26496,9 +26636,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre VI : De l'administration de la succession par un mandataire.<a id=180></a>
+### Chapitre VI : De l'administration de la succession par un mandataire.<a id=181></a>
 
-#### Section 1 : Du mandat à effet posthume.<a id=181></a>
+#### Section 1 : Du mandat à effet posthume.<a id=182></a>
 
 ###### Article 815-5
 
@@ -26531,9 +26671,9 @@ _Codifié par_:
   - Loi n°1803-04-19
 
 
-### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=182></a>
+### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=183></a>
 
-#### Section 1 : De l'indivision et de l'action en partage.<a id=183></a>
+#### Section 1 : De l'indivision et de l'action en partage.<a id=184></a>
 
 ###### Article 815
 
@@ -27601,7 +27741,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=184></a>
+#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=185></a>
 
 ###### Article 843
 
@@ -28257,7 +28397,7 @@ _Nouveaux textes_:
   - Code civil - art. 860-1 (V)
 
 
-#### Section 3 : Du paiement des dettes.<a id=185></a>
+#### Section 3 : Du paiement des dettes.<a id=186></a>
 
 ###### Article 870
 
@@ -28495,7 +28635,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des effets du partage et de la garantie des lots.<a id=186></a>
+#### Section 4 : Des effets du partage et de la garantie des lots.<a id=187></a>
 
 ###### Article 883
 
@@ -28590,7 +28730,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : De la rescision en matière de partage.<a id=187></a>
+#### Section 5 : De la rescision en matière de partage.<a id=188></a>
 
 ###### Article 887
 
@@ -28697,9 +28837,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre VII : Du régime légal de l'indivision.<a id=188></a>
+### Chapitre VII : Du régime légal de l'indivision.<a id=189></a>
 
-#### Section 1 : Des actes relatifs aux biens indivis.<a id=189></a>
+#### Section 1 : Des actes relatifs aux biens indivis.<a id=190></a>
 
 ###### Article 815-8
 
@@ -29030,13 +29170,13 @@ _Cite_:
   - Code civil 814, 815 à 815-17
 
 
-### Chapitre VIII : Du partage.<a id=190></a>
+### Chapitre VIII : Du partage.<a id=191></a>
 
-#### Section 1 : Des opérations de partage.<a id=191></a>
+#### Section 1 : Des opérations de partage.<a id=192></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=192></a>
+##### Sous-section 1 : Dispositions communes.<a id=193></a>
 
-##### Paragraphe 3 : Des attributions préférentielles.<a id=193></a>
+##### Paragraphe 3 : Des attributions préférentielles.<a id=194></a>
 
 ###### Article 832-2
 
@@ -29168,9 +29308,9 @@ _Codifié par_:
   - Loi n°1803-04-19
 
 
-## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=194></a>
+## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=195></a>
 
-### Chapitre Ier : Dispositions générales.<a id=195></a>
+### Chapitre Ier : Dispositions générales.<a id=196></a>
 
 ###### Article 893
 
@@ -29548,7 +29688,7 @@ _Créé par_:
   - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
 
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=196></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=197></a>
 
 ###### Article 901
 
@@ -29761,9 +29901,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=197></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=198></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=198></a>
+#### Section 1 : De la portion de biens disponible.<a id=199></a>
 
 ###### Article 913-1
 
@@ -30014,7 +30154,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : De la réduction des donations et legs.<a id=199></a>
+#### Section 2 : De la réduction des donations et legs.<a id=200></a>
 
 ###### Article 920
 
@@ -30298,9 +30438,9 @@ _Cité par_:
   - Loi n°1803-03-16 du 16 mars 1803 - art. 11 (V)
 
 
-### Chapitre IV : Des donations entre vifs<a id=200></a>
+### Chapitre IV : Des donations entre vifs<a id=201></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=201></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=202></a>
 
 ###### Article 931
 
@@ -30719,7 +30859,7 @@ _Cité par_:
   - Loi du 1er juin 1924 - art. 38 (V)
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=202></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=203></a>
 
 ###### Article 953
 
@@ -30955,9 +31095,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre V : Des dispositions testamentaires<a id=203></a>
+### Chapitre V : Des dispositions testamentaires<a id=204></a>
 
-#### Section 1 : Des règles générales sur la forme des testaments<a id=204></a>
+#### Section 1 : Des règles générales sur la forme des testaments<a id=205></a>
 
 ###### Article 967
 
@@ -31239,7 +31379,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=205></a>
+#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=206></a>
 
 ###### Article 981
 
@@ -31733,7 +31873,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=206></a>
+#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=207></a>
 
 ###### Article 1002
 
@@ -31754,7 +31894,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 4 : Du legs universel.<a id=207></a>
+#### Section 4 : Du legs universel.<a id=208></a>
 
 ###### Article 1003
 
@@ -31912,7 +32052,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 5 : Du legs à titre universel.<a id=208></a>
+#### Section 5 : Du legs à titre universel.<a id=209></a>
 
 ###### Article 1010
 
@@ -31990,7 +32130,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 6 : Des legs particuliers.<a id=209></a>
+#### Section 6 : Des legs particuliers.<a id=210></a>
 
 ###### Article 1014
 
@@ -32203,7 +32343,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=210></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=211></a>
 
 ###### Article 1025
 
@@ -32373,7 +32513,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 8 : De la révocation des testaments et de leur caducité.<a id=211></a>
+#### Section 8 : De la révocation des testaments et de leur caducité.<a id=212></a>
 
 ###### Article 1035
 
@@ -32598,7 +32738,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=212></a>
+### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=213></a>
 
 ###### Article 1048
 
@@ -33141,7 +33281,7 @@ _Abrogé par_:
   - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre VII : Des partages faits par les ascendants.<a id=213></a>
+### Chapitre VII : Des partages faits par les ascendants.<a id=214></a>
 
 ###### Article 1075
 
@@ -33275,7 +33415,7 @@ _Nouveaux textes_:
   - Code civil - art. 1075-5 (V)
 
 
-#### Section 1 : Des donations-partages.<a id=214></a>
+#### Section 1 : Des donations-partages.<a id=215></a>
 
 ###### Article 1076
 
@@ -33470,7 +33610,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 776 A (V)
 
 
-#### Section 2 : Des testaments-partages.<a id=215></a>
+#### Section 2 : Des testaments-partages.<a id=216></a>
 
 ###### Article 1079
 
@@ -33518,7 +33658,7 @@ _Cite_:
   - Code civil - art. 1077-2 (M)
 
 
-### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=216></a>
+### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=217></a>
 
 ###### Article 1081
 
@@ -33701,7 +33841,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=217></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=218></a>
 
 ###### Article 1091
 
@@ -33841,9 +33981,9 @@ _Cité par_:
   - Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
 
 
-## Titre II : Des donations entre vifs et des testaments<a id=218></a>
+## Titre II : Des donations entre vifs et des testaments<a id=219></a>
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=219></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=220></a>
 
 ###### Article 908
 
@@ -33968,9 +34108,9 @@ _Créé par_:
   - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 7 (V)
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=220></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=221></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=221></a>
+#### Section 1 : De la portion de biens disponible.<a id=222></a>
 
 ###### Article 913
 
@@ -34031,9 +34171,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IV : Des donations entre vifs<a id=222></a>
+### Chapitre IV : Des donations entre vifs<a id=223></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=223></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=224></a>
 
 ###### Article 937
 
@@ -34055,7 +34195,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=224></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=225></a>
 
 ###### Article 960
 
@@ -34109,7 +34249,7 @@ _Cité par_:
   - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 
 
-### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=225></a>
+### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=226></a>
 
 ###### Article 1069
 
@@ -34163,7 +34303,7 @@ _Modifié par_:
   - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=226></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=227></a>
 
 ###### Article 1094
 
@@ -34398,9 +34538,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 752 (V)
 
 
-## Titre III : Des contrats ou des obligations conventionnelles en général<a id=227></a>
+## Titre III : Des contrats ou des obligations conventionnelles en général<a id=228></a>
 
-### Chapitre Ier : Dispositions préliminaires.<a id=228></a>
+### Chapitre Ier : Dispositions préliminaires.<a id=229></a>
 
 ###### Article 1101
 
@@ -34533,7 +34673,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre II : Des conditions essentielles pour la validité des conventions.<a id=229></a>
+### Chapitre II : Des conditions essentielles pour la validité des conventions.<a id=230></a>
 
 ###### Article 1108
 
@@ -34558,7 +34698,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 1 : Du consentement.<a id=230></a>
+#### Section 1 : Du consentement.<a id=231></a>
 
 ###### Article 1109
 
@@ -34795,7 +34935,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 2 : De la capacité des parties contractantes.<a id=231></a>
+#### Section 2 : De la capacité des parties contractantes.<a id=232></a>
 
 ###### Article 1123
 
@@ -34893,7 +35033,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 3 : De l'objet et de la matière des contrats.<a id=232></a>
+#### Section 3 : De l'objet et de la matière des contrats.<a id=233></a>
 
 ###### Article 1126
 
@@ -34987,7 +35127,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 4 : De la cause.<a id=233></a>
+#### Section 4 : De la cause.<a id=234></a>
 
 ###### Article 1131
 
@@ -35034,9 +35174,9 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre III : De l'effet des obligations.<a id=234></a>
+### Chapitre III : De l'effet des obligations.<a id=235></a>
 
-#### Section 1 : Dispositions générales.<a id=235></a>
+#### Section 1 : Dispositions générales.<a id=236></a>
 
 ###### Article 1134
 
@@ -35079,7 +35219,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 2 : De l'obligation de donner.<a id=236></a>
+#### Section 2 : De l'obligation de donner.<a id=237></a>
 
 ###### Article 1136
 
@@ -35203,7 +35343,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 3 : De l'obligation de faire ou de ne pas faire.<a id=237></a>
+#### Section 3 : De l'obligation de faire ou de ne pas faire.<a id=238></a>
 
 ###### Article 1142
 
@@ -35272,7 +35412,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation.<a id=238></a>
+#### Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation.<a id=239></a>
 
 ###### Article 1146
 
@@ -35541,7 +35681,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 5 : De l'interprétation des conventions.<a id=239></a>
+#### Section 5 : De l'interprétation des conventions.<a id=240></a>
 
 ###### Article 1156
 
@@ -35702,7 +35842,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 6 : De l'effet des conventions à l'égard des tiers.<a id=240></a>
+#### Section 6 : De l'effet des conventions à l'égard des tiers.<a id=241></a>
 
 ###### Article 1165
 
@@ -35773,11 +35913,11 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre IV : Des diverses espèces d'obligations.<a id=241></a>
+### Chapitre IV : Des diverses espèces d'obligations.<a id=242></a>
 
-#### Section 1 : Des obligations conditionnelles.<a id=242></a>
+#### Section 1 : Des obligations conditionnelles.<a id=243></a>
 
-##### Paragraphe 1 : De la condition en général, et de ses diverses espèces.<a id=243></a>
+##### Paragraphe 1 : De la condition en général, et de ses diverses espèces.<a id=244></a>
 
 ###### Article 1168
 
@@ -35999,7 +36139,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : De la condition suspensive.<a id=244></a>
+##### Paragraphe 2 : De la condition suspensive.<a id=245></a>
 
 ###### Article 1181
 
@@ -36053,7 +36193,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 3 : De la condition résolutoire.<a id=245></a>
+##### Paragraphe 3 : De la condition résolutoire.<a id=246></a>
 
 ###### Article 1183
 
@@ -36107,7 +36247,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 2 : Des obligations à terme.<a id=246></a>
+#### Section 2 : Des obligations à terme.<a id=247></a>
 
 ###### Article 1185
 
@@ -36178,7 +36318,7 @@ _Codifié par_:
   - Loi n°1804-02-07
 
 
-#### Section 3 : Des obligations alternatives.<a id=247></a>
+#### Section 3 : Des obligations alternatives.<a id=248></a>
 
 ###### Article 1189
 
@@ -36340,9 +36480,9 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 4 : Des obligations solidaires.<a id=248></a>
+#### Section 4 : Des obligations solidaires.<a id=249></a>
 
-##### Paragraphe 1 : De la solidarité entre les créanciers.<a id=249></a>
+##### Paragraphe 1 : De la solidarité entre les créanciers.<a id=250></a>
 
 ###### Article 1197
 
@@ -36399,7 +36539,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : De la solidarité de la part des débiteurs.<a id=250></a>
+##### Paragraphe 2 : De la solidarité de la part des débiteurs.<a id=251></a>
 
 ###### Article 1200
 
@@ -36702,7 +36842,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 5 : Des obligations divisibles et indivisibles.<a id=251></a>
+#### Section 5 : Des obligations divisibles et indivisibles.<a id=252></a>
 
 ###### Article 1217
 
@@ -36751,7 +36891,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 1 : Des effets de l'obligation divisible.<a id=252></a>
+##### Paragraphe 1 : Des effets de l'obligation divisible.<a id=253></a>
 
 ###### Article 1220
 
@@ -36810,7 +36950,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : Des effets de l'obligation indivisible.<a id=253></a>
+##### Paragraphe 2 : Des effets de l'obligation indivisible.<a id=254></a>
 
 ###### Article 1222
 
@@ -36892,7 +37032,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 6 : Des obligations avec clauses pénales.<a id=254></a>
+#### Section 6 : Des obligations avec clauses pénales.<a id=255></a>
 
 ###### Article 1226
 
@@ -37067,7 +37207,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-### Chapitre V : De l'extinction des obligations.<a id=255></a>
+### Chapitre V : De l'extinction des obligations.<a id=256></a>
 
 ###### Article 1234
 
@@ -37106,9 +37246,9 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 1 : Du paiement<a id=256></a>
+#### Section 1 : Du paiement<a id=257></a>
 
-##### Paragraphe 1 : Du paiement en général.<a id=257></a>
+##### Paragraphe 1 : Du paiement en général.<a id=258></a>
 
 ###### Article 1235
 
@@ -37591,7 +37731,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-##### Paragraphe 2 : Du paiement avec subrogation.<a id=258></a>
+##### Paragraphe 2 : Du paiement avec subrogation.<a id=259></a>
 
 ###### Article 1249
 
@@ -37708,7 +37848,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-##### Paragraphe 3 : De l'imputation des paiements.<a id=259></a>
+##### Paragraphe 3 : De l'imputation des paiements.<a id=260></a>
 
 ###### Article 1253
 
@@ -37805,7 +37945,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-##### Paragraphe 4 : Des offres de paiement, et de la consignation.<a id=260></a>
+##### Paragraphe 4 : Des offres de paiement, et de la consignation.<a id=261></a>
 
 ###### Article 1257
 
@@ -37976,7 +38116,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 2 : De la novation.<a id=261></a>
+#### Section 2 : De la novation.<a id=262></a>
 
 ###### Article 1271
 
@@ -38218,7 +38358,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 3 : De la remise de la dette.<a id=262></a>
+#### Section 3 : De la remise de la dette.<a id=263></a>
 
 ###### Article 1282
 
@@ -38359,7 +38499,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 4 : De la compensation.<a id=263></a>
+#### Section 4 : De la compensation.<a id=264></a>
 
 ###### Article 1289
 
@@ -38596,7 +38736,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 5 : De la confusion.<a id=264></a>
+#### Section 5 : De la confusion.<a id=265></a>
 
 ###### Article 1300
 
@@ -38639,7 +38779,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 6 : De la perte de la chose due.<a id=265></a>
+#### Section 6 : De la perte de la chose due.<a id=266></a>
 
 ###### Article 1302
 
@@ -38687,7 +38827,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 7 : De l'action en nullité ou en rescision des conventions.<a id=266></a>
+#### Section 7 : De l'action en nullité ou en rescision des conventions.<a id=267></a>
 
 ###### Article 1304
 
@@ -38904,7 +39044,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre VI : De la preuve des obligations et de celle du paiement.<a id=267></a>
+### Chapitre VI : De la preuve des obligations et de celle du paiement.<a id=268></a>
 
 ###### Article 1315
 
@@ -38957,9 +39097,9 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 1 : De la preuve littérale<a id=268></a>
+#### Section 1 : De la preuve littérale<a id=269></a>
 
-##### Paragraphe 1 : Du titre authentique.<a id=269></a>
+##### Paragraphe 1 : Du titre authentique.<a id=270></a>
 
 ###### Article 1317
 
@@ -39065,7 +39205,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : De l'acte sous seing privé.<a id=270></a>
+##### Paragraphe 2 : De l'acte sous seing privé.<a id=271></a>
 
 ###### Article 1322
 
@@ -39268,7 +39408,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 3 : Des tailles.<a id=271></a>
+##### Paragraphe 3 : Des tailles.<a id=272></a>
 
 ###### Article 1333
 
@@ -39286,7 +39426,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 4 : Des copies des titres.<a id=272></a>
+##### Paragraphe 4 : Des copies des titres.<a id=273></a>
 
 ###### Article 1334
 
@@ -39362,7 +39502,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 5 : Des actes récognitifs et confirmatifs.<a id=273></a>
+##### Paragraphe 5 : Des actes récognitifs et confirmatifs.<a id=274></a>
 
 ###### Article 1337
 
@@ -39450,7 +39590,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 2 : De la preuve testimoniale.<a id=274></a>
+#### Section 2 : De la preuve testimoniale.<a id=275></a>
 
 ###### Article 1341
 
@@ -39693,7 +39833,7 @@ _Modifié par_:
   - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 
 
-#### Section 3 : Des présomptions.<a id=275></a>
+#### Section 3 : Des présomptions.<a id=276></a>
 
 ###### Article 1349
 
@@ -39716,7 +39856,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 1 : Des présomptions établies par la loi.<a id=276></a>
+##### Paragraphe 1 : Des présomptions établies par la loi.<a id=277></a>
 
 ###### Article 1350
 
@@ -39788,7 +39928,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : Des présomptions qui ne sont point établies par la loi.<a id=277></a>
+##### Paragraphe 2 : Des présomptions qui ne sont point établies par la loi.<a id=278></a>
 
 ###### Article 1353
 
@@ -39812,7 +39952,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 4 : De l'aveu de la partie.<a id=278></a>
+#### Section 4 : De l'aveu de la partie.<a id=279></a>
 
 ###### Article 1354
 
@@ -39867,7 +40007,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 5 : Du serment.<a id=279></a>
+#### Section 5 : Du serment.<a id=280></a>
 
 ###### Article 1357
 
@@ -39888,7 +40028,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 1 : Du serment décisoire.<a id=280></a>
+##### Paragraphe 1 : Du serment décisoire.<a id=281></a>
 
 ###### Article 1358
 
@@ -40044,7 +40184,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : Du serment déféré d'office.<a id=281></a>
+##### Paragraphe 2 : Du serment déféré d'office.<a id=282></a>
 
 ###### Article 1366
 
@@ -40186,7 +40326,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-## Titre IV : Des engagements qui se forment sans convention<a id=282></a>
+## Titre IV : Des engagements qui se forment sans convention<a id=283></a>
 
 ###### Article 1370
 
@@ -40212,7 +40352,7 @@ _Créé par_:
   - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
-### Chapitre Ier : Des quasi-contrats.<a id=283></a>
+### Chapitre Ier : Des quasi-contrats.<a id=284></a>
 
 ###### Article 1371
 
@@ -40427,7 +40567,7 @@ _Créé par_:
   - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
-### Chapitre II : Des délits et des quasi-délits.<a id=284></a>
+### Chapitre II : Des délits et des quasi-délits.<a id=285></a>
 
 ###### Article 1382
 
@@ -40654,9 +40794,9 @@ _Créé par_:
   - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
-## Titre V : Du contrat de mariage et des régimes matrimoniaux<a id=285></a>
+## Titre V : Du contrat de mariage et des régimes matrimoniaux<a id=286></a>
 
-### Chapitre Ier : Dispositions générales.<a id=286></a>
+### Chapitre Ier : Dispositions générales.<a id=287></a>
 
 ###### Article 1387
 
@@ -40942,9 +41082,9 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-### Chapitre II : Du régime en communauté<a id=287></a>
+### Chapitre II : Du régime en communauté<a id=288></a>
 
-#### Première partie : De la communauté légale<a id=288></a>
+#### Première partie : De la communauté légale<a id=289></a>
 
 ###### Article 1400
 
@@ -40963,9 +41103,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Tableau IV bis (V)
 
 
-##### Section 1 : De ce qui compose la communauté activement et passivement<a id=289></a>
+##### Section 1 : De ce qui compose la communauté activement et passivement<a id=290></a>
 
-##### Paragraphe 1 : De l'actif de la communauté<a id=290></a>
+##### Paragraphe 1 : De l'actif de la communauté<a id=291></a>
 
 ###### Article 1401
 
@@ -41122,7 +41262,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Paragraphe 2 : Du passif de la communauté<a id=291></a>
+##### Paragraphe 2 : Du passif de la communauté<a id=292></a>
 
 ###### Article 1409
 
@@ -41339,7 +41479,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
-##### Section 2 : De l'administration de la communauté et des biens propres.<a id=292></a>
+##### Section 2 : De l'administration de la communauté et des biens propres.<a id=293></a>
 
 ###### Article 1421
 
@@ -41790,9 +41930,9 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section 3 : De la dissolution de la communauté<a id=293></a>
+##### Section 3 : De la dissolution de la communauté<a id=294></a>
 
-##### Paragraphe 1 : Des causes de dissolution et de la séparation de biens.<a id=294></a>
+##### Paragraphe 1 : Des causes de dissolution et de la séparation de biens.<a id=295></a>
 
 ###### Article 1441
 
@@ -41957,7 +42097,7 @@ _Cite_:
   - Code civil - art. 1536 (V)
 
 
-##### Paragraphe 2 : De la liquidation et du partage de la communauté.<a id=295></a>
+##### Paragraphe 2 : De la liquidation et du partage de la communauté.<a id=296></a>
 
 ###### Article 1467
 
@@ -42202,7 +42342,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution.<a id=296></a>
+##### Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution.<a id=297></a>
 
 ###### Article 1482
 
@@ -42429,9 +42569,9 @@ _Cite_:
   - Code civil - art. 1481 (Ab)
 
 
-##### Section III : De la dissolution de la communauté<a id=297></a>
+##### Section III : De la dissolution de la communauté<a id=298></a>
 
-##### Paragraphe I : Des causes de dissolution et de la séparation de biens.<a id=298></a>
+##### Paragraphe I : Des causes de dissolution et de la séparation de biens.<a id=299></a>
 
 ###### Article 1442
 
@@ -42518,7 +42658,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Paragraphe II : De la liquidation et du partage de la communauté.<a id=299></a>
+##### Paragraphe II : De la liquidation et du partage de la communauté.<a id=300></a>
 
 ###### Article 1477
 
@@ -42564,7 +42704,7 @@ _Cité par_:
   - Code civil - art. 1491 (M)
 
 
-#### Deuxième partie : De la communauté conventionnelle.<a id=300></a>
+#### Deuxième partie : De la communauté conventionnelle.<a id=301></a>
 
 ###### Article 1497
 
@@ -42599,7 +42739,7 @@ _Cite_:
   - Code civil - art. 1387 (V)
 
 
-##### Section 1 : De la communauté de meubles et acquêts.<a id=301></a>
+##### Section 1 : De la communauté de meubles et acquêts.<a id=302></a>
 
 ###### Article 1498
 
@@ -42687,7 +42827,7 @@ _Cite_:
   - Code civil - art. 1402 (V)
 
 
-##### Section 2 : De la clause d'administration conjointe.<a id=302></a>
+##### Section 2 : De la clause d'administration conjointe.<a id=303></a>
 
 ###### Article 1503
 
@@ -42717,7 +42857,7 @@ _Cité par_:
   - Code civil - art. 224 (Ab)
 
 
-##### Section 3 : De la clause de prélèvement moyennant indemnité.<a id=303></a>
+##### Section 3 : De la clause de prélèvement moyennant indemnité.<a id=304></a>
 
 ###### Article 1511
 
@@ -42781,7 +42921,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section 4 : Du préciput.<a id=304></a>
+##### Section 4 : Du préciput.<a id=305></a>
 
 ###### Article 1515
 
@@ -42820,7 +42960,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section IV : Du préciput.<a id=305></a>
+##### Section IV : Du préciput.<a id=306></a>
 
 ###### Article 1518
 
@@ -42857,7 +42997,7 @@ _Cite_:
   - Code civil - art. 268 (M)
 
 
-##### Section 5 : De la stipulation de parts inégales.<a id=306></a>
+##### Section 5 : De la stipulation de parts inégales.<a id=307></a>
 
 ###### Article 1520
 
@@ -42928,7 +43068,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section 6 : De la communauté universelle.<a id=307></a>
+##### Section 6 : De la communauté universelle.<a id=308></a>
 
 ###### Article 1526
 
@@ -42949,7 +43089,7 @@ _Cite_:
   - Code civil - art. 1404 (V)
 
 
-#### Dispositions communes aux deux parties du chapitre II.<a id=308></a>
+#### Dispositions communes aux deux parties du chapitre II.<a id=309></a>
 
 ###### Article 1527
 
@@ -42977,7 +43117,7 @@ _Cite_:
   - Code civil - art. 1098 (M)
 
 
-### Chapitre III : Du régime de séparation de biens.<a id=309></a>
+### Chapitre III : Du régime de séparation de biens.<a id=310></a>
 
 ###### Article 1536
 
@@ -43136,7 +43276,7 @@ _Cite_:
   - Code civil - art. 1479 (V)
 
 
-### Chapitre IV : Du régime de participation aux acquêts.<a id=310></a>
+### Chapitre IV : Du régime de participation aux acquêts.<a id=311></a>
 
 ###### Article 1569
 
@@ -43496,9 +43636,9 @@ _Cite_:
   - Code civil - art. 1387 (V)
 
 
-## Titre VI : De la vente<a id=311></a>
+## Titre VI : De la vente<a id=312></a>
 
-### Chapitre Ier : De la nature et de la forme de la vente.<a id=312></a>
+### Chapitre Ier : De la nature et de la forme de la vente.<a id=313></a>
 
 ###### Article 1582
 
@@ -43725,7 +43865,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre II : Qui peut acheter ou vendre.<a id=313></a>
+### Chapitre II : Qui peut acheter ou vendre.<a id=314></a>
 
 ###### Article 1594
 
@@ -43786,7 +43926,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre III : Des choses qui peuvent être vendues.<a id=314></a>
+### Chapitre III : Des choses qui peuvent être vendues.<a id=315></a>
 
 ###### Article 1598
 
@@ -43864,7 +44004,7 @@ _Cité par_:
   - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
 
 
-### Chapitre III-1 : De la vente d'immeubles à construire.<a id=315></a>
+### Chapitre III-1 : De la vente d'immeubles à construire.<a id=316></a>
 
 ###### Article 1601-1
 
@@ -43999,9 +44139,9 @@ _Codifié par_:
   - Loi n°1804-03-06
 
 
-### Chapitre IV : Des obligations du vendeur<a id=316></a>
+### Chapitre IV : Des obligations du vendeur<a id=317></a>
 
-#### Section 1 : Dispositions générales.<a id=317></a>
+#### Section 1 : Dispositions générales.<a id=318></a>
 
 ###### Article 1602
 
@@ -44035,7 +44175,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 2 : De la délivrance.<a id=318></a>
+#### Section 2 : De la délivrance.<a id=319></a>
 
 ###### Article 1604
 
@@ -44410,7 +44550,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 3 : De la garantie.<a id=319></a>
+#### Section 3 : De la garantie.<a id=320></a>
 
 ###### Article 1625
 
@@ -44428,7 +44568,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-##### Paragraphe 1 : De la garantie en cas d'éviction.<a id=320></a>
+##### Paragraphe 1 : De la garantie en cas d'éviction.<a id=321></a>
 
 ###### Article 1626
 
@@ -44701,7 +44841,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-##### Paragraphe 2 : De la garantie des défauts de la chose vendue.<a id=321></a>
+##### Paragraphe 2 : De la garantie des défauts de la chose vendue.<a id=322></a>
 
 ###### Article 1641
 
@@ -45046,7 +45186,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre V : Des obligations de l'acheteur.<a id=322></a>
+### Chapitre V : Des obligations de l'acheteur.<a id=323></a>
 
 ###### Article 1650
 
@@ -45196,7 +45336,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VI : De la nullité et de la résolution de la vente.<a id=323></a>
+### Chapitre VI : De la nullité et de la résolution de la vente.<a id=324></a>
 
 ###### Article 1658
 
@@ -45214,7 +45354,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 1 : De la faculté de rachat.<a id=324></a>
+#### Section 1 : De la faculté de rachat.<a id=325></a>
 
 ###### Article 1659
 
@@ -45494,7 +45634,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 2 : De la rescision de la vente pour cause de lésion.<a id=325></a>
+#### Section 2 : De la rescision de la vente pour cause de lésion.<a id=326></a>
 
 ###### Article 1674
 
@@ -45701,7 +45841,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VII : De la licitation.<a id=326></a>
+### Chapitre VII : De la licitation.<a id=327></a>
 
 ###### Article 1686
 
@@ -45754,7 +45894,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VIII : Du transport des créances et autres droits incorporels.<a id=327></a>
+### Chapitre VIII : Du transport des créances et autres droits incorporels.<a id=328></a>
 
 ###### Article 1689
 
@@ -46058,7 +46198,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-## Titre VII : De l'échange<a id=328></a>
+## Titre VII : De l'échange<a id=329></a>
 
 ###### Article 1702
 
@@ -46169,9 +46309,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-## Titre VIII : Du contrat de louage<a id=329></a>
+## Titre VIII : Du contrat de louage<a id=330></a>
 
-### Chapitre Ier : Dispositions générales.<a id=330></a>
+### Chapitre Ier : Dispositions générales.<a id=331></a>
 
 ###### Article 1708
 
@@ -46275,7 +46415,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre II : Du louage des choses.<a id=331></a>
+### Chapitre II : Du louage des choses.<a id=332></a>
 
 ###### Article 1713
 
@@ -46292,7 +46432,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.<a id=332></a>
+#### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.<a id=333></a>
 
 ###### Article 1714
 
@@ -47142,7 +47282,7 @@ _Cité par_:
   - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 III (champ d'application territoriale Polynésie française et Nouvelle-Calédonie)
 
 
-#### Section 2 : Des règles particulières aux baux à loyer.<a id=333></a>
+#### Section 2 : Des règles particulières aux baux à loyer.<a id=334></a>
 
 ###### Article 1752
 
@@ -47369,7 +47509,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Des règles particulières aux baux à ferme.<a id=334></a>
+#### Section 3 : Des règles particulières aux baux à ferme.<a id=335></a>
 
 ###### Article 1764
 
@@ -47711,7 +47851,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre III : Du louage d'ouvrage et d'industrie.<a id=335></a>
+### Chapitre III : Du louage d'ouvrage et d'industrie.<a id=336></a>
 
 ###### Article 1779
 
@@ -47754,7 +47894,7 @@ _Cité par_:
   - Code monétaire et financier - art. D313-26 (VD)
 
 
-#### Section 1 : Du louage des domestiques et ouvriers.<a id=336></a>
+#### Section 1 : Du louage des domestiques et ouvriers.<a id=337></a>
 
 ###### Article 1780
 
@@ -47791,7 +47931,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 2 : Des voituriers par terre et par eau.<a id=337></a>
+#### Section 2 : Des voituriers par terre et par eau.<a id=338></a>
 
 ###### Article 1782
 
@@ -47873,7 +48013,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Des devis et des marchés.<a id=338></a>
+#### Section 3 : Des devis et des marchés.<a id=339></a>
 
 ###### Article 1787
 
@@ -48419,9 +48559,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre IV : Du bail à cheptel<a id=339></a>
+### Chapitre IV : Du bail à cheptel<a id=340></a>
 
-#### Section 1 : Dispositions générales.<a id=340></a>
+#### Section 1 : Dispositions générales.<a id=341></a>
 
 ###### Article 1800
 
@@ -48497,7 +48637,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 2 : Du cheptel simple.<a id=341></a>
+#### Section 2 : Du cheptel simple.<a id=342></a>
 
 ###### Article 1804
 
@@ -48738,7 +48878,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Du cheptel à moitié.<a id=342></a>
+#### Section 3 : Du cheptel à moitié.<a id=343></a>
 
 ###### Article 1818
 
@@ -48791,9 +48931,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire<a id=343></a>
+#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire<a id=344></a>
 
-##### Paragraphe 1 : Du cheptel donné au fermier.<a id=344></a>
+##### Paragraphe 1 : Du cheptel donné au fermier.<a id=345></a>
 
 ###### Article 1821
 
@@ -48897,7 +49037,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-##### Paragraphe 2 : Du cheptel donné au colon partiaire.<a id=345></a>
+##### Paragraphe 2 : Du cheptel donné au colon partiaire.<a id=346></a>
 
 ###### Article 1827
 
@@ -48965,7 +49105,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 5 : Du contrat improprement appelé cheptel.<a id=346></a>
+#### Section 5 : Du contrat improprement appelé cheptel.<a id=347></a>
 
 ###### Article 1831
 
@@ -48983,7 +49123,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-## Titre VIII bis : Du contrat de promotion immobilière<a id=347></a>
+## Titre VIII bis : Du contrat de promotion immobilière<a id=348></a>
 
 ###### Article 1831-1
 
@@ -49131,9 +49271,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-5 (V)
 
 
-## Titre IX : De la société<a id=348></a>
+## Titre IX : De la société<a id=349></a>
 
-### Chapitre Ier : Dispositions générales.<a id=349></a>
+### Chapitre Ier : Dispositions générales.<a id=350></a>
 
 ###### Article 1832
 
@@ -50321,9 +50461,9 @@ _Cité par_:
   - Code de commerce. - art. L251-5 (M)
 
 
-### Chapitre II : De la société civile<a id=350></a>
+### Chapitre II : De la société civile<a id=351></a>
 
-#### Section 1 : Dispositions générales.<a id=351></a>
+#### Section 1 : Dispositions générales.<a id=352></a>
 
 ###### Article 1845
 
@@ -50351,7 +50491,7 @@ _Créé par_:
   - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
 
 
-#### Section I : Dispositions générales.<a id=352></a>
+#### Section I : Dispositions générales.<a id=353></a>
 
 ###### Article 1845-1
 
@@ -50374,7 +50514,7 @@ _Modifié par_:
   - Loi n°82-596 du 10 juillet 1982 - art. 15 () JORF 13 juillet 1982
 
 
-#### Section 2 : Gérance.<a id=353></a>
+#### Section 2 : Gérance.<a id=354></a>
 
 ###### Article 1846
 
@@ -50566,7 +50706,7 @@ _Cite_:
   - Code civil - art. 1869 (V)
 
 
-#### Section 3 : Décisions collectives.<a id=354></a>
+#### Section 3 : Décisions collectives.<a id=355></a>
 
 ###### Article 1852
 
@@ -50619,7 +50759,7 @@ _Créé par_:
   - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
 
 
-#### Section 4 : Information des associés.<a id=355></a>
+#### Section 4 : Information des associés.<a id=356></a>
 
 ###### Article 1855
 
@@ -50676,7 +50816,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R241-50 (V)
 
 
-#### Section 5 : Engagement des associés à l'égard des tiers.<a id=356></a>
+#### Section 5 : Engagement des associés à l'égard des tiers.<a id=357></a>
 
 ###### Article 1857
 
@@ -50764,7 +50904,7 @@ _Cite_:
   - Code civil - art. 1843-4 (V)
 
 
-#### Section 6 : Cession des parts sociales.<a id=357></a>
+#### Section 6 : Cession des parts sociales.<a id=358></a>
 
 ###### Article 1861
 
@@ -51037,7 +51177,7 @@ _Cite_:
   - Code civil - art. 1867 (V)
 
 
-#### Section 7 : Retrait ou décès d'un associé.<a id=358></a>
+#### Section 7 : Retrait ou décès d'un associé.<a id=359></a>
 
 ###### Article 1869
 
@@ -51132,7 +51272,7 @@ _Cite_:
   - Code civil - art. 1843-4 (V)
 
 
-### Chapitre III : De la société en participation.<a id=359></a>
+### Chapitre III : De la société en participation.<a id=360></a>
 
 ###### Article 1871
 
@@ -51310,7 +51450,7 @@ _Cité par_:
   - Loi n°88-1201 du 23 décembre 1988 - art. 7 (Ab)
 
 
-## Titre IX bis : Des conventions relatives à l'exercice des droits indivis<a id=360></a>
+## Titre IX bis : Des conventions relatives à l'exercice des droits indivis<a id=361></a>
 
 ###### Article 1873-1
 
@@ -51340,7 +51480,7 @@ _Créé par_:
   - Loi n°76-1286 du 31 décembre 1976 - art. 5 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
 
 
-### Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.<a id=361></a>
+### Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.<a id=362></a>
 
 ###### Article 1873-2
 
@@ -51765,7 +51905,7 @@ _Cite_:
   - Code civil - art. 815-17 (V)
 
 
-### Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.<a id=362></a>
+### Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.<a id=363></a>
 
 ###### Article 1873-16
 
@@ -51840,7 +51980,7 @@ _Cite_:
   - Code civil - art. 582 (V)
 
 
-## Titre X : Du prêt<a id=363></a>
+## Titre X : Du prêt<a id=364></a>
 
 ###### Article 1874
 
@@ -51861,9 +52001,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre Ier : Du prêt à usage, ou commodat<a id=364></a>
+### Chapitre Ier : Du prêt à usage, ou commodat<a id=365></a>
 
-#### Section 1 : De la nature du prêt à usage.<a id=365></a>
+#### Section 1 : De la nature du prêt à usage.<a id=366></a>
 
 ###### Article 1875
 
@@ -51930,7 +52070,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des engagements de l'emprunteur.<a id=366></a>
+#### Section 2 : Des engagements de l'emprunteur.<a id=367></a>
 
 ###### Article 1880
 
@@ -52025,7 +52165,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de celui qui prête à usage.<a id=367></a>
+#### Section 3 : Des engagements de celui qui prête à usage.<a id=368></a>
 
 ###### Article 1888
 
@@ -52079,9 +52219,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre II : Du prêt de consommation, ou simple prêt<a id=368></a>
+### Chapitre II : Du prêt de consommation, ou simple prêt<a id=369></a>
 
-#### Section 1 : De la nature du prêt de consommation.<a id=369></a>
+#### Section 1 : De la nature du prêt de consommation.<a id=370></a>
 
 ###### Article 1892
 
@@ -52160,7 +52300,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des obligations du prêteur.<a id=370></a>
+#### Section 2 : Des obligations du prêteur.<a id=371></a>
 
 ###### Article 1898
 
@@ -52211,7 +52351,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de l'emprunteur.<a id=371></a>
+#### Section 3 : Des engagements de l'emprunteur.<a id=372></a>
 
 ###### Article 1902
 
@@ -52250,7 +52390,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre III : Du prêt à intérêt.<a id=372></a>
+### Chapitre III : Du prêt à intérêt.<a id=373></a>
 
 ###### Article 1905
 
@@ -52374,9 +52514,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-## Titre XI : Du dépôt et du séquestre<a id=373></a>
+## Titre XI : Du dépôt et du séquestre<a id=374></a>
 
-### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=374></a>
+### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=375></a>
 
 ###### Article 1915
 
@@ -52409,9 +52549,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre II : Du dépôt proprement dit<a id=375></a>
+### Chapitre II : Du dépôt proprement dit<a id=376></a>
 
-#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=376></a>
+#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=377></a>
 
 ###### Article 1917
 
@@ -52476,7 +52616,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du dépôt volontaire.<a id=377></a>
+#### Section 2 : Du dépôt volontaire.<a id=378></a>
 
 ###### Article 1921
 
@@ -52562,7 +52702,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Des obligations du dépositaire.<a id=378></a>
+#### Section 3 : Des obligations du dépositaire.<a id=379></a>
 
 ###### Article 1927
 
@@ -52924,7 +53064,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=379></a>
+#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=380></a>
 
 ###### Article 1947
 
@@ -52957,7 +53097,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 5 : Du dépôt nécessaire.<a id=380></a>
+#### Section 5 : Du dépôt nécessaire.<a id=381></a>
 
 ###### Article 1949
 
@@ -53088,9 +53228,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre III : Du séquestre<a id=381></a>
+### Chapitre III : Du séquestre<a id=382></a>
 
-#### Section 1 : Des différentes espèces de séquestre.<a id=382></a>
+#### Section 1 : Des différentes espèces de séquestre.<a id=383></a>
 
 ###### Article 1955
 
@@ -53107,7 +53247,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du séquestre conventionnel.<a id=383></a>
+#### Section 2 : Du séquestre conventionnel.<a id=384></a>
 
 ###### Article 1956
 
@@ -53190,7 +53330,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=384></a>
+#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=385></a>
 
 ###### Article 1961
 
@@ -53254,7 +53394,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-## Titre XII : Des contrats aléatoires.<a id=385></a>
+## Titre XII : Des contrats aléatoires.<a id=386></a>
 
 ###### Article 1964
 
@@ -53284,7 +53424,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre Ier : Du jeu et du pari.<a id=386></a>
+### Chapitre Ier : Du jeu et du pari.<a id=387></a>
 
 ###### Article 1965
 
@@ -53354,9 +53494,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre II : Du contrat de rente viagère<a id=387></a>
+### Chapitre II : Du contrat de rente viagère<a id=388></a>
 
-#### Section 1 : Des conditions requises pour la validité du contrat.<a id=388></a>
+#### Section 1 : Des conditions requises pour la validité du contrat.<a id=389></a>
 
 ###### Article 1968
 
@@ -53519,7 +53659,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=389></a>
+#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=390></a>
 
 ###### Article 1977
 
@@ -53651,9 +53791,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIII : Du mandat<a id=390></a>
+## Titre XIII : Du mandat<a id=391></a>
 
-### Chapitre Ier : De la nature et de la forme du mandat.<a id=391></a>
+### Chapitre Ier : De la nature et de la forme du mandat.<a id=392></a>
 
 ###### Article 1984
 
@@ -53785,7 +53925,7 @@ _Cité par_:
   - Loi du 1er juillet 1901 - art. 2 bis (V)
 
 
-### Chapitre II : Des obligations du mandataire.<a id=392></a>
+### Chapitre II : Des obligations du mandataire.<a id=393></a>
 
 ###### Article 1991
 
@@ -53922,7 +54062,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre III : Des obligations du mandant.<a id=393></a>
+### Chapitre III : Des obligations du mandant.<a id=394></a>
 
 ###### Article 1998
 
@@ -54013,7 +54153,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre IV : Des différentes manières dont le mandat finit.<a id=394></a>
+### Chapitre IV : Des différentes manières dont le mandat finit.<a id=395></a>
 
 ###### Article 2003
 
@@ -54162,9 +54302,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIV : Du cautionnement.<a id=395></a>
+## Titre XIV : Du cautionnement.<a id=396></a>
 
-### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=396></a>
+### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=397></a>
 
 ###### Article 2011
 
@@ -54488,9 +54628,9 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre II : De l'effet du cautionnement<a id=397></a>
+### Chapitre II : De l'effet du cautionnement<a id=398></a>
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=398></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=399></a>
 
 ###### Article 2021
 
@@ -54684,7 +54824,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=399></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=400></a>
 
 ###### Article 2024
 
@@ -54713,7 +54853,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=400></a>
+#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=401></a>
 
 ###### Article 2028
 
@@ -54878,7 +55018,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=401></a>
+#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=402></a>
 
 ###### Article 2033
 
@@ -54911,7 +55051,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre III : De l'extinction du cautionnement.<a id=402></a>
+### Chapitre III : De l'extinction du cautionnement.<a id=403></a>
 
 ###### Article 2034
 
@@ -55072,7 +55212,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=403></a>
+### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=404></a>
 
 ###### Article 2040
 
@@ -55180,7 +55320,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-## Titre XV : Des transactions<a id=404></a>
+## Titre XV : Des transactions<a id=405></a>
 
 ###### Article 2044
 
@@ -55551,7 +55691,7 @@ _Créé par_:
   - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
-## Titre XVI : Du compromis<a id=405></a>
+## Titre XVI : Du compromis<a id=406></a>
 
 ###### Article 2059
 
@@ -55755,7 +55895,7 @@ _Codifié par_:
   - Loi n°72-626 1972-07-05
 
 
-## Titre XVII : Du nantissement.<a id=406></a>
+## Titre XVII : Du nantissement.<a id=407></a>
 
 ###### Article 2071
 
@@ -55808,7 +55948,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre I : Du gage.<a id=407></a>
+### Chapitre I : Du gage.<a id=408></a>
 
 ###### Article 2073
 
@@ -56193,7 +56333,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre II : De l'antichrèse.<a id=408></a>
+### Chapitre II : De l'antichrèse.<a id=409></a>
 
 ###### Article 2085
 
@@ -56386,9 +56526,9 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-## Titre XVIII : Des privilèges et hypothèques.<a id=409></a>
+## Titre XVIII : Des privilèges et hypothèques.<a id=410></a>
 
-### Chapitre I : Dispositions générales.<a id=410></a>
+### Chapitre I : Dispositions générales.<a id=411></a>
 
 ###### Article 2092
 
@@ -56504,7 +56644,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : Des privilèges.<a id=411></a>
+### Chapitre II : Des privilèges.<a id=412></a>
 
 ###### Article 2095
 
@@ -56630,7 +56770,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 1 : Des privilèges sur les meubles.<a id=412></a>
+#### Section 1 : Des privilèges sur les meubles.<a id=413></a>
 
 ###### Article 2100
 
@@ -56655,9 +56795,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section I : Des privilèges sur les meubles<a id=413></a>
+#### Section I : Des privilèges sur les meubles<a id=414></a>
 
-##### Paragraphe I : Des privilèges généraux sur les meubles.<a id=414></a>
+##### Paragraphe I : Des privilèges généraux sur les meubles.<a id=415></a>
 
 ###### Article 2101
 
@@ -56814,7 +56954,7 @@ _Nouveaux textes_:
   - Code civil - art. 2331 (V)
 
 
-##### Paragraphe II : Des privilèges sur certains meubles.<a id=415></a>
+##### Paragraphe II : Des privilèges sur certains meubles.<a id=416></a>
 
 ###### Article 2102
 
@@ -56921,7 +57061,7 @@ _Cite_:
   - Code du travail 721-1
 
 
-#### Section II : Des privilèges spéciaux sur les immeubles.<a id=416></a>
+#### Section II : Des privilèges spéciaux sur les immeubles.<a id=417></a>
 
 ###### Article 2103
 
@@ -57000,7 +57140,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Section 3 : Des privilèges généraux sur les immeubles.<a id=417></a>
+#### Section 3 : Des privilèges généraux sur les immeubles.<a id=418></a>
 
 ###### Article 2105
 
@@ -57043,7 +57183,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
 
 
-#### Section III : Des privilèges généraux sur les immeubles<a id=418></a>
+#### Section III : Des privilèges généraux sur les immeubles<a id=419></a>
 
 ###### Article 2104
 
@@ -57154,7 +57294,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Section 4 : Comment se conservent les privilèges.<a id=419></a>
+#### Section 4 : Comment se conservent les privilèges.<a id=420></a>
 
 ###### Article 2106
 
@@ -57545,7 +57685,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section IV : Comment se conservent les privilèges.<a id=420></a>
+#### Section IV : Comment se conservent les privilèges.<a id=421></a>
 
 ###### Article 2107
 
@@ -57578,7 +57718,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre III : Des hypothèques.<a id=421></a>
+### Chapitre III : Des hypothèques.<a id=422></a>
 
 ###### Article 2114
 
@@ -57786,7 +57926,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 1 : Des hypothèques légales.<a id=422></a>
+#### Section 1 : Des hypothèques légales.<a id=423></a>
 
 ###### Article 2121
 
@@ -57901,7 +58041,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 2 : Des hypothèques judiciaires.<a id=423></a>
+#### Section 2 : Des hypothèques judiciaires.<a id=424></a>
 
 ###### Article 2123
 
@@ -57957,7 +58097,7 @@ _Nouveaux textes_:
   - Code civil - art. 2412 (V)
 
 
-#### Section 3 : Des hypothèques conventionnelles.<a id=424></a>
+#### Section 3 : Des hypothèques conventionnelles.<a id=425></a>
 
 ###### Article 2124
 
@@ -58270,7 +58410,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-#### Section IV : Du rang que les hypothèques ont entre elles.<a id=425></a>
+#### Section IV : Du rang que les hypothèques ont entre elles.<a id=426></a>
 
 ###### Article 2134
 
@@ -58323,7 +58463,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=426></a>
+#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=427></a>
 
 ###### Article 2136
 
@@ -58682,7 +58822,7 @@ _Cite_:
   - Code civil 2136 à 2141
 
 
-#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=427></a>
+#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=428></a>
 
 ###### Article 2143
 
@@ -58820,7 +58960,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=428></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=429></a>
 
 ###### Article 2146
 
@@ -59526,9 +59666,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=429></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=430></a>
 
-#### Section 1 : Dispositions générales.<a id=430></a>
+#### Section 1 : Dispositions générales.<a id=431></a>
 
 ###### Article 2157
 
@@ -59758,7 +59898,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=431></a>
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=432></a>
 
 ###### Article 2163
 
@@ -59905,7 +60045,7 @@ _Nouveaux textes_:
   - Code civil - art. 2448 (V)
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=432></a>
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=433></a>
 
 ###### Article 2166
 
@@ -60366,7 +60506,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=433></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=434></a>
 
 ###### Article 2180
 
@@ -60421,7 +60561,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=434></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=435></a>
 
 ###### Article 2181
 
@@ -60883,7 +61023,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=435></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=436></a>
 
 ###### Article 2196
 
@@ -61216,9 +61356,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=436></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=437></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=437></a>
+### Chapitre Ier : De l'expropriation forcée<a id=438></a>
 
 ###### Article 2204
 
@@ -61580,7 +61720,7 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=438></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=439></a>
 
 ###### Article 2218
 
@@ -61606,9 +61746,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=439></a>
+## Titre XX : De la prescription et de la possession.<a id=440></a>
 
-### Chapitre Ier : Dispositions générales.<a id=440></a>
+### Chapitre Ier : Dispositions générales.<a id=441></a>
 
 ###### Article 2219
 
@@ -61795,7 +61935,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=441></a>
+### Chapitre II : De la possession.<a id=442></a>
 
 ###### Article 2228
 
@@ -62018,7 +62158,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=442></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=443></a>
 
 ###### Article 2236
 
@@ -62189,9 +62329,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=443></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=444></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=444></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=445></a>
 
 ###### Article 2242
 
@@ -62363,7 +62503,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=445></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=446></a>
 
 ###### Article 2251
 
@@ -62497,7 +62637,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=446></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=447></a>
 
 ###### Article 2270-1
 
@@ -62527,7 +62667,7 @@ _Cité par_:
   - Code des assurances - art. L422-3 (M)
 
 
-#### Section 1 : Dispositions générales.<a id=447></a>
+#### Section 1 : Dispositions générales.<a id=448></a>
 
 ###### Article 2260
 
@@ -62568,7 +62708,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=448></a>
+#### Section 2 : De la prescription trentenaire.<a id=449></a>
 
 ###### Article 2262
 
@@ -62643,7 +62783,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=449></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=450></a>
 
 ###### Article 2265
 
@@ -62828,7 +62968,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°78-12 1978-04-01 art. 14 *l'article 2270 du code civil, tel que modifié en 1978, s'applique aux contrats relatifs aux chantiers dont la déclaration réglementaire d'ouverture a été établie postérieurement à la date du 1er janvier 1979*
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=450></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=451></a>
 
 ###### Article 2271
 
@@ -63173,7 +63313,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre VI : De la protection possessoire.<a id=451></a>
+### Chapitre VI : De la protection possessoire.<a id=452></a>
 
 ###### Article 2282
 
