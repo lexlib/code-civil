@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1964-06-15
+Version Consolidée au 1964-12-15
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -288,33 +288,34 @@ Version Consolidée au 1964-06-15
         - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#285)
         - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#286)
         - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#287)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2144 à 2145)](#288)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#288)
       - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#289)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2162)](#290)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2164)](#290)
         - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#291)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#292)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#293)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#294)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2197 à 2203)](#295)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#296)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#297)
-        - [Section 5 : De la vente. (art. 2205)](#298)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#299)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#300)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#301)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#302)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#303)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#304)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#305)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#306)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#307)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#308)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#309)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#310)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#311)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#312)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#313)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#314)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164)](#292)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#293)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#294)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#295)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2197 à 2203)](#296)
+    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#297)
+      - [Chapitre Ier : De la saisie. (art. 2205)](#298)
+        - [Section 5 : De la vente. (art. 2205)](#299)
+          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#300)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#301)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#302)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#303)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#304)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#305)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#306)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#307)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#308)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#309)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#310)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#311)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#312)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#313)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#314)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#315)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -10420,6 +10421,75 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 838
+
+Si tous les cohéritiers ne sont pas présents, le partage doit être fait en justice, suivant les règles des articles 819 à
+837.
+
+Il en est de même s'il y a parmi eux des mineurs non émancipés ou des majeurs en tutelle, sous réserve de l'article 466.
+
+S'il y a plusieurs mineurs, il peut leur être donné à chacun un tuteur spécial et particulier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 227 (V)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 228 (V)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 235 (V)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 245 (V)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 247 (V)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 255 (V)
+  - Code civil - art. 116 (M)
+  - Code civil - art. 839 (M)
+  - Code de procédure civile - art. 966 (V)
+
+_Modifié par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+_Cite_:
+
+  - Code civil - art. 466 (M)
+  - Code civil 466, 819 à 837
+
+
+###### Article 839
+
+S'il y a lieu à licitation, dans le cas prévu par l'alinéa 1er de l'article précédent, elle ne peut être faite qu'en justice
+avec les formalités prescrites pour l'aliénation des biens des mineurs. Les étrangers y sont toujours admis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+_Cité par_:
+
+  - Ordonnance n°45-1483 du 30 juin 1945 - art. 53 (Ab)
+
+_Modifié par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+_Cite_:
+
+  - Code civil - art. 838 (M)
+
+
 ###### Article 841
 
 Toute personne, même parente du défunt, qui n'est pas successible, et à laquelle un cohéritier aurait cédé son droit à la
@@ -11307,6 +11377,32 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 904
+
+Le mineur, parvenu à l'âge de seize ans et non émancipé, ne pourra disposer que par testament, et jusqu'à concurrence
+seulement de la moitié des biens dont la loi permet au majeur de disposer.
+
+Toutefois, s'il est appelé sous les drapeaux pour une campagne de guerre, il pourra, pendant la durée des hostilités,
+disposer de la même quotité que s'il était majeur, en faveur de l'un quelconque de ses parents ou de plusieurs d'entre eux et
+jusqu'au sixième degré inclusivement ou encore en faveur de son conjoint survivant.
+
+A défaut de parents au sixième degré inclusivement, le mineur pourra disposer comme le ferait un majeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+_Modifié par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+
 ###### Article 906
 
 Pour être capable de recevoir entre vifs, il suffit d'être conçu au moment de la donation.
@@ -11324,6 +11420,30 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 907
+
+Le mineur, quoique parvenu à l'âge de seize ans, ne pourra, même par testament, disposer au profit de son tuteur.
+
+Le mineur, devenu majeur ou émancipé, ne pourra disposer, soit par donation entre vifs, soit par testament, au profit de
+celui qui aura été son tuteur, si le compte définitif de la tutelle n'a été préalablement rendu et apuré.
+
+Sont exceptés, dans les deux cas ci-dessus, les ascendants des mineurs, qui sont ou qui ont été leurs tuteurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+_Modifié par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
 
 
 ###### Article 909
@@ -11662,6 +11782,33 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 935
+
+La donation faite à un mineur non émancipé ou à un majeur en tutelle devra être acceptée par son tuteur, conformément à
+l'article 463, au titre De la minorité, de la tutelle et de l'émancipation.
+
+Néanmoins, les père et mère du mineur non émancipé, ou les autres ascendants, même du vivant des père et mère, quoiqu'ils ne
+soient pas tuteurs du mineur, pourront accepter pour lui.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 463 (AbD)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+_Modifié par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
 
 
 ###### Article 936
@@ -13934,6 +14081,35 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1055
+
+Celui qui fera les dispositions autorisées par les articles précédents pourra, par le même acte, ou par un acte postérieur,
+en forme authentique, nommer un tuteur chargé de l'exécution de ces dispositions : ce tuteur ne pourra être dispensé que pour
+une des causes exprimées aux articles 428 et suivants.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1061 (V)
+
+_Cite_:
+
+  - Code civil - art. 428 (AbD)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+_Modifié par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
 
 
 ###### Article 1056
@@ -32221,6 +32397,65 @@ _Créé par_:
 
 #### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=288></a>
 
+###### Article 2143
+
+A l'ouverture de toute tutelle, le conseil de famille, après avoir entendu le tuteur, décide si une inscription doit être
+requise sur les immeubles du tuteur. Dans l'affirmative, il fixe la somme pour laquelle il sera pris inscription et désigne
+les immeubles qui en seront grevés. Dans la négative, il peut, toutefois, décider que l'inscription de l'hypothèque sera
+remplacée par la constitution d'un gage, dont il détermine lui-même les conditions.
+
+Au cours de la tutelle, le conseil de famille peut toujours ordonner, lorsque les intérêts du mineur ou du majeur en tutelle
+paraissent l'exiger, qu'il sera pris, soit une première inscription, soit des inscriptions complémentaires, ou qu'un gage
+sera constitué.
+
+Dans les cas où il y a lieu à l'administration légale selon l'article 389, le juge des tutelles, statuant soit d'office, soit
+à la requête d'un parent ou allié ou du ministère public, peut pareillement décider qu'une inscription sera prise sur les
+immeubles de l'administrateur légal, ou que celui-ci devra constituer un gage.
+
+Les inscriptions prévues par le présent article sont prises à la requête du greffier du juge des tutelles, et les frais en
+sont imputés au compte de la tutelle.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 20 () JORF 7 janvier 1955
+  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+_Cité par_:
+
+  - Décret n°55-1350 du 14 octobre 1955 - art. 87 (M)
+  - Loi n°2002-306 du 4 mars 2002 - art. 7 (M)
+  - Code civil - art. 2145 (T)
+  - Code civil - art. 2164 (T)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2409 (AbD)
+  - Code civil - art. 2409 (VD)
+
+_Cite_:
+
+  - Code civil - art. 389 (M)
+
+
 ###### Article 2144
 
 Le pupille, après sa majorité ou son émancipation, ou le majeur en tutelle, après la mainlevée de la tutelle des majeurs,
@@ -32953,7 +33188,59 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=292></a>
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=292></a>
+
+###### Article 2164
+
+Si la valeur des immeubles sur lesquels l'hypothèque du mineur ou du majeur en tutelle a été inscrite excède notablement ce
+qui est nécessaire pour garantir la gestion du tuteur, celui-ci peut demander au conseil de famille de réduire l'inscription
+aux immeubles suffisants.
+
+Il peut pareillement lui demander de réduire l'évaluation qui avait été faite de ses obligations envers le pupille.
+
+L'administrateur légal peut, dans les mêmes cas, lorsqu'une inscription a été prise sur ses immeubles en vertu de l'article
+2143, demander au juge des tutelles de la réduire, soit quant aux immeubles grevés, soit quant aux sommes garanties.
+
+Le tuteur et l'administrateur légal peuvent en outre, s'il y a lieu, sous l'observation des mêmes conditions, demander la
+mainlevée totale de l'hypothèque.
+
+La radiation partielle ou totale de l'hypothèque sera faite au vu d'un acte de mainlevée signé par un membre du conseil de
+famille ayant reçu délégation à cet effet, en ce qui concerne les immeubles du tuteur, et au vu d'une décision du juge des
+tutelles, en ce qui concerne les immeubles de l'administrateur légal.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 27 () JORF 7 janvier 1955
+  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+_Cite_:
+
+  - Code civil - art. 2143 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2447 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=293></a>
 
 ###### Article 2166
 
@@ -33414,7 +33701,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=293></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=294></a>
 
 ###### Article 2180
 
@@ -33469,7 +33756,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=294></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=295></a>
 
 ###### Article 2181
 
@@ -33931,7 +34218,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=295></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=296></a>
 
 ###### Article 2197
 
@@ -34167,13 +34454,13 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=296></a>
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=297></a>
 
-### Chapitre Ier : De la saisie.<a id=297></a>
+### Chapitre Ier : De la saisie.<a id=298></a>
 
-#### Section 5 : De la vente.<a id=298></a>
+#### Section 5 : De la vente.<a id=299></a>
 
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=299></a>
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=300></a>
 
 ###### Article 2205
 
@@ -34203,9 +34490,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=300></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=301></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=301></a>
+### Chapitre Ier : De l'expropriation forcée<a id=302></a>
 
 ###### Article 2204
 
@@ -34524,7 +34811,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=302></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=303></a>
 
 ###### Article 2218
 
@@ -34550,9 +34837,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=303></a>
+## Titre XX : De la prescription et de la possession.<a id=304></a>
 
-### Chapitre Ier : Dispositions générales.<a id=304></a>
+### Chapitre Ier : Dispositions générales.<a id=305></a>
 
 ###### Article 2219
 
@@ -34739,7 +35026,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=305></a>
+### Chapitre II : De la possession.<a id=306></a>
 
 ###### Article 2228
 
@@ -34962,7 +35249,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=306></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=307></a>
 
 ###### Article 2236
 
@@ -35133,9 +35420,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=307></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=308></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=308></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=309></a>
 
 ###### Article 2242
 
@@ -35311,7 +35598,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=309></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=310></a>
 
 ###### Article 2251
 
@@ -35502,9 +35789,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=310></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=311></a>
 
-#### Section 1 : Dispositions générales.<a id=311></a>
+#### Section 1 : Dispositions générales.<a id=312></a>
 
 ###### Article 2260
 
@@ -35545,7 +35832,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=312></a>
+#### Section 2 : De la prescription trentenaire.<a id=313></a>
 
 ###### Article 2262
 
@@ -35620,7 +35907,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=313></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=314></a>
 
 ###### Article 2265
 
@@ -35758,7 +36045,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=314></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=315></a>
 
 ###### Article 2273
 
