@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1941-06-15
+Version Consolidée au 1941-10-09
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -223,7 +223,7 @@ Version Consolidée au 1941-06-15
         - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#220)
         - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#221)
           - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#222)
-          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1828 à 1830)](#223)
+          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#223)
         - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#224)
     - [Titre X : Du prêt (art. 1874 à 1914)](#225)
       - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#226)
@@ -24083,6 +24083,24 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
+###### Article 1810
+
+Si le cheptel périt en entier sans la faute du preneur, la perte en est pour le bailleur.
+
+S'il n'en périt qu'une partie, la perte est supportée en commun, d'après le prix de l'estimation originaire et celui de
+l'estimation à l'expiration du cheptel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 ###### Article 1811
 
 On ne peut stipuler :
@@ -24330,6 +24348,21 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
+###### Article 1825
+
+La perte, même totale et par cas fortuit, est en entier pour le fermier, s'il n'y a convention contraire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 ###### Article 1826
 
 A la fin du bail ou lors de sa résolution, le preneur doit laisser des animaux de chaque espèce formant un même fonds de
@@ -24355,6 +24388,21 @@ _Créé par_:
 
 
 ##### Paragraphe 2 : Du cheptel donné au colon partiaire.<a id=223></a>
+
+###### Article 1827
+
+Si le cheptel périt en entier sans la faute du colon, la perte est pour le bailleur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
 
 ###### Article 1828
 
