@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1933-02-19
+Version Consolidée au 1933-03-15
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -2312,6 +2312,72 @@ curatelle, former opposition qu'autant qu'il y aura été autorisé par un conse
 **Liens**:
 
   - TXT_ASSOCIE: Code civil - art. 174 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 176
+
+Tout acte d'opposition énoncera la qualité qui donne à l'opposant le droit de la former ; il contiendra élection de domicile
+dans le lieu où le mariage devra être célébré ; il devra également contenir les motifs de l'opposition et reproduire le texte
+de loi sur lequel est fondée l'opposition : le tout à peine de nullité et de l'interdiction de l'officier ministériel qui
+aurait signé l'acte contenant opposition.
+
+Après une année révolue, l'acte d'opposition cesse de produire effet. Il peut être renouvelé, sauf dans le cas visé par le
+deuxième alinéa de l'article 173 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+_Cite_:
+
+  - Code civil - art. 173 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 177
+
+Le tribunal de grande instance prononcera dans les dix jours sur la demande en mainlevée formée par les futurs époux, même
+mineurs.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 171-4 (VD)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 178
+
+S'il y a appel, il y sera statué dans les dix jours et, si le jugement dont est appel a donné mainlevée de l'opposition, la
+cour devra statuer même d'office.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
