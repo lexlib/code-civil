@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1915-07-28
+Version Consolidée au 1918-03-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -284,7 +284,7 @@ Version Consolidée au 1915-07-28
       - [Chapitre III : Des hypothèques. (art. 2114 à 2132)](#281)
         - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#282)
         - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2132)](#283)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2153)](#284)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2150 à 2153)](#284)
       - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2160)](#285)
         - [Section 1 : Dispositions générales. (art. 2157 à 2160)](#286)
       - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2167 à 2179)](#287)
@@ -28583,6 +28583,68 @@ _Cité par_:
 
 
 ### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=284></a>
+
+###### Article 2150
+
+Le conservateur fait mention, sur le registre prescrit par l'article 2200 ci-après, du dépôt des bordereaux, et remet au
+requérant, tant le titre ou l'expédition du titre, que l'un des bordereaux, au pied duquel il mentionne la date du dépôt, le
+volume et le numéro sous lesquels le bordereau destiné aux archives a été classé.
+
+La date de l'inscription est déterminée par la mention portée sur le registre des dépôts.
+
+Les bordereaux destinés aux archives seront reliés sans déplacement par les soins et aux frais des conservateurs.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 2200 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2431 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2152
+
+Il est loisible à celui qui a requis une inscription ainsi qu'à ses représentants ou cessionnaires par acte authentique de
+changer au bureau des hypothèques le domicile par lui élu dans cette inscription, à la charge d'en choisir et indiquer un
+autre dans le ressort du tribunal de grande instance de la situation des biens.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°1924-11-18 du 18 novembre 1924 - art. 36 (M)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2433 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
 
 ###### Article 2153
 
