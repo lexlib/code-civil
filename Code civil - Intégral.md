@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1898-04-08
+Version Consolidée au 1900-04-10
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -235,10 +235,10 @@ Version Consolidée au 1898-04-08
         - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#232)
         - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#233)
         - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#234)
-      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1903)](#235)
+      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#235)
         - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#236)
         - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#237)
-        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1903)](#238)
+        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#238)
       - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#239)
     - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#240)
       - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#241)
@@ -23627,6 +23627,18 @@ S'il est dans l'impossibilité d'y satisfaire, il est tenu d'en payer la valeur 
 devait être rendue d'après la convention.
 
 Si ce temps et ce lieu n'ont pas été réglés, le paiement se fait au prix du temps et du lieu où l'emprunt a été fait.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1904
+
+Si l'emprunteur ne rend pas les choses prêtées ou leur valeur au terme convenu, il en doit l'intérêt du jour de la sommation
+ou de la demande en justice.
 
 **Liens relatifs à cet article**
 
