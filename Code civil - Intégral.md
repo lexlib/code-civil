@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1968-01-01
+Version Consolidée au 1968-01-03
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -81,7 +81,7 @@ Version Consolidée au 1968-01-01
         - [Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions (art. 674)](#78)
         - [Section 3 : Des vues sur la propriété de son voisin (art. 675 à 680)](#79)
         - [Section 4 : De l'égout des toits (art. 681)](#80)
-        - [Section 5 : Du droit de passage (art. 683 à 685)](#81)
+        - [Section 5 : Du droit de passage (art. 682 à 685)](#81)
       - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 686 à 710)](#82)
         - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 686 à 689)](#83)
         - [Section 2 : Comment s'établissent les servitudes (art. 690 à 696)](#84)
@@ -11486,6 +11486,60 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
+###### Article 678
+
+On ne peut avoir des vues droites ou fenêtres d'aspect, ni balcons ou autres semblables saillies sur l'héritage clos ou non
+clos de son voisin, s'il n'y a dix-neuf décimètres de distance entre le mur où on les pratique et ledit héritage, à moins que
+le fonds ou la partie du fonds sur lequel s'exerce la vue ne soit déjà grevé, au profit du fonds qui en bénéficie, d'une
+servitude de passage faisant obstacle à l'édification de constructions.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 680 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+_Modifié par_:
+
+  - Loi n°67-1253 du 30 décembre 1967 - art. 35 () JORF 3 janvier 1968 rectificatif JORF 12 janvier 1968
+
+
+###### Article 679
+
+On ne peut, sous la même réserve, avoir des vues par côté ou obliques sur le même héritage, s'il n'y a six décimètres de
+distance.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°67-1253 du 30 décembre 1967 - art. 35 () JORF 3 janvier 1968 rectificatif JORF 12 janvier 1968
+
+_Cité par_:
+
+  - Code civil - art. 680 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil 680 *calcul de la distance*
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
 ###### Article 680
 
 La distance dont il est parlé dans les deux articles précédents se compte depuis le parement extérieur du mur où l'ouverture
@@ -11527,6 +11581,54 @@ _Créé par_:
 
 
 #### Section 5 : Du droit de passage<a id=81></a>
+
+###### Article 682
+
+Le propriétaire dont les fonds sont enclavés et qui n'a sur la voie publique aucune issue, ou qu'une issue insuffisante, soit
+pour l'exploitation agricole, industrielle ou commerciale de sa propriété, soit pour la réalisation d'opérations de
+construction ou de lotissement, est fondé à réclamer sur les fonds de ses voisins un passage suffisant pour assurer la
+desserte complète de ses fonds, à charge d'une indemnité proportionnée au dommage qu'il peut occasionner.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°67-1253 du 30 décembre 1967 - art. 36 () JORF 3 janvier 1968 rectificatif JORF 12 janvier 1968
+
+_Cité par_:
+
+  - Décret du 26 janvier 1987 - art. 2 (V)
+  - Décret du 19 février 1988 - art. 2 (V)
+  - Décret n°96-947 du 30 octobre 1996 - art. 2 (V)
+  - Décret du 23 octobre 2001 - art. 2 (V)
+  - Décret n°2002-1464 du 11 décembre 2002 - art. 2 (V)
+  - Décret n°2005-1640 du 20 décembre 2005 - art. 2 (V)
+  - Décret du 5 mars 2009 - art. 2 (VD)
+  - Décret n°2009-721 du 17 juin 2009 - art. (V)
+  - Décret n°2010-1591 du 17 décembre 2010 - art. 2 (V)
+  - Décret n°2010-1697 du 29 décembre 2010 - art. (VD)
+  - Décret du 29 août 2011 - art. 2 (V)
+  - Décret du 5 septembre 2013 - art. 2 (V)
+  - Décret n°2015-339 du 25 mars 2015 - art. 2 (V)
+  - Décret n°2015-1701 du 18 décembre 2015 - art. 2 (Ab)
+  - Décret n°2016-1168 du 29 août 2016 - art. 2 (V)
+  - Décret n°2017-1540 du 3 novembre 2017 - art. 2 (V)
+  - Décret n°2018-70 du 7 février 2018 - art. 2 (V)
+  - Décret n°2018-71 du 7 février 2018 - art. 2 (V)
+  - Code civil - art. 647 (V)
+  - Code civil - art. 684 (V)
+  - Code civil - art. 685 (V)
+  - Code civil - art. 685-1 (V)
+  - Décret n°1986-08-21 du 21 août 1986 - art. 2 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
 
 ###### Article 683
 
