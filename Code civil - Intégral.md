@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1996-07-06
+Version Consolidée au 1996-07-23
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 509)](#2)
@@ -3407,8 +3407,8 @@ _Anciens textes_:
 L'individu qui a acquis la qualité de français peut, par décret pris après avis conforme du Conseil d'Etat, être déchu de la
 nationalité française :
 
-1° S'il est condamné pour un acte qualifié de crime ou délit constituant une atteinte aux intérêts fondamentaux de la
-nation ;
+1° S'il est condamné pour un acte qualifié de crime ou délit constituant une atteinte aux intérêts fondamentaux de la nation
+ou pour un crime ou un délit constituant un acte de terrorisme ;
 
 2° S'il est condamné pour un acte qualifié de crime ou délit prévu et réprimé par le chapitre II du titre III du livre IV du
 code pénal ;
@@ -3427,17 +3427,16 @@ _Codifié par_:
 
   - Loi n°93-933 1993-07-22
 
-_Créé par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 29 () JORF 23 juillet 1993 en vigueur le 1er mars 1994
-  - Loi n°1803-03-08 promulguée le 18 mars 1803
-
 _Cité par_:
 
   - Décret n°93-1362 du 30 décembre 1993 - art. 61 (V)
   - Décret n°2004-459 du 28 mai 2004 - art. 1 (VT)
   - Code civil - art. 25-1 (V)
   - Code de la Légion d'honneur et de la médaille m... - art. R90 (V)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 12 () JORF 23 juillet 1996
 
 _Anciens textes_:
 
