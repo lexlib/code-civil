@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1893-06-08
+Version Consolidée au 1893-08-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -1950,6 +1950,30 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 190-1
+
+Le mariage qui a été célébré en fraude à la loi peut être annulé à la demande de l'époux de bonne foi ou du ministère public,
+formée dans l'année du mariage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
+
+_Abrogé par_:
+
+  - Loi n°2003-1119 du 26 novembre 2003 - art. 77 () JORF 27 novembre 2003
+
+_Cité par_:
+
+  - Code civil - art. 170-1 (M)
 
 
 ###### Article 191
