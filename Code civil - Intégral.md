@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1966-11-01
+Version Consolidée au 1966-12-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -17150,6 +17150,37 @@ _Cité par_:
   - Décret n°2009-1193 du 7 octobre 2009 - art. 74 (V)
   - Arrêté du 31 janvier 2018 - art. (VD)
   - Code civil - art. 1008 (VT)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1007
+
+Tout testament olographe ou mystique sera, avant d'être mis à exécution, déposé entre les mains d'un notaire. Le testament
+sera ouvert s'il est cacheté. Le notaire dressera sur-le-champ procès-verbal de l'ouverture et de l'état du testament, en
+précisant les circonstances du dépôt. Le testament ainsi que le procès-verbal seront conservés au rang des minutes du
+dépositaire.
+
+Dans le mois qui suivra la date du procès-verbal, le notaire adressera une expédition de celui-ci et une copie figurée du
+testament au greffier du tribunal de grande instance du lieu d'ouverture de la succession, qui lui accusera réception de ces
+documents et les conservera au rang de ses minutes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°66-1012 1966-12-28 art. 1 JORF 29 décembre 1966
+
+_Cité par_:
+
+  - Décret n°2016-1907 du 28 décembre 2016 (V)
+  - Code de procédure civile - art. 1378-2 (VD)
 
 _Codifié par_:
 
