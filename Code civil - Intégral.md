@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1964-12-15
+Version Consolidée au 1965-02-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -257,7 +257,7 @@ Version Consolidée au 1964-12-15
         - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#254)
         - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#255)
     - [Titre XIII : Du mandat (art. 1984 à 2010)](#256)
-      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1989)](#257)
+      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#257)
       - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#258)
       - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#259)
       - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#260)
@@ -28490,6 +28490,26 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1990
+
+Un mineur non émancipé peut être choisi pour mandataire ; mais le mandant n'aura d'action contre lui que d'après les règles
+générales relatives aux obligations des mineurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-10
+
+_Créé par_:
+
+  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+_Cité par_:
+
+  - Loi du 1er juillet 1901 - art. 2 bis (V)
 
 
 ### Chapitre II : Des obligations du mandataire.<a id=258></a>
