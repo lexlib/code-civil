@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1933-03-15
+Version Consolidée au 1934-02-04
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -2026,6 +2026,33 @@ _Créé par_:
   - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 155
+
+Le dissentiment des ascendants peut également être constaté soit par une lettre dont la signature est légalisée et qui est
+adressée à l'officier de l'état civil qui doit célébrer le mariage, soit par un acte dressé dans la forme prévue par
+l'article 73, alinéa 2. 
+
+Les actes énumérés au présent article et à l'article précédent sont visés pour timbre et enregistrés gratis.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1129 (M)
+
+_Cite_:
+
+  - Code civil - art. 73 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
 ###### Article 156
 
 Les officiers de l'état civil qui auraient procédé à la célébration des mariages contractés par des fils ou filles n'ayant
@@ -2044,6 +2071,34 @@ _Cité par_:
 _Cite_:
 
   - Code civil - art. 192 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 157
+
+L'officier de l'état civil qui n'aura pas exigé la justification de la notification prescrite par l'article 154 sera condamné
+à l'amende prévue en l'article précédent.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. L122-25 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 154 (V)
+
+_Cite_:
+
+  - Code civil - art. 154 (V)
 
 _Codifié par_:
 
