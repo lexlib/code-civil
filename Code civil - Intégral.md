@@ -1,11 +1,11 @@
 # Code civil  
-Version Consolidée au 2004-06-26
+Version Consolidée au 2004-08-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
     - [Titre Ier : Des droits civils (art. 7 à 16-13)](#3)
       - [Chapitre II : Du respect du corps humain (art. 16 à 16-9)](#4)
-      - [Chapitre III : De l'étude génétique des caractéristiques d'une personne et de l'identification d'une personne par ses empreintes génétiques. (art. 16-10 à 16-13)](#5)
+      - [Chapitre III : De l'examen des caractéristiques génétiques d'une personne et de l'identification d'une personne par ses empreintes génétiques (art. 16-10 à 16-13)](#5)
     - [Titre Ier bis : De la nationalité française (art. 17 à 33-2)](#6)
       - [Chapitre Ier : Dispositions générales (art. 17 à 17-12)](#7)
       - [Chapitre II : De la nationalité française d'origine (art. 18 à 20-5)](#8)
@@ -936,28 +936,25 @@ _Créé par_:
 
 ###### Article 16-3
 
-Il ne peut être porté atteinte à l'intégrité du corps humain qu'en cas de nécessité médicale pour la personne.
+Il ne peut être porté atteinte à l'intégrité du corps humain qu'en cas de nécessité médicale pour la personne ou à titre
+exceptionnel dans l'intérêt thérapeutique d'autrui.
 
 Le consentement de l'intéressé doit être recueilli préalablement hors le cas où son état rend nécessaire une intervention
 thérapeutique à laquelle il n'est pas à même de consentir.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code de la santé publique - art. L2131-4-1 (V)
-
 _Codifié par_:
 
   - Loi n°1803-03-08
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
-
 _Modifié par_:
 
-  - Loi n°99-641 du 27 juillet 1999 - art. 70 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+  - Loi n°2004-800 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+_Cité par_:
+
+  - Code de la santé publique - art. L2131-4-1 (V)
 
 
 ###### Article 16-4
@@ -966,23 +963,25 @@ Nul ne peut porter atteinte à l'intégrité de l'espèce humaine.
 
 Toute pratique eugénique tendant à l'organisation de la sélection des personnes est interdite.
 
+Est interdite toute intervention ayant pour but de faire naître un enfant génétiquement identique à une autre personne
+vivante ou décédée.
+
 Sans préjudice des recherches tendant à la prévention et au traitement des maladies génétiques, aucune transformation ne peut
 être apportée aux caractères génétiques dans le but de modifier la descendance de la personne.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L2151-1 (V)
-
-_Créé par_:
-
-  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
-
 _Codifié par_:
 
   - Loi n°1803-03-08
+
+_Modifié par_:
+
+  - Loi n°2004-800 du 6 août 2004 - art. 21 () JORF 7 août 2004
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2151-1 (V)
 
 
 ###### Article 16-5
@@ -1094,24 +1093,22 @@ _Créé par_:
   - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 
-### Chapitre III : De l'étude génétique des caractéristiques d'une personne et de l'identification d'une personne par ses empreintes génétiques.<a id=5></a>
+### Chapitre III : De l'examen des caractéristiques génétiques d'une personne et de l'identification d'une personne par ses empreintes génétiques<a id=5></a>
 
 ###### Article 16-10
 
-L'étude génétique des caractéristiques d'une personne ne peut être entreprise qu'à des fins médicales ou de recherche
+L'examen des caractéristiques génétiques d'une personne ne peut être entrepris qu'à des fins médicales ou de recherche
 scientifique.
 
-Le consentement de la personne doit être recueilli préalablement à la réalisation de l'étude.
+Le consentement exprès de la personne doit être recueilli par écrit préalablement à la réalisation de l'examen, après qu'elle
+a été dûment informée de sa nature et de sa finalité. Le consentement mentionne la finalité de l'examen. Il est révocable
+sans forme et à tout moment.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°94-653 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 _Cité par_:
 
@@ -1132,20 +1129,15 @@ ou d'instruction diligentées lors d'une procédure judiciaire ou à des fins m�
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le
 juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la
-suppression de subsides. Le consentement de l'intéressé doit être préalablement et expressément recueilli.
+suppression de subsides. Le consentement de l'intéressé doit être préalablement et expressément recueilli. Sauf accord exprès
+de la personne manifesté de son vivant, aucune identification par empreintes génétiques ne peut être réalisée après sa mort.
 
-Lorsque l'identification est effectuée à des fins médicales ou de recherche scientifique, le consentement de la personne doit
-être au préalable recueilli.
+Lorsque l'identification est effectuée à des fins médicales ou de recherche scientifique, le consentement exprès de la
+personne doit être recueilli par écrit préalablement à la réalisation de l'identification, après qu'elle a été dûment
+informée de sa nature et de sa finalité. Le consentement mentionne la finalité de l'identification. Il est révocable sans
+forme et à tout moment.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°94-653 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
 
 _Cité par_:
 
@@ -1165,6 +1157,11 @@ _Cité par_:
   - Code pénal - art. 226-27 (V)
   - Code pénal - art. 226-28 (V)
 
+_Modifié par_:
+
+  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
+  - Loi n°2004-800 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
 _Codifié par_:
 
   - Loi n°1803-03-08
@@ -1178,14 +1175,6 @@ doivent, en outre, être inscrites sur une liste d'experts judiciaires.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
-
-_Créé par_:
-
-  - Loi n°94-653 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
-
 _Cité par_:
 
   - Décret n°97-109 du 6 février 1997 - art. 11 (V)
@@ -1194,6 +1183,10 @@ _Cité par_:
   - Code de la santé publique - art. L761-24 (Ab)
   - Code de procédure pénale - art. 706-56 (V)
   - Code de procédure pénale - art. D47-12 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 _Codifié par_:
 
@@ -1206,13 +1199,13 @@ Nul ne peut faire l'objet de discriminations en raison de ses caractéristiques 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2002-303 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
-
 _Cité par_:
 
   - Loi n°2002-303 du 4 mars 2002 - art. 127 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 _Codifié par_:
 
