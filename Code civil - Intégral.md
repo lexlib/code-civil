@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1960-03-31
+Version Consolidée au 1960-05-18
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -46,7 +46,7 @@ Version Consolidée au 1960-03-31
     - [Titre III : De l'usufruit, de l'usage et de l'habitation (art. 578 à 636)](#43)
       - [Chapitre Ier : De l'usufruit (art. 578 à 624)](#44)
         - [Section 1 : Des droits de l'usufruitier (art. 582 à 599)](#45)
-        - [Section 2 : Des obligations de l'usufruitier (art. 600 à 615)](#46)
+        - [Section 2 : Des obligations de l'usufruitier (art. 600 à 616)](#46)
         - [Section 3 : Comment l'usufruit prend fin (art. 617 à 624)](#47)
       - [Chapitre II : De l'usage et de l'habitation (art. 625 à 636)](#48)
     - [Titre IV : Des servitudes ou services fonciers (art. 637 à 710)](#49)
@@ -4949,6 +4949,52 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
+###### Article 548
+
+Les fruits produits par la chose n'appartiennent au propriétaire qu'à la charge de rembourser les frais des labours, travaux
+et semences faits par des tiers et dont la valeur est estimée à la date du remboursement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art. 2
+  - Code de commerce - art. R444-66 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 549
+
+Le simple possesseur ne fait les fruits siens que dans le cas où il possède de bonne foi. Dans le cas contraire, il est tenu
+de restituer les produits avec la chose au propriétaire qui la revendique ; si lesdits produits ne se retrouvent pas en
+nature, leur valeur est estimée à la date du remboursement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+
 ###### Article 550
 
 Le possesseur est de bonne foi quand il possède comme propriétaire, en vertu d'un titre translatif de propriété dont il
@@ -5303,6 +5349,27 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
+###### Article 566
+
+Lorsque deux choses appartenant à différents maîtres, qui ont été unies de manière à former un tout, sont néanmoins
+séparables, en sorte que l'une puisse subsister sans l'autre, le tout appartient au maître de la chose qui forme la partie
+principale, à la charge de payer à l'autre la valeur, estimée à la date du paiement, de la chose qui a été unie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+
 ###### Article 567
 
 Est réputée partie principale celle à laquelle l'autre n'a été unie que pour l'usage, l'ornement ou le complément de la
@@ -5352,6 +5419,85 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
+###### Article 570
+
+Si un artisan ou une personne quelconque a employé une matière qui ne lui appartenait pas à former une chose d'une nouvelle
+espèce, soit que la matière puisse ou non reprendre sa première forme, celui qui en était le propriétaire a le droit de
+réclamer la chose qui en a été formée en remboursant le prix de la main-d'oeuvre estimée à la date du remboursement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du travail - art. L143-12 (AbD)
+  - Loi n°52-1322 du 15 décembre 1952 - art. 105 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+
+###### Article 571
+
+Si, cependant, la main-d'oeuvre était tellement importante qu'elle surpassât de beaucoup la valeur de la matière employée,
+l'industrie serait alors réputée la partie principale, et l'ouvrier aurait le droit de retenir la chose travaillée, en
+remboursant au propriétaire le prix de la matière, estimée à la date du remboursement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+_Cité par_:
+
+  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 27-2 (V)
+  - Loi n°86-845 du 17 juillet 1986 - art. 21-2 (V)
+
+
+###### Article 572
+
+Lorsqu'une personne a employé en partie la matière qui lui appartenait et en partie celle qui ne lui appartenait pas à former
+une chose d'une espèce nouvelle, sans que ni l'une ni l'autre des deux matières soit entièrement détruite, mais de manière
+qu'elles ne puissent pas se séparer sans inconvénient, la chose est commune aux deux propriétaires, en raison, quant à l'un,
+de la matière qui lui appartenait, quant à l'autre, en raison à la fois et de la matière qui lui appartenait et du prix de sa
+main-d'oeuvre. Le prix de la main-d'oeuvre est estimé à la date de la licitation prévue à l'article 575.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 575 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+
 ###### Article 573
 
 Lorsqu'une chose a été formée par le mélange de plusieurs matières appartenant à différents propriétaires, mais dont aucune
@@ -5372,6 +5518,27 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
+###### Article 574
+
+Si la matière appartenant à l'un des propriétaires était de beaucoup supérieure à l'autre par la quantité et le prix, en ce
+cas le propriétaire de la matière supérieure en valeur pourrait réclamer la chose provenue du mélange en remboursant à
+l'autre la valeur de sa matière, estimée à la date du remboursement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+
 ###### Article 575
 
 Lorsque la chose reste en commun entre les propriétaires des matières dont elle a été formée, elle doit être licitée au
@@ -5390,6 +5557,27 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 576
+
+Dans tous les cas où le propriétaire dont la matière a été employée, à son insu, à former une chose d'une autre espèce peut
+réclamer la propriété de cette chose, il a le choix de demander la restitution de sa matière en même nature, quantité, poids,
+mesure et bonté, ou sa valeur estimée à la date de la restitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-27
+
+_Créé par_:
+
+  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
 
 
 ###### Article 577
@@ -5564,6 +5752,27 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 587
+
+Si l'usufruit comprend des choses dont on ne peut faire usage sans les consommer, comme l'argent, les grains, les liqueurs,
+l'usufruitier a le droit de s'en servir, mais à la charge de rendre, à la fin de l'usufruit, soit des choses de même quantité
+et qualité soit leur valeur estimée à la date de la restitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
 
 
 ###### Article 588
@@ -6080,6 +6289,30 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 616
+
+Si le troupeau sur lequel un usufruit a été établi périt entièrement par accident ou par maladie et sans la faute de
+l'usufruitier, celui-ci n'est tenu envers le propriétaire que de lui rendre compte des cuirs, ou de leur valeur estimée à la
+date de la restitution.
+
+Si le troupeau ne périt pas entièrement, l'usufruitier est tenu de remplacer, jusqu'à concurrence du croît, les têtes des
+animaux qui ont péri.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
 
 
 #### Section 3 : Comment l'usufruit prend fin<a id=47></a>
@@ -6937,12 +7170,77 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
+###### Article 658
+
+Tout copropriétaire peut faire exhausser le mur mitoyen ; mais il doit payer seul la dépense de l'exhaussement et les
+réparations d'entretien au-dessus de la hauteur de la clôture commune ; il doit en outre payer seul les frais d'entretien de
+la partie commune du mur dus à l'exhaussement et rembourser au propriétaire voisin toutes les dépenses rendues nécessaires à
+ce dernier par l'exhaussement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+
 ###### Article 659
 
 Si le mur mitoyen n'est pas en état de supporter l'exhaussement, celui qui veut l'exhausser doit le faire reconstruire en
 entier à ses frais, et l'excédent d'épaisseur doit se prendre de son côté.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 660
+
+Le voisin qui n'a pas contribué à l'exhaussement peut en acquérir la mitoyenneté en payant la moitié de la dépense qu'il a
+coûté et la valeur de la moitié du sol fourni pour l'excédent d'épaisseur, s'il y en a. La dépense que l'exhaussement a coûté
+est estimée à la date de l'acquisition, compte tenu de l'état dans lequel se trouve la partie exhaussée du mur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
+
+
+###### Article 661
+
+Tout propriétaire joignant un mur a la faculté de le rendre mitoyen en tout ou en partie, en remboursant au maître du mur la
+moitié de la dépense qu'il a coûté, ou la moitié de la dépense qu'a coûté la portion du mur qu'il veut rendre mitoyenne et la
+moitié de la valeur du sol sur lequel le mur est bâti. La dépense que le mur a coûté est estimée à la date de l'acquisition
+de sa mitoyenneté, compte tenu de l'état dans lequel il se trouve.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°60-464 1960-05-17 art. 1 JORF 18 mai 1960
 
 _Codifié par_:
 
