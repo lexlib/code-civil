@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1966-01-01
+Version Consolidée au 1966-02-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -23,7 +23,7 @@ Version Consolidée au 1966-01-01
       - [Chapitre III : Des oppositions au mariage (art. 172 à 179)](#20)
       - [Chapitre IV : Des demandes en nullité de mariage (art. 181 à 200)](#21)
       - [Chapitre V : Des obligations qui naissent du mariage (art. 203 à 211)](#22)
-      - [Chapitre VI : Des devoirs et des droits respectifs des époux (art. 212 à 215)](#23)
+      - [Chapitre VI : Des devoirs et des droits respectifs des époux (art. 212 à 226)](#23)
       - [Chapitre VII : De la dissolution du mariage (art. 227)](#24)
     - [Titre X : De la minorité et de l'émancipation (art. 389-1 à 392)](#25)
       - [Chapitre Ier : De la minorité (art. 389-1 à 392)](#26)
@@ -131,8 +131,8 @@ Version Consolidée au 1966-01-01
       - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 910)](#128)
       - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#129)
         - [Section 1 : De la portion de biens disponible. (art. 916)](#130)
-      - [Chapitre IV : Des donations entre vifs (art. 942 à 962)](#131)
-        - [Section 1 : De la forme des donations entre vifs. (art. 942)](#132)
+      - [Chapitre IV : Des donations entre vifs (art. 940 à 962)](#131)
+        - [Section 1 : De la forme des donations entre vifs. (art. 940 à 942)](#132)
         - [Section 1 : De la forme des donations entre vifs. (art. 937)](#133)
         - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#134)
       - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1069 à 1072)](#135)
@@ -196,144 +196,168 @@ Version Consolidée au 1966-01-01
     - [Titre IV : Des engagements qui se forment sans convention (art. 1370 à 1386)](#193)
       - [Chapitre Ier : Des quasi-contrats. (art. 1371 à 1381)](#194)
       - [Chapitre II : Des délits et des quasi-délits. (art. 1382 à 1386)](#195)
-    - [Titre V : Du contrat de mariage et des régimes matrimoniaux (art. 1452 à 1568)](#196)
-      - [Chapitre II : Du régime en communauté (art. 1452 à 1523)](#197)
-        - [Première partie : De la communauté légale (art. 1452 à 1466)](#198)
-          - [Section III : De la dissolution de la communauté (art. 1452 à 1466)](#199)
-            - [Paragraphe I : Des causes de la dissolution et de la séparation des biens. (art. 1452 à 1466)](#200)
-        - [Deuxième partie : De la communauté conventionnelle. (art. 1517 à 1523)](#201)
-          - [Section IV : Du préciput. (art. 1517)](#202)
-          - [Section V : De la stipulation de parts inégales. (art. 1522 à 1523)](#203)
-      - [Chapitre II : Régimes en communauté (art. 1492 à 1496)](#204)
-        - [Première partie : Communauté légale (art. 1492 à 1496)](#205)
-          - [Section III : Dissolution de la communauté (art. 1492 à 1496)](#206)
-            - [Paragraphe 3 : Contribution au passif après le partage. (art. 1492 à 1496)](#207)
-      - [Chapitre II : Des régimes en communauté (art. 1528 à 1535)](#208)
-        - [Dispositions communes aux deux parties du chapitre II. (art. 1528 à 1535)](#209)
-      - [Chapitre III : Du régime de séparation de biens. (art. 1544 à 1568)](#210)
-    - [Titre VI : De la vente (art. 1582 à 1701)](#211)
-      - [Chapitre Ier : De la nature et de la forme de la vente. (art. 1582 à 1593)](#212)
-      - [Chapitre II : Qui peut acheter ou vendre. (art. 1594 à 1597)](#213)
-      - [Chapitre III : Des choses qui peuvent être vendues. (art. 1598 à 1601)](#214)
-      - [Chapitre IV : Des obligations du vendeur (art. 1602 à 1649)](#215)
-        - [Section 1 : Dispositions générales. (art. 1602 à 1603)](#216)
-        - [Section 2 : De la délivrance. (art. 1604 à 1624)](#217)
-        - [Section 3 : De la garantie. (art. 1625 à 1649)](#218)
-          - [Paragraphe 1 : De la garantie en cas d'éviction. (art. 1626 à 1640)](#219)
-          - [Paragraphe 2 : De la garantie des défauts de la chose vendue. (art. 1641 à 1649)](#220)
-      - [Chapitre V : Des obligations de l'acheteur. (art. 1650 à 1657)](#221)
-      - [Chapitre VI : De la nullité et de la résolution de la vente. (art. 1658 à 1685)](#222)
-        - [Section 1 : De la faculté de rachat. (art. 1659 à 1673)](#223)
-        - [Section 2 : De la rescision de la vente pour cause de lésion. (art. 1674 à 1685)](#224)
-      - [Chapitre VII : De la licitation. (art. 1686 à 1688)](#225)
-      - [Chapitre VIII : Du transport des créances et autres droits incorporels. (art. 1689 à 1701)](#226)
-    - [Titre VII : De l'échange (art. 1702 à 1707)](#227)
-    - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#228)
-      - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#229)
-      - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#230)
-        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#231)
-        - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#232)
-        - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#233)
-      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1780 à 1799)](#234)
-        - [Section 1 : Du louage des domestiques et ouvriers. (art. 1780)](#235)
-        - [Section 2 : Des voituriers par terre et par eau. (art. 1782 à 1786)](#236)
-        - [Section 3 : Des devis et des marchés. (art. 1787 à 1799)](#237)
-      - [Chapitre IV : Du bail à cheptel (art. 1800 à 1831)](#238)
-        - [Section 1 : Dispositions générales. (art. 1800 à 1803)](#239)
-        - [Section 2 : Du cheptel simple. (art. 1804 à 1817)](#240)
-        - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#241)
-        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#242)
-          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#243)
-          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#244)
-        - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#245)
-    - [Titre X : Du prêt (art. 1874 à 1914)](#246)
-      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#247)
-        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#248)
-        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#249)
-        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#250)
-      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#251)
-        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#252)
-        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#253)
-        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#254)
-      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#255)
-    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#256)
-      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#257)
-      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1951)](#258)
-        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#259)
-        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#260)
-        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#261)
-        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#262)
-        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1951)](#263)
-      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#264)
-        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#265)
-        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#266)
-        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#267)
-    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#268)
-      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#269)
-      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#270)
-        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#271)
-        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#272)
-    - [Titre XIII : Du mandat (art. 1984 à 2010)](#273)
-      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#274)
-      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#275)
-      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#276)
-      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#277)
-    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#278)
-      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#279)
-      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#280)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#281)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#282)
-        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#283)
-        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#284)
-      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#285)
-      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#286)
-    - [Titre XV : Des transactions (art. 2044 à 2058)](#287)
-    - [Titre XVI : Du compromis (art. 2062 à 2068)](#288)
-    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#289)
-      - [Chapitre I : Du gage. (art. 2073 à 2084)](#290)
-      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#291)
-    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#292)
-      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#293)
-      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#294)
-        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#295)
-        - [Section I : Des privilèges sur les meubles (art. 2102)](#296)
-          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#297)
-        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#298)
-        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#299)
-        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#300)
-      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#301)
-        - [Section 1 : Des hypothèques légales. (art. 2121)](#302)
-        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#303)
-        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#304)
-        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#305)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#306)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#307)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2164)](#308)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#309)
-        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164)](#310)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#311)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#312)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#313)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2197 à 2203)](#314)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#315)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#316)
-        - [Section 5 : De la vente. (art. 2205)](#317)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#318)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#319)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#320)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#321)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#322)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#323)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#324)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#325)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#326)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#327)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#328)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#329)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#330)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#331)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#332)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#333)
+    - [Titre V : Du contrat de mariage et des régimes matrimoniaux (art. 1387 à 1581)](#196)
+      - [Chapitre Ier : Dispositions générales. (art. 1387 à 1398)](#197)
+      - [Chapitre II : Du régime en communauté (art. 1400 à 1527)](#198)
+        - [Première partie : De la communauté légale (art. 1400 à 1490)](#199)
+          - [Section I : De ce qui compose la communauté activement et passivement (art. 1401 à 1420)](#200)
+            - [Paragraphe I : De l'actif de la communauté. (art. 1401)](#201)
+            - [Paragraphe II : Du passif de la communauté. (art. 1409 à 1420)](#202)
+          - [Section 1 : De ce qui compose la communauté activement et passivement (art. 1402 à 1417)](#203)
+            - [Paragraphe 1 : De l'actif de la communauté (art. 1402 à 1408)](#204)
+            - [Paragraphe 2 : Du passif de la communauté (art. 1410 à 1417)](#205)
+          - [Section II : De l'administration de la communauté et des biens propres. (art. 1421 à 1439)](#206)
+          - [Section 2 : De l'administration de la communauté et des biens propres. (art. 1428 à 1440)](#207)
+          - [Section 3 : De la dissolution de la communauté (art. 1443 à 1491)](#208)
+            - [Paragraphe 1 : Des causes de dissolution et de la séparation de biens. (art. 1443 à 1448)](#209)
+            - [Paragraphe 2 : De la liquidation et du partage de la communauté. (art. 1467 à 1480)](#210)
+            - [Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution. (art. 1491)](#211)
+          - [Section III : De la dissolution de la communauté (art. 1442 à 1490)](#212)
+            - [Paragraphe I : Des causes de dissolution et de la séparation de biens. (art. 1442 à 1449)](#213)
+            - [Paragraphe II : De la liquidation et du partage de la communauté. (art. 1469 à 1481)](#214)
+            - [Paragraphe II : De l'obligation et de la contribution au passif après le partage. (art. 1482)](#215)
+            - [Paragraphe III : De l'obligation et de la contribution au passif après le partage. (art. 1483 à 1490)](#216)
+        - [Deuxième partie : De la communauté conventionnelle. (art. 1497 à 1526)](#217)
+          - [Section 1 : De la communauté de meubles et acquêts. (art. 1498 à 1501)](#218)
+          - [Section I : De la communauté de meubles et acquêts. (art. 1502)](#219)
+          - [Section II : Des clauses relatives à l'administration (art. 1503 à 1510)](#220)
+            - [Paragraphe I : De la clause de la main commune. (art. 1503)](#221)
+            - [Paragraphe II : De la clause de représentation mutuelle. (art. 1504)](#222)
+            - [Paragraphe III : De la clause d'unité d'administration. (art. 1505 à 1510)](#223)
+          - [Section 3 : De la clause de prélèvement moyennant indemnité. (art. 1511 à 1514)](#224)
+          - [Section 4 : Du préciput. (art. 1515 à 1519)](#225)
+          - [Section IV : Du préciput. (art. 1518)](#226)
+          - [Section 5 : De la stipulation de parts inégales. (art. 1520 à 1525)](#227)
+          - [Section 6 : De la communauté universelle. (art. 1526)](#228)
+        - [Dispositions communes aux deux parties du chapitre II. (art. 1527)](#229)
+      - [Chapitre III : Du régime de séparation de biens. (art. 1536 à 1541)](#230)
+      - [Chapitre IV : Du régime de participation aux acquêts. (art. 1569 à 1581)](#231)
+    - [Titre VI : De la vente (art. 1582 à 1701)](#232)
+      - [Chapitre Ier : De la nature et de la forme de la vente. (art. 1582 à 1593)](#233)
+      - [Chapitre II : Qui peut acheter ou vendre. (art. 1594 à 1597)](#234)
+      - [Chapitre III : Des choses qui peuvent être vendues. (art. 1598 à 1601)](#235)
+      - [Chapitre IV : Des obligations du vendeur (art. 1602 à 1649)](#236)
+        - [Section 1 : Dispositions générales. (art. 1602 à 1603)](#237)
+        - [Section 2 : De la délivrance. (art. 1604 à 1624)](#238)
+        - [Section 3 : De la garantie. (art. 1625 à 1649)](#239)
+          - [Paragraphe 1 : De la garantie en cas d'éviction. (art. 1626 à 1640)](#240)
+          - [Paragraphe 2 : De la garantie des défauts de la chose vendue. (art. 1641 à 1649)](#241)
+      - [Chapitre V : Des obligations de l'acheteur. (art. 1650 à 1657)](#242)
+      - [Chapitre VI : De la nullité et de la résolution de la vente. (art. 1658 à 1685)](#243)
+        - [Section 1 : De la faculté de rachat. (art. 1659 à 1673)](#244)
+        - [Section 2 : De la rescision de la vente pour cause de lésion. (art. 1674 à 1685)](#245)
+      - [Chapitre VII : De la licitation. (art. 1686 à 1688)](#246)
+      - [Chapitre VIII : Du transport des créances et autres droits incorporels. (art. 1689 à 1701)](#247)
+    - [Titre VII : De l'échange (art. 1702 à 1707)](#248)
+    - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#249)
+      - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#250)
+      - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#251)
+        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#252)
+        - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#253)
+        - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#254)
+      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1780 à 1799)](#255)
+        - [Section 1 : Du louage des domestiques et ouvriers. (art. 1780)](#256)
+        - [Section 2 : Des voituriers par terre et par eau. (art. 1782 à 1786)](#257)
+        - [Section 3 : Des devis et des marchés. (art. 1787 à 1799)](#258)
+      - [Chapitre IV : Du bail à cheptel (art. 1800 à 1831)](#259)
+        - [Section 1 : Dispositions générales. (art. 1800 à 1803)](#260)
+        - [Section 2 : Du cheptel simple. (art. 1804 à 1817)](#261)
+        - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#262)
+        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#263)
+          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#264)
+          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#265)
+        - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#266)
+    - [Titre X : Du prêt (art. 1874 à 1914)](#267)
+      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#268)
+        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#269)
+        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#270)
+        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#271)
+      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#272)
+        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#273)
+        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#274)
+        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#275)
+      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#276)
+    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#277)
+      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#278)
+      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1951)](#279)
+        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#280)
+        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#281)
+        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#282)
+        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#283)
+        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1951)](#284)
+      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#285)
+        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#286)
+        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#287)
+        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#288)
+    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#289)
+      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#290)
+      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#291)
+        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#292)
+        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#293)
+    - [Titre XIII : Du mandat (art. 1984 à 2010)](#294)
+      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#295)
+      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#296)
+      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#297)
+      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#298)
+    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#299)
+      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#300)
+      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#301)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#302)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#303)
+        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#304)
+        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#305)
+      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#306)
+      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#307)
+    - [Titre XV : Des transactions (art. 2044 à 2058)](#308)
+    - [Titre XVI : Du compromis (art. 2062 à 2068)](#309)
+    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#310)
+      - [Chapitre I : Du gage. (art. 2073 à 2084)](#311)
+      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#312)
+    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#313)
+      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#314)
+      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#315)
+        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#316)
+        - [Section I : Des privilèges sur les meubles (art. 2102)](#317)
+          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#318)
+        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#319)
+        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#320)
+        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#321)
+      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#322)
+        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#323)
+        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#324)
+        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#325)
+        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#326)
+        - [Section V : Des règles particulières à l'hypothèque légale des époux. (art. 2135 à 2142)](#327)
+        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2141)](#328)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#329)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#330)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#331)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#332)
+        - [Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163)](#333)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164 à 2165)](#334)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#335)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#336)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#337)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2197 à 2203)](#338)
+    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#339)
+      - [Chapitre Ier : De la saisie. (art. 2205)](#340)
+        - [Section 5 : De la vente. (art. 2205)](#341)
+          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#342)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#343)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#344)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#345)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#346)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#347)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#348)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#349)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#350)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#351)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#352)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#353)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#354)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#355)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#356)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#357)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -3952,6 +3976,458 @@ _Cité par_:
   - Loi n°54-439 du 15 avril 1954 - art. 10 (VD)
   - Code civil - art. 222 (V)
   - Code civil - art. 75 (VD)
+
+
+###### Article 216
+
+Chaque époux a la pleine capacité de droit ; mais ses droits et pouvoirs peuvent être limités par l'effet du régime
+matrimonial et des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+
+###### Article 217
+
+Un époux peut être autorisé par justice à passer seul un acte pour lequel le concours ou le consentement de son conjoint
+serait nécessaire, si celui-ci est hors d'état de manifester sa volonté ou si son refus n'est pas justifié par l'intérêt de
+la famille.
+
+L'acte passé dans les conditions fixées par l'autorisation de justice est opposable à l'époux dont le concours ou le
+consentement a fait défaut, sans qu'il en résulte à sa charge aucune obligation personnelle.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Cité par_:
+
+  - Code civil - art. 121 (V)
+  - Code civil - art. 122 (V)
+  - Code civil - art. 1419 (Ab)
+  - Code civil - art. 428 (V)
+  - Code civil - art. 494-2 (V)
+  - Code civil - art. 498 (VT)
+  - Code de procédure civile - art. 1213 (V)
+  - Code de procédure civile - art. 1286 (V)
+  - Code rural - art. L411-68 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 218
+
+Un époux peut donner mandat à l'autre de le représenter dans l'exercice des pouvoirs que le régime matrimonial lui attribue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Cité par_:
+
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+
+###### Article 219
+
+Si l'un des époux se trouve hors d'état de manifester sa volonté, l'autre peut se faire habiliter par justice à le
+représenter, d'une manière générale, ou pour certains actes particuliers, dans l'exercice des pouvoirs résultant du régime
+matrimonial, les conditions et l'étendue de cette représentation étant fixées par le juge.
+
+A défaut de pouvoir légal, de mandat ou d'habilitation par justice, les actes faits par un époux en représentation de l'autre
+ont effet, à l'égard de celui-ci, suivant les règles de la gestion d'affaires.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Cité par_:
+
+  - Code civil - art. 121 (V)
+  - Code civil - art. 122 (V)
+  - Code civil - art. 428 (V)
+  - Code civil - art. 494-2 (V)
+  - Code civil - art. 498 (VT)
+  - Code de procédure civile - art. 1286 (V)
+  - Code de procédure civile - art. 1289-2 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 220
+
+Chacun des époux a pouvoir pour passer seul les contrats qui ont pour objet l'entretien du ménage ou l'éducation des
+enfants : toute dette ainsi contractée par l'un oblige l'autre solidairement.
+
+La solidarité n'a pas lieu, néanmoins, pour des dépenses manifestement excessives, eu égard au train de vie du ménage, à
+l'utilité ou à l'inutilité de l'opération, à la bonne ou mauvaise foi du tiers contractant.
+
+Elle n'a pas lieu non plus pour les obligations résultant d'achats à tempérament s'ils n'ont été conclus du consentement des
+deux époux.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Cité par_:
+
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+  - Code civil - art. 1409 (V)
+  - Code civil - art. 1414 (V)
+  - Code civil - art. 1536 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 220-1
+
+Si l'un des époux manque gravement à ses devoirs et met ainsi en péril les intérêts de la famille, le président du tribunal
+de grande instance peut prescrire toutes les mesures urgentes que requièrent ces intérêts.
+
+Il peut notamment interdire à cet époux de faire, sans le consentement de l'autre, des actes de disposition sur ses propres
+biens ou sur ceux de la communauté, meubles ou immeubles. Il peut aussi interdire le déplacement des meubles, sauf à
+spécifier ceux dont il attribue l'usage personnel à l'un ou à l'autre des conjoints.
+
+La durée des mesures prévues au présent article doit être déterminée. Elle ne saurait, prolongation éventuellement comprise,
+dépasser trois ans.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
+  - Loi n°65-570 du 13 juillet 1965 - art. 6 (V)
+  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+  - Arrêté du 29 juillet 1987 - art. 4 (M)
+  - Arrêté du 9 février 1988 - art. Annexe I (V)
+  - Arrêté du 9 février 1988 - art. Annexe II (V)
+  - Arrêté du 9 février 1988 - art. Annexe III (V)
+  - Arrêté du 9 février 1988 - art. Annexe VI (V)
+  - Loi n°91-650 du 9 juillet 1991 - art. 66-1 (V)
+  - Code civil - art. 257 (V)
+  - Code de la construction et de l'habitation. - art. L441-1 (V)
+  - Code de procédure civile - art. 1290 (V)
+
+_Créé par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+  - TXT_ASSOCIE: Code civil - art. 220-2 (V)
+  - TXT_ASSOCIE: Code civil - art. 220-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 220-2
+
+Si l'ordonnance porte interdiction de faire des actes de disposition sur des biens dont l'aliénation est sujette à publicité,
+elle doit être publiée à la diligence de l'époux requérant. Cette publication cesse de produire effet à l'expiration de la
+période déterminée par l'ordonnance, sauf à la partie intéressée à obtenir dans l'intervalle une ordonnance modificative, qui
+sera publiée de la même manière.
+
+Si l'ordonnance porte interdiction de disposer des meubles corporels, ou de les déplacer, elle est signifiée par le requérant
+à son conjoint, et a pour effet de rendre celui-ci gardien responsable des meubles dans les mêmes conditions qu'un saisi.
+Signifiée à un tiers, elle le constitue de mauvaise foi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+  - TXT_ASSOCIE: Code civil - art. 220-1 (V)
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 6 (V)
+
+
+###### Article 220-3
+
+Sont annulables, à la demande du conjoint requérant, tous les actes accomplis en violation de l'ordonnance, s'ils ont été
+passés avec un tiers de mauvaise foi, ou même s'agissant d'un bien dont l'aliénation est sujette à publicité, s'ils sont
+simplement postérieurs à la publication prévue par l'article précédent.
+
+L'action en nullité est ouverte à l'époux requérant pendant deux années à partir du jour où il a eu connaissance de l'acte,
+sans pouvoir jamais être intentée, si cet acte est sujet à publicité, plus de deux ans après sa publication.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+  - TXT_ASSOCIE: Code civil - art. 220-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 221
+
+Chacun des époux peut se faire ouvrir, sans le consentement de l'autre, tout compte de dépôt et tout compte de titres en son
+nom personnel.
+
+L'époux déposant est réputé, à l'égard du dépositaire, avoir la libre disposition des fonds et des titres en dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+
+###### Article 222
+
+Si l'un des époux se présente seul pour faire un acte d'administration, de jouissance ou de disposition sur un bien meuble
+qu'il détient individuellement, il est réputé, à l'égard des tiers de bonne foi, avoir le pouvoir de faire seul cet acte. 
+
+Cette disposition n'est pas applicable aux meubles meublants visés à l'article 215, alinéa 3, non plus qu'aux meubles
+corporels dont la nature fait présumer la propriété de l'autre conjoint conformément à l'article 1404.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Cite_:
+
+  - Code civil - art. 1404 (V)
+  - Code civil - art. 215 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 223
+
+La femme a le droit d'exercer une profession sans le consentement de son mari, et elle peut toujours, pour les besoins de
+cette profession, aliéner et obliger seule ses biens personnels en pleine propriété.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Cité par_:
+
+  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 23-1 (V)
+  - Loi n°86-845 du 17 juillet 1986 - art. 18-1 (V)
+
+
+###### Article 224
+
+Chacun des époux perçoit ses gains et salaires et peut en disposer librement après s'être acquitté des charges du mariage. 
+
+Les biens que la femme acquiert par ses gains et salaires dans l'exercice d'une profession séparée de celle de son mari sont
+réservés à son administration, à sa jouissance et à sa libre disposition, sauf à observer les limitations apportées par les
+articles 1425 et 1503 aux pouvoirs respectifs des époux.
+
+L'origine et la consistance des biens réservés sont établies tant à l'égard des tiers que du mari, suivant les règles de
+l'article 1402.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 5 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 5 (V)
+  - Code civil - art. 1401 (V)
+
+_Cite_:
+
+  - Code civil - art. 1402 (V)
+  - Code civil - art. 1425 (V)
+  - Code civil - art. 1503 (V)
+
+
+###### Article 225
+
+Les créanciers envers lesquels la femme s'est obligée peuvent exercer leurs poursuites sur les biens réservés, lors même que
+l'obligation n'a pas été contractée par elle dans l'exercice de sa profession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+_Cité par_:
+
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+
+###### Article 226
+
+Les dispositions du présent chapitre, en tous les points où elles ne réservent pas l'application des conventions
+matrimoniales, sont applicables, par le seul effet du mariage, quel que soit le régime matrimonial des époux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
 
 
 ### Chapitre VII : De la dissolution du mariage<a id=24></a>
@@ -12394,6 +12870,41 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 818
+
+Le mari ne peut, sans le consentement de la femme, procéder au partage des biens à elle échus qui tombent dans la communauté,
+non plus que des biens qui doivent lui demeurer propres et dont il a l'administration.
+
+Tout partage auquel il procède seul, quant à ces biens, ne vaut que comme partage provisionnel.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 819 (V)
+  - Loi n°85-1372 du 23 décembre 1985 - art. 46 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 4 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 46 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
 ###### Article 819
 
 Si tous les héritiers sont présents et majeurs, l'apposition de scellés sur les effets de la succession n'est pas nécessaire
@@ -17198,6 +17709,31 @@ _Créé par_:
 ### Chapitre IV : Des donations entre vifs<a id=131></a>
 
 #### Section 1 : De la forme des donations entre vifs.<a id=132></a>
+
+###### Article 940
+
+La publication sera faite à la diligence du mari, lorsque, les biens ayant été donnés à sa femme, il en aura l'administration
+par l'effet des conventions matrimoniales ; et s'il ne remplit pas cette formalité, la femme pourra y faire procéder sans
+autorisation.
+
+Lorsque la donation sera faite à des mineurs, à des majeurs en tutelle, ou à des établissements publics, la publication sera
+faite à la diligence des tuteurs, curateurs, ou administrateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+_Modifié par_:
+
+  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+  - Loi n°65-570 du 13 juillet 1965 - art. 4 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
 
 ###### Article 942
 
@@ -23298,23 +23834,419 @@ _Créé par_:
 
 ## Titre V : Du contrat de mariage et des régimes matrimoniaux<a id=196></a>
 
-### Chapitre II : Du régime en communauté<a id=197></a>
+### Chapitre Ier : Dispositions générales.<a id=197></a>
 
-#### Première partie : De la communauté légale<a id=198></a>
+###### Article 1387
 
-##### Section III : De la dissolution de la communauté<a id=199></a>
-
-##### Paragraphe I : Des causes de la dissolution et de la séparation des biens.<a id=200></a>
-
-###### Article 1452
-
-(article abrogé).
+La loi ne régit l'association conjugale, quant aux biens, qu'à défaut de conventions spéciales que les époux peuvent faire
+comme ils le jugent à propos, pourvu qu'elles ne soient pas contraires aux bonnes moeurs ni aux dispositions qui suivent.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1497 (V)
+  - Code civil - art. 1581 (V)
+
+
+###### Article 1388
+
+Les époux ne peuvent déroger ni aux devoirs ni aux droits qui résultent pour eux du mariage, ni aux règles de l'autorité
+parentale, de l'administration légale et de la tutelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1389
+
+Sans préjudice des libéralités qui pourront avoir lieu selon les formes et dans les cas déterminés par le présent code, les
+époux ne peuvent faire aucune convention ou renonciation dont l'objet serait de changer l'ordre légal des successions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1390
+
+Ils peuvent, toutefois, stipuler qu'à la dissolution du mariage par la mort de l'un d'eux, le survivant aura la faculté
+d'acquérir ou, le cas échéant, de se faire attribuer dans le partage certains biens personnels du prémourant, à charge d'en
+tenir compte à la succession, d'après la valeur qu'ils auront au jour où cette faculté sera exercée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 20 (V)
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1391
+
+Le contrat de mariage doit déterminer les biens sur lesquels portera la faculté stipulée au profit du survivant. Il peut
+fixer des bases d'évaluation et des modalités de paiement, sauf la réduction au profit des héritiers réservataires s'il y a
+avantage indirect.
+
+Compte tenu de ces clauses et à défaut d'accord entre les parties, la valeur des biens sera arrêtée par le tribunal de grande
+instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 20 (V)
+
+
+###### Article 1392
+
+La faculté ouverte au survivant est caduque s'il ne l'a pas exercée, par une notification faite aux héritiers du prédécédé,
+dans le délai d'un mois à compter du jour où ceux-ci l'auront mis en demeure de prendre parti. Cette mise en demeure ne peut
+avoir lieu avant l'expiration du délai prévu au titre "Des successions" pour faire inventaire et délibérer.
+
+Lorsqu'elle est faite dans ce délai, la notification forme vente au jour où la faculté est exercée ou, le cas échéant,
+constitue une opération de partage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 20 (V)
+
+
+###### Article 1393
+
+Les époux peuvent déclarer, de manière générale, qu'ils entendent se marier sous l'un des régimes prévus au présent code.
+
+A défaut de stipulations spéciales qui dérogent au régime de communauté ou le modifient, les règles établies dans la première
+partie du chapitre II formeront le droit commun de la France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1394
+
+Toutes les conventions matrimoniales seront rédigées par acte devant notaire, en la présence et avec le consentement
+simultanés de toutes les personnes qui y sont parties ou de leurs mandataires.
+
+Au moment de la signature du contrat, le notaire délivre aux parties un certificat sur papier libre et sans frais, énonçant
+ses nom et lieu de résidence, les noms, prénoms, qualités et demeures des futurs époux, ainsi que la date du contrat. Ce
+certificat  indique qu'il doit être remis à l'officier de l'état civil avant la célébration du mariage.
+
+Si l'acte de mariage mentionne qu'il n'a pas été fait de contrat, les époux seront, à l'égard des tiers, réputés mariés sous
+le régime de droit commun, à moins que, dans les actes passés avec ces tiers, ils n'aient déclaré avoir fait un contrat de
+mariage.
+
+En outre, si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, le contrat de mariage doit être
+publié dans les conditions et sous les sanctions prévues par les règlements relatifs au registre du commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 971 (Ab)
+  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+
+###### Article 1395
+
+Les conventions matrimoniales doivent être rédigées avant la célébration du mariage et ne peuvent prendre effet qu'au jour de
+cette célébration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1396
+
+Les changements qui seraient apportés aux conventions matrimoniales avant la célébration du mariage doivent être constatés
+par un acte passé dans les mêmes formes. Nul changement ou contre-lettre n'est, au surplus, valable sans la présence et le
+consentement simultanés de toutes les personnes qui ont été parties dans le contrat de mariage, ou de leurs mandataires.
+
+Tous changements et contre-lettres, même revêtus des formes prescrites par l'article précédent, seront sans effet à l'égard
+des tiers, s'ils n'ont été rédigés à la suite de la minute du contrat de mariage ; et le notaire ne pourra délivrer ni
+grosses ni expéditions du contrat de mariage sans transcrire à la suite le changement ou la contre-lettre.
+
+Le mariage célébré, il ne peut être apporté de changement au régime matrimonial que par l'effet d'un jugement, soit à la
+demande de l'un des époux, dans le cas de la séparation de biens ou des autres mesures judiciaires de protection, soit à la
+requête conjointe des deux époux, dans le cas de l'article suivant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1397
+
+Après deux années d'application du régime matrimonial, conventionnel ou légal, les époux pourront convenir dans l'intérêt de
+la famille de le modifier, ou même d'en changer entièrement, par un acte notarié qui sera soumis à l'homologation du tribunal
+de leur domicile.
+
+Toutes les personnes qui avaient été parties dans le contrat modifié doivent être appelées à l'instance d'homologation ; mais
+non leurs héritiers, si elles sont décédées.
+
+Le changement homologué a effet entre les parties à dater du jugement et, à l'égard des tiers, trois mois après que mention
+en aura été portée en marge de l'un et de l'autre exemplaire de l'acte de mariage. Toutefois, en l'absence même de cette
+mention, le changement n'en est pas moins opposable aux tiers si, dans les actes passés avec eux, les époux ont déclaré avoir
+modifié leur régime matrimonial.
+
+Il sera fait mention du jugement d'homologation sur la minute du contrat de mariage modifié.
+
+La demande et la décision d'homologation doivent être publiées dans les conditions et sous les sanctions prévues au code de
+procédure civile ; en outre, si l'un des époux est commerçant, la décision est publiée dans les conditions et sous les
+sanctions prévues par les règlements relatifs au registre du commerce.
+
+Les créanciers, s'il a été fait fraude à leurs droits, pourront former tierce opposition contre le jugement d'homologation
+dans les conditions du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 15 (V)
+  - Loi n°65-570 du 13 juillet 1965 - art. 16 (V)
+  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+  - Code civil - art. 305 (V)
+  - Code de procédure civile - art. 1300 (V)
+  - Code de procédure civile - art. 1300-1 (V)
+  - Code de procédure civile - art. 1300-3 (V)
+  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code civil - art. 1397-1 (M)
+
+
+###### Article 1398
+
+Le mineur habile à contracter mariage est habile à consentir toutes les conventions dont ce contrat est susceptible et les
+conventions et donations qu'il y a faites sont valables, pourvu qu'il ait été assisté, dans le contrat, des personnes dont le
+consentement est nécessaire pour la validité du mariage.
+
+Si des conventions matrimoniales ont été passées sans cette assistance, l'annulation en pourra être demandée par le mineur ou
+par les personnes dont le consentement était requis, mais seulement jusqu'à l'expiration de l'année qui suivra la majorité
+accomplie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+### Chapitre II : Du régime en communauté<a id=198></a>
+
+#### Première partie : De la communauté légale<a id=199></a>
+
+###### Article 1400
+
+La communauté, qui s'établit à défaut de contrat ou par la simple déclaration qu'on se marie sous le régime de la communauté,
+est soumise aux règles expliquées dans les trois sections qui suivent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+  - Code de l'organisation judiciaire - art. Tableau IV bis (V)
+
+
+##### Section I : De ce qui compose la communauté activement et passivement<a id=200></a>
+
+##### Paragraphe I : De l'actif de la communauté.<a id=201></a>
+
+###### Article 1401
+
+La communauté se compose activement des acquêts faits par les époux ensemble ou séparément durant le mariage, et provenant
+tant de leur industrie personnelle que des économies faites sur les fruits et revenus de leurs biens propres.
+
+Les biens réservés de la femme, quoique soumis à une gestion distincte en vertu de l'article 224, font partie des acquêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 224 (MMN)
+
+
+##### Paragraphe II : Du passif de la communauté.<a id=202></a>
+
+###### Article 1409
+
+La communauté se compose passivement :
+
+A titre définitif, et sans distinguer entre le mari et la femme, des aliments dus par les époux et des dettes contractées par
+eux pour l'entretien du ménage et l'éducation des enfants ;
+
+A titre définitif ou sauf récompense, selon les cas, des autres dettes nées pendant la communauté, soit à la charge du mari,
+soit à la charge de la femme, d'après les distinctions qui seront faites ci-dessous.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1411
+
+Les créanciers de l'un ou de l'autre époux, dans le cas de l'article précédent, ne peuvent poursuivre leur paiement que sur
+les biens propres de leur débiteur.
+
+Ils peuvent, néanmoins, saisir aussi les biens de la communauté quand le mobilier qui appartient à leur débiteur au jour du
+mariage ou qui lui est échu par succession ou libéralité a été confondu dans le patrimoine commun et ne peut plus être
+identifié selon les règles de l'article 1402.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1402 (V)
+
+
+###### Article 1413
+
+Le paiement des dettes dont le mari vient à être tenu, pour quelque cause que ce soit, pendant la communauté, peut toujours
+être poursuivi sur les biens communs, à moins qu'il n'y ait eu fraude du mari et mauvaise foi du créancier, et sauf la
+récompense due à la communauté s'il y a lieu.
+
+Les biens réservés ne peuvent, toutefois, être saisis par les créanciers du mari, à moins que l'obligation n'ait été
+contractée pour l'entretien du ménage ou l'éducation des enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1414
+
+Le paiement des dettes dont la femme vient à être tenue pendant la communauté peut être poursuivi sur l'ensemble des biens
+communs dans les cas suivants :
+
+1° Si l'engagement est de ceux qui se forment sans aucune convention :
+
+2° Si l'engagement, formé par convention, l'a été du consentement du mari, ou avec l'habilitation de justice, ainsi qu'il est
+dit à l'article 1419 ;
+
+3° Si l'engagement a été contracté pour l'entretien du ménage ou l'éducation des enfants, conformément à l'article 220.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°87-637 du 5 août 1987
+  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 6 (Ab)
+  - TXT_ASSOCIE: Code civil 1416 *récompense*
+
+_Cité par_:
+
+  - Décret n°92-755 du 31 juillet 1992 - art. 305 (Ab)
+  - Code civil - art. 1506 (Ab)
+
+_Cite_:
+
+  - Code civil - art. 1419 (Ab)
+  - Code civil - art. 220 (M)
+
+
+###### Article 1415
+
+Toutes autres dettes de la femme n'obligent que ses propres, en pleine propriété, et ses biens réservés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1418
+
+Lorsqu'une dette est entrée en communauté du chef d'un seul des époux, elle ne peut être poursuivie sur les biens propres de
+l'autre.
+
+S'il y a solidarité, la dette est réputée entrer en communauté du chef des deux époux. Mais quand un époux ne fait que donner
+son consentement à l'obligation de l'autre, c'est seulement du chef de celui-ci que la dette entre en communauté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1419
+
+Toutefois, les créanciers peuvent poursuivre le paiement des dettes que la femme a contractées avec le consentement du mari
+tant sur les biens de la communauté que sur ceux du mari ou de la femme, sauf la récompense due à la communauté, ou
+l'indemnité due au mari.
+
+Si les dettes ont été contractées avec l'habilitation de justice, conformément à l'article 217, le paiement n'en peut être
+poursuivi que sur les propres de la femme et sur les biens de la communauté.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
@@ -23322,921 +24254,2189 @@ _Codifié par_:
 
 _Abrogé par_:
 
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+  - Loi n°85-1372 du 23 décembre 1985 - art. 12 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+_Cité par_:
+
+  - Code civil - art. 1414 (M)
+
+_Cite_:
+
+  - Code civil - art. 217 (V)
 
 
-###### Article 1453
+###### Article 1420
 
-(article abrogé).
+La femme qui exerce une profession séparée oblige ses propres et ses biens réservés par ses engagements professionnels.
+
+Le paiement de ces engagements peut aussi être poursuivi sur l'ensemble de la communauté et sur les propres du mari, si
+celui-ci avait donné son accord exprès à l'acte passé par la femme, ou même en l'absence d'un tel accord, s'il s'est ingéré
+dans l'exercice de la profession. Il en est de même si, par une déclaration mentionnée au registre du commerce, il a donné
+son accord exprès à l'exercice d'un commerce par la femme.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Cité par_:
+
+  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 42 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 65 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+  - Code de commerce - art. 5 (Ab)
+
 _Abrogé par_:
 
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+  - Loi n°85-1372 du 23 décembre 1985 - art. 12 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+##### Section 1 : De ce qui compose la communauté activement et passivement<a id=203></a>
+
+##### Paragraphe 1 : De l'actif de la communauté<a id=204></a>
+
+###### Article 1402
+
+Tout bien, meuble ou immeuble, est réputé acquêt de communauté si l'on ne prouve qu'il est propre à l'un des époux par
+application d'une disposition de la loi.
+
+Si le bien est de ceux qui ne portent pas en eux-mêmes preuve ou marque de leur origine, la propriété personnelle de l'époux,
+si elle est contestée, devra être établie par écrit. A défaut d'inventaire ou autre preuve préconstituée, le juge pourra
+prendre en considération tous écrits, notamment titres de famille, registres et papiers domestiques, ainsi que documents de
+banque et factures. Il pourra même admettre la preuve par témoignage ou présomption, s'il constate qu'un époux a été dans
+l'impossibilité matérielle ou morale de se procurer un écrit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 13 (V)
+  - Code civil - art. 1411 (V)
+  - Code civil - art. 1499 (V)
+  - Code civil - art. 1501 (V)
+  - Code civil - art. 1570 (V)
+  - Code civil - art. 224 (Ab)
+
+
+###### Article 1403
+
+Chaque époux conserve la pleine propriété de ses propres.
+
+La communauté n'a droit qu'aux fruits perçus et non consommés. Mais récompense pourra lui être due, à la dissolution de la
+communauté, pour les fruits que l'époux a négligé de percevoir ou a consommés frauduleusement, sans qu'aucune recherche,
+toutefois, soit recevable au-delà des cinq dernières années.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1404
+
+Forment des  propres par leur nature, quand même ils auraient été acquis pendant le mariage, les vêtements et linges à
+l'usage personnel de l'un des époux, les actions en réparation d'un dommage corporel ou moral, les créances et pensions
+incessibles, et, plus généralement, tous les biens qui ont un caractère personnel et tous les droits exclusivement attachés à
+la personne.
+
+Forment aussi des propres par leur nature, mais sauf récompense s'il y a lieu, les instruments de travail nécessaires à la
+profession de l'un des époux, à moins qu'ils ne soient l'accessoire d'un fonds de commerce ou d'une exploitation faisant
+partie de la communauté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1498 (V)
+  - Code civil - art. 1526 (V)
+  - Code civil - art. 222 (V)
+
+
+###### Article 1405
+
+Restent  propres les biens dont les époux avaient la propriété ou la possession au jour de la célébration du mariage, ou
+qu'ils acquièrent, pendant le mariage, par succession, donation ou legs.
+
+La libéralité peut stipuler que les biens qui en font l'objet appartiendront à la communauté. Les biens tombent en
+communauté, sauf stipulation contraire, quand la libéralité est faite aux deux époux conjointement.
+
+Les biens abandonnés ou cédés par père, mère ou autre ascendant à l'un des époux, soit pour le remplir de ce qu'il lui doit,
+soit à la charge de payer les dettes du donateur à des étrangers, restent propres, sauf récompense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1406
+
+Forment des propres, sauf récompense s'il y a lieu, les biens acquis à titre d'accessoires d'un bien propre ainsi que les
+valeurs nouvelles et autres accroissements se rattachant à des valeurs mobilières propres. 
+
+Forment aussi des propres, par l'effet de la subrogation réelle, les créances et indemnités qui remplacent des propres, ainsi
+que les biens acquis en emploi ou remploi, conformément aux articles 1434 et 1435.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1434 (V)
+  - Code civil - art. 1435 (V)
+
+
+###### Article 1407
+
+Le bien acquis en échange d'un bien  qui appartenait en propre à l'un des époux est lui-même propre, sauf la récompense due à
+la communauté ou par elle, s'il y a soulte.
+
+Toutefois, si la soulte mise à la charge de la communauté est supérieure à la valeur du bien cédé, le bien acquis en échange
+tombe dans la masse commune, sauf récompense au profit du cédant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1408
+
+L'acquisition faite, à titre de licitation ou autrement, de portion d'un bien dont l'un des époux était propriétaire par
+indivis, ne forme point un acquêt, sauf la récompense due à la communauté pour la somme qu'elle a pu fournir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Paragraphe 2 : Du passif de la communauté<a id=205></a>
+
+###### Article 1410
+
+Les dettes dont les époux étaient tenus au jour de la célébration de leur mariage, ou dont se trouvent grevées les
+successions et libéralités qui leur échoient durant le mariage, leur demeurent personnelles, tant en capitaux qu'en arrérages
+ou intérêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil 1411 *droits des créanciers*
+
+
+###### Article 1412
+
+Récompense est due à la communauté qui a acquitté la dette personnelle d'un époux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1416
+
+La communauté qui a acquitté une dette pour laquelle elle pouvait être poursuivie en vertu des articles précédents a droit
+néanmoins à récompense, toutes les fois que cet engagement avait été contracté dans l'intérêt personnel de l'un des époux,
+ainsi pour l'acquisition, la conservation ou l'amélioration d'un bien propre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1417
+
+La communauté a droit à récompense, déduction faite, le cas échéant, du profit retiré par elle, quand elle a payé les amendes
+encourues par un époux, en raison d'infractions pénales, ou les réparations et dépens auxquels il avait été condamné pour des
+délits ou quasi-délits civils.
+
+Elle a pareillement droit à récompense si la dette qu'elle a acquittée avait été contractée par l'un des époux au mépris des
+devoirs que lui imposait le mariage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Section II : De l'administration de la communauté et des biens propres.<a id=206></a>
+
+###### Article 1421
+
+Le mari administre seul la communauté sauf à répondre des fautes qu'il aurait commises dans sa gestion.
+
+Il peut disposer des biens communs, pourvu que ce soit sans fraude et sous les exceptions qui suivent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1422
+
+Le mari ne peut, même pour l'établissement des enfants communs, disposer entre vifs, à titre gratuit, des biens de la
+communauté sans le consentement de la femme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1421 (V)
+
+
+###### Article 1423
+
+Le legs fait par le mari ne peut excéder sa part dans la communauté.
+
+S'il a légué un effet de la communauté, le légataire ne peut le réclamer en nature, qu'autant que l'effet, par l'événement du
+partage, tombe au lot des héritiers du mari ; si l'effet ne tombe point au lot de ces héritiers, le légataire a la récompense
+de la valeur totale de l'effet légué, sur la part des héritiers du mari dans la communauté et sur les biens personnels de ce
+dernier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1424
+
+Le mari ne peut, sans le consentement de la femme, aliéner ou grever de droits réels les immeubles, fonds de commerce et
+exploitations dépendant de la communauté, non plus que les droits sociaux non négociables et les meubles corporels dont
+l'aliénation est soumise à publicité. Il ne peut sans ce consentement percevoir les capitaux provenant de telles opérations.
+
+Il ne peut non plus, sans l'accord de la femme, donner à bail un fonds rural ou un immeuble à usage commercial, industriel ou
+artisanal. Les baux passés par le mari sur les biens communs sont, pour le surplus, soumis aux règles prévues pour les baux
+passés par l'usufruitier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 595 (V)
+
+
+###### Article 1425
+
+La femme a, pour administrer les biens réservés, les mêmes pouvoirs que le mari pour administrer les autres biens communs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 224 (Ab)
+
+
+###### Article 1426
+
+Si l'un des époux se trouve, d'une manière durable, hors d'état de manifester sa volonté, ou si sa gestion, soit de la
+communauté, soit des biens réservés, atteste l'inaptitude ou la fraude, l'autre conjoint peut demander en justice à lui être
+substitué dans l'exercice de ses pouvoirs. Les dispositions des articles 1445 à 1447 sont applicables à cette demande.
+
+Le conjoint, ainsi habilité par justice, a les mêmes pouvoirs qu'aurait eus l'époux qu'il remplace ; il passe avec
+l'autorisation de justice les actes pour lesquels son propre consentement aurait été requis s'il n'y avait pas eu
+substitution.
+
+L'époux privé de ses pouvoirs pourra, par la suite, en demander au tribunal la restitution, en établissant que leur transfert
+à l'autre conjoint n'est plus justifié.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 29 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 70 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 27 (M)
+  - Décret n°84-406 du 30 mai 1984 - art. 71 (M)
+  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+  - Arrêté du 9 février 1988 - art. Annexe I (V)
+  - Arrêté du 9 février 1988 - art. Annexe II (V)
+  - Arrêté du 9 février 1988 - art. Annexe III (V)
+  - Arrêté du 9 février 1988 - art. Annexe VI (V)
+  - Code civil - art. 121 (V)
+  - Code civil - art. 122 (V)
+  - Code civil - art. 2138 (T)
+  - Code civil - art. 2404 (V)
+  - Code civil - art. 428 (V)
+  - Code civil - art. 494-2 (V)
+  - Code civil - art. 498 (VT)
+  - Code de commerce - art. R123-90 (V)
+  - Code de procédure civile - art. 1291 (V)
+  - Nouveau code de procédure civile - art. 1286 (M)
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil 1445 à 1447
+
+
+###### Article 1427
+
+Si l'un des époux a outrepassé ses pouvoirs sur les biens communs ou sur les biens réservés, l'autre, à moins qu'il n'ait
+ratifié l'acte, peut en demander l'annulation.
+
+L'action en nullité est ouverte au conjoint pendant deux années à partir du jour où il a eu connaissance de l'acte, sans
+pouvoir jamais être intentée plus de deux ans après la dissolution de la communauté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1832-2 (V)
+
+
+###### Article 1430
+
+Le mari n'est point garant du défaut d'emploi ou de remploi des biens propres à la femme, à moins qu'il ne soit ingéré dans
+les opérations d'aliénation ou d'encaissement, ou qu'il ne soit prouvé que les deniers ont été reçus par lui, ou ont tourné à
+son profit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 1985-12-25 art. 55
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 16 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+
+###### Article 1434
+
+L'emploi ou le remploi est censé fait à  l'égard d'un époux, toutes les fois que, lors d'une acquisition, il a déclaré
+qu'elle était faite de deniers propres ou provenus de l'aliénation d'un propre, et pour lui tenir lieu d'emploi ou de
+remploi. A défaut de cette déclaration dans l'acte, l'emploi ou le remploi n'a lieu que par l'accord des époux, et il ne
+produit ses effets que dans leurs rapports réciproques.
+
+Si l'emploi ou le remploi est fait par anticipation, le bien acquis est propre, sous la condition que les sommes attendues du
+patrimoine propre soient versées dans la communauté avant qu'elle ne soit liquidée.
+
+Quand le prix du bien acquis  excède la somme dont il a a été fait emploi ou remploi, la communauté a droit à récompense pour
+l'excédent. Si, toutefois, le montant de la récompense devait être supérieur à la moitié du prix, le bien acquis tomberait en
+communauté, sauf la récompense due à l'époux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1406 (V)
+
+
+###### Article 1435
+
+La déclaration du mari que l'acquisition est faite de deniers propres à la femme et pour lui servir d'emploi ou de remploi ne
+suffit point, si cet emploi ou remploi n'a été formellement accepté par elle avant la liquidation définitive ; si elle ne l'a
+pas accepté, elle a simplement droit à la récompense du prix du bien vendu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1406 (V)
+
+
+###### Article 1436
+
+La récompense du prix du bien appartenant au mari ne s'exerce que sur la masse de la communauté ; celle du prix du bien
+appartenant à la femme s'exerce sur les biens personnels du mari, en cas d'insuffisance des biens communs.
+
+Dans tous les cas, on prend en considération le prix de la vente, quelque allégation qui soit faite touchant la valeur
+qu'aurait eue le bien au jour de l'aliénation, sauf à avoir égard aussi au profit procuré à la communauté, comme il sera
+expliqué à l'article 1469.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1469 (M)
+
+
+###### Article 1439
+
+La dot constituée à l'enfant commun, en biens de la communauté, est à la charge de celle-ci.
+
+Elle doit être supportée pour moitié par la femme, à la dissolution de la communauté, à moins que le mari, en la constituant,
+n'ait déclaré expressément qu'il s'en chargerait pour le tout ou pour une part supérieure à la moitié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Section 2 : De l'administration de la communauté et des biens propres.<a id=207></a>
+
+###### Article 1428
+
+Chaque époux a l'administration et la jouissance de ses propres et peut en disposer librement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1429
+
+Si l'un des époux se trouve, d'une manière durable, hors d'état de manifester sa volonté, ou s'il met en péril les intérêts
+de la famille, soit en laissant dépérir ses propres, soit en dissipant ou détournant les revenus qu'il en retire, il peut, à
+la demande de son conjoint, être dessaisi des droits d'administration et de jouissance qui lui sont reconnus par l'article
+précédent. Les dispositions des articles 1445 à 1447 sont applicables à cette demande. 
+
+A moins que la nomination d'un administrateur judiciaire n'apparaisse nécessaire, le jugement confère au conjoint demandeur
+le pouvoir d'administrer les propres de l'époux dessaisi, ainsi que d'en percevoir les fruits, qui devront être appliqués par
+lui aux charges du mariage et l'excédent employé au profit de la communauté. 
+
+A compter de la demande, l'époux dessaisi ne peut disposer seul que de la nue-propriété de ses biens. 
+
+Il pourra, par la suite, demander en justice à rentrer dans ses droits, s'il établit que les causes qui avaient justifié le
+dessaisissement n'existent plus.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 29 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 70 (Ab)
+  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 27 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
+  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+  - Arrêté du 9 février 1988 - art. Annexe I (V)
+  - Arrêté du 9 février 1988 - art. Annexe II (V)
+  - Arrêté du 9 février 1988 - art. Annexe III (V)
+  - Arrêté du 9 février 1988 - art. Annexe VI (V)
+  - Code civil - art. 121 (V)
+  - Code civil - art. 122 (V)
+  - Code civil - art. 2138 (T)
+  - Code civil - art. 2404 (V)
+  - Code civil - art. 428 (V)
+  - Code civil - art. 494-2 (V)
+  - Code civil - art. 498 (VT)
+  - Code de commerce - art. R123-90 (V)
+  - Code de procédure civile - art. 1291 (V)
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1445 (V)
+
+
+###### Article 1431
+
+Si, pendant le mariage, l'un des époux confie à l'autre l'administration de ses propres, les règles du mandat sont
+applicables. L'époux mandataire est, toutefois, dispensé de rendre compte des fruits, lorsque la procuration ne l'y oblige
+pas expressément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1432
+
+Quand l'un des époux prend en mains la gestion des biens propres de l'autre, au su de celui-ci, et néanmoins sans opposition
+de sa part, il est censé avoir reçu un mandat tacite, couvrant les actes d'administration et de jouissance, mais non les
+actes de disposition.
+
+Cet époux répond de sa gestion envers l'autre comme un mandataire. Il n'est, cependant, comptable que des fruits existants ;
+pour ceux qu'il aurait négligé de percevoir ou consommés frauduleusement, il ne peut être recherché que dans la limite des
+cinq dernières années.
+
+Si c'est au mépris d'une opposition constatée que l'un des époux s'est immiscé dans la gestion des propres de l'autre, il est
+responsable de toutes les suites de son immixtion et comptable sans limitation de tous les fruits qu'il a perçus, négligé de
+percevoir ou consommés frauduleusement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1433
+
+La communauté doit récompense à l'époux propriétaire toutes les fois qu'elle a tiré profit de biens propres.
+
+Il en est ainsi, notamment, quand elle a encaissé des deniers propres ou provenant de la vente d'un propre, sans qu'il en ait
+été fait emploi ou remploi.
+
+Si une contestation est élevée, la preuve que la communauté a tiré profit de biens propres peut être administrée par tous les
+moyens, même par témoignages et présomptions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1437
+
+Toutes les fois qu'il est pris sur la communauté une somme, soit pour acquitter les dettes ou charges personnelles à l'un des
+époux, telles que le prix ou partie du prix d'un bien à lui propre ou le rachat des services fonciers, soit pour le
+recouvrement, la conservation ou l'amélioration de ses biens personnels, et généralement toutes les fois que l'un des deux
+époux a tiré un profit personnel des biens de la communauté, il en doit la récompense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1438
+
+Si le père et la mère ont doté conjointement l'enfant commun sans exprimer la portion pour laquelle ils entendaient y
+contribuer, ils sont censés avoir doté chacun pour moitié, soit que la dot ait été fournie ou promise en biens de la
+communauté, soit qu'elle l'ait été en biens personnels à l'un des deux époux.
+
+Au second cas, l'époux dont le bien personnel a été constitué en dot, a, sur les biens de l'autre, une action en indemnité
+pour la moitié de ladite dot, eu égard à la valeur du bien donné au temps de la dotation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1440
+
+La garantie de la dot est due par toute personne qui l'a constituée ; et ses intérêts courent du jour du mariage, encore
+qu'il y ait terme pour le paiement, s'il n'y a stipulation contraire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Section 3 : De la dissolution de la communauté<a id=208></a>
+
+##### Paragraphe 1 : Des causes de dissolution et de la séparation de biens.<a id=209></a>
+
+###### Article 1443
+
+Si, par le désordre des affaires d'un époux, sa mauvaise administration ou son inconduite, il apparaît que le maintien de la
+communauté met en péril les intérêts de l'autre conjoint, celui-ci peut poursuivre la séparation de biens en justice.
+
+Toute séparation volontaire est nulle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1444
+
+La séparation de biens, quoique prononcée en justice, est nulle si les poursuites tendant à liquider les droits des parties
+n'ont pas été commencées dans les trois mois du jugement passé en force de chose jugée et si le règlement définitif n'est pas
+intervenu dans l'année de l'ouverture des opérations de liquidation. Le délai d'un an peut être prorogé par le président de
+tribunal statuant dans la forme des référés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret du 18 novembre 1924 - art. 41 (Ab)
+  - Loi n°1942-01-19 du 19 janvier 1942 - art. 13 (V)
+  - Décret n°2009-1193 du 7 octobre 2009 - art. 73 (V)
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1445
+
+La demande et le jugement de séparation de biens doivent être publiés dans les conditions et sous les sanctions prévues par
+le code de procédure civile, ainsi que par les règlements relatifs au commerce si l'un des époux est commerçant.
+
+Le jugement qui prononce la séparation de biens remonte, quant à ses effets, au jour de la demande.
+
+Il sera fait mention du jugement en marge de l'acte de mariage ainsi que sur la minute du contrat de mariage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1426 (V)
+  - Code civil - art. 1429 (V)
+
+
+###### Article 1446
+
+Les créanciers d'un époux ne peuvent demander de son chef la séparation de biens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1448
+
+L'époux qui a obtenu la séparation de biens doit contribuer, proportionnellement à ses facultés et à celles de son conjoint,
+tant aux frais du ménage qu'à ceux d'éducation des enfants.
+
+Il doit supporter entièrement ces frais, s'il ne reste rien à l'autre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
+  - Nouveau code de procédure civile - art. 1069-3 (Ab)
+
+
+##### Paragraphe 2 : De la liquidation et du partage de la communauté.<a id=210></a>
+
+###### Article 1467
+
+La communauté dissoute, chacun des époux reprend ceux des biens qui n'étaient point entrés en communauté, s'ils existent en
+nature, ou les biens qui y ont été subrogés.
+
+Il y a lieu ensuite à la liquidation de la masse commune, active et passive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1468
+
+Il est établi, au nom de chaque époux, un compte des récompenses que la communauté lui doit et des récompenses qu'il doit à
+la communauté, d'après les règles prescrites aux sections précédentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1470
+
+Si, balance faite, le compte présente un solde en faveur de la communauté, l'époux en rapporte le montant à la masse commune.
+
+S'il présente un solde en faveur de l'époux, celui-ci a le choix ou d'en exiger le paiement ou de prélever des biens communs
+jusqu'à due concurrence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1474
+
+Les prélèvements en biens communs constituent une opération de partage. Ils ne confèrent à l'époux qui les exerce aucun droit
+d'être préféré aux créanciers de la communauté, sauf la préférence résultant, s'il y a lieu, de l'hypothèque légale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1475
+
+Après que tous les prélèvements ont été exécutés sur la masse, le surplus se partage par moitié entre les époux.
+
+Si un immeuble de la communauté est l'annexe d'un autre immeuble appartenant en propre à l'un des conjoints, ou s'il est
+contigu à cet immeuble, le conjoint propriétaire a la faculté de se le faire attribuer par imputation sur sa part ou
+moyennant soulte, d'après la valeur du bien au jour où l'attribution est demandée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1476
+
+Le partage de la communauté, pour tout ce qui concerne ses formes, le maintien de l'indivision et l'attribution
+préférentielle, la licitation des biens, les effets du partage, la garantie et les soultes, est soumis à toutes les règles
+qui sont établies au titre " Des successions " pour les partages entre cohéritiers.
+
+Toutefois, pour les communautés dissoutes par divorce, séparation de corps ou séparation de biens, l'attribution
+préférentielle n'est jamais de droit, et il peut toujours être décidé que la totalité de la soulte éventuellement due sera
+payable comptant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1478
+
+Après le partage consommé, si l'un des deux époux est créancier personnel de l'autre, comme lorsque le prix de son bien a été
+employé à payer une dette personnelle de son conjoint, ou pour toute autre cause, il exerce sa créance sur la part qui est
+échue à celui-ci dans la communauté ou sur ses biens personnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1480
+
+Les donations que l'un des époux a pu faire à l'autre ne s'exécutent que sur la part du donateur dans la communauté et sur
+ses biens personnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution.<a id=211></a>
+
+###### Article 1491
+
+Les héritiers des époux exercent, en cas de dissolution de la communauté, les mêmes droits que celui des époux qu'ils
+représentent et sont soumis aux mêmes obligations. Ils ne peuvent, toutefois, se prévaloir des droits résultant de l'article
+1481.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1481 (Ab)
+
+
+##### Section III : De la dissolution de la communauté<a id=212></a>
+
+##### Paragraphe I : Des causes de dissolution et de la séparation de biens.<a id=213></a>
+
+###### Article 1442
+
+Hors le cas de l'article 124, il ne peut y avoir lieu à la continuation de la communauté, malgré toutes conventions
+contraires.
+
+Si, par la faute de l'un des époux, toute cohabitation et collaboration avaient pris fin entre eux dès avant que la
+communauté ne fût réputée dissoute selon les règles qui régissent les différentes causes prévues à l'article précédent,
+l'autre conjoint pourrait demander que, dans leurs rapports mutuels, l'effet de la dissolution fût reporté à la date où ils
+avaient cessé de cohabiter et de collaborer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 124 (V)
+
+
+###### Article 1447
+
+Quand l'action en séparation de biens a été introduite, les créanciers peuvent sommer les époux par acte d'avoué à avocat de
+leur communiquer la demande et les pièces justificatives. Ils peuvent même intervenir à l'instance pour la conservation de
+leurs droits.
+
+Si la séparation a été prononcée en fraude de leurs droits, ils peuvent se pourvoir contre elle par voie de tierce
+opposition, dans les conditions prévues au code de procédure civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1449
+
+La séparation de biens prononcée en justice a pour effet de placer les époux sous le régime des articles 1536 et suivants.
+
+Le tribunal, en prononçant la séparation à la demande de la femme, peut ordonner que le mari versera sa contribution entre
+les mains de celle-ci, laquelle assumera désormais, à l'égard des tiers, le règlement de toutes les charges du mariage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
+  - Nouveau code de procédure civile - art. 1069-3 (Ab)
+
+_Cite_:
+
+  - Code civil - art. 1536 (V)
+
+
+##### Paragraphe II : De la liquidation et du partage de la communauté.<a id=214></a>
+
+###### Article 1469
+
+La récompense est, en général, égale à la plus faible des deux sommes que représentent la dépense faite et le profit
+subsistant.
+
+Elle ne peut, toutefois, être moindre que la dépense faite quand celle-ci était nécessaire.
+
+Et elle ne peut être moindre que le profit subsistant, quand la valeur empruntée, a servi à acquérir, à conserver ou à
+améliorer un bien qui se retrouve, au jour de la dissolution de la communauté, dans le patrimoine emprunteur. Si le bien
+acquis, conservé ou amélioré a été aliéné pendant la communauté, le profit est évalué au jour de l'aliénation ; si un nouveau
+bien a été subrogé au bien aliéné, le profit est évalué sur ce nouveau bien.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1436 (M)
+  - Code civil - art. 1479 (V)
+  - Code civil - art. 1571 (V)
+  - Code civil - art. 515-7 (VD)
+
+
+###### Article 1471
+
+Les prélèvements s'exercent d'abord sur l'argent comptant, ensuite sur les meubles, et subsidiairement sur les immeubles de
+la communauté. L'époux qui opère le prélèvement a le droit de choisir les meubles et les immeubles qu'ils prélèvera. Il ne
+saurait, cependant, préjudicier par son choix aux droits que son conjoint peut tenir des articles 815, 832, 832-1 et 832-2 du
+présent code.
+
+Les prélèvements de la femme s'exercent avant ceux du mari.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 815 (M)
+  - Code civil - art. 832 (M)
+  - Code civil - art. 832-1 (M)
+  - Code civil - art. 832-2 (M)
+
+
+###### Article 1472
+
+Le mari ne peut exercer ses reprises que sur les biens de la communauté.
+
+La femme, en cas d'insuffisance de la communauté, exerce ses reprises sur les biens personnels du mari.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1473
+
+Les récompenses dues par la communauté ou à la communauté emportent les intérêts de plein droit du jour de la dissolution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1477
+
+Celui des époux qui aurait diverti ou recelé quelques effets de la communauté, est privé de sa portion dans lesdits effets.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1479
+
+Les créances personnelles que les époux ont à exercer l'un contre l'autre ne donnent pas lieu à prélèvement et ne portent
+intérêt que du jour de la sommation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1543 (V)
+
+
+###### Article 1481
+
+Si la communauté est dissoute par la mort de l'un des époux, le survivant a droit, pendant les neuf mois qui suivent à la
+nourriture et au logement, ainsi qu'aux frais de deuil, le tout à la charge de la communauté, en ayant égard tant aux
+facultés de celle-ci qu'à la situation du ménage.
+
+Ce droit du survivant est exclusivement attaché à sa personne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
+
+_Abrogé par_:
+
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001
+
+_Cité par_:
+
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
+  - Code civil - art. 1491 (M)
+
+
+##### Paragraphe II : De l'obligation et de la contribution au passif après le partage.<a id=215></a>
+
+###### Article 1482
+
+Si le passif commun n'a pas été entièrement acquitté lors du partage, chacun des époux peut être poursuivi pour la totalité
+des dettes encore existantes qui étaient entrées en communauté de son chef.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Paragraphe III : De l'obligation et de la contribution au passif après le partage.<a id=216></a>
+
+###### Article 1483
+
+Chacun des époux ne peut être poursuivi que pour la moitié des dettes qui étaient entrées en communauté du chef de son
+conjoint.
+
+Il n'en est tenu, sauf le cas de recel, que jusqu'à concurrence de son émolument, pourvu qu'il y ait eu inventaire, et à
+charge de rendre compte tant du contenu de cet inventaire que de ce qui lui est échu par le partage, ainsi que du passif
+commun déjà acquitté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1486 (V)
+
+
+###### Article 1484
+
+L'inventaire prévu à l'article précédent doit avoir lieu dans les formes réglées par le code de procédure civile,
+contradictoirement avec l'autre époux ou lui dûment appelé. Il doit être clos dans les neuf mois du jour où la communauté a
+été dissoute, sauf prorogation accordée par le juge des référés. Il doit être affirmé sincère et véritable devant l'officier
+public qui l'a reçu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1485
+
+Chacun des époux contribue pour moitié aux dettes de communauté pour lesquelles il n'était pas dû de récompense, ainsi qu'aux
+frais de scellé, inventaire, vente de mobilier, liquidation, licitation et partage.
+
+Il supporte seul les dettes qui n'étaient devenues communes que sauf récompense à sa charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1486
+
+L'époux qui peut se prévaloir du bénéfice de l'article 1483, alinéa second, ne contribue pas pour plus que son émolument aux
+dettes qui étaient entrées en communauté du chef de l'autre époux, à moins qu'il ne s'agisse de dettes pour lesquelles il
+aurait dû récompense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1487
+
+L'époux qui a payé au-delà de la portion dont il était tenu par application des articles précédents a, contre l'autre, un
+recours pour l'excédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1488
+
+Il n'a point, pour cet excédent, de répétition contre le créancier, à moins que la quittance n'exprime qu'il n'entend payer
+que dans la limite de son obligation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1489
+
+Celui des deux époux qui, par l'effet de l'hypothèque exercée sur l'immeuble à lui échu en partage, se trouve poursuivi pour
+la totalité d'une dette de communauté, a de droit son recours contre l'autre pour la moitié de cette dette.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1490
+
+Les dispositions des articles précédents ne font point obstacle à ce que, sans préjudicier aux droits des tiers, une clause
+du partage oblige l'un ou l'autre des époux à payer une quotité de dettes autre que celle qui est fixée ci-dessus, ou même à
+acquitter le passif entièrement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+#### Deuxième partie : De la communauté conventionnelle.<a id=217></a>
+
+###### Article 1497
+
+Les époux peuvent, dans leur contrat de mariage, modifier la communauté légale par toute espèce de conventions non contraires
+aux articles 1387, 1388 et 1389. 
+
+Ils peuvent, notamment, convenir : 
+
+1° Que la communauté comprendra les meubles et les acquêts ; 
+
+2° Qu'il sera dérogé aux règles concernant l'administration ; 
+
+3° Que l'un des époux aura la faculté de prélever certains biens moyennant indemnité ; 
+
+4° Que l'un des époux aura un préciput ; 
+
+5° Que les époux auront des parts inégales ; 
+
+6° Qu'il y aura entre eux communauté universelle. 
+
+Les règles de la communauté légale restent applicables en tous les points qui n'ont pas fait l'objet de la convention des
+parties.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1387 (V)
+
+
+##### Section 1 : De la communauté de meubles et acquêts.<a id=218></a>
+
+###### Article 1498
+
+Lorsque les époux conviennent qu'il y aura entre eux communauté de meubles et acquêts, l'actif commun comprend, outre les
+biens qui en feraient partie sous le régime de la communauté légale, les biens meubles dont les époux avaient la propriété ou
+la possession au jour du mariage ou qui leur sont échus depuis par succession ou libéralité, à moins que le donateur ou
+testateur n'ait stipulé le contraire. 
+
+Restent propres, néanmoins, ceux de ces biens meubles qui auraient formé des propres par leur nature en vertu de l'article
+1404, sous le régime légal, s'ils avaient été acquis pendant la communauté. 
+
+Si l'un des époux avait acquis un immeuble depuis le contrat de mariage, contenant stipulation de communauté de meubles et
+acquêts, et avant la célébration du mariage, l'immeuble acquis dans cet intervalle entrera dans la communauté, à moins que
+l'acquisition n'ait été faite en exécution de quelque clause du contrat de mariage, auquel cas elle serait réglée suivant la
+convention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
 
 _Cité par_:
 
   - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
 
+_Cite_:
 
-###### Article 1454
+  - Code civil - art. 1404 (V)
 
-(article abrogé).
 
-**Liens relatifs à cet article**
+###### Article 1499
 
-_Créé par_:
+Entrent dans le passif commun, sous ce régime, outre les dettes qui en feraient partie sous le régime légal, une fraction de
+celles dont les époux étaient déjà grevés quand ils se sont mariés, ou dont se trouvent chargées des successions et
+libéralités qui leur échoient durant le mariage. 
 
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
+La fraction de passif que doit supporter la communauté est proportionnelle à la fraction d'actif qu'elle recueille, d'après
+les règles de l'article précédent, soit dans le patrimoine de l'époux au jour du mariage, soit dans l'ensemble des biens qui
+font l'objet de la succession ou libéralité. 
 
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1455
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1456
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1457
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1458
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1459
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1460
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1461
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1462
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1463
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1464
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1465
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 1466
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-_Abrogé par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-#### Deuxième partie : De la communauté conventionnelle.<a id=201></a>
-
-##### Section IV : Du préciput.<a id=202></a>
-
-###### Article 1517
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-##### Section V : De la stipulation de parts inégales.<a id=203></a>
-
-###### Article 1522
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1523
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-### Chapitre II : Régimes en communauté<a id=204></a>
-
-#### Première partie : Communauté légale<a id=205></a>
-
-##### Section III : Dissolution de la communauté<a id=206></a>
-
-##### Paragraphe 3 : Contribution au passif après le partage.<a id=207></a>
-
-###### Article 1492
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1493
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1494
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1495
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1496
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-### Chapitre II : Des régimes en communauté<a id=208></a>
-
-#### Dispositions communes aux deux parties du chapitre II.<a id=209></a>
-
-###### Article 1528
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1529
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1530
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1531
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1532
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1533
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1534
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1535
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-### Chapitre III : Du régime de séparation de biens.<a id=210></a>
-
-###### Article 1544
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1545
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1546
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1547
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1548
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1549
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1550
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1551
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1552
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1553
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1554
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1555
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1556
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1557
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1558
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1559
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1560
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
-
-
-###### Article 1561
-
-(article abrogé).
+Pour l'établissement de cette proportion, la consistance et la valeur de l'actif se prouvent conformément à l'article 1402.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Code civil - art. 2255 (Ab)
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
+  - Décret n°53-380 du 28 avril 1953 - art. 29 (V)
 
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Cite_:
 
-###### Article 1562
+  - Code civil - art. 1402 (V)
 
-(article abrogé).
+
+###### Article 1500
+
+Les dettes dont la communauté est tenue en contre-partie des biens qu'elle recueille sont à sa charge définitive.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
 
-###### Article 1563
+###### Article 1501
 
-(article abrogé).
+La répartition du passif antérieur au mariage ou grevant les successions et libéralités ne peut préjudicier aux créanciers.
+Ils conservent, dans tous les cas, le droit de saisir les biens qui formaient auparavant leur gage. Ils peuvent même
+poursuivre leur paiement sur l'ensemble de la communauté lorsque le mobilier de leur débiteur a été confondu dans le
+patrimoine commun et ne peut plus être identifié selon les règles de l'article 1402.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Cite_:
 
-###### Article 1564
+  - Code civil - art. 1402 (V)
 
-(article abrogé).
+
+##### Section I : De la communauté de meubles et acquêts.<a id=219></a>
+
+###### Article 1502
+
+Une dette de la femme ne peut être traitée comme faisant partie du passif antérieur au mariage que si elle a acquis date
+certaine avant le jour de la célébration.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cité par_:
 
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
+  - Décret n°53-380 du 28 avril 1953 - art. 29 (V)
+  - Loi n°85-1372 du 23 décembre 1985 - art. 29 (V)
 
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Abrogé par_:
 
-###### Article 1565
+  - Loi n°85-1372 du 23 décembre 1985 - art. 29 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
-(article abrogé).
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+##### Section II : Des clauses relatives à l'administration<a id=220></a>
+
+##### Paragraphe I : De la clause de la main commune.<a id=221></a>
+
+###### Article 1503
+
+Les époux peuvent convenir qu'ils administreront conjointement la communauté.
+
+En ce cas les actes de disposition et même d'administration des biens communs, y compris les biens réservés, doivent être
+faits sous la signature conjointe du mari et de la femme, et ils emportent de plein droit solidarité des obligations.
+
+Les actes conservatoires peuvent être faits séparément par chaque époux.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Cité par_:
 
-###### Article 1566
+  - Code civil - art. 224 (Ab)
 
-(article abrogé).
+
+##### Paragraphe II : De la clause de représentation mutuelle.<a id=222></a>
+
+###### Article 1504
+
+Les époux peuvent, par le contrat de mariage, se donner pouvoir réciproque d'administrer les biens communs, y compris les
+biens réservés.
+
+Les actes d'administration que l'un d'eux a faits seul, en vertu de cette clause, sont opposables à l'autre.
+
+Les actes de disposition ne peuvent être faits que du consentement commun des deux époux.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cité par_:
 
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
+  - Décret n°53-380 du 28 avril 1953 - art. 29 (V)
 
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Abrogé par_:
 
-###### Article 1567
+  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
-(article abrogé).
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+##### Paragraphe III : De la clause d'unité d'administration.<a id=223></a>
+
+###### Article 1505
+
+Les époux peuvent convenir que le mari aura l'administration des biens propres de la femme.
+
+Cette clause a pour effet de faire entrer dans l'actif commun la jouissance des propres de l'un et de l'autre époux, et dans
+le passif commun les charges usufructuaires correspondantes.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Abrogé par_:
 
-###### Article 1568
+  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
-(article abrogé).
+
+###### Article 1506
+
+La femme n'oblige alors que la nue-propriété de ses propres et ses biens réservés par ses obligations postérieures au
+mariage, à moins qu'il ne s'agisse d'engagements professionnels ou de dettes qui doivent entrer dans le passif commun selon
+l'article 1414 ; auxquels cas elle oblige la pleine propriété de tous ses biens.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
+  - Loi n°65-570 1965-07-13
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+_Cite_:
+
+  - Code civil - art. 1414 (M)
+
+
+###### Article 1507
+
+Sur les biens propres de la femme, le mari peut faire seul tous les actes d'administration.
+
+Toutefois, les baux qu'il a consentis sont soumis aux règles prévues pour les baux passés par l'usufruitier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+_Cite_:
+
+  - Code civil - art. 595 (V)
+
+
+###### Article 1508
+
+Si le mari ne peut, à la dissolution de la communauté, représenter en nature les valeurs mobilières appartenant à la femme,
+il est comptable de leur estimation à cette date ou du montant des remboursements et amortissements par lui perçus, à moins
+qu'il ne justifie, soit d'un remploi utile, soit d'une aliénation à laquelle la femme a consenti.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1509
+
+La femme peut seule faire des actes de disposition sur ses biens propres, mais lorsqu'elle les fait sans le consentement du
+mari, elle ne peut disposer que de la nue-propriété de ses biens, si ce n'est pour les besoins de sa profession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1510
+
+Le mari répond envers sa femme de toutes les fautes qu'il a commises dans son administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+##### Section 3 : De la clause de prélèvement moyennant indemnité.<a id=224></a>
+
+###### Article 1511
+
+Les époux peuvent stipuler que le survivant d'eux ou l'un d'eux s'il survit, ou même l'un d'eux dans tous les cas de
+dissolution de la communauté, aura la faculté de prélever certains biens communs, à charge d'en tenir compte à la communauté
+d'après la valeur qu'ils auront au jour du partage, s'il n'en a été autrement convenu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+
+
+###### Article 1512
+
+Le contrat de mariage peut fixer des bases d'évaluation et des modalités de paiement de la soulte éventuelle. Compte tenu de
+ces clauses et à défaut d'accord entre les parties, la valeur des biens sera fixée par le tribunal de grande instance.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
 
-## Titre VI : De la vente<a id=211></a>
+###### Article 1513
 
-### Chapitre Ier : De la nature et de la forme de la vente.<a id=212></a>
+La faculté de prélèvement est caduque si l'époux bénéficiaire ne l'a pas exercée par une notification faite à l'autre époux
+ou à ses héritiers dans le délai d'un mois à compter du jour où ceux-ci l'auront mis en demeure de prendre parti. Cette mise
+en demeure ne peut elle-même avoir lieu avant l'expiration du délai prévu au titre : " Des successions " pour faire
+inventaire et délibérer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 795 (M)
+
+
+###### Article 1514
+
+Le prélèvement est une opération de partage : les biens prélevés sont imputés sur la part de l'époux bénéficiaire ; si leur
+valeur excède cette part, il y a lieu au versement d'une soulte.
+
+Les époux peuvent convenir que l'indemnité due par l'auteur du prélèvement s'imputera subsidiairement sur ses droits dans la
+succession de l'époux prédécédé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Section 4 : Du préciput.<a id=225></a>
+
+###### Article 1515
+
+Il peut être convenu, dans le contrat de mariage, que le survivant des époux, ou l'un d'eux s'il survit, sera autorisé à
+prélever sur la communauté, avant tout partage, soit une certaine somme, soit certains biens en nature, soit une certaine
+quantité d'une espèce déterminée de biens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1516
+
+Le préciput n'est point regardé comme une donation, soit quant au fond, soit quant à la forme, mais comme une convention de
+mariage et entre associés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1519
+
+Les créanciers de la communauté ont toujours le droit de faire vendre les effets compris dans le préciput, sauf le recours de
+l'époux sur le reste de la communauté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Section IV : Du préciput.<a id=226></a>
+
+###### Article 1518
+
+Lorsque la communauté se dissout du vivant des époux, il n'y a pas lieu à la délivrance actuelle du préciput ; mais l'époux
+au profit duquel il a été stipulé conserve ses droits pour le cas de survie, à moins qu'il n'y ait eu jugement de divorce ou
+de séparation de corps prononcé contre lui. Il peut exiger une caution de son conjoint en garantie de ses droits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Code civil - art. 1524 (V)
+
+
+##### Section 5 : De la stipulation de parts inégales.<a id=227></a>
+
+###### Article 1520
+
+Les époux peuvent déroger au partage égal établi par la loi.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-1350 du 14 octobre 1955 - art. 69 (V)
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1521
+
+Lorsqu'il a été stipulé que l'époux ou ses héritiers n'auront qu'une certaine part dans la communauté, comme le tiers ou le
+quart, l'époux ainsi réduit ou ses héritiers ne supportent les dettes de la communauté que proportionnellement à la part
+qu'ils prennent dans l'actif.
+
+La convention est nulle si elle oblige l'époux ainsi réduit ou ses héritiers à supporter une plus forte part, ou si elle les
+dispense de supporter une part dans les dettes égale à celle qu'ils prennent dans l'actif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1524
+
+L'attribution de la communauté entière ne peut être convenue que pour le cas de survie, soit au profit d'un époux désigné,
+soit au profit de celui qui survivra quel qu'il soit. L'époux qui retient ainsi la totalité de la communauté est obligé d'en
+acquitter toutes les dettes. 
+
+Il peut aussi être convenu, pour le cas de survie, que l'un des époux aura, outre sa moitié, l'usufruit de la part du
+prédécédé. En ce cas, il contribuera aux dettes, quant à l'usufruit, suivant les règles de l'article 612. 
+
+Les dispositions de l'article 1518 sont applicables à ces clauses quand la communauté se dissout du vivant des deux époux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1518 (V)
+  - Code civil - art. 612 (V)
+
+
+###### Article 1525
+
+La stipulation de parts inégales et la clause d'attribution intégrale ne sont point réputées des donations, ni quant au fond,
+ni quant à la forme, mais simplement des conventions de mariage et entre associés.
+
+Sauf stipulation contraire, elles n'empêchent pas les héritiers du conjoint prédécédé de faire la reprise des apports et
+capitaux tombés dans la communauté du chef de leur auteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+##### Section 6 : De la communauté universelle.<a id=228></a>
+
+###### Article 1526
+
+Les époux peuvent établir par leur contrat de mariage une communauté universelle de leurs biens tant meubles qu'immeubles,
+présents et à venir. Toutefois, sauf stipulation contraire, les biens que l'article 1404 déclare propres par leur nature ne
+tombent point dans cette communauté. 
+
+La communauté universelle supporte définitivement toutes les dettes des époux, présentes et futures.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1404 (V)
+
+
+#### Dispositions communes aux deux parties du chapitre II.<a id=229></a>
+
+###### Article 1527
+
+Les avantages que l'un ou l'autre des époux peut retirer des clauses d'une communauté conventionnelle, ainsi que ceux qui
+peuvent résulter de la confusion du mobilier ou des dettes, ne sont point regardés comme des donations.
+
+Néanmoins, dans le cas où il y aurait des enfants d'un précédent mariage, toute convention qui aurait pour conséquence de
+donner à l'un des époux au-delà de la portion réglée par l'article 1098, au titre "Des donations entre vifs et des
+testaments", sera sans effet pour tout l'excédent ; mais les simples bénéfices résultant des travaux communs et des économies
+faites sur les revenus respectifs quoique inégaux, des deux époux, ne sont pas considérés comme un avantage fait au préjudice
+des enfants d'un précédent lit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
+
+_Cite_:
+
+  - Code civil - art. 1098 (M)
+
+
+### Chapitre III : Du régime de séparation de biens.<a id=230></a>
+
+###### Article 1536
+
+Lorsque les époux ont stipulé dans leur contrat de mariage qu'ils seraient séparés de biens, chacun d'eux conserve
+l'administration, la jouissance et la libre disposition de ses biens personnels. 
+
+Chacun d'eux reste seul tenu des dettes nées en sa personne avant ou pendant le mariage, hors le cas de l'article 220.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+  - Code civil - art. 1449 (V)
+  - Code civil - art. 1580 (V)
+  - Code de l'organisation judiciaire - art. Tableau IV bis (V)
+
+_Cite_:
+
+  - Code civil - art. 220 (V)
+
+
+###### Article 1537
+
+Les époux contribuent aux charges du mariage suivant les conventions contenues en leur contrat ; et, s'il n'en existe point à
+cet égard, dans la proportion déterminée à l'article 214.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 214 (V)
+
+
+###### Article 1538
+
+Tant à l'égard de son conjoint que des tiers, un époux peut prouver par tous les moyens qu'il a la propriété exclusive d'un
+bien.
+
+Les présomptions de propriété énoncées au contrat de mariage ont effet à l'égard des tiers aussi bien que dans les rapports
+entre époux, s'il n'en a été autrement convenu. La preuve contraire sera de droit, et elle se fera par tous les moyens
+propres à établir que les biens n'appartiennent pas à l'époux que la présomption désigne, ou même, s'ils lui appartiennent,
+qu'il les a acquis par une libéralité de l'autre époux.
+
+Les biens sur lesquels aucun des époux ne peut justifier d'une propriété exclusive sont réputés leur appartenir indivisément,
+à chacun pour moitié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 13 (V)
+  - Code électoral - art. LO135-1 (V)
+
+
+###### Article 1539
+
+Si, pendant le mariage, l'un des époux confie à l'autre l'administration de ses biens personnels, les règles du mandat sont
+applicables. L'époux mandataire est, toutefois, dispensé de rendre compte des fruits, lorsque la procuration ne l'y oblige
+pas expressément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1540
+
+Quand l'un des époux prend en main la gestion des biens de l'autre, au su de celui-ci, et néanmoins sans opposition de sa
+part, il est censé avoir reçu un mandat tacite, couvrant les actes d'administration et de gérance, mais non les actes de
+disposition.
+
+Cet époux répond de sa gestion envers l'autre comme un mandataire. Il n'est, cependant, comptable que des fruits existants ;
+pour ceux qu'il aurait négligé de percevoir ou consommés frauduleusement, il ne peut être recherché que dans la limite des
+cinq dernières années.
+
+Si c'est au mépris d'une opposition constatée que l'un des époux s'est immiscé dans la gestion des biens de l'autre, il est
+responsable de toutes les suites de son immixtion, et comptable sans limitation de tous les fruits qu'il a perçus, négligé de
+percevoir ou consommés frauduleusement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1541
+
+L'un des époux n'est point garant du défaut d'emploi ou de remploi des biens de l'autre, à moins qu'il ne se soit ingéré dans
+les opérations d'aliénation ou d'encaissement, ou qu'il ne soit prouvé que les deniers ont été reçus par lui, ou ont tourné à
+son profit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+### Chapitre IV : Du régime de participation aux acquêts.<a id=231></a>
+
+###### Article 1569
+
+Quand les époux ont déclaré se marier sous le régime de la participation aux acquêts, chacun d'eux conserve l'administration,
+la jouissance et la libre disposition de ses biens personnels, sans distinguer entre ceux qui lui appartenaient au jour du
+mariage ou lui sont advenus depuis par succession ou libéralité et ceux qu'il a acquis pendant le mariage à titre onéreux.
+Pendant la durée du mariage, ce régime fonctionne comme si les époux étaient mariés sous le régime de la séparation de biens.
+A la dissolution du régime, chacun des époux a le droit de participer pour moitié en valeur aux acquêts nets constatés dans
+le patrimoine de l'autre, et mesurés par la double estimation du patrimoine originaire et du patrimoine final.    Le droit de
+participer aux acquêts est incessible tant que le régime matrimonial n'est pas dissous. Si la dissolution survient par la
+mort d'un époux, ses héritiers ont, sur les acquêts nets faits par l'autre, les mêmes droits que leur auteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+  - Code de l'organisation judiciaire - art. Tableau IV bis (V)
+
+
+###### Article 1570
+
+Le patrimoine originaire comprend les biens qui appartenaient à l'époux au jour du mariage et ceux qu'il a acquis depuis par
+succession ou libéralité. Il n'est pas tenu compte des fruits de ces biens, ni de ceux de ces biens qui auraient eu le
+caractère de fruits.
+
+La consistance du patrimoine originaire est prouvée par un état descriptif, même sous seing privé, établi en présence de
+l'autre conjoint et signé par lui ; à défaut, le patrimoine originaire est tenu pour nul.
+
+La preuve que le patrimoine originaire aurait compris d'autres biens ne peut être rapportée que par les moyens de l'article
+1402.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+_Cite_:
+
+  - Code civil - art. 1402 (V)
+
+
+###### Article 1571
+
+Les biens originaires sont estimés d'après leur état au jour du mariage ou au jour de l'acquisition, et d'après leur valeur
+au jour où le régime matrimonial est dissous. S'ils ont été aliénés, on retient leur valeur au jour de l'aliénation. Si de
+nouveaux biens ont été subrogés aux biens aliénés, on prend en considération la valeur de ces nouveaux biens.
+
+De l'actif originaire sont déduites les dettes dont il se trouvait grevé. Si le passif excède l'actif, le patrimoine
+originaire est tenu pour nul.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+  - Code civil - art. 1579 (V)
+
+
+###### Article 1572
+
+Font partie du patrimoine final tous les biens qui appartiennent à l'époux au jour où le régime matrimonial est dissous, y
+compris, le cas échéant, ceux dont il aurait disposé à cause de mort et sans en exclure les sommes dont il peut être
+créancier envers son conjoint. S'il y a divorce, séparation de corps ou liquidation anticipée des acquêts, le régime
+matrimonial est réputé dissous au jour de la demande.
+
+La consistance du patrimoine final est prouvée par un état descriptif, même sous seing privé, que l'époux ou ses héritiers
+doivent établir en présence de l'autre conjoint ou de ses héritiers ou eux dûment appelés. Cet état doit être dressé dans les
+neuf mois de la dissolution du régime matrimonial, sauf prorogation par le président du tribunal statuant en la forme de
+référé.
+
+La preuve que le patrimoine final aurait compris d'autres biens peut être rapportée par tous les moyens, même par témoignages
+et présomptions.
+
+Chacun des époux peut, quant aux biens de l'autre, requérir l'apposition des scellés et l'inventaire suivant les règles
+prévues au code de procédure civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1573
+
+Aux biens existants on réunit fictivement ceux dont l'époux a disposé par donations entre vifs, à moins que l'autre conjoint
+n'ait consenti à la donation, ainsi que ceux qu'il aurait aliénés frauduleusement. L'aliénation à charge de rente viagère ou
+à fonds perdu est présumée faite en fraude des droits du conjoint, s'il n'y a donné son consentement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+  - Code civil - art. 1577 (V)
+
+
+###### Article 1574
+
+Les biens existants sont estimés d'après leur état et leur valeur au jour où le régime matrimonial est dissous. Les biens qui
+ont été aliénés par donations entre vifs, ou en fraude des droits du conjoint, sont estimés d'après leur état au jour de
+l'aliénation et la valeur qu'ils auraient eue, s'ils avaient été conservés, au jour de la dissolution.
+
+De l'actif ainsi reconstitué, on déduit toutes les dettes qui n'ont pas encore été acquittées, sans en exclure les sommes qui
+pourraient être dues au conjoint.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+  - Code civil - art. 1579 (V)
+
+
+###### Article 1575
+
+Si le patrimoine final d'un époux est inférieur à son patrimoine originaire, le déficit est supporté entièrement par cet
+époux. S'il lui est supérieur, l'accroissement représente les acquêts nets et donne lieu à participation.
+
+S'il y a des acquêts nets de part et d'autre, ils doivent d'abord être compensés. Seul l'excédent se partage : l'époux dont
+le gain a été le moindre est créancier de son conjoint pour la moitié de cet excédent.
+
+A la créance de participation on ajoute, pour les soumettre au même règlement, les sommes dont l'époux peut être d'ailleurs
+créancier envers son conjoint, pour valeurs fournies pendant le mariage et autres indemnités, déduction faite, s'il y a lieu,
+de ce dont il peut être débiteur envers lui.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1576
+
+La créance de participation donne lieu à paiement en argent. Si l'époux débiteur rencontre des difficultés graves à s'en
+acquitter entièrement dès la clôture de la liquidation, les juges peuvent lui accorder des délais qui ne dépasseront pas cinq
+ans, à charge de fournir des sûretés et de verser des intérêts.
+
+La créance de participation peut toutefois donner lieu à un règlement en nature, soit du consentement des deux époux, soit en
+vertu d'une décision du juge, si l'époux débiteur justifie de difficultés graves qui l'empêchent de s'acquitter en argent.
+
+Le règlement en nature prévu à l'alinéa précédent est considéré comme une opération de partage lorsque les biens attribués
+n'étaient pas compris dans le patrimoine originaire ou lorsque l'époux attributaire vient à la succession de l'autre.
+
+La liquidation n'est pas opposable aux créanciers des époux : ils conservent le droit de saisir les biens attribués au
+conjoint de leur débiteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+
+###### Article 1577
+
+L'époux créancier poursuit le recouvrement de sa créance de participation d'abord sur les biens existants et subsidiairement
+sur les biens qui avaient été aliénés par donations entre vifs ou en fraude des droits du conjoint, en commençant par les
+aliénations les plus récentes. L'action en révocation n'est ouverte contre les tiers acquéreurs à titre onéreux qu'autant que
+leur mauvaise foi est établie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+  - Code civil - art. 1578 (M)
+
+
+###### Article 1578
+
+A la dissolution du régime matrimonial, si les parties ne s'accordent pas pour procéder à la liquidation par convention,
+l'une d'elles peut demander au tribunal qu'il y soit procédé en justice.
+
+Sont applicables à cette demande, en tant que de raison, les règles prescrites pour arriver au partage judiciaire des
+successions et communautés.
+
+Les parties sont tenues de se communiquer réciproquement, et de communiquer aux experts désignés par le juge, tous
+renseignements et documents utiles à la liquidation.
+
+L'action en liquidation se prescrit par trois ans à compter de la dissolution du régime matrimonial. Les actions ouvertes
+contre les tiers en vertu de l'article précédent se prescrivent par deux ans à compter de la clôture de la liquidation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+_Cite_:
+
+  - Code civil - art. 1577 (M)
+
+
+###### Article 1579
+
+Si l'application des règles d'évaluation prévues par les articles 1571 et 1574 ci-dessus devait conduire à un résultat
+manifestement contraire à l'équité, le tribunal pourrait y déroger à la demande de l'un des époux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1571 (V)
+  - Code civil - art. 1574 (V)
+
+
+###### Article 1580
+
+Si le désordre des affaires d'un époux, sa mauvaise administration ou son inconduite, donnent lieu de craindre que la
+continuation du régime matrimonial ne compromette les intérêts de l'autre conjoint, celui-ci peut demander la liquidation
+anticipée de sa créance de participation. 
+
+Les règles de la séparation de biens sont applicables à cette demande. 
+
+Lorsque la demande est admise, les époux sont placés sous le régime des articles 1536 à 1541.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
+  - Code de procédure civile - art. 1291 (V)
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1536 (V)
+
+
+###### Article 1581
+
+En stipulant la participation aux acquêts, les époux peuvent adopter toutes clauses non contraires aux articles 1387, 1388 et
+1389. 
+
+Ils peuvent notamment convenir d'une clause de partage inégal, ou stipuler que le survivant d'eux ou l'un d'eux s'il survit,
+aura droit à la totalité des acquêts nets faits par l'autre. 
+
+Il peut également être convenu entre les époux que celui d'entre eux qui, lors de la liquidation du régime, aura envers
+l'autre une créance de participation, pourra exiger la dation en paiement de certains biens de son conjoint, s'il établit
+qu'il a un intérêt essentiel à se les faire attribuer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°65-570 1965-07-13
+
+_Cite_:
+
+  - Code civil - art. 1387 (V)
+
+
+## Titre VI : De la vente<a id=232></a>
+
+### Chapitre Ier : De la nature et de la forme de la vente.<a id=233></a>
 
 ###### Article 1582
 
@@ -24463,7 +26663,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre II : Qui peut acheter ou vendre.<a id=213></a>
+### Chapitre II : Qui peut acheter ou vendre.<a id=234></a>
 
 ###### Article 1594
 
@@ -24561,7 +26761,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre III : Des choses qui peuvent être vendues.<a id=214></a>
+### Chapitre III : Des choses qui peuvent être vendues.<a id=235></a>
 
 ###### Article 1598
 
@@ -24639,9 +26839,9 @@ _Cité par_:
   - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
 
 
-### Chapitre IV : Des obligations du vendeur<a id=215></a>
+### Chapitre IV : Des obligations du vendeur<a id=236></a>
 
-#### Section 1 : Dispositions générales.<a id=216></a>
+#### Section 1 : Dispositions générales.<a id=237></a>
 
 ###### Article 1602
 
@@ -24675,7 +26875,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 2 : De la délivrance.<a id=217></a>
+#### Section 2 : De la délivrance.<a id=238></a>
 
 ###### Article 1604
 
@@ -25050,7 +27250,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 3 : De la garantie.<a id=218></a>
+#### Section 3 : De la garantie.<a id=239></a>
 
 ###### Article 1625
 
@@ -25068,7 +27268,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-##### Paragraphe 1 : De la garantie en cas d'éviction.<a id=219></a>
+##### Paragraphe 1 : De la garantie en cas d'éviction.<a id=240></a>
 
 ###### Article 1626
 
@@ -25341,7 +27541,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-##### Paragraphe 2 : De la garantie des défauts de la chose vendue.<a id=220></a>
+##### Paragraphe 2 : De la garantie des défauts de la chose vendue.<a id=241></a>
 
 ###### Article 1641
 
@@ -25552,7 +27752,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre V : Des obligations de l'acheteur.<a id=221></a>
+### Chapitre V : Des obligations de l'acheteur.<a id=242></a>
 
 ###### Article 1650
 
@@ -25702,7 +27902,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VI : De la nullité et de la résolution de la vente.<a id=222></a>
+### Chapitre VI : De la nullité et de la résolution de la vente.<a id=243></a>
 
 ###### Article 1658
 
@@ -25720,7 +27920,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 1 : De la faculté de rachat.<a id=223></a>
+#### Section 1 : De la faculté de rachat.<a id=244></a>
 
 ###### Article 1659
 
@@ -26000,7 +28200,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 2 : De la rescision de la vente pour cause de lésion.<a id=224></a>
+#### Section 2 : De la rescision de la vente pour cause de lésion.<a id=245></a>
 
 ###### Article 1674
 
@@ -26207,7 +28407,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VII : De la licitation.<a id=225></a>
+### Chapitre VII : De la licitation.<a id=246></a>
 
 ###### Article 1686
 
@@ -26260,7 +28460,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VIII : Du transport des créances et autres droits incorporels.<a id=226></a>
+### Chapitre VIII : Du transport des créances et autres droits incorporels.<a id=247></a>
 
 ###### Article 1689
 
@@ -26564,7 +28764,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-## Titre VII : De l'échange<a id=227></a>
+## Titre VII : De l'échange<a id=248></a>
 
 ###### Article 1702
 
@@ -26675,9 +28875,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-## Titre VIII : Du contrat de louage<a id=228></a>
+## Titre VIII : Du contrat de louage<a id=249></a>
 
-### Chapitre Ier : Dispositions générales.<a id=229></a>
+### Chapitre Ier : Dispositions générales.<a id=250></a>
 
 ###### Article 1708
 
@@ -26781,7 +28981,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre II : Du louage des choses.<a id=230></a>
+### Chapitre II : Du louage des choses.<a id=251></a>
 
 ###### Article 1713
 
@@ -26798,7 +28998,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.<a id=231></a>
+#### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.<a id=252></a>
 
 ###### Article 1714
 
@@ -27624,7 +29824,7 @@ _Cité par_:
   - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 III (champ d'application territoriale Polynésie française et Nouvelle-Calédonie)
 
 
-#### Section 2 : Des règles particulières aux baux à loyer.<a id=232></a>
+#### Section 2 : Des règles particulières aux baux à loyer.<a id=253></a>
 
 ###### Article 1752
 
@@ -27851,7 +30051,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Des règles particulières aux baux à ferme.<a id=233></a>
+#### Section 3 : Des règles particulières aux baux à ferme.<a id=254></a>
 
 ###### Article 1764
 
@@ -28193,9 +30393,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre III : Du louage d'ouvrage et d'industrie.<a id=234></a>
+### Chapitre III : Du louage d'ouvrage et d'industrie.<a id=255></a>
 
-#### Section 1 : Du louage des domestiques et ouvriers.<a id=235></a>
+#### Section 1 : Du louage des domestiques et ouvriers.<a id=256></a>
 
 ###### Article 1780
 
@@ -28232,7 +30432,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 2 : Des voituriers par terre et par eau.<a id=236></a>
+#### Section 2 : Des voituriers par terre et par eau.<a id=257></a>
 
 ###### Article 1782
 
@@ -28314,7 +30514,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Des devis et des marchés.<a id=237></a>
+#### Section 3 : Des devis et des marchés.<a id=258></a>
 
 ###### Article 1787
 
@@ -28526,9 +30726,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre IV : Du bail à cheptel<a id=238></a>
+### Chapitre IV : Du bail à cheptel<a id=259></a>
 
-#### Section 1 : Dispositions générales.<a id=239></a>
+#### Section 1 : Dispositions générales.<a id=260></a>
 
 ###### Article 1800
 
@@ -28604,7 +30804,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 2 : Du cheptel simple.<a id=240></a>
+#### Section 2 : Du cheptel simple.<a id=261></a>
 
 ###### Article 1804
 
@@ -28845,7 +31045,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Du cheptel à moitié.<a id=241></a>
+#### Section 3 : Du cheptel à moitié.<a id=262></a>
 
 ###### Article 1818
 
@@ -28898,9 +31098,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire<a id=242></a>
+#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire<a id=263></a>
 
-##### Paragraphe 1 : Du cheptel donné au fermier.<a id=243></a>
+##### Paragraphe 1 : Du cheptel donné au fermier.<a id=264></a>
 
 ###### Article 1821
 
@@ -29004,7 +31204,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-##### Paragraphe 2 : Du cheptel donné au colon partiaire.<a id=244></a>
+##### Paragraphe 2 : Du cheptel donné au colon partiaire.<a id=265></a>
 
 ###### Article 1827
 
@@ -29072,7 +31272,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 5 : Du contrat improprement appelé cheptel.<a id=245></a>
+#### Section 5 : Du contrat improprement appelé cheptel.<a id=266></a>
 
 ###### Article 1831
 
@@ -29090,7 +31290,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-## Titre X : Du prêt<a id=246></a>
+## Titre X : Du prêt<a id=267></a>
 
 ###### Article 1874
 
@@ -29111,9 +31311,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre Ier : Du prêt à usage, ou commodat<a id=247></a>
+### Chapitre Ier : Du prêt à usage, ou commodat<a id=268></a>
 
-#### Section 1 : De la nature du prêt à usage.<a id=248></a>
+#### Section 1 : De la nature du prêt à usage.<a id=269></a>
 
 ###### Article 1875
 
@@ -29180,7 +31380,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des engagements de l'emprunteur.<a id=249></a>
+#### Section 2 : Des engagements de l'emprunteur.<a id=270></a>
 
 ###### Article 1880
 
@@ -29275,7 +31475,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de celui qui prête à usage.<a id=250></a>
+#### Section 3 : Des engagements de celui qui prête à usage.<a id=271></a>
 
 ###### Article 1888
 
@@ -29329,9 +31529,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre II : Du prêt de consommation, ou simple prêt<a id=251></a>
+### Chapitre II : Du prêt de consommation, ou simple prêt<a id=272></a>
 
-#### Section 1 : De la nature du prêt de consommation.<a id=252></a>
+#### Section 1 : De la nature du prêt de consommation.<a id=273></a>
 
 ###### Article 1892
 
@@ -29410,7 +31610,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des obligations du prêteur.<a id=253></a>
+#### Section 2 : Des obligations du prêteur.<a id=274></a>
 
 ###### Article 1898
 
@@ -29461,7 +31661,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de l'emprunteur.<a id=254></a>
+#### Section 3 : Des engagements de l'emprunteur.<a id=275></a>
 
 ###### Article 1902
 
@@ -29500,7 +31700,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre III : Du prêt à intérêt.<a id=255></a>
+### Chapitre III : Du prêt à intérêt.<a id=276></a>
 
 ###### Article 1905
 
@@ -29624,9 +31824,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-## Titre XI : Du dépôt et du séquestre<a id=256></a>
+## Titre XI : Du dépôt et du séquestre<a id=277></a>
 
-### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=257></a>
+### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=278></a>
 
 ###### Article 1915
 
@@ -29659,9 +31859,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre II : Du dépôt proprement dit<a id=258></a>
+### Chapitre II : Du dépôt proprement dit<a id=279></a>
 
-#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=259></a>
+#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=280></a>
 
 ###### Article 1917
 
@@ -29726,7 +31926,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du dépôt volontaire.<a id=260></a>
+#### Section 2 : Du dépôt volontaire.<a id=281></a>
 
 ###### Article 1921
 
@@ -29831,7 +32031,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Des obligations du dépositaire.<a id=261></a>
+#### Section 3 : Des obligations du dépositaire.<a id=282></a>
 
 ###### Article 1927
 
@@ -30187,7 +32387,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=262></a>
+#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=283></a>
 
 ###### Article 1947
 
@@ -30220,7 +32420,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 5 : Du dépôt nécessaire.<a id=263></a>
+#### Section 5 : Du dépôt nécessaire.<a id=284></a>
 
 ###### Article 1949
 
@@ -30268,9 +32468,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre III : Du séquestre<a id=264></a>
+### Chapitre III : Du séquestre<a id=285></a>
 
-#### Section 1 : Des différentes espèces de séquestre.<a id=265></a>
+#### Section 1 : Des différentes espèces de séquestre.<a id=286></a>
 
 ###### Article 1955
 
@@ -30287,7 +32487,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du séquestre conventionnel.<a id=266></a>
+#### Section 2 : Du séquestre conventionnel.<a id=287></a>
 
 ###### Article 1956
 
@@ -30370,7 +32570,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=267></a>
+#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=288></a>
 
 ###### Article 1961
 
@@ -30434,7 +32634,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-## Titre XII : Des contrats aléatoires.<a id=268></a>
+## Titre XII : Des contrats aléatoires.<a id=289></a>
 
 ###### Article 1964
 
@@ -30464,7 +32664,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre Ier : Du jeu et du pari.<a id=269></a>
+### Chapitre Ier : Du jeu et du pari.<a id=290></a>
 
 ###### Article 1965
 
@@ -30534,9 +32734,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre II : Du contrat de rente viagère<a id=270></a>
+### Chapitre II : Du contrat de rente viagère<a id=291></a>
 
-#### Section 1 : Des conditions requises pour la validité du contrat.<a id=271></a>
+#### Section 1 : Des conditions requises pour la validité du contrat.<a id=292></a>
 
 ###### Article 1968
 
@@ -30699,7 +32899,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=272></a>
+#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=293></a>
 
 ###### Article 1977
 
@@ -30831,9 +33031,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIII : Du mandat<a id=273></a>
+## Titre XIII : Du mandat<a id=294></a>
 
-### Chapitre Ier : De la nature et de la forme du mandat.<a id=274></a>
+### Chapitre Ier : De la nature et de la forme du mandat.<a id=295></a>
 
 ###### Article 1984
 
@@ -30969,7 +33169,7 @@ _Cité par_:
   - Loi du 1er juillet 1901 - art. 2 bis (V)
 
 
-### Chapitre II : Des obligations du mandataire.<a id=275></a>
+### Chapitre II : Des obligations du mandataire.<a id=296></a>
 
 ###### Article 1991
 
@@ -31106,7 +33306,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre III : Des obligations du mandant.<a id=276></a>
+### Chapitre III : Des obligations du mandant.<a id=297></a>
 
 ###### Article 1998
 
@@ -31197,7 +33397,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre IV : Des différentes manières dont le mandat finit.<a id=277></a>
+### Chapitre IV : Des différentes manières dont le mandat finit.<a id=298></a>
 
 ###### Article 2003
 
@@ -31346,9 +33546,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIV : Du cautionnement.<a id=278></a>
+## Titre XIV : Du cautionnement.<a id=299></a>
 
-### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=279></a>
+### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=300></a>
 
 ###### Article 2011
 
@@ -31672,9 +33872,9 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre II : De l'effet du cautionnement<a id=280></a>
+### Chapitre II : De l'effet du cautionnement<a id=301></a>
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=281></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=302></a>
 
 ###### Article 2021
 
@@ -31868,7 +34068,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=282></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=303></a>
 
 ###### Article 2024
 
@@ -31897,7 +34097,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=283></a>
+#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=304></a>
 
 ###### Article 2028
 
@@ -32062,7 +34262,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=284></a>
+#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=305></a>
 
 ###### Article 2033
 
@@ -32095,7 +34295,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre III : De l'extinction du cautionnement.<a id=285></a>
+### Chapitre III : De l'extinction du cautionnement.<a id=306></a>
 
 ###### Article 2034
 
@@ -32248,7 +34448,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=286></a>
+### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=307></a>
 
 ###### Article 2040
 
@@ -32356,7 +34556,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-## Titre XV : Des transactions<a id=287></a>
+## Titre XV : Des transactions<a id=308></a>
 
 ###### Article 2044
 
@@ -32731,7 +34931,7 @@ _Créé par_:
   - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
-## Titre XVI : Du compromis<a id=288></a>
+## Titre XVI : Du compromis<a id=309></a>
 
 ###### Article 2062
 
@@ -32868,7 +35068,7 @@ _Codifié par_:
   - Loi n°72-626 1972-07-05
 
 
-## Titre XVII : Du nantissement.<a id=289></a>
+## Titre XVII : Du nantissement.<a id=310></a>
 
 ###### Article 2071
 
@@ -32921,7 +35121,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre I : Du gage.<a id=290></a>
+### Chapitre I : Du gage.<a id=311></a>
 
 ###### Article 2073
 
@@ -33265,7 +35465,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre II : De l'antichrèse.<a id=291></a>
+### Chapitre II : De l'antichrèse.<a id=312></a>
 
 ###### Article 2085
 
@@ -33458,9 +35658,9 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-## Titre XVIII : Des privilèges et hypothèques.<a id=292></a>
+## Titre XVIII : Des privilèges et hypothèques.<a id=313></a>
 
-### Chapitre I : Dispositions générales.<a id=293></a>
+### Chapitre I : Dispositions générales.<a id=314></a>
 
 ###### Article 2092
 
@@ -33548,7 +35748,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : Des privilèges.<a id=294></a>
+### Chapitre II : Des privilèges.<a id=315></a>
 
 ###### Article 2095
 
@@ -33674,7 +35874,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 1 : Des privilèges sur les meubles.<a id=295></a>
+#### Section 1 : Des privilèges sur les meubles.<a id=316></a>
 
 ###### Article 2100
 
@@ -33699,9 +35899,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section I : Des privilèges sur les meubles<a id=296></a>
+#### Section I : Des privilèges sur les meubles<a id=317></a>
 
-##### Paragraphe II : Des privilèges sur certains meubles.<a id=297></a>
+##### Paragraphe II : Des privilèges sur certains meubles.<a id=318></a>
 
 ###### Article 2102
 
@@ -33808,7 +36008,7 @@ _Cite_:
   - Code du travail 721-1
 
 
-#### Section 3 : Des privilèges généraux sur les immeubles.<a id=298></a>
+#### Section 3 : Des privilèges généraux sur les immeubles.<a id=319></a>
 
 ###### Article 2105
 
@@ -33851,7 +36051,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
 
 
-#### Section 4 : Comment se conservent les privilèges.<a id=299></a>
+#### Section 4 : Comment se conservent les privilèges.<a id=320></a>
 
 ###### Article 2106
 
@@ -34166,7 +36366,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section IV : Comment se conservent les privilèges.<a id=300></a>
+#### Section IV : Comment se conservent les privilèges.<a id=321></a>
 
 ###### Article 2107
 
@@ -34199,7 +36399,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre III : Des hypothèques.<a id=301></a>
+### Chapitre III : Des hypothèques.<a id=322></a>
 
 ###### Article 2114
 
@@ -34407,7 +36607,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 1 : Des hypothèques légales.<a id=302></a>
+#### Section 1 : Des hypothèques légales.<a id=323></a>
 
 ###### Article 2121
 
@@ -34476,7 +36676,53 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 2 : Des hypothèques judiciaires.<a id=303></a>
+###### Article 2122
+
+Sous réserve tant des exceptions résultant du présent code, d'autres codes ou de lois particulières que du droit pour le
+débiteur de se prévaloir des dispositions des articles 2161 et suivants, le créancier bénéficiaire d'une hypothèque légale
+peut inscrire son droit sur tous les immeubles appartenant actuellement à son débiteur, sauf à se conformer aux dispositions
+de l'article 2146.
+
+Il peut, sous les mêmes réserves, prendre les inscriptions complémentaires sur les immeubles entrés, par la suite, dans le
+patrimoine de son débiteur.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier
+
+_Cité par_:
+
+  - Décret n°67-1120 du 22 décembre 1967 - art. 29 (Ab)
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 2146 (T)
+  - Code civil - art. 2161 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2401 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+#### Section 2 : Des hypothèques judiciaires.<a id=324></a>
 
 ###### Article 2123
 
@@ -34532,7 +36778,7 @@ _Nouveaux textes_:
   - Code civil - art. 2412 (V)
 
 
-#### Section 3 : Des hypothèques conventionnelles.<a id=304></a>
+#### Section 3 : Des hypothèques conventionnelles.<a id=325></a>
 
 ###### Article 2124
 
@@ -34845,7 +37091,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-#### Section IV : Du rang que les hypothèques ont entre elles.<a id=305></a>
+#### Section IV : Du rang que les hypothèques ont entre elles.<a id=326></a>
 
 ###### Article 2134
 
@@ -34898,7 +37144,401 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=306></a>
+#### Section V : Des règles particulières à l'hypothèque légale des époux.<a id=327></a>
+
+###### Article 2135
+
+Quel que soit le régime matrimonial, il est toujours permis aux époux de convenir dans le contrat de mariage que la femme
+aura la faculté d'inscrire son hypothèque légale sans intervention de justice.
+
+En vertu de cette clause, l'inscription peut être prise avant le mariage pour la dot et les conventions matrimoniales, mais
+elle n'a d'effet que du jour de la célébration.
+
+Elle peut encore être prise au cours du mariage ou, au plus tard, un an après sa dissolution, par la femme ou ses héritiers,
+pour la dot et les conventions matrimoniales, pour les successions échues à la femme, les donations ou legs qui lui sont
+faits, pour l'indemnité des dettes qu'elle a contractées avec son mari ou pour le remploi de ses propres aliénés, et, d'une
+manière générale, pour toute créance qu'elle acquiert contre son mari. En ce cas, l'inscription a effet de sa date, ainsi
+qu'il est dit à l'article 2134.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1913-08-08 du 8 août 1913 - art. 2 (Ab)
+  - Décret n°55-22 du 4 janvier 1955 - art. 38 (VD)
+  - Décret n°55-22 du 4 janvier 1955 - art. 44 (V)
+  - Loi n°65-570 du 13 juillet 1965 - art. 14 (V)
+  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V)
+  - Code civil - art. 2139 (M)
+  - Code civil - art. 2163 (M)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Abrogé par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+_Cite_:
+
+  - Code civil - art. 2134 (M)
+
+
+###### Article 2137
+
+Hors les cas des deux articles précédents où l'hypothèque légale est inscrite en conséquence des conventions matrimoniales,
+elle ne peut être inscrite que par l'intervention de justice, ainsi qu'il est expliqué au présent article et à l'article
+suivant.
+
+Si l'un des époux introduit une demande en justice tendant à faire constater une créance contre son conjoint ou les héritiers
+de celui-ci, il peut, dès l'introduction de la demande, requérir une inscription provisoire de son hypothèque légale, en
+présentant l'original de l'assignation signifiée, ainsi qu'un certificat du greffier qui atteste que l'affaire a été portée
+au registre prévu à l'article 76 du code de procédure civile. Le même droit lui appartient en cas de demande
+reconventionnelle, sur présentation d'une copie des conclusions.
+
+L'inscription est valable trois ans et renouvelable. Elle est soumise aux règles des chapitres IV et suivants du présent
+titre.
+
+Si la demande est admise, la décision est mentionnée, à la diligence de l'époux demandeur, en marge de l'inscription
+provisoire, à peine de nullité de cette inscription, dans le mois à dater du jour où elle est devenue définitive. Elle forme
+le titre d'une inscription définitive qui se substitue à l'inscription provisoire, et dont le rang est fixé à la date de
+celle-ci. Lorsque le montant du capital de la créance allouée et de ses accessoires excède celui des sommes que conserve
+l'inscription provisoire, l'excédent ne peut être conservé que par une inscription prise conformément aux dispositions de
+l'article 2148 et ayant effet de sa date, ainsi qu'il est dit à l'article 2134.
+
+Si la demande est entièrement rejetée, le tribunal, à la requête de l'époux défendeur, ordonne la radiation de l'inscription
+provisoire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 59 (M)
+  - Code civil - art. 2139 (T)
+  - Code civil - art. 2141 (T)
+  - Code civil - art. 2163 (T)
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Cite_:
+
+  - Code de procédure civile 76
+  - Code civil - art. 2134 (M)
+  - Code civil - art. 2148 (M)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2403 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2139
+
+Quand l'hypothèque légale a été inscrite par application des articles 2135, 2136 ou 2137, et sauf clause expresse du contrat
+de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut consentir, au profit des créanciers de l'autre époux ou
+de ses propres créanciers, une cession de son rang ou une subrogation dans les droits résultant de son inscription.
+
+Il en est ainsi même en ce qui concerne l'hypothèque légale ou éventuellement l'hypothèque judiciaire, garantissant la
+pension alimentaire allouée ou susceptible d'être allouée à la femme, pour elle ou pour ses enfants.
+
+Si l'époux bénéficiaire de l'inscription, en refusant de consentir une cession de rang ou subrogation, empêche l'autre époux
+de faire une constitution d'hypothèque qu'exigerait l'intérêt de la famille ou s'il est hors d'état de manifester sa volonté,
+les juges pourront autoriser cette cession de rang ou subrogation aux conditions qu'ils estimeront nécessaires à la
+sauvegarde des droits de l'époux intéressé. Ils ont les mêmes pouvoirs lorsque le contrat de mariage comporte la clause visée
+au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Cité par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 14 (M)
+  - Code civil - art. 2140 (T)
+  - Nouveau code de procédure civile - art. 1286 (M)
+
+_Cite_:
+
+  - Code civil - art. 2135 (Ab)
+  - Code civil - art. 2136 (T)
+  - Code civil - art. 2137 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 2141 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2405 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2142
+
+Les dispositions des articles 2135 à 2141 sont portées à la connaissance des époux ou futurs époux dans les conditions fixées
+par un décret.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2408 (V)
+
+_Cite_:
+
+  - Code civil 2135 à 2141
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=328></a>
+
+###### Article 2136
+
+Quand les époux ont stipulé la participation aux acquêts, la clause, sauf convention contraire, confère de plein droit à l'un
+et à l'autre la faculté d'inscrire l'hypothèque légale pour la sûreté de la créance de participation.
+
+L'inscription pourra être prise avant la dissolution du régime matrimonial, mais elle n'aura d'effet qu'à compter de cette
+dissolution et à condition que les immeubles sur lesquels elle porte existent à cette date dans le patrimoine de l'époux
+débiteur.
+
+En cas de liquidation anticipée, l'inscription antérieure à la demande a effet du jour de celle-ci, l'inscription postérieure
+n'ayant effet que de sa date ainsi qu'il est dit à l'article 2134.
+
+L'inscription pourra également être prise dans l'année qui suivra la dissolution du régime matrimonial ; elle aura alors
+effet de sa date.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 86 (M)
+  - Code civil - art. 2139 (T)
+  - Code civil - art. 2163 (T)
+
+_Cite_:
+
+  - Code civil - art. 2134 (M)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2402 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2138
+
+Pareillement si, pendant le mariage, il y a lieu de transférer d'un époux à l'autre l'administration de certains biens, par
+application de l'article 1426 ou de l'article 1429, le tribunal, soit dans le jugement même qui ordonne le transfert, soit
+dans un jugement postérieur, peut décider qu'une inscription de l'hypothèque légale sera prise sur les immeubles du conjoint
+qui aura la charge d'administrer. Dans l'affirmative, il fixe la somme pour laquelle il sera pris inscription et désigne les
+immeubles qui en seront grevés. Dans la négative, il peut, toutefois, décider que l'inscription de l'hypothèque sera
+remplacée par la constitution d'un gage, dont il détermine lui-même les conditions.
+
+Si, par la suite, des circonstances nouvelles paraissent l'exiger, le tribunal peut toujours décider, par jugement, qu'il
+sera pris, soit une première inscription, soit des inscriptions complémentaires ou qu'un gage sera constitué.
+
+Les inscriptions prévues par le présent article sont prises et renouvelées à la requête du ministère public.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-1350 du 14 octobre 1955 - art. 87 (M)
+  - Code civil - art. 2140 (T)
+  - Code civil - art. 2163 (T)
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 1426 (M)
+  - Code civil - art. 1429 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 2140 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2404 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2140
+
+Quand l'hypothèque a été inscrite par application de l'article 2138, la cession de rang ou la subrogation ne peut résulter,
+pendant la durée du transfert d'administration, que d'un jugement du tribunal qui a ordonné ce transfert.
+
+Dès la cessation du transfert d'administration, la cession de rang ou la subrogation peut être faite dans les conditions
+prévues à l'article 2139.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 2138 (T)
+  - Code civil - art. 2139 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 2138 (T)
+  - TXT_ASSOCIE: Code civil - art. 2141 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2406 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1286 (M)
+
+
+###### Article 2141
+
+Les jugements pris en application des deux articles précédents sont rendus dans les formes réglées par le code de procédure
+civile.
+
+Sous réserve des dispositions de l'article 2137, l'hypothèque légale des époux est soumise, pour le renouvellement des
+inscriptions, aux règles de l'article 2154.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 2137 (M)
+  - Code civil - art. 2154 (T)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 2139 (T)
+  - TXT_ASSOCIE: Code civil - art. 2140 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2407 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=329></a>
 
 ###### Article 2143
 
@@ -35036,7 +37676,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=307></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=330></a>
 
 ###### Article 2146
 
@@ -35502,9 +38142,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=308></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=331></a>
 
-#### Section 1 : Dispositions générales.<a id=309></a>
+#### Section 1 : Dispositions générales.<a id=332></a>
 
 ###### Article 2157
 
@@ -35691,7 +38331,61 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=310></a>
+#### Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=333></a>
+
+###### Article 2163
+
+Quand l'hypothèque légale a été inscrite par application des articles 2135, 2136 ou 2137, et sauf clause expresse du contrat
+de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut en donner mainlevée totale ou partielle.
+
+Il en est ainsi même en ce qui concerne l'hypothèque légale, ou éventuellement l'hypothèque judiciaire, garantissant la
+pension alimentaire allouée ou susceptible d'être allouée à la femme, pour elle ou pour ses enfants.
+
+Si l'époux bénéficiaire de l'inscription, en refusant de réduire son hypothèque ou d'en donner mainlevée, empêche l'autre
+époux de faire une constitution d'hypothèque ou une aliénation qu'exigerait l'intérêt de la famille ou, s'il est hors d'état
+de manifester sa volonté, les juges pourront autoriser cette réduction ou cette mainlevée aux conditions qu'ils estimeront
+nécessaires à la sauvegarde des droits de l'époux intéressé. Ils ont les mêmes pouvoirs lorsque le contrat de mariage
+comporte la clause visée au premier alinéa.
+
+Quand l'hypothèque a été inscrite par application de l'article 2138, l'inscription ne peut être rayée ou réduite, pendant la
+durée du transfert d'administration, qu'en vertu d'un jugement du tribunal qui a ordonné le transfert.
+
+Dès la cessation du transfert d'administration, la radiation ou la réduction peut être faite dans les conditions prévues aux
+alinéas 1 et 3 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 48 (M)
+  - Loi n°65-570 du 13 juillet 1965 - art. 14 (M)
+  - Nouveau code de procédure civile - art. 1286 (M)
+
+_Modifié par_:
+
+  - Loi n°65-570 du 13 juillet 1965 - art. 9 (V) JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Cite_:
+
+  - Code civil - art. 2135 (Ab)
+  - Code civil - art. 2136 (T)
+  - Code civil - art. 2137 (M)
+  - Code civil - art. 2138 (T)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2446 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=334></a>
 
 ###### Article 2164
 
@@ -35743,7 +38437,43 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=311></a>
+###### Article 2165
+
+Les jugements sur les demandes d'un époux, d'un tuteur ou d'un administrateur légal dans les cas prévus aux articles
+précédents sont rendus dans les formes réglées au code de procédure civile.
+
+Si le tribunal prononce la réduction de l'hypothèque à certains immeubles, les inscriptions prises sur tous les autres sont
+radiées.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 27 () JORF 7 janvier 1955
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2448 (V)
+
+
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=335></a>
 
 ###### Article 2166
 
@@ -36204,7 +38934,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=312></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=336></a>
 
 ###### Article 2180
 
@@ -36259,7 +38989,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=313></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=337></a>
 
 ###### Article 2181
 
@@ -36721,7 +39451,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=314></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=338></a>
 
 ###### Article 2197
 
@@ -36957,13 +39687,13 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=315></a>
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=339></a>
 
-### Chapitre Ier : De la saisie.<a id=316></a>
+### Chapitre Ier : De la saisie.<a id=340></a>
 
-#### Section 5 : De la vente.<a id=317></a>
+#### Section 5 : De la vente.<a id=341></a>
 
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=318></a>
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=342></a>
 
 ###### Article 2205
 
@@ -36993,9 +39723,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=319></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=343></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=320></a>
+### Chapitre Ier : De l'expropriation forcée<a id=344></a>
 
 ###### Article 2204
 
@@ -37314,7 +40044,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=321></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=345></a>
 
 ###### Article 2218
 
@@ -37340,9 +40070,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=322></a>
+## Titre XX : De la prescription et de la possession.<a id=346></a>
 
-### Chapitre Ier : Dispositions générales.<a id=323></a>
+### Chapitre Ier : Dispositions générales.<a id=347></a>
 
 ###### Article 2219
 
@@ -37529,7 +40259,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=324></a>
+### Chapitre II : De la possession.<a id=348></a>
 
 ###### Article 2228
 
@@ -37752,7 +40482,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=325></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=349></a>
 
 ###### Article 2236
 
@@ -37923,9 +40653,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=326></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=350></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=327></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=351></a>
 
 ###### Article 2242
 
@@ -38101,7 +40831,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=328></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=352></a>
 
 ###### Article 2251
 
@@ -38178,63 +40908,6 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-###### Article 2255
-
-Néanmoins, elle ne court point, pendant le mariage, à l'égard de l'aliénation d'un fonds constitué selon le régime dotal,
-conformément à l'article 1561, au titre Du contrat de mariage et des droits respectifs des époux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-_Créé par_:
-
-  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-_Cité par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 23 (V)
-
-_Cite_:
-
-  - Code civil - art. 1561 (Ab)
-
-_Anciens textes_:
-
-  - Code civil - art. 2228 (T)
-
-
-###### Article 2256
-
-La prescription est pareillement suspendue pendant le mariage :
-
-1° Dans le cas où l'action de la femme ne pourrait être exercée qu'après une option à faire sur l'acceptation ou la
-renonciation à la communauté ;
-
-2° Dans le cas où le mari, ayant vendu le bien propre de la femme sans son consentement, est garant de la vente, et dans tous
-les autres cas où l'action de la femme réfléchirait contre le mari.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-_Créé par_:
-
-  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-_Cité par_:
-
-  - Loi n°65-570 du 13 juillet 1965 - art. 23 (V)
-
-_Anciens textes_:
-
-  - Code civil - art. 2230 (T)
-
-
 ###### Article 2257
 
 La prescription ne court point :
@@ -38292,9 +40965,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=329></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=353></a>
 
-#### Section 1 : Dispositions générales.<a id=330></a>
+#### Section 1 : Dispositions générales.<a id=354></a>
 
 ###### Article 2260
 
@@ -38335,7 +41008,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=331></a>
+#### Section 2 : De la prescription trentenaire.<a id=355></a>
 
 ###### Article 2262
 
@@ -38410,7 +41083,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=332></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=356></a>
 
 ###### Article 2265
 
@@ -38548,7 +41221,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=333></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=357></a>
 
 ###### Article 2273
 
