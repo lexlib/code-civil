@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1966-06-10
+Version Consolidée au 1966-07-14
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -29132,6 +29132,30 @@ _Cité par_:
   - Code rural - art. L411-35 (V)
   - Code rural - art. L461-10 (VD)
   - Code rural - art. L461-7 (VT)
+
+
+###### Article 1718
+
+Les dispositions des deuxième et troisième alinéas de l'article 595 relatif aux baux passés par les usufruitiers sont
+applicables aux baux passés par le tuteur sans l'autorisation du conseil de famille.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 595 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+_Modifié par_:
+
+  - Loi n°65-570 1965-07-13 JORF 14 juillet 1965 rectificatif JORF 13 novembre en vigueur le 1er février 1966
 
 
 ###### Article 1719
