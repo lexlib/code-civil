@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1992-08-01
+Version Consolidée au 1992-12-12
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -21035,14 +21035,11 @@ _Modifié par_:
 
 ###### Article 564
 
-Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou plan d'eau visé aux articles 432 et 433 du
-code rural, appartiennent au propriétaire de ces objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
+Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou plan d'eau visé aux articles L. 431-6 et L.
+431-7 du code de l'environnement appartiennent au propriétaire de ces objets, pourvu qu'ils n'y aient point été attirés par
+fraude et artifice.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°84-512 1984-06-29 art. 8 II JORF 30 juin 1984 en vigueur le 1er juillet 1985
 
 _Cité par_:
 
@@ -21057,11 +21054,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural 432, 433
+  - Code de l'environnement - art. L431-6 (V)
+  - Code de l'environnement - art. L431-7 (V)
 
 _Codifié par_:
 
   - Loi n°1804-01-27
+
+_Modifié par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
 
 
 #### Section 2 : Du droit d'accession relativement aux choses mobilières<a id=135></a>
