@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-23
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -37,10 +37,10 @@ Version Consolidée au 2002-01-01
       - [Chapitre VIII : Dispositions particulières concernant les territoires d'outre-mer. (art. 33 à 33-2)](#34)
     - [Titre II : Des actes de l'état civil (art. 34 à 101)](#35)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#36)
-      - [Chapitre II : Des actes de naissance. (art. 55 à 62)](#37)
+      - [Chapitre II : Des actes de naissance. (art. 55 à 62-1)](#37)
         - [Section 1 : Des déclarations de naissance. (art. 55 à 59)](#38)
         - [Section 2 : Des changements de prénoms et de nom. (art. 60 à 61-4)](#39)
-        - [Section 3 : De l'acte de reconnaissance. (art. 62)](#40)
+        - [Section 3 : De l'acte de reconnaissance. (art. 62 à 62-1)](#40)
       - [Chapitre III : Des actes de mariage. (art. 63 à 76)](#41)
       - [Chapitre IV : Des actes de décès. (art. 78 à 92)](#42)
       - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 93 à 97)](#43)
@@ -5450,6 +5450,27 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°1803-03-11
+
+
+###### Article 62-1
+
+Si la transcription de la reconnaissance paternelle s'avère impossible, du fait du secret de son identité opposé par la mère,
+le père peut en informer le procureur de la République. Celui-ci procède à la recherche des date et lieu d'établissement de
+l'acte de naissance de l'enfant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°2002-93 du 22 janvier 2002 - art. 14 () JORF 23 janvier 2002
+
+_Cité par_:
+
+  - Code civil - art. 2492 (VD)
 
 
 ### Chapitre III : Des actes de mariage.<a id=41></a>
@@ -17297,9 +17318,9 @@ _Codifié par_:
 
 ###### Article 353-1
 
-Dans le cas d'adoption d'un pupille de l'Etat ou d'un enfant étranger qui n'est pas l'enfant du conjoint de l'adoptant, le
-tribunal vérifie avant de prononcer l'adoption que le ou les requérants ont obtenu l'agrément pour adopter ou en étaient
-dispensés.
+Dans le cas d'adoption d'un pupille de l'Etat, d'un enfant remis à un organisme autorisé pour l'adoption ou d'un enfant
+étranger qui n'est pas l'enfant du conjoint de l'adoptant, le tribunal vérifie avant de prononcer l'adoption que le ou les
+requérants ont obtenu l'agrément pour adopter ou en étaient dispensés.
 
 Si l'agrément a été refusé ou s'il n'a pas été délivré dans le délai légal, le tribunal peut prononcer l'adoption s'il estime
 que les requérants sont aptes à accueillir l'enfant et que celle-ci est conforme à son intérêt.
@@ -17308,7 +17329,7 @@ que les requérants sont aptes à accueillir l'enfant et que celle-ci est confor
 
 _Créé par_:
 
-  - Loi n°96-604 du 5 juillet 1996 - art. 11 () JORF 6 juillet 1996
+  - Loi n°2002-93 du 22 janvier 2002 - art. 15 () JORF 23 janvier 2002
 
 _Cité par_:
 
