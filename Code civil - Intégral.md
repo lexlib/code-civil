@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-05-21
+Version Consolidée au 1998-06-16
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 509)](#2)
@@ -476,10 +476,10 @@ Version Consolidée au 1998-05-21
       - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#473)
         - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#474)
         - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#475)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2270-1 à 2281)](#476)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#476)
         - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#477)
         - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#478)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270)](#479)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270-1)](#479)
         - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#480)
       - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#481)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
@@ -67712,34 +67712,6 @@ _Créé par_:
 
 ### Chapitre V : Du temps requis pour prescrire.<a id=476></a>
 
-###### Article 2270-1
-
-Les actions en responsabilité civile extracontractuelle se prescrivent par dix ans à compter de la manifestation du dommage
-ou de son aggravation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-677 1985-07-05 art. 46 *date d'effet*
-
-_Créé par_:
-
-  - Loi n°85-677 du 5 juillet 1985 - art. 38 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
-
-_Cité par_:
-
-  - Loi n°86-1020 du 9 septembre 1986 - art. 9 (M)
-  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
-  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
-  - Code de la santé publique - art. L209-22 (Ab)
-  - Code des assurances - art. L422-3 (M)
-
-
 #### Section 1 : Dispositions générales.<a id=477></a>
 
 ###### Article 2260
@@ -68039,6 +68011,37 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°78-12 1978-04-01 art. 14 *l'article 2270 du code civil, tel que modifié en 1978, s'applique aux contrats relatifs aux chantiers dont la déclaration réglementaire d'ouverture a été établie postérieurement à la date du 1er janvier 1979*
+
+
+###### Article 2270-1
+
+Les actions en responsabilité civile extracontractuelle se prescrivent par dix ans à compter de la manifestation du dommage
+ou de son aggravation.
+
+Lorsque le dommage est causé par des tortures et des actes de barbarie, des violences ou des agressions sexuelles commises
+contre un mineur, l'action en responsabilité civile est prescrite par vingt ans.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
+_Cité par_:
+
+  - Code de la santé publique - art. L209-22 (Ab)
+  - Code des assurances - art. L422-3 (M)
+  - Loi n°86-1020 du 9 septembre 1986 - art. 9 (M)
+  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
+  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
+
+_Codifié par_:
+
+  - Loi n°1804-03-15
+
+_Modifié par_:
+
+  - Loi n°98-468 du 17 juin 1998 - art. 43 () JORF 16 juin 1998
 
 
 #### Section 4 : De quelques prescriptions particulières.<a id=480></a>
