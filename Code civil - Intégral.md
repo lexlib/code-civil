@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-08
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -13973,6 +13973,9 @@ d'office à titre exceptionnel.
 
 Elles peuvent être ordonnées en même temps pour plusieurs enfants relevant de la même autorité parentale.
 
+La décision fixe la durée de la mesure sans que celle-ci puisse, lorsqu'il s'agit d'une mesure éducative exercée par un
+service ou une institution, excéder deux ans. La mesure peut être renouvelée par décision motivée.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -14022,18 +14025,14 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R322-9 (T)
   - Code de procédure civile - art. 1200-1 (V)
 
-_Créé par_:
-
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
   - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+  - SPEC_APPLI: Loi n°86-17 1986-01-06 art. 73
+
+_Modifié par_:
+
+  - Loi n°86-17 du 6 janvier 1986 - art. 51 () JORF 8 janvier 1986
 
 _Codifié par_:
 
