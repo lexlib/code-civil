@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1946-04-14
+Version Consolidée au 1946-10-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -1016,6 +1016,31 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 68
+
+En cas d'opposition, l'officier d'état civil ne pourra célébrer le mariage avant qu'on lui en ait remis la mainlevée, sous
+peine de 30 F d'amende et de tous dommages-intérêts.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 2499-3 (VT)
+  - Code civil - art. 33 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+_Modifié par_:
+
+  - Loi n°46-2154 1946-10-07 art. 38
 
 
 ###### Article 69
@@ -2805,6 +2830,37 @@ _Cité par_:
   - Code civil - art. 171-4 (V)
   - Code civil - art. 171-7 (V)
   - Code civil - art. 171-8 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 192
+
+Si le mariage n'a point été précédé de la publication requise ou s'il n'a pas été obtenu des dispenses permises par la loi,
+ou si les intervalles prescrits entre les publications et la célébration n'ont point été observés, le procureur de la
+République fera prononcer contre l'officier public une amende qui ne pourra excéder 30 F et contre les parties contractantes,
+ou ceux sous la puissance desquels elles ont agi, une amende proportionnée à leur fortune.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°46-2154 1946-10-07 art. 38
+
+_Cité par_:
+
+  - Code civil - art. 156 (V)
+  - Code de procédure pénale - art. R215 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 193 (V)
 
 _Codifié par_:
 
