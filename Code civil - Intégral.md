@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2001-02-08
+Version Consolidée au 2001-05-16
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -55607,7 +55607,10 @@ pareille quantité, qualité et valeur ; dans ce cas, l'apporteur est garant dan
 
 L'associé qui devait apporter une somme dans la société et qui ne l'a point fait devient de plein droit et sans demande,
 débiteur des intérêts de cette somme à compter du jour où elle devait être payée et ce sans préjudice de plus amples
-dommages-intérêts, s'il y a lieu.
+dommages-intérêts, s'il y a lieu. En outre, lorsqu'il n'a pas été procédé dans un délai légal aux appels de fonds pour
+réaliser la libération intégrale du capital, tout intéressé peut demander au président du tribunal statuant en référé soit
+d'enjoindre sous astreinte aux administrateurs, gérants et dirigeants de procéder à ces appels de fonds, soit de désigner un
+mandataire chargé de procéder à cette formalité.
 
 L'associé qui s'est obligé à apporter son industrie à la société lui doit compte de tous les gains qu'il a réalisés par
 l'activité faisant l'objet de son apport.
@@ -55618,9 +55621,9 @@ _Codifié par_:
 
   - Loi n°78-9 1978-01-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+  - Loi n°2001-420 du 15 mai 2001 - art. 123 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -55946,6 +55949,8 @@ patrimoine n'est réalisée et il n'y a disparition de la personne morale qu'à 
 échéant, lorsque l'opposition a été rejetée en première instance ou que le remboursement des créances a été effectué ou les
 garanties constituées.
 
+Les dispositions du troisième alinéa ne sont pas applicables aux sociétés dont l'associé unique est une personne physique.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -55998,7 +56003,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°88-15 du 5 janvier 1988 - art. 2 () JORF 6 janvier 1988
+  - Loi n°2001-420 du 15 mai 2001 - art. 103 () JORF 16 mai 2001
 
 
 ###### Article 1844-6
@@ -61682,7 +61687,8 @@ _Codifié par_:
 
 ###### Article 2061
 
-La clause compromissoire est nulle s'il n'est disposé autrement par la loi.
+Sous réserve des dispositions législatives particulières, la clause compromissoire est valable dans les contrats conclus à
+raison d'une activité professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -61695,6 +61701,10 @@ _Cité par_:
   - Décret n°2000-810 du 24 août 2000 - art. Annexe V (Ab)
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 126 () JORF 16 mai 2001
 
 
 ###### Article 2062
