@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1989-12-20
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -63046,6 +63046,26 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+###### Article 2277-1
+
+L'action dirigée contre les personnes légalement habilitées à représenter ou à assister les parties en justice à raison de la
+responsabilité qu'elles encourent de ce fait se prescrit par dix ans à compter de la fin de leur mission.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
+_Codifié par_:
+
+  - Loi n°1804-03-15
+
+_Créé par_:
+
+  - Loi n°89-906 du 19 décembre 1989 - art. 6 () JORF 20 décembre 1989
 
 
 ###### Article 2278
