@@ -1,10 +1,10 @@
 # Code civil  
-Version Consolidée au 1927-07-17
+Version Consolidée au 1927-08-10
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
-  - [Livre Ier : Des personnes (art. 12 à 515)](#2)
-    - [Titre Ier : De la jouissance et de la privation des droits civils. (art. 12 à 16)](#3)
-      - [Chapitre Ier : De la jouissance des droits civils. (art. 12 à 16)](#4)
+  - [Livre Ier : Des personnes (art. 16 à 515)](#2)
+    - [Titre Ier : De la jouissance et de la privation des droits civils. (art. 16)](#3)
+      - [Chapitre Ier : De la jouissance des droits civils. (art. 16)](#4)
     - [Titre Ier bis : De la nationalité française (art. 17)](#5)
       - [Chapitre Ier : Dispositions générales (art. 17)](#6)
     - [Titre II : Des actes de l'état civil (art. 34 à 94)](#7)
@@ -455,48 +455,6 @@ _Créé par_:
 ## Titre Ier : De la jouissance et de la privation des droits civils.<a id=3></a>
 
 ### Chapitre Ier : De la jouissance des droits civils.<a id=4></a>
-
-###### Article 12
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-08
-
-_Créé par_:
-
-  - Loi n°1803-03-08 promulguée le 18 mars 1803
-
-_Abrogé par_:
-
-  - Loi n°1927-08-10 art. 13
-
-
-###### Article 13
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-08
-
-_Créé par_:
-
-  - Loi n°1803-03-08 promulguée le 18 mars 1803
-
-_Abrogé par_:
-
-  - Loi n°1927-08-10 art. 13
-
-_Cité par_:
-
-  - Loi du 12 juillet 1909 - art. 1 (VT)
-
 
 ###### Article 16
 
