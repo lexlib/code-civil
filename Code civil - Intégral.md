@@ -1,16 +1,16 @@
 # Code civil  
-Version Consolidée au 1957-03-27
+Version Consolidée au 1957-11-20
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
     - [Titre Ier : De la jouissance et de la privation des droits civils. (art. 16)](#3)
       - [Chapitre Ier : De la jouissance des droits civils. (art. 16)](#4)
-    - [Titre II : Des actes de l'état civil (art. 34 à 94)](#5)
+    - [Titre II : Des actes de l'état civil (art. 34 à 95)](#5)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#6)
       - [Chapitre II : Des actes de naissance. (art. 60 à 61)](#7)
       - [Chapitre III : Des actes de mariage. (art. 63 à 74)](#8)
       - [Chapitre IV : Des actes de décès. (art. 77 à 85)](#9)
-      - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94)](#10)
+      - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94 à 95)](#10)
     - [Titre III : Du domicile (art. 102 à 110)](#11)
     - [Titre IV : Des absents (art. 133 à 143)](#12)
       - [Chapitre II : De la déclaration d'absence (art. 133 à 143)](#13)
@@ -1526,6 +1526,31 @@ _Cité par_:
 _Abrogé par_:
 
   - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 95
+
+Dans les cas prévus aux alinéas 2 et 3 de l'article 93, les actes de l'état civil sont dressés sur un registre spécial, dont
+la tenue et la conservation sont réglées par arrêté conjoint du ministre de la défense nationale et des forces armées et du
+ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
+
+_Cite_:
+
+  - Code civil - art. 93 (V)
 
 _Codifié par_:
 
