@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1968-11-28
+Version Consolidée au 1970-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 509)](#2)
@@ -2087,14 +2087,6 @@ un établissement ; dans ce cas, le domicile est fixé dans les bureaux de cette
 ces bateliers et personnes ont leur domicile au siège de l'entreprise qui exploite le bateau et, si ce siège est à
 l'étranger, au bureau d'affrètement de Paris.
 
-Les forains et les nomades détenteurs d'un des carnets visés aux articles 2 et 3 de la loi du 16 juillet 1912 doivent choisir
-un domicile dans l'une des communes du territoire où ils circulent. Le carnet doit porter l'indication de ce choix. Des
-décrets en Conseil d'Etat pris sur le rapport du ministre de l'intérieur peuvent fixer une liste des communes dans lesquelles
-les forains et les nomades ne seront pas autorisés à choisir un domicile, et éventuellement après avis du ministre de la
-santé publique et de la population et du ministre de la reconstruction et de l'urbanisme, une liste de communes où le nombre
-de forains et de nomades autorisés à y fixer leur domicile ne pourrait dépasser des pourcentages déterminés par rapport au
-chiffre de la population sédentaire.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -2116,7 +2108,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°58-923 du 7 octobre 1958, art. 1 v. init.
+  - Loi n°69-3 du 3 janvier 1969 - art. 13 (Ab) JORF 5 janvier 1969 en vigueur le 1er janvier 1970
 
 _Codifié par_:
 
