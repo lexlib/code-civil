@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1900-05-17
+Version Consolidée au 1907-01-21
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1900-05-17
     - [Titre II : Des actes de l'état civil (art. 35 à 94)](#7)
       - [Chapitre Ier : Dispositions générales. (art. 35 à 54)](#8)
       - [Chapitre II : Des actes de naissance. (art. 60 à 61)](#9)
-      - [Chapitre III : Des actes de mariage. (art. 66)](#10)
+      - [Chapitre III : Des actes de mariage. (art. 66 à 74)](#10)
       - [Chapitre IV : Des actes de décès. (art. 77 à 85)](#11)
       - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94)](#12)
     - [Titre III : Du domicile (art. 102 à 110)](#13)
@@ -954,6 +954,27 @@ des parties, et à l'officier de l'état civil, qui mettra son visa sur l'origin
 _Cité par_:
 
   - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 74
+
+Le mariage sera célébré dans la commune où l'un des deux époux aura son domicile ou sa résidence établie par un mois au moins
+d'habitation continue à la date de la publication prévue par la loi.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2009-594 du 27 mai 2009 - art. 58 (V)
+  - Code civil - art. 171-9 (V)
 
 _Codifié par_:
 
