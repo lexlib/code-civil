@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1995-08-01
+Version Consolidée au 1996-05-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 509)](#2)
@@ -23460,19 +23460,19 @@ _Cite_:
 
 ###### Article 497
 
-S'il y a un conjoint, un ascendant ou un descendant, un frère ou une soeur, apte à gérer les biens, le juge des tutelles peut
-décider qu'il les gérera en qualité d'administrateur légal, sans subrogé tuteur ni conseil de famille, suivant les règles
-applicables, pour les biens des mineurs, à l'administration légale sous contrôle judiciaire.
+S'il y a un parent ou allié, apte à gérer les biens, le juge des tutelles peut décider qu'il les gérera en qualité
+d'administrateur légal, sans subrogé tuteur ni conseil de famille, suivant les règles applicables, pour les biens des
+mineurs, à l'administration légale sous contrôle judiciaire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
 
 **Liens**:
 
@@ -23488,6 +23488,10 @@ _Cité par_:
 
   - Loi n°68-5 du 3 janvier 1968 - art. 19 (V)
   - Code civil - art. 506 (VT)
+
+_Modifié par_:
+
+  - Loi n°96-452 du 28 mai 1996 - art. 60 () JORF 29 mai 1996
 
 
 ###### Article 498
