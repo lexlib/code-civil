@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1997-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 509)](#2)
@@ -17870,6 +17870,26 @@ _Modifié par_:
 
   - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
   - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+
+###### Article 371-5
+
+L'enfant ne doit pas être séparé de ses frères et soeurs, sauf si cela n'est pas possible ou si son intérêt commande une
+autre solution. S'il y a lieu, le juge statue sur les relations personnelles entre les frères et soeurs.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 375-7 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°96-1238 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
 
 
 #### Section 1 : De l'exercice de l'autorité parentale<a id=119></a>
