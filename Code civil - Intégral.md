@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-10-28
+Version Consolidée au 1958-12-24
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -16889,6 +16889,36 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-02-07 promulguée le 17 février 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1247
+
+Le paiement doit être exécuté dans le lieu désigné par la convention. Si le lieu n'y est pas désigné, le paiement, lorsqu'il
+s'agit d'un corps certain et déterminé, doit être fait dans le lieu où était, au temps de l'obligation, la chose qui en fait
+l'objet.
+
+Les aliments alloués en justice doivent être versés, sauf décision contraire du juge, au domicile ou à la résidence de celui
+qui doit les recevoir.
+
+Hors ces cas, le paiement doit être fait au domicile du débiteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+_Créé par_:
+
+  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+_Modifié par_:
+
+  - Ordonnance n°58-1298 du 23 décembre 1958 - art. 35 () JORF 24 décembre 1958
 
 _Abrogé par_:
 
