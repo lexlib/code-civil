@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1803-05-13
+Version Consolidée au 1804-01-10
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 486)](#2)
@@ -29,65 +29,69 @@ Version Consolidée au 1803-05-13
           - [Paragraphe 4 : Des autres organes de la tutelle. (art. 422)](#26)
           - [Paragraphe 5 : Des charges tutélaires. (art. 430 à 431)](#27)
       - [Chapitre III : De l'émancipation. (art. 483 à 486)](#28)
-  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 1100)](#29)
-    - [Dispositions générales (art. 711 à 717)](#30)
-    - [Titre Ier : Des successions (art. 718 à 892)](#31)
-      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#32)
-      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 726 à 730)](#33)
-      - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#34)
-        - [Section 1 : Dispositions générales. (art. 732 à 738)](#35)
-        - [Section 2 : De la représentation. (art. 739 à 743)](#36)
-        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#37)
-        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#38)
-        - [Section 5 : Des successions collatérales. (art. 750 à 754)](#39)
-      - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#40)
-        - [Section 1 : Dispositions générales. (art. 771 à 781)](#41)
-        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#42)
-        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#43)
-          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#44)
-          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#45)
-        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#46)
-      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 813)](#47)
-        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#48)
-        - [Section 4 : Des successions vacantes. (art. 811 à 813)](#49)
-      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#50)
-        - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#51)
-        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 845 à 865)](#52)
-        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#53)
-        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#54)
-        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#55)
-    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1095)](#56)
-      - [Chapitre Ier : Dispositions générales. (art. 893 à 900)](#57)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#58)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 917 à 928)](#59)
-        - [Section 1 : De la portion de biens disponible. (art. 917 à 919)](#60)
-        - [Section 2 : De la réduction des donations et legs. (art. 920 à 928)](#61)
-      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#62)
-        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#63)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#64)
-      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#65)
-        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 970)](#66)
-        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 987 à 1001)](#67)
-        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#68)
-        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#69)
-        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#70)
-        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#71)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#72)
-        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#73)
-      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#74)
-      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#75)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#76)
-    - [Titre II : Des donations entre vifs et des testaments (art. 905 à 1100)](#77)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 912)](#78)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#79)
-        - [Section 1 : De la portion de biens disponible. (art. 916)](#80)
-      - [Chapitre IV : Des donations entre vifs (art. 934 à 962)](#81)
-        - [Section 1 : De la forme des donations entre vifs. (art. 934)](#82)
-        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#83)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#84)
-      - [Chapitre V : Des dispositions testamentaires (art. 1029)](#85)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1029)](#86)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1099 à 1100)](#87)
+  - [Livre II : Des biens et des différentes modifications de la propriété (art. 702)](#29)
+    - [Titre IV : Des servitudes ou services fonciers (art. 702)](#30)
+      - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 702)](#31)
+        - [Section 3 : Des droits du propriétaire du fonds auquel la servitude est due (art. 702)](#32)
+  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 1100)](#33)
+    - [Dispositions générales (art. 711 à 717)](#34)
+    - [Titre Ier : Des successions (art. 718 à 892)](#35)
+      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#36)
+      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 726 à 730)](#37)
+      - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#38)
+        - [Section 1 : Dispositions générales. (art. 732 à 738)](#39)
+        - [Section 2 : De la représentation. (art. 739 à 743)](#40)
+        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#41)
+        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#42)
+        - [Section 5 : Des successions collatérales. (art. 750 à 754)](#43)
+      - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#44)
+        - [Section 1 : Dispositions générales. (art. 771 à 781)](#45)
+        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#46)
+        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#47)
+          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#48)
+          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#49)
+        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#50)
+      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 813)](#51)
+        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#52)
+        - [Section 4 : Des successions vacantes. (art. 811 à 813)](#53)
+      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#54)
+        - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#55)
+        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 845 à 865)](#56)
+        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#57)
+        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#58)
+        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#59)
+    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1095)](#60)
+      - [Chapitre Ier : Dispositions générales. (art. 893 à 900)](#61)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#62)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 917 à 928)](#63)
+        - [Section 1 : De la portion de biens disponible. (art. 917 à 919)](#64)
+        - [Section 2 : De la réduction des donations et legs. (art. 920 à 928)](#65)
+      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#66)
+        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#67)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#68)
+      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#69)
+        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 970)](#70)
+        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 987 à 1001)](#71)
+        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#72)
+        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#73)
+        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#74)
+        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#75)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#76)
+        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#77)
+      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#78)
+      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#79)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#80)
+    - [Titre II : Des donations entre vifs et des testaments (art. 905 à 1100)](#81)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 912)](#82)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#83)
+        - [Section 1 : De la portion de biens disponible. (art. 916)](#84)
+      - [Chapitre IV : Des donations entre vifs (art. 934 à 962)](#85)
+        - [Section 1 : De la forme des donations entre vifs. (art. 934)](#86)
+        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#87)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#88)
+      - [Chapitre V : Des dispositions testamentaires (art. 1029)](#89)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1029)](#90)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1099 à 1100)](#91)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -2253,9 +2257,33 @@ _Abrogé par_:
   - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
-# Livre III : Des différentes manières dont on acquiert la propriété<a id=29></a>
+# Livre II : Des biens et des différentes modifications de la propriété<a id=29></a>
 
-## Dispositions générales<a id=30></a>
+## Titre IV : Des servitudes ou services fonciers<a id=30></a>
+
+### Chapitre III : Des servitudes établies par le fait de l'homme<a id=31></a>
+
+#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due<a id=32></a>
+
+###### Article 702
+
+De son côté, celui qui a un droit de servitude ne peut en user que suivant son titre, sans pouvoir faire, ni dans le fonds
+qui doit la servitude, ni dans le fonds à qui elle est due, de changement qui aggrave la condition du premier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+# Livre III : Des différentes manières dont on acquiert la propriété<a id=33></a>
+
+## Dispositions générales<a id=34></a>
 
 ###### Article 711
 
@@ -2396,9 +2424,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-## Titre Ier : Des successions<a id=31></a>
+## Titre Ier : Des successions<a id=35></a>
 
-### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=32></a>
+### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=36></a>
 
 ###### Article 718
 
@@ -2489,7 +2517,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=33></a>
+### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=37></a>
 
 ###### Article 726
 
@@ -2592,9 +2620,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre III : Des divers ordres de succession.<a id=34></a>
+### Chapitre III : Des divers ordres de succession.<a id=38></a>
 
-#### Section 1 : Dispositions générales.<a id=35></a>
+#### Section 1 : Dispositions générales.<a id=39></a>
 
 ###### Article 732
 
@@ -2705,7 +2733,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De la représentation.<a id=36></a>
+#### Section 2 : De la représentation.<a id=40></a>
 
 ###### Article 739
 
@@ -2800,7 +2828,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : Des successions déférées aux descendants.<a id=37></a>
+#### Section 3 : Des successions déférées aux descendants.<a id=41></a>
 
 ###### Article 745
 
@@ -2821,7 +2849,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions déférées aux ascendants.<a id=38></a>
+#### Section 4 : Des successions déférées aux ascendants.<a id=42></a>
 
 ###### Article 746
 
@@ -2903,7 +2931,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : Des successions collatérales.<a id=39></a>
+#### Section 5 : Des successions collatérales.<a id=43></a>
 
 ###### Article 750
 
@@ -2994,9 +3022,9 @@ _Abrogé par_:
   - Loi n°57-379 1957-03-26 art. 3 JORF 27 mars 1957
 
 
-### Chapitre IV : De l'option de l'héritier<a id=40></a>
+### Chapitre IV : De l'option de l'héritier<a id=44></a>
 
-#### Section 1 : Dispositions générales.<a id=41></a>
+#### Section 1 : Dispositions générales.<a id=45></a>
 
 ###### Article 771
 
@@ -3178,7 +3206,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De l'acceptation pure et simple de la succession.<a id=42></a>
+#### Section 2 : De l'acceptation pure et simple de la succession.<a id=46></a>
 
 ###### Article 782
 
@@ -3268,9 +3296,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=43></a>
+#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=47></a>
 
-##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=44></a>
+##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=48></a>
 
 ###### Article 787
 
@@ -3366,7 +3394,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=45></a>
+##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=49></a>
 
 ###### Article 791
 
@@ -3657,7 +3685,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : De la renonciation à la succession.<a id=46></a>
+#### Section 4 : De la renonciation à la succession.<a id=50></a>
 
 ###### Article 804
 
@@ -3750,9 +3778,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=47></a>
+### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=51></a>
 
-#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=48></a>
+#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=52></a>
 
 ###### Article 809
 
@@ -3792,7 +3820,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions vacantes.<a id=49></a>
+#### Section 4 : Des successions vacantes.<a id=53></a>
 
 ###### Article 811
 
@@ -3866,9 +3894,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=50></a>
+### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=54></a>
 
-#### Section 1 : De l'indivision et de l'action en partage.<a id=51></a>
+#### Section 1 : De l'indivision et de l'action en partage.<a id=55></a>
 
 ###### Article 816
 
@@ -4329,7 +4357,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=52></a>
+#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=56></a>
 
 ###### Article 845
 
@@ -4552,7 +4580,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : Du paiement des dettes.<a id=53></a>
+#### Section 3 : Du paiement des dettes.<a id=57></a>
 
 ###### Article 870
 
@@ -4790,7 +4818,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des effets du partage et de la garantie des lots.<a id=54></a>
+#### Section 4 : Des effets du partage et de la garantie des lots.<a id=58></a>
 
 ###### Article 884
 
@@ -4846,7 +4874,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : De la rescision en matière de partage.<a id=55></a>
+#### Section 5 : De la rescision en matière de partage.<a id=59></a>
 
 ###### Article 887
 
@@ -4953,9 +4981,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=56></a>
+## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=60></a>
 
-### Chapitre Ier : Dispositions générales.<a id=57></a>
+### Chapitre Ier : Dispositions générales.<a id=61></a>
 
 ###### Article 893
 
@@ -5073,7 +5101,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=58></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=62></a>
 
 ###### Article 901
 
@@ -5211,9 +5239,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=59></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=63></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=60></a>
+#### Section 1 : De la portion de biens disponible.<a id=64></a>
 
 ###### Article 917
 
@@ -5270,7 +5298,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : De la réduction des donations et legs.<a id=61></a>
+#### Section 2 : De la réduction des donations et legs.<a id=65></a>
 
 ###### Article 920
 
@@ -5408,9 +5436,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IV : Des donations entre vifs<a id=62></a>
+### Chapitre IV : Des donations entre vifs<a id=66></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=63></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=67></a>
 
 ###### Article 931
 
@@ -5739,7 +5767,7 @@ _Cité par_:
   - Loi du 1er juin 1924 - art. 38 (V)
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=64></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=68></a>
 
 ###### Article 953
 
@@ -5946,9 +5974,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre V : Des dispositions testamentaires<a id=65></a>
+### Chapitre V : Des dispositions testamentaires<a id=69></a>
 
-#### Section 1 : Des règles générales sur la forme des testaments<a id=66></a>
+#### Section 1 : Des règles générales sur la forme des testaments<a id=70></a>
 
 ###### Article 967
 
@@ -6018,7 +6046,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=67></a>
+#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=71></a>
 
 ###### Article 987
 
@@ -6110,7 +6138,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=68></a>
+#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=72></a>
 
 ###### Article 1002
 
@@ -6131,7 +6159,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 4 : Du legs universel.<a id=69></a>
+#### Section 4 : Du legs universel.<a id=73></a>
 
 ###### Article 1003
 
@@ -6258,7 +6286,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 5 : Du legs à titre universel.<a id=70></a>
+#### Section 5 : Du legs à titre universel.<a id=74></a>
 
 ###### Article 1010
 
@@ -6336,7 +6364,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 6 : Des legs particuliers.<a id=71></a>
+#### Section 6 : Des legs particuliers.<a id=75></a>
 
 ###### Article 1014
 
@@ -6549,7 +6577,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=72></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=76></a>
 
 ###### Article 1025
 
@@ -6719,7 +6747,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 8 : De la révocation des testaments et de leur caducité.<a id=73></a>
+#### Section 8 : De la révocation des testaments et de leur caducité.<a id=77></a>
 
 ###### Article 1035
 
@@ -6944,7 +6972,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=74></a>
+### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=78></a>
 
 ###### Article 1048
 
@@ -7377,7 +7405,7 @@ _Abrogé par_:
   - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=75></a>
+### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=79></a>
 
 ###### Article 1081
 
@@ -7560,7 +7588,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=76></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=80></a>
 
 ###### Article 1091
 
@@ -7614,9 +7642,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-## Titre II : Des donations entre vifs et des testaments<a id=77></a>
+## Titre II : Des donations entre vifs et des testaments<a id=81></a>
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=78></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=82></a>
 
 ###### Article 905
 
@@ -7698,9 +7726,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=79></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=83></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=80></a>
+#### Section 1 : De la portion de biens disponible.<a id=84></a>
 
 ###### Article 916
 
@@ -7718,9 +7746,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IV : Des donations entre vifs<a id=81></a>
+### Chapitre IV : Des donations entre vifs<a id=85></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=82></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=86></a>
 
 ###### Article 934
 
@@ -7737,7 +7765,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 1 : De la forme des donations entre vifs.<a id=83></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=87></a>
 
 ###### Article 937
 
@@ -7759,7 +7787,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=84></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=88></a>
 
 ###### Article 960
 
@@ -7813,9 +7841,9 @@ _Cité par_:
   - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 
 
-### Chapitre V : Des dispositions testamentaires<a id=85></a>
+### Chapitre V : Des dispositions testamentaires<a id=89></a>
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=86></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=90></a>
 
 ###### Article 1029
 
@@ -7832,7 +7860,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=87></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=91></a>
 
 ###### Article 1099
 
