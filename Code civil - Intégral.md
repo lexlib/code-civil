@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1955-01-07
+Version Consolidée au 1956-08-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -8,7 +8,7 @@ Version Consolidée au 1955-01-07
     - [Titre II : Des actes de l'état civil (art. 34 à 94)](#5)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#6)
       - [Chapitre II : Des actes de naissance. (art. 60 à 61)](#7)
-      - [Chapitre III : Des actes de mariage. (art. 64 à 74)](#8)
+      - [Chapitre III : Des actes de mariage. (art. 63 à 74)](#8)
       - [Chapitre IV : Des actes de décès. (art. 77 à 85)](#9)
       - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94)](#10)
     - [Titre III : Du domicile (art. 102 à 110)](#11)
@@ -271,7 +271,7 @@ Version Consolidée au 1955-01-07
     - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#268)
       - [Chapitre I : Du gage. (art. 2073 à 2084)](#269)
       - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#270)
-    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2192)](#271)
+    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2202)](#271)
       - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#272)
       - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#273)
         - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#274)
@@ -290,25 +290,26 @@ Version Consolidée au 1955-01-07
         - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#287)
       - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2167 à 2179)](#288)
       - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2184 à 2192)](#289)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#290)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#291)
-        - [Section 5 : De la vente. (art. 2205)](#292)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#293)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#294)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#295)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#296)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#297)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#298)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#299)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#300)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#301)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#302)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#303)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#304)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#305)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#306)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#307)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#308)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2202)](#290)
+    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#291)
+      - [Chapitre Ier : De la saisie. (art. 2205)](#292)
+        - [Section 5 : De la vente. (art. 2205)](#293)
+          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#294)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#295)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#296)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#297)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#298)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#299)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#300)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#301)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#302)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#303)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#304)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#305)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#306)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#307)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#308)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#309)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -828,6 +829,35 @@ _Créé par_:
   - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 50
+
+Toute contravention aux articles précédents, de la part des fonctionnaires y dénommés, sera poursuivie devant le tribunal de
+grande instance, et punie d'une amende de 20 F à 200 F.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°46-2154 1946-10-07 art. 38
+  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+
+_Cité par_:
+
+  - Décret n°62-840 du 19 juillet 1962 - art. 11-3 (Ab)
+  - Code civil - art. 101 (V)
+  - Code civil - art. 76 (V)
+  - Code de la défense. - art. L2371-1 (T)
+  - Code de procédure pénale - art. R215 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 51
 
 Tout dépositaire des registres sera civilement responsable des altérations qui y surviendront, sauf son recours, s'il y a
@@ -959,6 +989,59 @@ _Créé par_:
 
 
 ### Chapitre III : Des actes de mariage.<a id=8></a>
+
+###### Article 63
+
+Avant la célébration du mariage, l'officier de l'état civil fera une publication par voie d'affiche apposée à la porte de la
+maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi
+que le lieu où le mariage devra être célébré.
+
+L'officier de l'état civil ne pourra procéder à la publication prévue à l'alinéa ci-dessus, ni en cas de dispense de
+publication, à la célébration du mariage, qu'après la remise, par chacun des futurs époux, d'un certificat médical datant de
+moins de deux mois, attestant, à l'exclusion de toute autre indication, que l'intéressé a été examiné en vue du mariage.
+
+L'officier d'état civil qui ne se conformera pas aux prescriptions de l'alinéa précédent sera poursuivi devant le tribunal de
+grande instance et puni d'une amende de 20 F à 200 F.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance du Roi du 26 novembre 1823  - art. 4 (VT)
+  - Décret n°46-1917 du 19 août 1946 - art. 10 (Ab)
+  - Décret n°62-840 du 19 juillet 1962 - art. 6-1 (Ab)
+  - Décret n°2007-773 du 10 mai 2007 - art. 3 (V)
+  - Décret n°2007-773 du 10 mai 2007 - art. 4 (V)
+  - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
+  - Décret n°2008-521 du 2 juin 2008 - art. 3 (V)
+  - Loi n°2009-594 du 27 mai 2009 - art. 58 (V)
+  - Code civil - art. 165 (V)
+  - Code civil - art. 166 (V)
+  - Code civil - art. 169 (V)
+  - Code civil - art. 170 (Ab)
+  - Code civil - art. 171-2 (V)
+  - Code civil - art. 171-3 (V)
+  - Code civil - art. 171-9 (V)
+  - Code civil - art. 175-2 (VD)
+  - Code civil - art. 2492 (VD)
+  - Code civil - art. 74-1 (V)
+  - Code de la santé publique - art. L153 (Ab)
+  - Code de la santé publique - art. L2121-1 (V)
+  - Décret-loi du 9 septembre 1939 - art. 1 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance 45-2720 1945-11-02 art. 5 JORF 5 novembre 1945 rectificatif JORF 31 décembre 1945
+  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
 
 ###### Article 64
 
@@ -32066,13 +32149,45 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=290></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=290></a>
 
-### Chapitre Ier : De la saisie.<a id=291></a>
+###### Article 2202
 
-#### Section 5 : De la vente.<a id=292></a>
+Les conservateurs sont tenus de se conformer, dans l'exercice de leurs fonctions, à toutes les dispositions du présent
+chapitre, à peine d'une amende de 200 F à 2.000 F pour la première contravention, et de destitution pour la seconde ; sans
+préjudice des dommages et intérêts des parties, lesquels seront payés avant l'amende.
 
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=293></a>
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2455 (V)
+
+_Cité par_:
+
+  - Code de l'industrie cinématographique - art. 37 (M)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+_Modifié par_:
+
+  - Loi n°46-2154 1946-10-07 art. 38
+  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+
+
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=291></a>
+
+### Chapitre Ier : De la saisie.<a id=292></a>
+
+#### Section 5 : De la vente.<a id=293></a>
+
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=294></a>
 
 ###### Article 2205
 
@@ -32102,9 +32217,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=294></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=295></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=295></a>
+### Chapitre Ier : De l'expropriation forcée<a id=296></a>
 
 ###### Article 2204
 
@@ -32423,7 +32538,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=296></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=297></a>
 
 ###### Article 2218
 
@@ -32449,9 +32564,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=297></a>
+## Titre XX : De la prescription et de la possession.<a id=298></a>
 
-### Chapitre Ier : Dispositions générales.<a id=298></a>
+### Chapitre Ier : Dispositions générales.<a id=299></a>
 
 ###### Article 2219
 
@@ -32643,7 +32758,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=299></a>
+### Chapitre II : De la possession.<a id=300></a>
 
 ###### Article 2228
 
@@ -32866,7 +32981,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=300></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=301></a>
 
 ###### Article 2236
 
@@ -33040,9 +33155,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=301></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=302></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=302></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=303></a>
 
 ###### Article 2242
 
@@ -33218,7 +33333,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=303></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=304></a>
 
 ###### Article 2251
 
@@ -33388,9 +33503,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=304></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=305></a>
 
-#### Section 1 : Dispositions générales.<a id=305></a>
+#### Section 1 : Dispositions générales.<a id=306></a>
 
 ###### Article 2260
 
@@ -33431,7 +33546,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=306></a>
+#### Section 2 : De la prescription trentenaire.<a id=307></a>
 
 ###### Article 2262
 
@@ -33506,7 +33621,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=307></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=308></a>
 
 ###### Article 2265
 
@@ -33644,7 +33759,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=308></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=309></a>
 
 ###### Article 2273
 
