@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-06
+Version Consolidée au 1804-02-09
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 486)](#2)
@@ -39,69 +39,75 @@ Version Consolidée au 1804-02-06
       - [Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose (art. 551 à 577)](#36)
         - [Section 1 : Du droit d'accession relativement aux choses immobilières (art. 552 à 564)](#37)
         - [Section 2 : Du droit d'accession relativement aux choses mobilières (art. 565 à 577)](#38)
-    - [Titre IV : Des servitudes ou services fonciers (art. 688 à 702)](#39)
-      - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 688 à 702)](#40)
-        - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 688)](#41)
-        - [Section 3 : Des droits du propriétaire du fonds auquel la servitude est due (art. 702)](#42)
-  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 1100)](#43)
-    - [Dispositions générales (art. 711 à 717)](#44)
-    - [Titre Ier : Des successions (art. 718 à 892)](#45)
-      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#46)
-      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 726 à 730)](#47)
-      - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#48)
-        - [Section 1 : Dispositions générales. (art. 732 à 738)](#49)
-        - [Section 2 : De la représentation. (art. 739 à 743)](#50)
-        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#51)
-        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#52)
-        - [Section 5 : Des successions collatérales. (art. 750 à 754)](#53)
-      - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#54)
-        - [Section 1 : Dispositions générales. (art. 771 à 781)](#55)
-        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#56)
-        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#57)
-          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#58)
-          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#59)
-        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#60)
-      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 813)](#61)
-        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#62)
-        - [Section 4 : Des successions vacantes. (art. 811 à 813)](#63)
-      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#64)
-        - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#65)
-        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 845 à 865)](#66)
-        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#67)
-        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#68)
-        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#69)
-    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1095)](#70)
-      - [Chapitre Ier : Dispositions générales. (art. 893 à 900)](#71)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#72)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 917 à 928)](#73)
-        - [Section 1 : De la portion de biens disponible. (art. 917 à 919)](#74)
-        - [Section 2 : De la réduction des donations et legs. (art. 920 à 928)](#75)
-      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#76)
-        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#77)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#78)
-      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#79)
-        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 970)](#80)
-        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 987 à 1001)](#81)
-        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#82)
-        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#83)
-        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#84)
-        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#85)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#86)
-        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#87)
-      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#88)
-      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#89)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#90)
-    - [Titre II : Des donations entre vifs et des testaments (art. 905 à 1100)](#91)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 912)](#92)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#93)
-        - [Section 1 : De la portion de biens disponible. (art. 916)](#94)
-      - [Chapitre IV : Des donations entre vifs (art. 934 à 962)](#95)
-        - [Section 1 : De la forme des donations entre vifs. (art. 934)](#96)
-        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#97)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#98)
-      - [Chapitre V : Des dispositions testamentaires (art. 1029)](#99)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1029)](#100)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1099 à 1100)](#101)
+    - [Titre III : De l'usufruit, de l'usage et de l'habitation (art. 578 à 636)](#39)
+      - [Chapitre Ier : De l'usufruit (art. 578 à 624)](#40)
+        - [Section 1 : Des droits de l'usufruitier (art. 582 à 599)](#41)
+        - [Section 2 : Des obligations de l'usufruitier (art. 600 à 615)](#42)
+        - [Section 3 : Comment l'usufruit prend fin (art. 617 à 624)](#43)
+      - [Chapitre II : De l'usage et de l'habitation (art. 625 à 636)](#44)
+    - [Titre IV : Des servitudes ou services fonciers (art. 688 à 702)](#45)
+      - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 688 à 702)](#46)
+        - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 688)](#47)
+        - [Section 3 : Des droits du propriétaire du fonds auquel la servitude est due (art. 702)](#48)
+  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 1100)](#49)
+    - [Dispositions générales (art. 711 à 717)](#50)
+    - [Titre Ier : Des successions (art. 718 à 892)](#51)
+      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#52)
+      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 726 à 730)](#53)
+      - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#54)
+        - [Section 1 : Dispositions générales. (art. 732 à 738)](#55)
+        - [Section 2 : De la représentation. (art. 739 à 743)](#56)
+        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#57)
+        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#58)
+        - [Section 5 : Des successions collatérales. (art. 750 à 754)](#59)
+      - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#60)
+        - [Section 1 : Dispositions générales. (art. 771 à 781)](#61)
+        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#62)
+        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#63)
+          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#64)
+          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#65)
+        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#66)
+      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 813)](#67)
+        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#68)
+        - [Section 4 : Des successions vacantes. (art. 811 à 813)](#69)
+      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#70)
+        - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#71)
+        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 845 à 865)](#72)
+        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#73)
+        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#74)
+        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#75)
+    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1095)](#76)
+      - [Chapitre Ier : Dispositions générales. (art. 893 à 900)](#77)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#78)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 917 à 928)](#79)
+        - [Section 1 : De la portion de biens disponible. (art. 917 à 919)](#80)
+        - [Section 2 : De la réduction des donations et legs. (art. 920 à 928)](#81)
+      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#82)
+        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#83)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#84)
+      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#85)
+        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 970)](#86)
+        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 987 à 1001)](#87)
+        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#88)
+        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#89)
+        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#90)
+        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#91)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#92)
+        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#93)
+      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#94)
+      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#95)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#96)
+    - [Titre II : Des donations entre vifs et des testaments (art. 905 à 1100)](#97)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 912)](#98)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#99)
+        - [Section 1 : De la portion de biens disponible. (art. 916)](#100)
+      - [Chapitre IV : Des donations entre vifs (art. 934 à 962)](#101)
+        - [Section 1 : De la forme des donations entre vifs. (art. 934)](#102)
+        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#103)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#104)
+      - [Chapitre V : Des dispositions testamentaires (art. 1029)](#105)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1029)](#106)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1099 à 1100)](#107)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -3407,11 +3413,1071 @@ _Créé par_:
   - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
-## Titre IV : Des servitudes ou services fonciers<a id=39></a>
+## Titre III : De l'usufruit, de l'usage et de l'habitation<a id=39></a>
 
-### Chapitre III : Des servitudes établies par le fait de l'homme<a id=40></a>
+### Chapitre Ier : De l'usufruit<a id=40></a>
 
-#### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens<a id=41></a>
+###### Article 578
+
+L'usufruit est le droit de jouir des choses dont un autre a la propriété, comme le propriétaire lui-même, mais à la charge
+d'en conserver la substance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 579
+
+L'usufruit est établi par la loi, ou par la volonté de l'homme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 580
+
+L'usufruit peut être établi, ou purement, ou à certain jour, ou à condition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 581
+
+Il peut être établi sur toute espèce de biens meubles ou immeubles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+#### Section 1 : Des droits de l'usufruitier<a id=41></a>
+
+###### Article 582
+
+L'usufruitier a le droit de jouir de toute espèce de fruits, soit naturels, soit industriels, soit civils, que peut produire
+l'objet dont il a l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1873-18 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 583
+
+Les fruits naturels sont ceux qui sont le produit spontané de la terre. Le produit et le croît des animaux sont aussi des
+fruits naturels.
+
+Les fruits industriels d'un fonds sont ceux qu'on obtient par la culture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 584
+
+Les fruits civils sont les loyers des maisons, les intérêts des sommes exigibles, les arrérages des rentes.
+
+Les prix des baux à ferme sont aussi rangés dans la classe des fruits civils.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 585
+
+Les fruits naturels et industriels, pendants par branches ou par racines au moment où l'usufruit est ouvert, appartiennent à
+l'usufruitier.
+
+Ceux qui sont dans le même état au moment où finit l'usufruit appartiennent au propriétaire, sans récompense de part ni
+d'autre des labours et des semences, mais aussi sans préjudice de la portion des fruits qui pourrait être acquise au colon
+partiaire, s'il en existait un au commencement ou à la cessation de l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 586
+
+Les fruits civils sont réputés s'acquérir jour par jour et appartiennent à l'usufruitier à proportion de la durée de son
+usufruit. Cette règle s'applique aux prix des baux à ferme comme aux loyers des maisons et autres fruits civils.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 588
+
+L'usufruit d'une rente viagère donne aussi à l'usufruitier, pendant la durée de son usufruit, le droit d'en percevoir les
+arrérages, sans être tenu à aucune restitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 589
+
+Si l'usufruit comprend des choses qui, sans se consommer de suite, se détériorent peu à peu par l'usage, comme du linge, des
+meubles meublants, l'usufruitier a le droit de s'en servir pour l'usage auquel elles sont destinées, et n'est obligé de les
+rendre à la fin de l'usufruit que dans l'état où elles se trouvent, non détériorées par son dol ou par sa faute.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 590
+
+Si l'usufruit comprend des bois taillis, l'usufruitier est tenu d'observer l'ordre et la quotité des coupes, conformément à
+l'aménagement ou à l'usage constant des propriétaires ; sans indemnité toutefois en faveur de l'usufruitier ou de ses
+héritiers, pour les coupes ordinaires, soit de taillis, soit de baliveaux, soit de futaie, qu'il n'aurait pas faites pendant
+sa jouissance.
+
+Les arbres qu'on peut tirer d'une pépinière sans la dégrader ne font aussi partie de l'usufruit qu'à la charge par
+l'usufruitier de se conformer aux usages des lieux pour le remplacement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 591
+
+L'usufruitier profite encore, toujours en se conformant aux époques et à l'usage des anciens propriétaires, des parties de
+bois de haute futaie qui ont été mises en coupes réglées, soit que ces coupes se fassent périodiquement sur une certaine
+étendue de terrain, soit qu'elles se fassent d'une certaine quantité d'arbres pris indistinctement sur toute la surface du
+domaine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 592
+
+Dans tous les autres cas, l'usufruitier ne peut toucher aux arbres de haute futaie : il peut seulement employer, pour faire
+les réparations dont il est tenu, les arbres arrachés ou brisés par accident ; il peut même, pour cet objet, en faire abattre
+s'il est nécessaire, mais à la charge d'en faire constater la nécessité avec le propriétaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 593
+
+Il peut prendre, dans les bois, des échalas pour les vignes ; il peut aussi prendre, sur les arbres, des produits annuels ou
+périodiques ; le tout suivant l'usage du pays ou la coutume des propriétaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 594
+
+Les arbres fruitiers qui meurent, ceux mêmes qui sont arrachés ou brisés par accident, appartiennent à l'usufruitier, à la
+charge de les remplacer par d'autres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 596
+
+L'usufruitier jouit de l'augmentation survenue par alluvion à l'objet dont il a l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 597
+
+Il jouit des droits de servitude, de passage, et généralement de tous les droits dont le propriétaire peut jouir, et il en
+jouit comme le propriétaire lui-même.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 598
+
+Il jouit aussi, de la même manière que le propriétaire, des mines et carrières qui sont en exploitation à l'ouverture de
+l'usufruit ; et néanmoins, s'il s'agit d'une exploitation qui ne puisse être faite sans une concession, l'usufruitier ne
+pourra en jouir qu'après en avoir obtenu la permission du Président de la République.
+
+Il n'a aucun droit aux mines et carrières non encore ouvertes, ni aux tourbières dont l'exploitation n'est point encore
+commencée, ni au trésor qui pourrait être découvert pendant la durée de l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 599
+
+Le propriétaire ne peut, par son fait, ni de quelque manière que ce soit, nuire aux droits de l'usufruitier.
+
+De son côté, l'usufruitier ne peut, à la cessation de l'usufruit, réclamer aucune indemnité pour les améliorations qu'il
+prétendrait avoir faites, encore que la valeur de la chose en fût augmentée.
+
+Il peut cependant, ou ses héritiers, enlever les glaces, tableaux et autres ornements qu'il aurait fait placer, mais à la
+charge de rétablir les lieux dans leur premier état.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+#### Section 2 : Des obligations de l'usufruitier<a id=42></a>
+
+###### Article 600
+
+L'usufruitier prend les choses dans l'état où elles sont, mais il ne peut entrer en jouissance qu'après avoir fait dresser,
+en présence du propriétaire, ou lui dûment appelé, un inventaire des meubles et un état des immeubles sujets à l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 601
+
+Il donne caution de jouir en bon père de famille, s'il n'en est dispensé par l'acte constitutif de l'usufruit ; cependant les
+père et mère ayant l'usufruit légal du bien de leurs enfants, le vendeur ou le donateur, sous réserve d'usufruit, ne sont pas
+tenus de donner caution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 602
+
+Si l'usufruitier ne trouve pas de caution, les immeubles sont donnés à ferme ou mis en séquestre ;
+
+Les sommes comprises dans l'usufruit sont placées ;
+
+Les denrées sont vendues et le prix en provenant est pareillement placé ;
+
+Les intérêts de ces sommes et les prix des fermes appartiennent, dans ce cas, à l'usufruitier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 603
+
+A défaut d'une caution de la part de l'usufruitier, le propriétaire peut exiger que les meubles qui dépérissent par l'usage
+soient vendus, pour le prix en être placé comme celui des denrées ; et alors l'usufruitier jouit de l'intérêt pendant son
+usufruit : cependant l'usufruitier pourra demander, et les juges pourront ordonner, suivant les circonstances, qu'une partie
+des meubles nécessaires pour son usage lui soit délaissée, sous sa simple caution juratoire, et à la charge de les
+représenter à l'extinction de l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 604
+
+Le retard de donner caution ne prive pas l'usufruitier des fruits auxquels il peut avoir droit ; ils lui sont dus du moment
+où l'usufruit a été ouvert.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 605
+
+L'usufruitier n'est tenu qu'aux réparations d'entretien.
+
+Les grosses réparations demeurent à la charge du propriétaire, à moins qu'elles n'aient été occasionnées par le défaut de
+réparations d'entretien, depuis l'ouverture de l'usufruit ; auquel cas l'usufruitier en est aussi tenu.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°76-1232 du 29 décembre 1976 - art. 3 (P)
+  - Décret n°91-1158 du 8 novembre 1991 - art. ANNEXE (V)
+  - Décret n°98-222 du 20 mars 1998 - art. ANNEXE (VD)
+  - Code général des impôts, CGI. - art. 156 (M)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 172 A (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 606
+
+Les grosses réparations sont celles des gros murs et des voûtes, le rétablissement des poutres et des couvertures entières.
+
+Celui des digues et des murs de soutènement et de clôture aussi en entier.
+
+Toutes les autres réparations sont d'entretien.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2003-1010 du 22 octobre 2003 - art. 87 (Ab)
+  - Arrêté du 21 avril 2009 - art. Annexe (Ab)
+  - Code de commerce - art. R145-35 (V)
+  - Code de l'action sociale et des familles - art. R314-86 (V)
+  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (VD)
+  - Code de la construction et de l'habitation. - art. Annexe 2 au III art R353-159 (VD)
+  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-190 (V)
+  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-32 (V)
+  - Code de la construction et de l'habitation. - art. R353-158 (V)
+  - Code de la construction et de l'habitation. - art. R353-165-4 (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 172 A (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 607
+
+Ni le propriétaire, ni l'usufruitier, ne sont tenus de rebâtir ce qui est tombé de vétusté, ou ce qui a été détruit par cas
+fortuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 608
+
+L'usufruitier est tenu, pendant sa jouissance, de toutes les charges annuelles de l'héritage, telles que les contributions et
+autres qui dans l'usage sont censées charges des fruits.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°91-1158 du 8 novembre 1991 - art. ANNEXE (V)
+  - Décret n°98-222 du 20 mars 1998 - art. ANNEXE (VD)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 609
+
+A l'égard des charges qui peuvent être imposées sur la propriété pendant la durée de l'usufruit, l'usufruitier et le
+propriétaire y contribuent ainsi qu'il suit :
+
+Le propriétaire est obligé de les payer, et l'usufruitier doit lui tenir compte des intérêts ;
+
+Si elles sont avancées par l'usufruitier, il a la répétition du capital à la fin de l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 610
+
+Le legs fait par un testateur, d'une rente viagère ou pension alimentaire, doit être acquitté par le légataire universel de
+l'usufruit dans son intégrité, et par le légataire à titre universel de l'usufruit dans la proportion de sa jouissance, sans
+aucune répétition de leur part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 611
+
+L'usufruitier à titre particulier n'est pas tenu des dettes auxquelles le fonds est hypothéqué : s'il est forcé de les payer,
+il a son recours contre le propriétaire, sauf ce qui est dit à l'article 1020, au titre " Des donations entre vifs et des
+testaments ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 1020 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 612
+
+L'usufruitier, ou universel, ou à titre universel, doit contribuer avec le propriétaire au paiement des dettes ainsi qu'il
+suit :
+
+On estime la valeur du fonds sujet à usufruit ; on fixe ensuite la contribution aux dettes à raison de cette valeur.
+
+Si l'usufruitier veut avancer la somme pour laquelle le fonds doit contribuer, le capital lui en est restitué à la fin de
+l'usufruit, sans aucun intérêt.
+
+Si l'usufruitier ne veut pas faire cette avance, le propriétaire a le choix, ou de payer cette somme, et, dans ce cas,
+l'usufruitier lui tient compte des intérêts pendant la durée de l'usufruit, ou de faire vendre jusqu'à due concurrence une
+portion des biens soumis à l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1524 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 613
+
+L'usufruitier n'est tenu que des frais des procès qui concernent la jouissance et des autres condamnations auxquelles ces
+procès pourraient donner lieu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 614
+
+Si, pendant la durée de l'usufruit, un tiers commet quelque usurpation sur le fonds, ou attente autrement aux droits du
+propriétaire, l'usufruitier est tenu de le dénoncer à celui-ci ; faute de ce, il est responsable de tout le dommage qui peut
+en résulter pour le propriétaire, comme il le serait de dégradations commises par lui-même.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 615
+
+Si l'usufruit n'est établi que sur un animal qui vient à périr sans la faute de l'usufruitier, celui-ci n'est pas tenu d'en
+rendre un autre, ni d'en payer l'estimation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+#### Section 3 : Comment l'usufruit prend fin<a id=43></a>
+
+###### Article 617
+
+L'usufruit s'éteint :
+
+Par la mort naturelle et par la mort civile (1) de l'usufruitier ;
+
+Par l'expiration du temps pour lequel il a été accordé ;
+
+Par la consolidation ou la réunion sur la même tête, des deux qualités d'usufruitier et de propriétaire ;
+
+Par le non-usage du droit pendant trente ans ;
+
+Par la perte totale de la chose sur laquelle l'usufruit est établi.
+
+**Nota:**
+
+La loi du 31 mai 1854 abolit la mort civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 618
+
+L'usufruit peut aussi cesser par l'abus que l'usufruitier fait de sa jouissance, soit en commettant des dégradations sur le
+fonds, soit en le laissant dépérir faute d'entretien.
+
+Les créanciers de l'usufruitier peuvent intervenir dans les contestations pour la conservation de leurs droits ; ils peuvent
+offrir la réparation des dégradations commises et des garanties pour l'avenir.
+
+Les juges peuvent, suivant la gravité des circonstances, ou prononcer l'extinction absolue de l'usufruit, ou n'ordonner la
+rentrée du propriétaire dans la jouissance de l'objet qui en est grevé, que sous la charge de payer annuellement à
+l'usufruitier, ou à ses ayants cause, une somme déterminée, jusqu'à l'instant où l'usufruit aurait dû cesser.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 619
+
+L'usufruit qui n'est pas accordé à des particuliers ne dure que trente ans.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°89-571 du 16 août 1989 - art. 23 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 620
+
+L'usufruit accordé jusqu'à ce qu'un tiers ait atteint un âge fixe dure jusqu'à cette époque, encore que le tiers soit mort
+avant l'âge fixé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 621
+
+La vente de la chose sujette à usufruit ne fait aucun changement dans le droit de l'usufruitier ; il continue de jouir de son
+usufruit s'il n'y a pas formellement renoncé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 622
+
+Les créanciers de l'usufruitier peuvent faire annuler la renonciation qu'il aurait faite à leur préjudice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 623
+
+Si une partie seulement de la chose soumise à l'usufruit est détruite, l'usufruit se conserve sur ce qui reste.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 624
+
+Si l'usufruit n'est établi que sur un bâtiment, et que ce bâtiment soit détruit par un incendie ou autre accident, ou qu'il
+s'écroule de vétusté, l'usufruitier n'aura le droit de jouir ni du sol ni des matériaux.
+
+Si l'usufruit était établi sur un domaine dont le bâtiment faisait partie, l'usufruitier jouirait du sol et des matériaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+### Chapitre II : De l'usage et de l'habitation<a id=44></a>
+
+###### Article 625
+
+Les droits d'usage et d'habitation s'établissent et se perdent de la même manière que l'usufruit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 626
+
+On ne peut en jouir, comme dans le cas de l'usufruit, sans donner préalablement caution et sans faire des états et
+inventaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 627
+
+L'usager, et celui qui a un droit d'habitation, doivent jouir en bons pères de famille.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 764 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 628
+
+Les droits d'usage et d'habitation se règlent par le titre qui les a établis et reçoivent, d'après ses dispositions, plus ou
+moins d'étendue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 629
+
+Si le titre ne s'explique pas sur l'étendue de ces droits ils sont réglés ainsi qu'il suit.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 630 (V)
+  - Code civil - art. 631 (V)
+  - Code civil - art. 632 (V)
+  - Code civil - art. 633 (V)
+  - Code civil - art. 634 (V)
+  - Code civil - art. 635 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 630
+
+Celui qui a l'usage des fruits d'un fonds ne peut en exiger qu'autant qu'il lui en faut pour ses besoins et ceux de sa
+famille.
+
+Il peut en exiger pour les besoins même des enfants qui lui sont survenus depuis la concession de l'usage.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 629 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 631
+
+L'usager ne peut céder ni louer son droit à un autre.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 629 (V)
+  - Code civil - art. 764 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 632
+
+Celui qui a un droit d'habitation dans une maison peut y demeurer avec sa famille, quand même il n'aurait pas été marié à
+l'époque où ce droit lui a été donné.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 629 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 633
+
+Le droit d'habitation se restreint à ce qui est nécessaire pour l'habitation de celui à qui ce droit est concédé et de sa
+famille.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 629 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 634
+
+Le droit d'habitation ne peut être ni cédé ni loué.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 629 (V)
+  - Code civil - art. 764 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 635
+
+Si l'usager absorbe tous les fruits du fonds ou s'il occupe la totalité de la maison, il est assujetti aux frais de culture,
+aux réparations d'entretien et au paiement des contributions, comme l'usufruitier.
+
+S'il ne prend qu'une partie des fruits ou s'il n'occupe qu'une partie de la maison, il contribue au prorata de ce dont il
+jouit.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 629 (V)
+  - Code civil - art. 764 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 636
+
+L'usage des bois et forêts est réglé par des lois particulières.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-30
+
+_Créé par_:
+
+  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+## Titre IV : Des servitudes ou services fonciers<a id=45></a>
+
+### Chapitre III : Des servitudes établies par le fait de l'homme<a id=46></a>
+
+#### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens<a id=47></a>
 
 ###### Article 688
 
@@ -3434,7 +4500,7 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due<a id=42></a>
+#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due<a id=48></a>
 
 ###### Article 702
 
@@ -3452,9 +4518,9 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-# Livre III : Des différentes manières dont on acquiert la propriété<a id=43></a>
+# Livre III : Des différentes manières dont on acquiert la propriété<a id=49></a>
 
-## Dispositions générales<a id=44></a>
+## Dispositions générales<a id=50></a>
 
 ###### Article 711
 
@@ -3595,9 +4661,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-## Titre Ier : Des successions<a id=45></a>
+## Titre Ier : Des successions<a id=51></a>
 
-### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=46></a>
+### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=52></a>
 
 ###### Article 718
 
@@ -3688,7 +4754,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=47></a>
+### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=53></a>
 
 ###### Article 726
 
@@ -3791,9 +4857,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre III : Des divers ordres de succession.<a id=48></a>
+### Chapitre III : Des divers ordres de succession.<a id=54></a>
 
-#### Section 1 : Dispositions générales.<a id=49></a>
+#### Section 1 : Dispositions générales.<a id=55></a>
 
 ###### Article 732
 
@@ -3904,7 +4970,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De la représentation.<a id=50></a>
+#### Section 2 : De la représentation.<a id=56></a>
 
 ###### Article 739
 
@@ -3999,7 +5065,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : Des successions déférées aux descendants.<a id=51></a>
+#### Section 3 : Des successions déférées aux descendants.<a id=57></a>
 
 ###### Article 745
 
@@ -4020,7 +5086,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions déférées aux ascendants.<a id=52></a>
+#### Section 4 : Des successions déférées aux ascendants.<a id=58></a>
 
 ###### Article 746
 
@@ -4102,7 +5168,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : Des successions collatérales.<a id=53></a>
+#### Section 5 : Des successions collatérales.<a id=59></a>
 
 ###### Article 750
 
@@ -4193,9 +5259,9 @@ _Abrogé par_:
   - Loi n°57-379 1957-03-26 art. 3 JORF 27 mars 1957
 
 
-### Chapitre IV : De l'option de l'héritier<a id=54></a>
+### Chapitre IV : De l'option de l'héritier<a id=60></a>
 
-#### Section 1 : Dispositions générales.<a id=55></a>
+#### Section 1 : Dispositions générales.<a id=61></a>
 
 ###### Article 771
 
@@ -4377,7 +5443,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De l'acceptation pure et simple de la succession.<a id=56></a>
+#### Section 2 : De l'acceptation pure et simple de la succession.<a id=62></a>
 
 ###### Article 782
 
@@ -4467,9 +5533,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=57></a>
+#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=63></a>
 
-##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=58></a>
+##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=64></a>
 
 ###### Article 787
 
@@ -4565,7 +5631,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=59></a>
+##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=65></a>
 
 ###### Article 791
 
@@ -4856,7 +5922,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : De la renonciation à la succession.<a id=60></a>
+#### Section 4 : De la renonciation à la succession.<a id=66></a>
 
 ###### Article 804
 
@@ -4949,9 +6015,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=61></a>
+### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=67></a>
 
-#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=62></a>
+#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=68></a>
 
 ###### Article 809
 
@@ -4991,7 +6057,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions vacantes.<a id=63></a>
+#### Section 4 : Des successions vacantes.<a id=69></a>
 
 ###### Article 811
 
@@ -5065,9 +6131,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=64></a>
+### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=70></a>
 
-#### Section 1 : De l'indivision et de l'action en partage.<a id=65></a>
+#### Section 1 : De l'indivision et de l'action en partage.<a id=71></a>
 
 ###### Article 816
 
@@ -5528,7 +6594,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=66></a>
+#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=72></a>
 
 ###### Article 845
 
@@ -5751,7 +6817,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : Du paiement des dettes.<a id=67></a>
+#### Section 3 : Du paiement des dettes.<a id=73></a>
 
 ###### Article 870
 
@@ -5989,7 +7055,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des effets du partage et de la garantie des lots.<a id=68></a>
+#### Section 4 : Des effets du partage et de la garantie des lots.<a id=74></a>
 
 ###### Article 884
 
@@ -6045,7 +7111,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : De la rescision en matière de partage.<a id=69></a>
+#### Section 5 : De la rescision en matière de partage.<a id=75></a>
 
 ###### Article 887
 
@@ -6152,9 +7218,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=70></a>
+## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=76></a>
 
-### Chapitre Ier : Dispositions générales.<a id=71></a>
+### Chapitre Ier : Dispositions générales.<a id=77></a>
 
 ###### Article 893
 
@@ -6272,7 +7338,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=72></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=78></a>
 
 ###### Article 901
 
@@ -6410,9 +7476,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=73></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=79></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=74></a>
+#### Section 1 : De la portion de biens disponible.<a id=80></a>
 
 ###### Article 917
 
@@ -6469,7 +7535,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : De la réduction des donations et legs.<a id=75></a>
+#### Section 2 : De la réduction des donations et legs.<a id=81></a>
 
 ###### Article 920
 
@@ -6607,9 +7673,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IV : Des donations entre vifs<a id=76></a>
+### Chapitre IV : Des donations entre vifs<a id=82></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=77></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=83></a>
 
 ###### Article 931
 
@@ -6938,7 +8004,7 @@ _Cité par_:
   - Loi du 1er juin 1924 - art. 38 (V)
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=78></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=84></a>
 
 ###### Article 953
 
@@ -7145,9 +8211,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre V : Des dispositions testamentaires<a id=79></a>
+### Chapitre V : Des dispositions testamentaires<a id=85></a>
 
-#### Section 1 : Des règles générales sur la forme des testaments<a id=80></a>
+#### Section 1 : Des règles générales sur la forme des testaments<a id=86></a>
 
 ###### Article 967
 
@@ -7217,7 +8283,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=81></a>
+#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=87></a>
 
 ###### Article 987
 
@@ -7309,7 +8375,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=82></a>
+#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=88></a>
 
 ###### Article 1002
 
@@ -7330,7 +8396,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 4 : Du legs universel.<a id=83></a>
+#### Section 4 : Du legs universel.<a id=89></a>
 
 ###### Article 1003
 
@@ -7457,7 +8523,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 5 : Du legs à titre universel.<a id=84></a>
+#### Section 5 : Du legs à titre universel.<a id=90></a>
 
 ###### Article 1010
 
@@ -7535,7 +8601,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 6 : Des legs particuliers.<a id=85></a>
+#### Section 6 : Des legs particuliers.<a id=91></a>
 
 ###### Article 1014
 
@@ -7748,7 +8814,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=86></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=92></a>
 
 ###### Article 1025
 
@@ -7918,7 +8984,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 8 : De la révocation des testaments et de leur caducité.<a id=87></a>
+#### Section 8 : De la révocation des testaments et de leur caducité.<a id=93></a>
 
 ###### Article 1035
 
@@ -8143,7 +9209,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=88></a>
+### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=94></a>
 
 ###### Article 1048
 
@@ -8576,7 +9642,7 @@ _Abrogé par_:
   - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=89></a>
+### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=95></a>
 
 ###### Article 1081
 
@@ -8759,7 +9825,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=90></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=96></a>
 
 ###### Article 1091
 
@@ -8813,9 +9879,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-## Titre II : Des donations entre vifs et des testaments<a id=91></a>
+## Titre II : Des donations entre vifs et des testaments<a id=97></a>
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=92></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=98></a>
 
 ###### Article 905
 
@@ -8897,9 +9963,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=93></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=99></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=94></a>
+#### Section 1 : De la portion de biens disponible.<a id=100></a>
 
 ###### Article 916
 
@@ -8917,9 +9983,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IV : Des donations entre vifs<a id=95></a>
+### Chapitre IV : Des donations entre vifs<a id=101></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=96></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=102></a>
 
 ###### Article 934
 
@@ -8936,7 +10002,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 1 : De la forme des donations entre vifs.<a id=97></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=103></a>
 
 ###### Article 937
 
@@ -8958,7 +10024,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=98></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=104></a>
 
 ###### Article 960
 
@@ -9012,9 +10078,9 @@ _Cité par_:
   - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 
 
-### Chapitre V : Des dispositions testamentaires<a id=99></a>
+### Chapitre V : Des dispositions testamentaires<a id=105></a>
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=100></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=106></a>
 
 ###### Article 1029
 
@@ -9031,7 +10097,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=101></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=107></a>
 
 ###### Article 1099
 
