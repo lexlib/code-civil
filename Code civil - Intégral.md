@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1909-03-17
+Version Consolidée au 1910-12-31
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -28209,6 +28209,37 @@ _Créé par_:
 _Transféré par_:
 
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2125
+
+Ceux qui n'ont sur l'immeuble qu'un droit suspendu par une condition, ou résoluble dans certains cas, ou sujet à rescision,
+ne peuvent consentir qu'une hypothèque soumise aux mêmes conditions ou à la même rescision.
+
+Sauf en ce qui concerne l'hypothèque consentie par tous les copropriétaires d'un immeuble indivis, laquelle conservera
+exceptionnellement son effet, quel que soit ultérieurement le résultat de la licitation ou du partage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2414 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 ###### Article 2126
