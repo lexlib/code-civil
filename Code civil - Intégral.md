@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1985-07-01
+Version Consolidée au 1985-07-13
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -49133,8 +49133,10 @@ _Codifié par_:
 
 ###### Article 1832
 
-La société est un contrat par lequel deux ou plusieurs personnes conviennent de mettre en commun des biens ou leur industrie,
-en vue de partager le bénéfice ou de profiter de l'économie qui pourra en résulter.
+La société est instituée par deux ou plusieurs personnes qui conviennent par un contrat d'affecter à une entreprise commune
+des biens ou leur industrie  en vue de partager le bénéfice ou de profiter de l'économie qui pourra en résulter.
+
+Elle peut être instituée, dans les cas prévus par la loi, par l'acte de volonté d'une seule personne.
 
 Les associés s'engagent à contribuer aux pertes.
 
@@ -49164,7 +49166,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+  - Loi n°85-697 du 11 juillet 1985 - art. 1 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985
 
 **Liens**:
 
