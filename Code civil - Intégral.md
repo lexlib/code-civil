@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1976-12-23
+Version Consolidée au 1977-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -425,26 +425,22 @@ Version Consolidée au 1976-12-23
       - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#422)
       - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#423)
       - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#424)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#425)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#426)
-        - [Section 5 : De la vente. (art. 2205)](#427)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#428)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#429)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#430)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#431)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#432)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#433)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#434)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#435)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#436)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#437)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#438)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2270 à 2281)](#439)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#440)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#441)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#442)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#443)
-      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#444)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#425)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#426)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#427)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#428)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#429)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#430)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#431)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#432)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#433)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#434)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2270 à 2281)](#435)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#436)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#437)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#438)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#439)
+      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#440)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -55890,45 +55886,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=425></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=425></a>
 
-### Chapitre Ier : De la saisie.<a id=426></a>
-
-#### Section 5 : De la vente.<a id=427></a>
-
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=428></a>
-
-###### Article 2205
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 17 () JORF 1er janvier 1977
-
-_Anciens textes_:
-
-  - Code civil - art. 2092-3 (M)
-  - Code civil - art. 2092-3 (T)
-
-_Cité par_:
-
-  - Code de commerce. - art. L642-18 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=429></a>
-
-### Chapitre Ier : De l'expropriation forcée<a id=430></a>
+### Chapitre Ier : De l'expropriation forcée<a id=426></a>
 
 ###### Article 2204
 
@@ -56272,7 +56232,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=431></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=427></a>
 
 ###### Article 2218
 
@@ -56298,9 +56258,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=432></a>
+## Titre XX : De la prescription et de la possession.<a id=428></a>
 
-### Chapitre Ier : Dispositions générales.<a id=433></a>
+### Chapitre Ier : Dispositions générales.<a id=429></a>
 
 ###### Article 2219
 
@@ -56488,7 +56448,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=434></a>
+### Chapitre II : De la possession.<a id=430></a>
 
 ###### Article 2228
 
@@ -56711,7 +56671,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=435></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=431></a>
 
 ###### Article 2236
 
@@ -56884,9 +56844,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=436></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=432></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=437></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=433></a>
 
 ###### Article 2242
 
@@ -57062,7 +57022,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=438></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=434></a>
 
 ###### Article 2251
 
@@ -57196,7 +57156,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=439></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=435></a>
 
 ###### Article 2270
 
@@ -57236,7 +57196,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 1 : Dispositions générales.<a id=440></a>
+#### Section 1 : Dispositions générales.<a id=436></a>
 
 ###### Article 2260
 
@@ -57277,7 +57237,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=441></a>
+#### Section 2 : De la prescription trentenaire.<a id=437></a>
 
 ###### Article 2262
 
@@ -57352,7 +57312,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=442></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=438></a>
 
 ###### Article 2265
 
@@ -57490,7 +57450,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=443></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=439></a>
 
 ###### Article 2271
 
@@ -57815,7 +57775,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre VI : De la protection possessoire.<a id=444></a>
+### Chapitre VI : De la protection possessoire.<a id=440></a>
 
 ###### Article 2282
 
