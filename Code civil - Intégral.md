@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1930-07-30
+Version Consolidée au 1930-12-03
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -65,12 +65,12 @@ Version Consolidée au 1930-07-30
     - [Titre Ier : Des successions (art. 718 à 892)](#62)
       - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#63)
       - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 727 à 730)](#64)
-      - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#65)
+      - [Chapitre III : Des divers ordres de succession. (art. 732 à 755)](#65)
         - [Section 1 : Dispositions générales. (art. 732 à 738)](#66)
         - [Section 2 : De la représentation. (art. 739 à 743)](#67)
         - [Section 3 : Des successions déférées aux descendants. (art. 745)](#68)
         - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#69)
-        - [Section 5 : Des successions collatérales. (art. 750 à 754)](#70)
+        - [Section 5 : Des successions collatérales. (art. 750 à 755)](#70)
       - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#71)
         - [Section 1 : Dispositions générales. (art. 771 à 781)](#72)
         - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#73)
@@ -7377,6 +7377,28 @@ _Créé par_:
 _Abrogé par_:
 
   - Loi n°57-379 1957-03-26 art. 3 JORF 27 mars 1957
+
+
+###### Article 755
+
+Les parents collatéraux au-delà du sixième degré ne succèdent pas, à l'exception, toutefois des descendants des frères et
+soeurs du défunt.
+
+Toutefois, les parents collatéraux succèdent jusqu'au douzième degré lorsque le défunt n'était pas capable de tester et
+n'était pas frappé d'interdiction légale.
+
+A défaut de parents au degré successible dans une ligne et de conjoint contre lequel il n'existe pas de jugement de
+séparation de corps passé en force de chose jugée, les parents de l'autre ligne succèdent pour le tout.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ### Chapitre IV : De l'option de l'héritier<a id=71></a>
