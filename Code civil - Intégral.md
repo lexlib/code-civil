@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1922-02-28
+Version Consolidée au 1922-10-28
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -7,8 +7,8 @@ Version Consolidée au 1922-02-28
       - [Chapitre Ier : De la jouissance des droits civils. (art. 12 à 16)](#4)
     - [Titre Ier bis : De la nationalité française (art. 17)](#5)
       - [Chapitre Ier : Dispositions générales (art. 17)](#6)
-    - [Titre II : Des actes de l'état civil (art. 35 à 94)](#7)
-      - [Chapitre Ier : Dispositions générales. (art. 35 à 54)](#8)
+    - [Titre II : Des actes de l'état civil (art. 34 à 94)](#7)
+      - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#8)
       - [Chapitre II : Des actes de naissance. (art. 60 à 61)](#9)
       - [Chapitre III : Des actes de mariage. (art. 65 à 74)](#10)
       - [Chapitre IV : Des actes de décès. (art. 77 à 85)](#11)
@@ -570,6 +570,42 @@ _Abrogé par_:
 ## Titre II : Des actes de l'état civil<a id=7></a>
 
 ### Chapitre Ier : Dispositions générales.<a id=8></a>
+
+###### Article 34
+
+Les actes de l'état civil énonceront l'année, le jour et l'heure où ils seront reçus, les prénoms et nom de l'officier de
+l'état civil, les prénoms, noms, professions et domiciles de tous ceux qui y seront dénommés.
+
+Les dates et lieux de naissance :
+
+a) Des père et mère dans les actes de naissance et de reconnaissance ;
+
+b) De l'enfant dans les actes de reconnaissance ;
+
+c) Des époux dans les actes de mariage ;
+
+d) Du décédé dans les actes de décès,
+
+seront indiqués lorsqu'ils seront connus. Dans le cas contraire, l'âge desdites personnes sera désigné par leur nombre
+d'années, comme le sera, dans tous les cas, l'âge des déclarants. En ce qui concerne les témoins, leur qualité de majeur sera
+seule indiquée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2008-1086 du 23 octobre 2008 - art. 66 (V)
+  - Code civil - art. 2492 (VD)
+  - Code civil - art. 58 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
 
 ###### Article 35
 
