@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-10-09
+Version Consolidée au 1958-10-28
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -80,9 +80,9 @@ Version Consolidée au 1958-10-09
           - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#77)
           - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#78)
         - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#79)
-      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 813)](#80)
+      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 814)](#80)
         - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#81)
-        - [Section 4 : Des successions vacantes. (art. 811 à 813)](#82)
+        - [Section 4 : Des successions vacantes. (art. 811 à 814)](#82)
       - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#83)
         - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#84)
         - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 843 à 865)](#85)
@@ -9400,6 +9400,33 @@ _Cité par_:
   - Décret n°1901-08-16 du 16 août 1901 - art. 14 (V)
   - Arrêté du 31 janvier 2018 - art. (V)
   - Nouveau code de procédure civile - art. 1379 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+###### Article 814
+
+Les dispositions de la section III du présent chapitre, sur les formes de l'inventaire, sur le mode d'administration et sur
+les comptes à rendre de la part de l'héritier bénéficiaire, sont, au surplus, communes aux curateurs à successions vacantes,
+en ce qu'elles ne sont pas contraires aux dispositions des articles 1000 et 1001 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de procédure civile - art. 1000 (V)
+  - Code de procédure civile - art. 1001 (V)
+
+_Cité par_:
+
+  - Code civil - art. 815-18 (M)
+  - Nouveau code de procédure civile - art. 1380 (V)
 
 _Codifié par_:
 
