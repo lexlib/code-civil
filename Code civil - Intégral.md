@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1960-01-12
+Version Consolidée au 1960-03-31
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1960-01-12
       - [Chapitre II : Des actes de naissance. (art. 60 à 55)](#7)
         - [Section 1 : Des déclarations de naissance. (art. 55)](#8)
       - [Chapitre III : Des actes de mariage. (art. 63 à 76)](#9)
-      - [Chapitre IV : Des actes de décès. (art. 77 à 91)](#10)
+      - [Chapitre IV : Des actes de décès. (art. 78 à 91)](#10)
       - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 93 à 96)](#11)
       - [Chapitre VII : De la rectification des actes d'état civil. (art. 100)](#12)
     - [Titre III : Du domicile (art. 102 à 110)](#13)
@@ -1391,44 +1391,6 @@ _Modifié par_:
 
 
 ### Chapitre IV : Des actes de décès.<a id=10></a>
-
-###### Article 77
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°60-285 1960-03-28 art. 1 JORF 31 mars 1960
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°99-201 1999-03-18 (dispositions spécifiques à la Nouvelle-Calédonie et à la Polynésie française)
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 1 (V)
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 2 (V)
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 3 (V)
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 4 (V)
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 5 (V)
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 6 (V)
-  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 7 (V)
-
-_Cité par_:
-
-  - Décret n°99-201 du 18 mars 1999 - art. 7 (V)
-  - Décret n°2009-91 du 26 janvier 2009 (V)
-  - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
-  - Code civil - art. 93 (M)
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
 
 ###### Article 78
 
