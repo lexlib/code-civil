@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1985-03-01
+Version Consolidée au 1985-07-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -20049,7 +20049,8 @@ Les lapins des garennes ;
 
 Les ruches à miel ;
 
-Les poissons des étangs ;
+Les poissons des eaux non visées à l'article 402 du code rural et des plans d'eau visés aux articles 432 et 433 du même
+code ;
 
 Les pressoirs, chaudières, alambics, cuves et tonnes ;
 
@@ -20060,6 +20061,10 @@ Les pailles et engrais.
 Sont aussi immeubles par destination, tous effets mobiliers que le propriétaire a attachés au fonds à perpétuelle demeure.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°84-512 1984-06-29 art. 8 I JORF 30 juin 1984 en vigueur le 1er juillet 1985
 
 _Cité par_:
 
@@ -20088,10 +20093,6 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°1804-01-25
-
-_Créé par_:
-
-  - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
 ###### Article 525
@@ -20995,10 +20996,14 @@ _Modifié par_:
 
 ###### Article 564
 
-Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou étang, appartiennent au propriétaire de ces
-objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
+Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou plan d'eau visé aux articles 432 et 433 du
+code rural, appartiennent au propriétaire de ces objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°84-512 1984-06-29 art. 8 II JORF 30 juin 1984 en vigueur le 1er juillet 1985
 
 _Cité par_:
 
@@ -21011,9 +21016,9 @@ _Cité par_:
 
   - PILOTE_SUIVEUR: Code rural - art. L211-4 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°1804-01-25 promulguée le 4 février 1804
+  - Code rural 432, 433
 
 _Codifié par_:
 
