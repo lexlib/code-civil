@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-03-26
+Version Consolidée au 1958-04-30
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -584,6 +584,28 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 38
+
+L'officier de l'état civil donnera lecture des actes aux parties comparantes, ou à leur fondé de procuration, et aux
+témoins ; il les invitera à en prendre directement connaissance avant de les signer.
+
+Il sera fait mention sur les actes de l'accomplissement de ces formalités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+_Modifié par_:
+
+  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
 
 
 ###### Article 39
