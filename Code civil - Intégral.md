@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-09
+Version Consolidée au 1804-02-10
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 486)](#2)
@@ -29,7 +29,7 @@ Version Consolidée au 1804-02-09
           - [Paragraphe 4 : Des autres organes de la tutelle. (art. 422)](#26)
           - [Paragraphe 5 : Des charges tutélaires. (art. 430 à 431)](#27)
       - [Chapitre III : De l'émancipation. (art. 483 à 486)](#28)
-  - [Livre II : Des biens et des différentes modifications de la propriété (art. 516 à 702)](#29)
+  - [Livre II : Des biens et des différentes modifications de la propriété (art. 516 à 710)](#29)
     - [Titre Ier : De la distinction des biens (art. 516 à 543)](#30)
       - [Chapitre Ier : Des immeubles (art. 517 à 526)](#31)
       - [Chapitre II : Des meubles (art. 527 à 536)](#32)
@@ -45,69 +45,77 @@ Version Consolidée au 1804-02-09
         - [Section 2 : Des obligations de l'usufruitier (art. 600 à 615)](#42)
         - [Section 3 : Comment l'usufruit prend fin (art. 617 à 624)](#43)
       - [Chapitre II : De l'usage et de l'habitation (art. 625 à 636)](#44)
-    - [Titre IV : Des servitudes ou services fonciers (art. 688 à 702)](#45)
-      - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 688 à 702)](#46)
-        - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 688)](#47)
-        - [Section 3 : Des droits du propriétaire du fonds auquel la servitude est due (art. 702)](#48)
-  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 1100)](#49)
-    - [Dispositions générales (art. 711 à 717)](#50)
-    - [Titre Ier : Des successions (art. 718 à 892)](#51)
-      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#52)
-      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 726 à 730)](#53)
-      - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#54)
-        - [Section 1 : Dispositions générales. (art. 732 à 738)](#55)
-        - [Section 2 : De la représentation. (art. 739 à 743)](#56)
-        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#57)
-        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#58)
-        - [Section 5 : Des successions collatérales. (art. 750 à 754)](#59)
-      - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#60)
-        - [Section 1 : Dispositions générales. (art. 771 à 781)](#61)
-        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#62)
-        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#63)
-          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#64)
-          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#65)
-        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#66)
-      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 813)](#67)
-        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#68)
-        - [Section 4 : Des successions vacantes. (art. 811 à 813)](#69)
-      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#70)
-        - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#71)
-        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 845 à 865)](#72)
-        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#73)
-        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#74)
-        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#75)
-    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1095)](#76)
-      - [Chapitre Ier : Dispositions générales. (art. 893 à 900)](#77)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#78)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 917 à 928)](#79)
-        - [Section 1 : De la portion de biens disponible. (art. 917 à 919)](#80)
-        - [Section 2 : De la réduction des donations et legs. (art. 920 à 928)](#81)
-      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#82)
-        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#83)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#84)
-      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#85)
-        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 970)](#86)
-        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 987 à 1001)](#87)
-        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#88)
-        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#89)
-        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#90)
-        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#91)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#92)
-        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#93)
-      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#94)
-      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#95)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#96)
-    - [Titre II : Des donations entre vifs et des testaments (art. 905 à 1100)](#97)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 912)](#98)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#99)
-        - [Section 1 : De la portion de biens disponible. (art. 916)](#100)
-      - [Chapitre IV : Des donations entre vifs (art. 934 à 962)](#101)
-        - [Section 1 : De la forme des donations entre vifs. (art. 934)](#102)
-        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#103)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#104)
-      - [Chapitre V : Des dispositions testamentaires (art. 1029)](#105)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1029)](#106)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1099 à 1100)](#107)
+    - [Titre IV : Des servitudes ou services fonciers (art. 637 à 710)](#45)
+      - [Chapitre Ier : Des servitudes qui dérivent de la situation des lieux (art. 640 à 648)](#46)
+      - [Chapitre II : Des servitudes établies par la loi (art. 649 à 681)](#47)
+        - [Section 1 : Du mur et du fossé mitoyens (art. 653 à 665)](#48)
+        - [Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions (art. 674)](#49)
+        - [Section 3 : Des vues sur la propriété de son voisin (art. 675 à 680)](#50)
+        - [Section 4 : De l'égout des toits (art. 681)](#51)
+      - [Chapitre III : Des servitudes établies par le fait de l'homme (art. 686 à 710)](#52)
+        - [Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens (art. 686 à 689)](#53)
+        - [Section 2 : Comment s'établissent les servitudes (art. 690 à 696)](#54)
+        - [Section 3 : Des droits du propriétaire du fonds auquel la servitude est due (art. 697 à 702)](#55)
+        - [Section 4 : Comment les servitudes s'éteignent (art. 703 à 710)](#56)
+  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 1100)](#57)
+    - [Dispositions générales (art. 711 à 717)](#58)
+    - [Titre Ier : Des successions (art. 718 à 892)](#59)
+      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#60)
+      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 726 à 730)](#61)
+      - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#62)
+        - [Section 1 : Dispositions générales. (art. 732 à 738)](#63)
+        - [Section 2 : De la représentation. (art. 739 à 743)](#64)
+        - [Section 3 : Des successions déférées aux descendants. (art. 745)](#65)
+        - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#66)
+        - [Section 5 : Des successions collatérales. (art. 750 à 754)](#67)
+      - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#68)
+        - [Section 1 : Dispositions générales. (art. 771 à 781)](#69)
+        - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#70)
+        - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#71)
+          - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#72)
+          - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#73)
+        - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#74)
+      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 813)](#75)
+        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#76)
+        - [Section 4 : Des successions vacantes. (art. 811 à 813)](#77)
+      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 816 à 892)](#78)
+        - [Section 1 : De l'indivision et de l'action en partage. (art. 816 à 842)](#79)
+        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 845 à 865)](#80)
+        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#81)
+        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 884 à 886)](#82)
+        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#83)
+    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1095)](#84)
+      - [Chapitre Ier : Dispositions générales. (art. 893 à 900)](#85)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#86)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 917 à 928)](#87)
+        - [Section 1 : De la portion de biens disponible. (art. 917 à 919)](#88)
+        - [Section 2 : De la réduction des donations et legs. (art. 920 à 928)](#89)
+      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#90)
+        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#91)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#92)
+      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#93)
+        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 970)](#94)
+        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 987 à 1001)](#95)
+        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#96)
+        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#97)
+        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#98)
+        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#99)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#100)
+        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#101)
+      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#102)
+      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#103)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#104)
+    - [Titre II : Des donations entre vifs et des testaments (art. 905 à 1100)](#105)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 912)](#106)
+      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#107)
+        - [Section 1 : De la portion de biens disponible. (art. 916)](#108)
+      - [Chapitre IV : Des donations entre vifs (art. 934 à 962)](#109)
+        - [Section 1 : De la forme des donations entre vifs. (art. 934)](#110)
+        - [Section 1 : De la forme des donations entre vifs. (art. 937)](#111)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 960 à 962)](#112)
+      - [Chapitre V : Des dispositions testamentaires (art. 1029)](#113)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1029)](#114)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1099 à 1100)](#115)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -4458,9 +4466,606 @@ _Créé par_:
 
 ## Titre IV : Des servitudes ou services fonciers<a id=45></a>
 
-### Chapitre III : Des servitudes établies par le fait de l'homme<a id=46></a>
+###### Article 637
 
-#### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens<a id=47></a>
+Une servitude est une charge imposée sur un héritage pour l'usage et l'utilité d'un héritage appartenant à un autre
+propriétaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 638
+
+La servitude n'établit aucune prééminence d'un héritage sur l'autre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 639
+
+Elle dérive ou de la situation naturelle des lieux, ou des obligations imposées par la loi, ou des conventions entre les
+propriétaires.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code général de la propriété des personnes publ... - art. L2122-4 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+### Chapitre Ier : Des servitudes qui dérivent de la situation des lieux<a id=46></a>
+
+###### Article 640
+
+Les fonds inférieurs sont assujettis envers ceux qui sont plus élevés à recevoir les eaux qui en découlent naturellement sans
+que la main de l'homme y ait contribué.
+
+Le propriétaire inférieur ne peut point élever de digue qui empêche cet écoulement.
+
+Le propriétaire supérieur ne peut rien faire qui aggrave la servitude du fonds inférieur.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 28 octobre 2010 - art. 26 (VT)
+  - Arrêté du 12 décembre 2014 - art. 33 (VD)
+  - Code civil - art. 641 (V)
+  - Code de l'organisation judiciaire - art. R221-16 (VD)
+  - Code du travail - art. R513-26 (M)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 644
+
+Celui dont la propriété borde une eau courante, autre que celle qui est déclarée dépendance du domaine public par l'article
+538 au titre " De la distinction des biens ", peut s'en servir à son passage pour l'irrigation de ses propriétés. 
+
+Celui dont cette eau traverse l'héritage peut même en user dans l'intervalle qu'elle y parcourt, mais à la charge de la
+rendre, à la sortie de ses fonds, à son cours ordinaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°71-415 du 1 juin 1971 - art. 3 (Ab)
+  - Code rural ancien - art. 97-1 (Ab)
+
+_Cite_:
+
+  - Code civil - art. 538 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 645
+
+S'il s'élève une contestation entre les propriétaires auxquels ces eaux peuvent être utiles, les tribunaux, en prononçant,
+doivent concilier l'intérêt de l'agriculture avec le respect dû à la propriété ; et, dans tous les cas, les règlements
+particuliers et locaux sur le cours et l'usage des eaux doivent être observés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°71-415 du 1 juin 1971 - art. 3 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 646
+
+Tout propriétaire peut obliger son voisin au bornage de leurs propriétés contiguës. Le bornage se fait à frais communs.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°69-897 du 18 septembre 1969 - art. 9 (Ab)
+  - Code rural - art. D161-13 (V)
+  - Code rural - art. R161-13 (T)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 647
+
+Tout propriétaire peut clore son héritage, sauf l'exception portée en l'article 682.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 682 (V)
+
+_Cité par_:
+
+  - Code rural - art. L651-2 (V)
+  - Code rural ancien - art. 190 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 648
+
+Le propriétaire qui veut se clore perd son droit au parcours et vaine pâture en proportion du terrain qu'il y soustrait.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code rural - art. L651-2 (V)
+  - Code rural ancien - art. 190 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+### Chapitre II : Des servitudes établies par la loi<a id=47></a>
+
+###### Article 649
+
+Les servitudes établies par la loi ont pour objet l'utilité publique ou communale, ou l'utilité des particuliers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 650
+
+Celles établies pour l'utilité publique ou communale ont pour objet le marchepied le long des rivières navigables ou
+flottables, la construction ou réparation des chemins et autres ouvrages publics ou communaux.
+
+Tout ce qui concerne cette espèce de servitude est déterminé par des lois ou des règlements particuliers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 651
+
+La loi assujettit les propriétaires à différentes obligations l'un à l'égard de l'autre, indépendamment de toute convention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 1 : Du mur et du fossé mitoyens<a id=48></a>
+
+###### Article 653
+
+Dans les villes et les campagnes, tout mur servant de séparation entre bâtiments jusqu'à l'héberge, ou entre cours et
+jardins, et même entre enclos dans les champs, est présumé mitoyen s'il n'y a titre ou marque du contraire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret du 18 novembre 1924 - art. 20 (Ab)
+  - Décret n°2008-1086 du 23 octobre 2008 - art. 23 (V)
+  - Décret n°2009-1193 du 7 octobre 2009 - art. 36 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 654
+
+Il y a marque de non-mitoyenneté lorsque la sommité du mur est droite et à plomb de son parement d'un côté, et présente de
+l'autre un plan incliné.
+
+Lors encore qu'il n'y a que d'un côté ou un chaperon ou des filets et corbeaux de pierre qui y auraient été mis en bâtissant
+le mur.
+
+Dans ces cas, le mur est censé appartenir exclusivement au propriétaire du côté duquel sont l'égout ou les corbeaux et filets
+de pierre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 655
+
+La réparation et la reconstruction du mur mitoyen sont à la charge de tous ceux qui y ont droit, et proportionnellement au
+droit de chacun.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 656
+
+Cependant tout copropriétaire d'un mur mitoyen peut se dispenser de contribuer aux réparations et reconstructions en
+abandonnant le droit de mitoyenneté, pourvu que le mur mitoyen ne soutienne pas un bâtiment qui lui appartienne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 657
+
+Tout copropriétaire peut faire bâtir contre un mur mitoyen, et y faire placer des poutres ou solives dans toute l'épaisseur
+du mur, à cinquante-quatre millimètres près, sans préjudice du droit qu'a le voisin de faire réduire à l'ébauchoir la poutre
+jusqu'à la moitié du mur, dans le cas où il voudrait lui-même asseoir des poutres dans le même lieu, ou y adosser une
+cheminée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-8 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 659
+
+Si le mur mitoyen n'est pas en état de supporter l'exhaussement, celui qui veut l'exhausser doit le faire reconstruire en
+entier à ses frais, et l'excédent d'épaisseur doit se prendre de son côté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 662
+
+L'un des voisins ne peut pratiquer dans le corps d'un mur mitoyen aucun enfoncement, ni y appliquer ou appuyer aucun ouvrage
+sans le consentement de l'autre, ou sans avoir, à son refus, fait régler par experts les moyens nécessaires pour que le
+nouvel ouvrage ne soit pas nuisible aux droits de l'autre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 663
+
+Chacun peut contraindre son voisin, dans les villes et faubourgs, à contribuer aux constructions et réparations de la clôture
+faisant séparation de leurs maisons, cours et jardins assis ès dites villes et faubourgs : la hauteur de la clôture sera
+fixée suivant les règlements particuliers ou les usages constants et reconnus et, à défaut d'usages et de règlements, tout
+mur de séparation entre voisins, qui sera construit ou rétabli à l'avenir, doit avoir au moins trente-deux décimètres de
+hauteur, compris le chaperon, dans les villes de cinquante mille âmes et au-dessus, et vingt-six décimètres dans les autres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 665
+
+Lorsqu'on reconstruit un mur mitoyen ou une maison, les servitudes actives et passives se continuent à l'égard du nouveau mur
+ou de la nouvelle maison, sans toutefois qu'elles puissent être aggravées, et pourvu que la reconstruction se fasse avant que
+la prescription soit acquise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions<a id=49></a>
+
+###### Article 674
+
+Celui qui fait creuser un puits ou une fosse d'aisance près d'un mur mitoyen ou non,
+
+Celui qui veut y construire cheminée ou âtre, forge, four ou fourneau,
+
+Y adosser une étable,
+
+Ou établir contre ce mur un magasin de sel ou amas de matières corrosives,
+
+Est obligé à laisser la distance prescrite par les règlements et usages particuliers sur ces objets, ou à faire les ouvrages
+prescrits par les mêmes règlements et usages, pour éviter de nuire au voisin.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°1933-11-21 du 21 novembre 1933 - art. 11 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (Ab)
+  - Code de l'organisation judiciaire - art. R221-16 (VD)
+  - Décret n°1928-04-07 du 7 avril 1928 - art. 15 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 3 : Des vues sur la propriété de son voisin<a id=50></a>
+
+###### Article 675
+
+L'un des voisins ne peut, sans le consentement de l'autre, pratiquer dans le mur mitoyen aucune fenêtre ou ouverture, en
+quelque manière que ce soit, même à verre dormant.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-9 (V)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. L112-9 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 676
+
+Le propriétaire d'un mur non mitoyen, joignant immédiatement l'héritage d'autrui, peut pratiquer dans ce mur des jours ou
+fenêtres à fer maillé et verre dormant. 
+
+Ces fenêtres doivent être garnies d'un treillis de fer dont les mailles auront un décimètre (environ trois pouces huit
+lignes) d'ouverture au plus et d'un châssis à verre dormant.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-10 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 677
+
+Ces fenêtres ou jours ne peuvent être établis qu'à vingt-six décimètres (huit pieds) au-dessus du plancher ou sol de la
+chambre qu'on veut éclairer, si c'est à rez-de-chaussée, et à dix-neuf décimètres (six pieds) au-dessus du plancher pour les
+étages supérieurs.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-11 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 680
+
+La distance dont il est parlé dans les deux articles précédents se compte depuis le parement extérieur du mur où l'ouverture
+se fait, et, s'il y a balcons ou autres semblables saillies, depuis leur ligne extérieure jusqu'à la ligne de séparation des
+deux propriétés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 678 (V)
+  - Code civil - art. 679 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 4 : De l'égout des toits<a id=51></a>
+
+###### Article 681
+
+Tout propriétaire doit établir des toits de manière que les eaux pluviales s'écoulent sur son terrain ou sur la voie
+publique ; il ne peut les faire verser sur le fonds de son voisin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+### Chapitre III : Des servitudes établies par le fait de l'homme<a id=52></a>
+
+#### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens<a id=53></a>
+
+###### Article 686
+
+Il est permis aux propriétaires d'établir sur leurs propriétés, ou en faveur de leurs propriétés, telles servitudes que bon
+leur semble, pourvu néanmoins que les services établis ne soient imposés ni à la personne, ni en faveur de la personne, mais
+seulement à un fonds et pour un fonds, et pourvu que ces services n'aient d'ailleurs rien de contraire à l'ordre public.
+
+L'usage et l'étendue des servitudes ainsi établies se règlent par le titre qui les constitue ; à défaut de titre, par les
+règles ci-après.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 687
+
+Les servitudes sont établies ou pour l'usage des bâtiments, ou pour celui des fonds de terre.
+
+Celles de la première espèce s'appellent " urbaines ", soit que les bâtiments auxquels elles sont dues soient situés à la
+ville ou à la campagne.
+
+Celles de la seconde espèce se nomment " rurales ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
 
 ###### Article 688
 
@@ -4483,7 +5088,235 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due<a id=48></a>
+###### Article 689
+
+Les servitudes sont apparentes ou non apparentes.
+
+Les servitudes apparentes sont celles qui s'annoncent par des ouvrages extérieurs, tels qu'une porte, une fenêtre, un
+aqueduc.
+
+Les servitudes non apparentes sont celles qui n'ont pas de signe extérieur de leur existence, comme, par exemple, la
+prohibition de bâtir sur un fonds, ou de ne bâtir qu'à une hauteur déterminée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 2 : Comment s'établissent les servitudes<a id=54></a>
+
+###### Article 690
+
+Les servitudes continues et apparentes s'acquièrent par titre, ou par la possession de trente ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 691
+
+Les servitudes continues non apparentes, et les servitudes discontinues apparentes ou non apparentes, ne peuvent s'établir
+que par titres.
+
+La possession même immémoriale ne suffit pas pour les établir, sans cependant qu'on puisse attaquer aujourd'hui les
+servitudes de cette nature déjà acquises par la possession, dans les pays où elles pouvaient s'acquérir de cette manière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 692
+
+La destination du père de famille vaut titre à l'égard des servitudes continues et apparentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 693
+
+Il n'y a destination du père de famille que lorsqu'il est prouvé que les deux fonds actuellement divisés ont appartenu au
+même propriétaire, et que c'est par lui que les choses ont été mises dans l'état duquel résulte la servitude.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 694
+
+Si le propriétaire de deux héritages entre lesquels il existe un signe apparent de servitude, dispose de l'un des héritages
+sans que le contrat contienne aucune convention relative à la servitude, elle continue d'exister activement ou passivement en
+faveur du fonds aliéné ou sur le fonds aliéné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 695
+
+Le titre constitutif de la servitude, à l'égard de celles qui ne peuvent s'acquérir par la prescription, ne peut être
+remplacé que par un titre récognitif de la servitude, et émané du propriétaire du fonds asservi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 696
+
+Quand on établit une servitude, on est censé accorder tout ce qui est nécessaire pour en user.
+
+Ainsi la servitude de puiser l'eau à la fontaine d'autrui emporte nécessairement le droit de passage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due<a id=55></a>
+
+###### Article 697
+
+Celui auquel est due une servitude a droit de faire tous les ouvrages nécessaires pour en user et pour la conserver.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 698
+
+Ces ouvrages sont à ses frais, et non à ceux du propriétaire du fonds assujetti, à moins que le titre d'établissement de la
+servitude ne dise le contraire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 699
+
+Dans le cas même où le propriétaire du fonds assujetti est chargé par le titre de faire à ses frais les ouvrages nécessaires
+pour l'usage ou la conservation de la servitude, il peut toujours s'affranchir de la charge, en abandonnant le fonds
+assujetti au propriétaire du fonds auquel la servitude est due.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 700
+
+Si l'héritage pour lequel la servitude a été établie vient à être divisé, la servitude reste due pour chaque portion, sans
+néanmoins que la condition du fonds assujetti soit aggravée.
+
+Ainsi, par exemple, s'il s'agit d'un droit de passage, tous les copropriétaires seront obligés de l'exercer par le même
+endroit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 701
+
+Le propriétaire du fonds débiteur de la servitude ne peut rien faire qui tende à en diminuer l'usage, ou à le rendre plus
+incommode.
+
+Ainsi, il ne peut changer l'état des lieux, ni transporter l'exercice de la servitude dans un endroit différent de celui où
+elle a été primitivement assignée. 
+
+Mais cependant, si cette assignation primitive était devenue plus onéreuse au propriétaire du fonds assujetti, ou si elle
+l'empêchait d'y faire des réparations avantageuses, il pourrait offrir au propriétaire de l'autre fonds un endroit aussi
+commode pour l'exercice de ses droits, et celui-ci ne pourrait pas le refuser.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
 
 ###### Article 702
 
@@ -4501,9 +5334,153 @@ _Créé par_:
   - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
-# Livre III : Des différentes manières dont on acquiert la propriété<a id=49></a>
+#### Section 4 : Comment les servitudes s'éteignent<a id=56></a>
 
-## Dispositions générales<a id=50></a>
+###### Article 703
+
+Les servitudes cessent lorsque les choses se trouvent en tel état qu'on ne peut plus en user.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code rural - art. L123-14 (M)
+  - Code rural ancien - art. 32 (Ab)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code rural - art. L123-14 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 704
+
+Elles revivent si les choses sont rétablies de manière qu'on puisse en user ; à moins qu'il ne se soit déjà écoulé un espace
+de temps suffisant pour faire présumer l'extinction de la servitude, ainsi qu'il est dit à l'article 707.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 707 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 705
+
+Toute servitude est éteinte lorsque le fonds à qui elle est due, et celui qui la doit, sont réunis dans la même main.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 706
+
+La servitude est éteinte par le non-usage pendant trente ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 707
+
+Les trente ans commencent à courir, selon les diverses espèces de servitudes, ou du jour où l'on a cessé d'en jouir,
+lorsqu'il s'agit de servitudes discontinues, ou du jour où il a été fait un acte contraire à la servitude, lorsqu'il s'agit
+de servitudes continues.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 704 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 708
+
+Le mode de la servitude peut se prescrire comme la servitude même, et de la même manière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 709
+
+Si l'héritage en faveur duquel la servitude est établie appartient à plusieurs par indivis, la jouissance de l'un empêche la
+prescription à l'égard de tous.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 710
+
+Si, parmi les copropriétaires, il s'en trouve un contre lequel la prescription n'ait pu courir, comme un mineur, il aura
+conservé le droit de tous les autres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-01-31
+
+_Créé par_:
+
+  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+# Livre III : Des différentes manières dont on acquiert la propriété<a id=57></a>
+
+## Dispositions générales<a id=58></a>
 
 ###### Article 711
 
@@ -4644,9 +5621,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-## Titre Ier : Des successions<a id=51></a>
+## Titre Ier : Des successions<a id=59></a>
 
-### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=52></a>
+### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.<a id=60></a>
 
 ###### Article 718
 
@@ -4737,7 +5714,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=53></a>
+### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=61></a>
 
 ###### Article 726
 
@@ -4840,9 +5817,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre III : Des divers ordres de succession.<a id=54></a>
+### Chapitre III : Des divers ordres de succession.<a id=62></a>
 
-#### Section 1 : Dispositions générales.<a id=55></a>
+#### Section 1 : Dispositions générales.<a id=63></a>
 
 ###### Article 732
 
@@ -4953,7 +5930,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De la représentation.<a id=56></a>
+#### Section 2 : De la représentation.<a id=64></a>
 
 ###### Article 739
 
@@ -5048,7 +6025,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : Des successions déférées aux descendants.<a id=57></a>
+#### Section 3 : Des successions déférées aux descendants.<a id=65></a>
 
 ###### Article 745
 
@@ -5069,7 +6046,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions déférées aux ascendants.<a id=58></a>
+#### Section 4 : Des successions déférées aux ascendants.<a id=66></a>
 
 ###### Article 746
 
@@ -5151,7 +6128,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : Des successions collatérales.<a id=59></a>
+#### Section 5 : Des successions collatérales.<a id=67></a>
 
 ###### Article 750
 
@@ -5242,9 +6219,9 @@ _Abrogé par_:
   - Loi n°57-379 1957-03-26 art. 3 JORF 27 mars 1957
 
 
-### Chapitre IV : De l'option de l'héritier<a id=60></a>
+### Chapitre IV : De l'option de l'héritier<a id=68></a>
 
-#### Section 1 : Dispositions générales.<a id=61></a>
+#### Section 1 : Dispositions générales.<a id=69></a>
 
 ###### Article 771
 
@@ -5426,7 +6403,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : De l'acceptation pure et simple de la succession.<a id=62></a>
+#### Section 2 : De l'acceptation pure et simple de la succession.<a id=70></a>
 
 ###### Article 782
 
@@ -5516,9 +6493,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=63></a>
+#### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=71></a>
 
-##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=64></a>
+##### Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net.<a id=72></a>
 
 ###### Article 787
 
@@ -5614,7 +6591,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=65></a>
+##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=73></a>
 
 ###### Article 791
 
@@ -5905,7 +6882,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : De la renonciation à la succession.<a id=66></a>
+#### Section 4 : De la renonciation à la succession.<a id=74></a>
 
 ###### Article 804
 
@@ -5998,9 +6975,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=67></a>
+### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=75></a>
 
-#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=68></a>
+#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=76></a>
 
 ###### Article 809
 
@@ -6040,7 +7017,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des successions vacantes.<a id=69></a>
+#### Section 4 : Des successions vacantes.<a id=77></a>
 
 ###### Article 811
 
@@ -6114,9 +7091,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=70></a>
+### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=78></a>
 
-#### Section 1 : De l'indivision et de l'action en partage.<a id=71></a>
+#### Section 1 : De l'indivision et de l'action en partage.<a id=79></a>
 
 ###### Article 816
 
@@ -6576,7 +7553,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=72></a>
+#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=80></a>
 
 ###### Article 845
 
@@ -6799,7 +7776,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 3 : Du paiement des dettes.<a id=73></a>
+#### Section 3 : Du paiement des dettes.<a id=81></a>
 
 ###### Article 870
 
@@ -7037,7 +8014,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 4 : Des effets du partage et de la garantie des lots.<a id=74></a>
+#### Section 4 : Des effets du partage et de la garantie des lots.<a id=82></a>
 
 ###### Article 884
 
@@ -7093,7 +8070,7 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-#### Section 5 : De la rescision en matière de partage.<a id=75></a>
+#### Section 5 : De la rescision en matière de partage.<a id=83></a>
 
 ###### Article 887
 
@@ -7200,9 +8177,9 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=76></a>
+## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=84></a>
 
-### Chapitre Ier : Dispositions générales.<a id=77></a>
+### Chapitre Ier : Dispositions générales.<a id=85></a>
 
 ###### Article 893
 
@@ -7320,7 +8297,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=78></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=86></a>
 
 ###### Article 901
 
@@ -7458,9 +8435,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=79></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=87></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=80></a>
+#### Section 1 : De la portion de biens disponible.<a id=88></a>
 
 ###### Article 917
 
@@ -7517,7 +8494,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : De la réduction des donations et legs.<a id=81></a>
+#### Section 2 : De la réduction des donations et legs.<a id=89></a>
 
 ###### Article 920
 
@@ -7655,9 +8632,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IV : Des donations entre vifs<a id=82></a>
+### Chapitre IV : Des donations entre vifs<a id=90></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=83></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=91></a>
 
 ###### Article 931
 
@@ -7986,7 +8963,7 @@ _Cité par_:
   - Loi du 1er juin 1924 - art. 38 (V)
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=84></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=92></a>
 
 ###### Article 953
 
@@ -8193,9 +9170,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre V : Des dispositions testamentaires<a id=85></a>
+### Chapitre V : Des dispositions testamentaires<a id=93></a>
 
-#### Section 1 : Des règles générales sur la forme des testaments<a id=86></a>
+#### Section 1 : Des règles générales sur la forme des testaments<a id=94></a>
 
 ###### Article 967
 
@@ -8265,7 +9242,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=87></a>
+#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=95></a>
 
 ###### Article 987
 
@@ -8357,7 +9334,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=88></a>
+#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=96></a>
 
 ###### Article 1002
 
@@ -8378,7 +9355,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 4 : Du legs universel.<a id=89></a>
+#### Section 4 : Du legs universel.<a id=97></a>
 
 ###### Article 1003
 
@@ -8505,7 +9482,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 5 : Du legs à titre universel.<a id=90></a>
+#### Section 5 : Du legs à titre universel.<a id=98></a>
 
 ###### Article 1010
 
@@ -8583,7 +9560,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 6 : Des legs particuliers.<a id=91></a>
+#### Section 6 : Des legs particuliers.<a id=99></a>
 
 ###### Article 1014
 
@@ -8796,7 +9773,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=92></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=100></a>
 
 ###### Article 1025
 
@@ -8966,7 +9943,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 8 : De la révocation des testaments et de leur caducité.<a id=93></a>
+#### Section 8 : De la révocation des testaments et de leur caducité.<a id=101></a>
 
 ###### Article 1035
 
@@ -9191,7 +10168,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=94></a>
+### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=102></a>
 
 ###### Article 1048
 
@@ -9624,7 +10601,7 @@ _Abrogé par_:
   - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=95></a>
+### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=103></a>
 
 ###### Article 1081
 
@@ -9807,7 +10784,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=96></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=104></a>
 
 ###### Article 1091
 
@@ -9861,9 +10838,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-## Titre II : Des donations entre vifs et des testaments<a id=97></a>
+## Titre II : Des donations entre vifs et des testaments<a id=105></a>
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=98></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=106></a>
 
 ###### Article 905
 
@@ -9944,9 +10921,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=99></a>
+### Chapitre III : De la portion de biens disponible, et de la réduction<a id=107></a>
 
-#### Section 1 : De la portion de biens disponible.<a id=100></a>
+#### Section 1 : De la portion de biens disponible.<a id=108></a>
 
 ###### Article 916
 
@@ -9964,9 +10941,9 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IV : Des donations entre vifs<a id=101></a>
+### Chapitre IV : Des donations entre vifs<a id=109></a>
 
-#### Section 1 : De la forme des donations entre vifs.<a id=102></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=110></a>
 
 ###### Article 934
 
@@ -9983,7 +10960,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 1 : De la forme des donations entre vifs.<a id=103></a>
+#### Section 1 : De la forme des donations entre vifs.<a id=111></a>
 
 ###### Article 937
 
@@ -10005,7 +10982,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=104></a>
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=112></a>
 
 ###### Article 960
 
@@ -10059,9 +11036,9 @@ _Cité par_:
   - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 
 
-### Chapitre V : Des dispositions testamentaires<a id=105></a>
+### Chapitre V : Des dispositions testamentaires<a id=113></a>
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=106></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=114></a>
 
 ###### Article 1029
 
@@ -10078,7 +11055,7 @@ _Créé par_:
   - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=107></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=115></a>
 
 ###### Article 1099
 
