@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-19
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -69284,11 +69284,13 @@ Des salaires ;
 
 Des arrérages des rentes perpétuelles et viagères et de ceux des pensions alimentaires ;
 
-Des loyers et des fermages ;
+Des loyers, des fermages et des charges locatives ;
 
 Des intérêts des sommes prêtées,
 
 et généralement de tout ce qui est payable par année ou à des termes périodiques plus courts.
+
+Se prescrivent également par cinq ans les actions en répétition des loyers, des fermages et des charges locatives.
 
 **Liens relatifs à cet article**
 
@@ -69305,9 +69307,9 @@ _Cité par_:
   - Code du domaine de l'Etat et des collectivités pub - art. L231-1 (Ab)
   - Code du travail - art. L143-14 (AbD)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 10 I *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française*
+  - Loi n°2005-32 du 18 janvier 2005 - art. 113 () JORF 19 janvier 2005
 
 _Anciens textes_:
 
@@ -69316,10 +69318,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°1804-03-15
-
-_Créé par_:
-
-  - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
 ###### Article 2277-1
