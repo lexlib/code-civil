@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1984-10-01
+Version Consolidée au 1985-03-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -54856,7 +54856,7 @@ _Créé par_:
 ###### Article 2037
 
 La caution est déchargée, lorsque la subrogation aux droits, hypothèques et privilèges du créancier, ne peut plus, par le
-fait de ce créancier, s'opérer en faveur de la caution.
+fait de ce créancier, s'opérer en faveur de la caution. Toute clause contraire est réputée non écrite.
 
 **Liens relatifs à cet article**
 
@@ -54873,9 +54873,17 @@ _Codifié par_:
 
   - Loi n°1804-02-14
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°1804-02-14 promulguée le 24 février 1804
+  - SPEC_APPLI: Loi n°84-148 1984-03-01 art. 62 *date d'effet*
+
+_Modifié par_:
+
+  - Loi n°84-148 du 1 mars 1984 - art. 49 () JORF 2 mars 1984 en vigueur le 1er mars 1985
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
 ###### Article 2038
