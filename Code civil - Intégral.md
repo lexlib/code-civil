@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1988-01-23
+Version Consolidée au 1989-07-14
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -14166,7 +14166,7 @@ résidence habituelle ;
 
 3° A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou spécialisé ;
 
-4° Au service départemental de l'aide sociale à l'enfance.
+4° A un service départemental de l'aide sociale à l'enfance.
 
 Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère, ces mesures
 ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé postérieurement à
@@ -14175,10 +14175,6 @@ peuvent faire obstacle à la faculté qu'aura le tribunal de décider, par appli
 devra être confié. Les mêmes règles sont applicables à la séparation de corps.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°87-570 du 22 juillet 1987 - art. 21 () JORF 24 juillet 1987
 
 **Liens**:
 
@@ -14220,6 +14216,15 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L521-2 (M)
   - Code de la sécurité sociale. - art. L543-3 (V)
   - Code de procédure civile - art. 1198 (V)
+
+_Modifié par_:
+
+  - Loi n°89-487 1989-07-10 art. 11 JORF 14 Juillet 1989
+
+_Cite_:
+
+  - Code civil - art. 287 (M)
+  - Code civil - art. 287-1 (M)
 
 _Codifié par_:
 
@@ -16424,13 +16429,14 @@ _Codifié par_:
 
 ###### Article 433
 
-Si la tutelle reste vacante, le juge des tutelles la défère à l'Etat.
+Si la tutelle reste vacante, le juge des tutelles la défère à l'Etat s'il s'agit d'un majeur, et au service de l'aide sociale
+à l'enfance s'il s'agit d'un mineur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 _Cité par_:
 
@@ -16487,6 +16493,10 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 23 avril 1998 - art. 2 ()
   - TXT_SOURCE: Arrêté du 23 avril 1998 - art. 3 ()
   - TXT_SOURCE: Arrêté du 23 avril 1998 - art. 4 ()
+
+_Modifié par_:
+
+  - Loi n°89-487 1989-07-10 art. 12 JORF 14 Juillet 1989
 
 _Codifié par_:
 
@@ -56728,7 +56738,8 @@ Les rémunérations des gens de service pour l'année échue et l'année courant
 Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
 famille et à la natalité françaises, pour l'année échue et l'année courante :
 
-Les rémunérations pour les six derniers mois des salariés et apprentis ;
+Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
+d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
 
 L'indemnité de fin de contrat prévue à l'article L. 122-3-5 du code du travail et l'indemnité de précarité d'emploi prévue à
 l'article L. 124-4-4 du même code.
@@ -56824,6 +56835,14 @@ _Cité par_:
   - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
   - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (M)
 
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Modifié par_:
+
+  - Loi n°89-488 du 10 juillet 1989 - art. 6 () JORF 14 Juillet 1989
+
 _Nouveaux textes_:
 
   - Code civil - art. 2331 (M)
@@ -56843,12 +56862,9 @@ _Cite_:
   - Code du travail - art. L751-15 (AbD)
   - Code du travail - art. L761-5 (AbD)
   - Code du travail - art. L761-7 (AbD)
-  - Code du travail 74, L122-3, L122-8, L122-9, L122-14, L122-32, L124-4, L143-10, L143-11, L742-6, L751-15, L761-5, L761-7
+  - Code du travail - art. L980-11-1 (M)
+  - Code du travail 74, L122-3, L122-8, L122-9, L122-14, L122-32, L124-4, L143-10, L143-11, L742-6, L751-15, L761-5, L761-7, L980-11-1
   - Décret n°1939-07-29 art. 63
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ##### Paragraphe II : Des privilèges sur certains meubles.<a id=415></a>
@@ -57096,7 +57112,8 @@ Les rémunérations des gens de service pour l'année échue et l'année courant
 Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
 famille et à la natalité françaises, pour l'année échue et l'année courante ;
 
-Les rémunérations pour les six derniers mois des salariés et apprentis ;
+Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
+d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
 
 L'indemnité de fin de contrat prévue à l'article L. 122-3-5 du code du travail et l'indemnité de précarité d'emploi prévue à
 l'article L. 124-4-4 du même code.
@@ -57149,6 +57166,10 @@ _Cité par_:
   - Code rural - art. L321-21 (M)
   - Code rural - art. L321-21-1 (M)
 
+_Modifié par_:
+
+  - Loi n°89-488 du 10 juillet 1989 - art. 6 () JORF 14 Juillet 1989
+
 _Nouveaux textes_:
 
   - Code civil - art. 2375 (M)
@@ -57168,6 +57189,7 @@ _Cite_:
   - Code du travail - art. L751-15 (AbD)
   - Code du travail - art. L761-5 (AbD)
   - Code du travail - art. L761-7 (AbD)
+  - Code du travail - art. L980-11-1 (M)
   - Décret n°1939-07-29 art. 63
 
 _Codifié par_:
