@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2004-11-21
+Version Consolidée au 2004-12-10
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -46111,18 +46111,16 @@ _Abrogé par_:
 
 ###### Article 1386-2
 
-Les dispositions du présent titre s'appliquent à la réparation du dommage qui résulte d'une atteinte à la personne ou à un
-bien autre que le produit défectueux lui-même.
+Les dispositions du présent titre s'appliquent à la réparation du dommage qui résulte d'une atteinte à  la personne.
+
+Elles s'appliquent également à la réparation du dommage supérieur à un montant déterminé par décret, qui résulte d'une
+atteinte à un bien autre que le produit défectueux lui-même.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-_Créé par_:
-
-  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 29 () JORF 10 décembre 2004
 
 _Cité par_:
 
@@ -46131,6 +46129,10 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1804-02-09
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1386-3
@@ -46252,7 +46254,8 @@ _Cite_:
 ###### Article 1386-7
 
 Le vendeur, le loueur, à l'exception du crédit-bailleur ou du loueur assimilable au crédit-bailleur, ou tout autre
-fournisseur professionnel est responsable du défaut de sécurité du produit dans les mêmes conditions que le producteur.
+fournisseur professionnel n'est responsable du défaut de sécurité du produit dans les mêmes conditions que le producteur que
+si ce dernier demeure inconnu.
 
 Le recours du fournisseur contre le producteur obéit aux mêmes règles que la demande émanant de la victime directe du défaut.
 Toutefois, il doit agir dans l'année suivant la date de sa citation en justice.
@@ -46263,14 +46266,9 @@ _Codifié par_:
 
   - Loi n°1804-02-09
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-_Créé par_:
-
-  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-  - Loi n°98-389 du 19 mai 1998 - art. 7 () JORF 21 mai 1998
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 29 () JORF 10 décembre 2004
 
 _Cité par_:
 
@@ -46396,28 +46394,23 @@ _Codifié par_:
 Le producteur ne peut invoquer la cause d'exonération prévue au 4° de l'article 1386-11 lorsque le dommage a été causé par un
 élément du corps humain ou par les produits issus de celui-ci.
 
-Le producteur ne peut invoquer les causes d'exonération prévu es aux 4° et 5° de l'article 1386-11 si, en présence d'un
-défaut qui s'est révélé dans un délai de dix ans après la mise en circulation du produit, il n'a pas pris les dispositions
-propres à en prévenir les conséquences dommageables.
-
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 29 () JORF 10 décembre 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+_Cite_:
+
+  - Code civil - art. 1386-11 (Ab)
 
 _Codifié par_:
 
   - Loi n°1804-02-09
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-_Créé par_:
-
-  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-  - Loi n°98-389 du 19 mai 1998 - art. 13 () JORF 21 mai 1998
-
-_Cite_:
-
-  - Code civil - art. 1386-11 (V)
 
 
 ###### Article 1386-13
