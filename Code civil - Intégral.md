@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1962-08-09
+Version Consolidée au 1963-11-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -27958,6 +27958,34 @@ _Créé par_:
 Elle peut être constituée sur une ou plusieurs têtes.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-10
+
+_Créé par_:
+
+  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1973
+
+Elle peut être constituée au profit d'un tiers, quoique le prix en soit fourni par une autre personne.
+
+Dans ce dernier cas, quoiqu'elle ait les caractères d'une libéralité, elle n'est point assujettie aux formes requises pour
+les donations ; sauf les cas de réduction et de nullité énoncés dans l'article 1970.
+
+Lorsque, constituée par des époux ou l'un d'eux, la rente est stipulée réversible au profit du conjoint survivant, la clause
+de réversibilité peut avoir les caractères d'une libéralité ou ceux d'un acte à titre onéreux. Dans ce dernier cas, la
+récompense ou l'indemnité due par le bénéficiaire de la réversion à la communauté ou à la succession du prémourant est égale
+à la valeur de la réversion de la rente. Sauf volonté contraire des époux, la réversion est présumée avoir été consentie à
+titre gratuit.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 1970 (V)
 
 _Codifié par_:
 
