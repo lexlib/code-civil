@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-25
+Version Consolidée au 1804-03-26
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -268,18 +268,22 @@ Version Consolidée au 1804-03-25
         - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#265)
       - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#266)
       - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#267)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#268)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#269)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#270)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#271)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#272)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#273)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#274)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#275)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#276)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#277)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#278)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#279)
+    - [Titre XVI : Du compromis (art. 2062 à 2070)](#268)
+    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#269)
+      - [Chapitre I : Du gage. (art. 2073 à 2084)](#270)
+      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#271)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#272)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#273)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#274)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#275)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#276)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#277)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#278)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#279)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#280)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#281)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#282)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#283)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -25457,9 +25461,714 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-## Titre XX : De la prescription et de la possession.<a id=268></a>
+## Titre XVI : Du compromis<a id=268></a>
 
-### Chapitre Ier : Dispositions générales.<a id=269></a>
+###### Article 2062
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1542 (V)
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+
+###### Article 2063
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Cité par_:
+
+  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Code de procédure civile - art. 1545 (V)
+  - Code de procédure civile - art. 1560 (V)
+  - Code de procédure civile - art. 1564-1 (V)
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2064
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1529 (M)
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2065
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1556 (V)
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+
+###### Article 2066
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Cité par_:
+
+  - Décret n°2016-660 du 20 mai 2016 - art. 32
+  - Décret n°2016-660 du 20 mai 2016 - art. 33
+  - Code de procédure civile - art. 1529 (V)
+  - Code de procédure civile - art. 1558 (V)
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2067
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Cité par_:
+
+  - Code civil - art. 2064 (V)
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2068
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+
+###### Article 2069
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+
+###### Article 2070
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+
+## Titre XVII : Du nantissement.<a id=269></a>
+
+###### Article 2071
+
+Le nantissement est un contrat par lequel un débiteur remet une chose à son créancier pour sûreté de la dette.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°97-509 du 21 mai 1997 - art. 5 (Ab)
+  - Code monétaire et financier - art. D431-5 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2072
+
+Le nantissement d'une chose mobilière s'appelle gage. Celui d'une chose immobilière s'appelle antichrèse.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+### Chapitre I : Du gage.<a id=270></a>
+
+###### Article 2073
+
+Le gage confère au créancier le droit de se faire payer sur la chose qui en est l'objet, par privilège et préférence aux
+autres créanciers.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 2075-1 (Ab)
+  - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2076
+
+Dans tous les cas, le privilège ne subsiste sur le gage qu'autant que ce gage a été mis et est resté en la possession du
+créancier, ou d'un tiers convenu entre les parties.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+_Cité par_:
+
+  - Code des marchés publics - art. 189 (M)
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2077
+
+Le gage peut être donné par un tiers pour le débiteur.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 2090 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2078
+
+Le créancier ne peut, à défaut de paiement, disposer du gage :
+
+sauf à lui à faire ordonner en justice que ce gage lui demeurera en paiement et jusqu'à due concurrence, d'après une
+estimation faite par experts, ou qu'il sera vendu aux enchères.
+
+Toute clause qui autoriserait le créancier à s'approprier le gage ou à en disposer sans les formalités ci-dessus est nulle.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-537 du 24 juillet 1966 - art. 277 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 46 (Ab)
+  - Loi n°70-1300 du 31 décembre 1970 - art. 8 (Ab)
+  - Décret n°72-823 du 6 septembre 1972 - art. 7 (V)
+  - Code de commerce - art. L223-15 (V)
+  - Code de commerce. - art. L228-26 (V)
+  - Code monétaire et financier - art. L214-65 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil 2090 *antichrèse*
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2079
+
+Jusqu'à l'expropriation du débiteur, s'il y a lieu, il reste propriétaire du gage, qui n'est, dans la main du créancier,
+qu'un dépôt assurant le privilège de celui-ci.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2080
+
+Le créancier répond, selon les règles établies au titre Des contrats ou des obligations conventionnelles en général, de la
+perte ou détérioration du gage qui serait survenue par sa négligence.
+
+De son côté, le débiteur doit tenir compte au créancier des dépenses utiles et nécessaires que celui-ci a faites pour la
+conservation du gage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2081
+
+S'il s'agit d'une créance donnée en gage, et que cette créance porte intérêts, le créancier impute ces intérêts sur ceux qui
+peuvent lui être dus.
+
+Si la dette pour sûreté de laquelle la créance a été donnée en gage ne porte point elle-même intérêts, l'imputation se fait
+sur le capital de la dette.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2082
+
+Le débiteur ne peut, à moins que le détenteur du gage n'en abuse, en réclamer la restitution qu'après avoir entièrement payé,
+tant en principal qu'intérêts et frais, la dette pour sûreté de laquelle le gage a été donné.
+
+S'il existait de la part du même débiteur, envers le même créancier, une autre dette contractée postérieurement à la mise en
+gage, et devenue exigible avant le paiement de la première dette, le créancier ne pourra être tenu de se dessaisir du gage
+avant d'être entièrement payé de l'une et de l'autre dette, lors même qu'il n'y aurait eu aucune stipulation pour affecter le
+gage au paiement de la seconde.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2083
+
+Le gage est indivisible nonobstant la divisibilité de la dette envers les héritiers du débiteur ou ceux du créancier.
+
+L'héritier du débiteur, qui a payé sa portion de la dette, ne peut demander la restitution de sa portion dans le gage, tant
+que la dette n'est pas entièrement acquittée.
+
+Réciproquement, l'héritier du créancier, qui a reçu sa portion de la dette, ne peut remettre le gage au préjudice de ceux de
+ses cohéritiers qui ne sont pas payés.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 2090 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil 2090 *antichrèse*
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2084
+
+Les dispositions ci-dessus ne sont applicables ni aux matières de commerce, ni aux maisons de prêt sur gage autorisées, et à
+l'égard desquelles on suit les lois et règlements qui les concernent.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+### Chapitre II : De l'antichrèse.<a id=271></a>
+
+###### Article 2085
+
+L'antichrèse ne s'établit que par écrit.
+
+Le créancier n'acquiert par ce contrat que la faculté de percevoir les fruits de l'immeuble, à la charge de les imputer
+annuellement sur les intérêts, s'il lui en est dû, et ensuite sur le capital de sa créance.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2086
+
+Le créancier est tenu, s'il n'en est autrement convenu, de payer les contributions et les charges annuelles de l'immeuble
+qu'il tient en antichrèse.
+
+Il doit également, sous peine de dommages et intérêts, pourvoir à l'entretien et aux réparations utiles et nécessaires de
+l'immeuble, sauf à prélever sur les fruits toutes les dépenses relatives à ces divers objets.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 2087 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2087
+
+Le débiteur ne peut, avant l'entier acquittement de la dette, réclamer la jouissance de l'immeuble qu'il a remis en
+antichrèse.
+
+Mais le créancier qui veut se décharger des obligations exprimées en l'article précédent peut toujours, à moins qu'il n'ait
+renoncé à ce droit, contraindre le débiteur à reprendre la jouissance de son immeuble.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 2086 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2088
+
+Le créancier ne devient point propriétaire de l'immeuble par le seul défaut de paiement au terme convenu ; toute clause
+contraire est nulle ; en ce cas, il peut poursuivre l'expropriation de son débiteur par les voies légales.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2089
+
+Lorsque les parties ont stipulé que les fruits se compenseront avec les intérêts, ou totalement, ou jusqu'à une certaine
+concurrence, cette convention s'exécute comme toute autre qui n'est point prohibée par les lois.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2090
+
+Les dispositions des articles 2077 et 2083 s'appliquent à l'antichrèse comme au gage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 2077 (Ab)
+  - Code civil - art. 2083 (Ab)
+
+
+###### Article 2091
+
+Tout ce qui est statué au présent chapitre ne préjudicie point aux droits que des tiers pourraient avoir sur le fonds de
+l'immeuble remis à titre d'antichrèse.
+
+Si le créancier, muni à ce titre, a d'ailleurs, sur le fonds, des privilèges ou hypothèques légalement établis et conservés,
+il les exerce à son ordre et comme tout autre créancier.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-16
+
+_Créé par_:
+
+  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+## Titre XX : De la prescription et de la possession.<a id=272></a>
+
+### Chapitre Ier : Dispositions générales.<a id=273></a>
 
 ###### Article 2219
 
@@ -25646,7 +26355,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=270></a>
+### Chapitre II : De la possession.<a id=274></a>
 
 ###### Article 2228
 
@@ -25869,7 +26578,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=271></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=275></a>
 
 ###### Article 2236
 
@@ -26040,9 +26749,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=272></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=276></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=273></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=277></a>
 
 ###### Article 2242
 
@@ -26218,7 +26927,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=274></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=278></a>
 
 ###### Article 2251
 
@@ -26388,9 +27097,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=275></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=279></a>
 
-#### Section 1 : Dispositions générales.<a id=276></a>
+#### Section 1 : Dispositions générales.<a id=280></a>
 
 ###### Article 2260
 
@@ -26431,7 +27140,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=277></a>
+#### Section 2 : De la prescription trentenaire.<a id=281></a>
 
 ###### Article 2262
 
@@ -26506,7 +27215,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=278></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=282></a>
 
 ###### Article 2265
 
@@ -26644,7 +27353,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=279></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=283></a>
 
 ###### Article 2273
 
