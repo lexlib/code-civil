@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-20
+Version Consolidée au 1804-03-24
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -237,25 +237,37 @@ Version Consolidée au 1804-03-20
         - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#234)
         - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1903)](#235)
       - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#236)
-    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#237)
-      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#238)
-      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#239)
-        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#240)
-        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#241)
-    - [Titre XIII : Du mandat (art. 1984 à 2010)](#242)
-      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1989)](#243)
-      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#244)
-      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#245)
-      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#246)
-    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#247)
-      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#248)
-      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#249)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#250)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#251)
-        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#252)
-        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#253)
-      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#254)
-      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#255)
+    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#237)
+      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#238)
+      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1951)](#239)
+        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#240)
+        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#241)
+        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#242)
+        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#243)
+        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1951)](#244)
+      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#245)
+        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#246)
+        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#247)
+        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#248)
+    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#249)
+      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#250)
+      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#251)
+        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#252)
+        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#253)
+    - [Titre XIII : Du mandat (art. 1984 à 2010)](#254)
+      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1989)](#255)
+      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#256)
+      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#257)
+      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#258)
+    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#259)
+      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#260)
+      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#261)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#262)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#263)
+        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#264)
+        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#265)
+      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#266)
+      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#267)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -22937,7 +22949,749 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-## Titre XII : Des contrats aléatoires.<a id=237></a>
+## Titre XI : Du dépôt et du séquestre<a id=237></a>
+
+### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=238></a>
+
+###### Article 1915
+
+Le dépôt, en général, est un acte par lequel on reçoit la chose d'autrui, à la charge de la garder et de la restituer en
+nature.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1916
+
+Il y a deux espèces de dépôt : le dépôt proprement dit et le séquestre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+### Chapitre II : Du dépôt proprement dit<a id=239></a>
+
+#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=240></a>
+
+###### Article 1917
+
+Le dépôt proprement dit est un contrat essentiellement gratuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1918
+
+Il ne peut avoir pour objet que des choses mobilières.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1919
+
+Il n'est parfait que par la tradition réelle ou feinte de la chose déposée.
+
+La tradition feinte suffit quand le dépositaire se trouve déjà nanti, à quelque autre titre, de la chose que l'on consent à
+lui laisser à titre de dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1920
+
+Le dépôt est volontaire ou nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 2 : Du dépôt volontaire.<a id=241></a>
+
+###### Article 1921
+
+Le dépôt volontaire se forme par le consentement réciproque de la personne qui fait le dépôt et de celle qui le reçoit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1922
+
+Le dépôt volontaire ne peut régulièrement être fait que par le propriétaire de la chose déposée, ou de son consentement
+exprès ou tacite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1925
+
+Le dépôt volontaire ne peut avoir lieu qu'entre personnes capables de contracter.
+
+Néanmoins, si une personne capable de contracter accepte le dépôt fait par une personne incapable, elle est tenue de toutes
+les obligations d'un véritable dépositaire ; elle peut être poursuivie par le tuteur ou administrateur de la personne qui a
+fait le dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1926
+
+Si le dépôt a été fait par une personne capable à une personne qui ne l'est pas, la personne qui a fait le dépôt n'a que
+l'action en revendication de la chose déposée, tant qu'elle existe dans la main du dépositaire, ou action en restitution
+jusqu'à concurrence de ce qui a tourné au profit de ce dernier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 3 : Des obligations du dépositaire.<a id=242></a>
+
+###### Article 1927
+
+Le dépositaire doit apporter, dans la garde de la chose déposée, les mêmes soins qu'il apporte dans la garde des choses qui
+lui appartiennent.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1928 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1928
+
+La disposition de l'article précédent doit être appliquée avec plus de rigueur :
+
+1° si le dépositaire s'est offert lui-même pour recevoir le dépôt ;
+
+2° s'il a stipulé un salaire pour la garde du dépôt ;
+
+3° si le dépôt a été fait uniquement pour l'intérêt du dépositaire ;
+
+4° s'il a été convenu expressément que le dépositaire répondrait de toute espèce de faute.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 1927 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1929
+
+Le dépositaire n'est tenu, en aucun cas, des accidents de force majeure, à moins qu'il n'ait été mis en demeure de restituer
+la chose déposée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°49-1105 du 4 août 1949 - art. 13 (Ab)
+  - Décret n°53-380 du 28 avril 1953 - art. 27 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1930
+
+Il ne peut se servir de la chose déposée sans la permission expresse ou présumée du déposant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1931
+
+Il ne doit point chercher à connaître quelles sont les choses qui lui ont été déposées si elles lui ont été confiées dans un
+coffre fermé ou sous une enveloppe cachetée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1932
+
+Le dépositaire doit rendre identiquement la chose même qu'il a reçue.
+
+Ainsi, le dépôt des sommes monnayées doit être rendu dans les mêmes espèces qu'il a été fait, soit dans le cas
+d'augmentation, soit dans le cas de diminution de leur valeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1933
+
+Le dépositaire n'est tenu de rendre la chose déposée que dans l'état où elle se trouve au moment de la restitution. Les
+détériorations qui ne sont pas survenues par son fait sont à la charge du déposant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1934
+
+Le dépositaire auquel la chose a été enlevée par une force majeure et qui a reçu un prix ou quelque chose à la place doit
+restituer ce qu'il a reçu en échange.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1935
+
+L'héritier du dépositaire, qui a vendu de bonne foi la chose dont il ignorait le dépôt, n'est tenu que de rendre le prix
+qu'il a reçu, ou de céder son action contre l'acheteur, s'il n'a pas touché le prix.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1936
+
+Si la chose déposée a produit des fruits qui aient été perçus par le dépositaire, il est obligé de les restituer. Il ne doit
+aucun intérêt de l'argent déposé, si ce n'est du jour où il a été mis en demeure de faire la restitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1937
+
+Le dépositaire ne doit restituer la chose déposée qu'à celui qui la lui a confiée, ou à celui au nom duquel le dépôt a été
+fait, ou à celui qui a été indiqué pour le recevoir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1938
+
+Il ne peut pas exiger de celui qui a fait le dépôt, la preuve qu'il était propriétaire de la chose déposée.
+
+Néanmoins, s'il découvre que la chose a été volée, et quel en est le véritable propriétaire, il doit dénoncer à celui-ci le
+dépôt qui lui a été fait avec sommation de le réclamer dans un délai déterminé et suffisant. Si celui auquel la dénonciation
+a été faite néglige de réclamer le dépôt, le dépositaire est valablement déchargé par la tradition qu'il en fait à celui
+duquel il l'a reçu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1939
+
+En cas de mort naturelle ou civile (1) de la personne qui a fait le dépôt, la chose déposée ne peut être rendue qu'à son
+héritier.
+
+S'il y a plusieurs héritiers, elle doit être rendue à chacun d'eux pour leur part et portion.
+
+Si la chose déposée est indivisible, les héritiers doivent s'accorder entre eux pour la recevoir.
+
+**Nota:**
+
+(1) : La mort civile a été abolie par la loi du 31 mai 1854.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1941
+
+Si le dépôt a été fait par un tuteur, par un mari ou par un administrateur, dans l'une de ces qualités, il ne peut être
+restitué qu'à la personne que ce tuteur, ce mari ou cet administrateur représentaient, si leur gestion ou leur administration
+est finie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1942
+
+Si le contrat de dépôt désigne le lieu dans lequel la restitution doit être faite, le dépositaire est tenu d'y porter la
+chose déposée. S'il y a des frais de transport, ils sont à la charge du déposant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1943
+
+Si le contrat ne désigne point le lieu de la restitution, elle doit être faite dans le lieu même du dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1944
+
+Le dépôt doit être remis au déposant aussitôt qu'il le réclame, lors même que le contrat aurait fixé un délai déterminé pour
+la restitution ; à moins qu'il n'existe, entre les mains du dépositaire, une saisie-arrêt ou une opposition à la restitution
+et au déplacement de la chose déposée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1945
+
+Le dépositaire infidèle n'est point admis au bénéfice de cession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1946
+
+Toutes les obligations du dépositaire cessent s'il vient à découvrir et à prouver qu'il est lui-même propriétaire de la chose
+déposée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=243></a>
+
+###### Article 1947
+
+La personne qui a fait le dépôt est tenue de rembourser au dépositaire les dépenses qu'il a faites pour la conservation de la
+chose déposée, et de l'indemniser de toutes les pertes que le dépôt peut lui avoir occasionnées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1948
+
+Le dépositaire peut retenir le dépôt jusqu'à l'entier paiement de ce qui lui est dû à raison du dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 5 : Du dépôt nécessaire.<a id=244></a>
+
+###### Article 1949
+
+Le dépôt nécessaire est celui qui a été forcé par quelque accident, tel qu'un incendie, une ruine, un pillage, un naufrage ou
+autre événement imprévu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1951
+
+Le dépôt nécessaire est d'ailleurs régi par toutes les règles précédemment énoncées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+### Chapitre III : Du séquestre<a id=245></a>
+
+#### Section 1 : Des différentes espèces de séquestre.<a id=246></a>
+
+###### Article 1955
+
+Le séquestre est ou conventionnel ou judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 2 : Du séquestre conventionnel.<a id=247></a>
+
+###### Article 1956
+
+Le séquestre conventionnel est le dépôt fait par une ou plusieurs personnes, d'une chose contentieuse, entre les mains d'un
+tiers qui s'oblige de la rendre, après la contestation terminée, à la personne qui sera jugée devoir l'obtenir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+_Cité par_:
+
+  - Ordonnance n°2016-728 du 2 juin 2016 - art. 1 (V)
+
+
+###### Article 1957
+
+Le séquestre peut n'être pas gratuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1958
+
+Lorsqu'il est gratuit, il est soumis aux règles du dépôt proprement dit, sauf les différences ci-après énoncées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1959
+
+Le séquestre peut avoir pour objet, non seulement des effets mobiliers, mais même des immeubles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1960
+
+Le dépositaire chargé du séquestre ne peut être déchargé avant la contestation terminée, que du consentement de toutes les
+parties intéressées, ou pour une cause jugée légitime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=248></a>
+
+###### Article 1961
+
+La justice peut ordonner le séquestre :
+
+1° Des meubles saisis sur un débiteur ;
+
+2° D'un immeuble ou d'une chose mobilière dont la propriété ou la possession est litigieuse entre deux ou plusieurs
+personnes ;
+
+3° Des choses qu'un débiteur offre pour sa libération.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1962
+
+L'établissement d'un gardien judiciaire produit, entre le saisissant et le gardien, des obligations réciproques. Le gardien
+doit apporter, pour la conservation des effets saisis, les soins d'un bon père de famille.
+
+Il doit les représenter soit à la décharge du saisissant pour la vente, soit à la partie contre laquelle les exécutions ont
+été faites, en cas de mainlevée de la saisie.
+
+L'obligation du saisissant consiste à payer au gardien le salaire fixé par la loi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1963
+
+Le séquestre judiciaire est donné, soit à une personne dont les parties intéressées sont convenues entre elles, soit à une
+personne nommée d'office par le juge.
+
+Dans l'un et l'autre cas, celui auquel la chose a été confiée est soumis à toutes les obligations qu'emporte le séquestre
+conventionnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-14
+
+_Créé par_:
+
+  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+## Titre XII : Des contrats aléatoires.<a id=249></a>
 
 ###### Article 1964
 
@@ -22967,7 +23721,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre Ier : Du jeu et du pari.<a id=238></a>
+### Chapitre Ier : Du jeu et du pari.<a id=250></a>
 
 ###### Article 1965
 
@@ -23037,9 +23791,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre II : Du contrat de rente viagère<a id=239></a>
+### Chapitre II : Du contrat de rente viagère<a id=251></a>
 
-#### Section 1 : Des conditions requises pour la validité du contrat.<a id=240></a>
+#### Section 1 : Des conditions requises pour la validité du contrat.<a id=252></a>
 
 ###### Article 1968
 
@@ -23174,7 +23928,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=241></a>
+#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=253></a>
 
 ###### Article 1977
 
@@ -23306,9 +24060,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIII : Du mandat<a id=242></a>
+## Titre XIII : Du mandat<a id=254></a>
 
-### Chapitre Ier : De la nature et de la forme du mandat.<a id=243></a>
+### Chapitre Ier : De la nature et de la forme du mandat.<a id=255></a>
 
 ###### Article 1984
 
@@ -23424,7 +24178,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre II : Des obligations du mandataire.<a id=244></a>
+### Chapitre II : Des obligations du mandataire.<a id=256></a>
 
 ###### Article 1991
 
@@ -23561,7 +24315,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre III : Des obligations du mandant.<a id=245></a>
+### Chapitre III : Des obligations du mandant.<a id=257></a>
 
 ###### Article 1998
 
@@ -23652,7 +24406,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre IV : Des différentes manières dont le mandat finit.<a id=246></a>
+### Chapitre IV : Des différentes manières dont le mandat finit.<a id=258></a>
 
 ###### Article 2003
 
@@ -23801,9 +24555,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIV : Du cautionnement.<a id=247></a>
+## Titre XIV : Du cautionnement.<a id=259></a>
 
-### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=248></a>
+### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=260></a>
 
 ###### Article 2011
 
@@ -24136,9 +24890,9 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre II : De l'effet du cautionnement<a id=249></a>
+### Chapitre II : De l'effet du cautionnement<a id=261></a>
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=250></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=262></a>
 
 ###### Article 2021
 
@@ -24332,7 +25086,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=251></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=263></a>
 
 ###### Article 2024
 
@@ -24361,7 +25115,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=252></a>
+#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=264></a>
 
 ###### Article 2028
 
@@ -24526,7 +25280,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=253></a>
+#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=265></a>
 
 ###### Article 2033
 
@@ -24559,7 +25313,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre III : De l'extinction du cautionnement.<a id=254></a>
+### Chapitre III : De l'extinction du cautionnement.<a id=266></a>
 
 ###### Article 2034
 
@@ -24712,7 +25466,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=255></a>
+### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=267></a>
 
 ###### Article 2040
 
