@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1978-03-31
+Version Consolidée au 1978-06-11
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -47801,6 +47801,36 @@ _Cite_:
   - Code civil - art. 815 (V)
 
 
+###### Article 1873-4
+
+La convention tendant au maintien de l'indivision requiert la capacité ou le pouvoir de disposer des biens indivis.
+
+Elle peut, toutefois, être conclue au nom d'un mineur, par son représentant légal seul ; mais, dans ce cas, le mineur devenu
+majeur peut y mettre fin, quelle qu'en soit la durée, dans l'année qui suit sa majorité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°76-1286 1976-12-31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+_Créé par_:
+
+  - Loi n°76-1286 du 31 décembre 1976 - art. 9 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+_Modifié par_:
+
+  - Loi n°78-627 du 10 juin 1978 - art. 3 (V) JORF 11 juin 1978
+
+_Cité par_:
+
+  - Loi n°78-627 du 10 juin 1978 - art. 3 (V)
+
+
 ###### Article 1873-5
 
 Les coïndivisaires peuvent nommer un ou plusieurs gérants, choisis ou non parmi eux. Les modalités de désignation et de
@@ -48031,6 +48061,46 @@ _Cite_:
 
   - Code civil - art. 815-14 (V)
   - Code civil - art. 815-18 (V)
+
+
+###### Article 1873-13
+
+Les indivisaires peuvent convenir qu'au décès de l'un d'eux, chacun des survivants pourra acquérir la quote-part du défunt,
+ou que le conjoint survivant, ou tout autre héritier désigné, pourra se la faire attribuer à charge d'en tenir compte à la
+succession d'après sa valeur à l'époque de l'acquisition ou de l'attribution.
+
+Si plusieurs indivisaires ou plusieurs héritiers exercent simultanément leur faculté d'acquisition ou d'attribution, ils sont
+réputés, sauf convention contraire, acquérir ensemble la part du défunt à proportion de leurs droits respectifs dans
+l'indivision ou la succession.
+
+Les dispositions du présent article ne peuvent préjudicier à l'application des dispositions des articles 832 à 832-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°76-1286 1976-12-31
+
+_Créé par_:
+
+  - Loi n°76-1286 du 31 décembre 1976 - art. 13 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+_Modifié par_:
+
+  - Loi n°78-627 du 10 juin 1978 - art. 4 () JORF 11 juin 1978
+
+_Cité par_:
+
+  - Code civil - art. 2301 (T)
+  - Code civil - art. 2507 (V)
+
+_Cite_:
+
+  - Code civil 832 à 832-3
 
 
 ###### Article 1873-14
