@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1991-12-01
+Version Consolidée au 1992-07-14
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -35425,27 +35425,28 @@ commerce et au cautionnement.
 
 Ces dommages et intérêts sont dus sans que le créancier soit tenu de justifier d'aucune perte.
 
-Ils ne sont dus que du jour de la sommation de payer, excepté dans le cas où la loi les fait courir de plein droit.
+Ils ne sont dus que du jour de la sommation de payer, ou d'un autre acte équivalent telle une lettre missive s'il en ressort
+une interpellation suffisante, excepté dans le cas où la loi les fait courir de plein droit.
 
 Le créancier auquel son débiteur en retard a causé, par sa mauvaise foi, un préjudice indépendant de ce retard, peut obtenir
 des dommages et intérêts distincts des intérêts moratoires de la créance.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°92-644 du 13 juillet 1992 - art. 5 () JORF 14 juillet 1992
+
 _Cité par_:
 
   - Arrêté du 14 avril 2003 - art. 8 (V)
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 23 (VT)
   - Arrêté du 1er août 2014 - art. Annexe (V)
   - Décret n°2016-230 du 26 février 2016 - art.
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 23 (VT)
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1153-1
