@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1993-08-29
+Version Consolidée au 1993-09-02
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 9-1 à 509)](#2)
