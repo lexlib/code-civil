@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1985-07-13
+Version Consolidée au 1985-10-15
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -35382,13 +35382,21 @@ _Créé par_:
 
 ###### Article 1152
 
-Lorsque la convention porte que celui qui manquera de l'exécuter paiera une certaine somme à titre de dommages-intérêts, il
+Lorsque la convention porte que celui qui manquera de l'exécuter payera une certaine somme à titre de dommages-intérêts, il
 ne peut être alloué à l'autre partie une somme plus forte, ni moindre.
 
-Néanmoins, le juge peut modérer ou augmenter la peine qui avait été convenue, si elle est manifestement excessive ou
-dérisoire. Toute stipulation contraire sera réputée non écrite.
+Néanmoins, le juge peut, même d'office, modérer ou augmenter la peine qui avait été convenue, si elle est manifestement
+excessive ou dérisoire. Toute stipulation contraire sera réputée non écrite.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1087 1985-10-11 art. 3
 
 _Cité par_:
 
@@ -35419,17 +35427,9 @@ _Cité par_:
   - Code de la consommation - art. L315-17 (VD)
   - Code de la consommation - art. L315-23 (VD)
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_ASSOCIE: Code civil 1231 *clause pénale*
-
-_Codifié par_:
-
-  - Loi n°1804-02-07
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
+  - Loi n°85-1097 du 11 octobre 1985 - art. 1 () JORF 15 octobre 1985
 
 
 ###### Article 1153
@@ -36948,9 +36948,9 @@ _Créé par_:
 
 ###### Article 1231
 
-Lorsque l'engagement a été exécuté en partie, la peine convenue peut être diminuée par le juge à proportion de l'intérêt que
-l'exécution partielle a procuré au créancier, sans préjudice de l'application de l'article 1152. Toute stipulation contraire
-sera réputée non écrite.
+Lorsque l'engagement a été exécuté en partie, la peine convenue peut, même d'office, être diminuée par le juge à proportion
+de l'intérêt que l'exécution partielle a procuré au créancier, sans préjudice de l'application de l'article 1152. Toute
+stipulation contraire sera réputée non écrite.
 
 **Liens relatifs à cet article**
 
@@ -36958,13 +36958,9 @@ _Codifié par_:
 
   - Loi n°1804-02-07
 
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°75-597 1975-07-09 art. 3
+  - SPEC_APPLI: Loi n°85-1087 1985-10-11 art 3
 
 _Cité par_:
 
@@ -36980,9 +36976,13 @@ _Cité par_:
   - Code de la consommation - art. L314-14-1 (VT)
   - Code de la consommation - art. L315-23 (VD)
 
+_Modifié par_:
+
+  - Loi n°85-1097 du 11 octobre 1985 - art. 2 () JORF 15 octobre 1985
+
 _Cite_:
 
-  - Code civil - art. 1152 (M)
+  - Code civil - art. 1152 (V)
 
 
 ###### Article 1232
@@ -37310,7 +37310,7 @@ _Créé par_:
 Le débiteur ne peut point forcer le créancier à recevoir en partie le paiement d'une dette, même divisible.
 
 Les juges peuvent néanmoins, en considération de la position du débiteur et compte tenu de la situation économique, accorder
-pour le paiement des délais qui emprunteront leur mesure aux circonstances, sans toutefois dépasser un an, et surseoir à
+pour le paiement des délais qui emprunteront leur mesure aux circonstances, sans toutefois dépasser deux ans, et surseoir à
 l'exécution des poursuites, toutes choses demeurant en l'état.
 
 En cas d'urgence, la même faculté appartient en tout état de cause, au juge des référés.
@@ -37340,13 +37340,13 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L613-1 (M)
   - Code rural - art. L411-76 (M)
 
+_Modifié par_:
+
+  - Loi n°85-1097 1985-10-11 art. 7 JORF 15 octobre 1985
+
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Créé par_:
-
-  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1245
