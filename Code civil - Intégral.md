@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-12-24
+Version Consolidée au 1958-12-25
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -65,16 +65,16 @@ Version Consolidée au 1958-12-24
   - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 2281)](#62)
     - [Dispositions générales (art. 711 à 717)](#63)
     - [Titre Ier : Des successions (art. 718 à 892)](#64)
-      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#65)
+      - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 724)](#65)
       - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 727 à 730)](#66)
-      - [Chapitre III : Des divers ordres de succession. (art. 732 à 755)](#67)
-        - [Section 1 : Dispositions générales. (art. 732 à 738)](#68)
+      - [Chapitre III : Des divers ordres de succession. (art. 731 à 755)](#67)
+        - [Section 1 : Dispositions générales. (art. 731 à 738)](#68)
         - [Section 2 : De la représentation. (art. 739 à 743)](#69)
         - [Section 3 : Des successions déférées aux descendants. (art. 745)](#70)
         - [Section 4 : Des successions déférées aux ascendants. (art. 746 à 749)](#71)
         - [Section 5 : Des successions collatérales. (art. 750 à 755)](#72)
-      - [Chapitre IV : De l'option de l'héritier (art. 771 à 808)](#73)
-        - [Section 1 : Dispositions générales. (art. 771 à 781)](#74)
+      - [Chapitre IV : De l'option de l'héritier (art. 768 à 808)](#73)
+        - [Section 1 : Dispositions générales. (art. 768 à 781)](#74)
         - [Section 2 : De l'acceptation pure et simple de la succession. (art. 782 à 786)](#75)
         - [Section 3 : De l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 803)](#76)
           - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#77)
@@ -8047,6 +8047,58 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 723
+
+La loi règle l'ordre de succéder entre les héritiers légitimes, les héritiers naturels et le conjoint survivant. A leur
+défaut, les biens passent à l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. L23 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+_Modifié par_:
+
+  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
+
+
+###### Article 724
+
+Les héritiers légitimes, les héritiers naturels et le conjoint survivant sont saisis de plein droit des biens, droits et
+actions du défunt, sous l'obligation d'acquitter toutes les charges de la succession.
+
+L'Etat doit se faire envoyer en possession.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+  - Code du domaine de l'Etat - art. L23 (Ab)
+  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
 ### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=66></a>
 
 ###### Article 727
@@ -8133,6 +8185,26 @@ _Créé par_:
 ### Chapitre III : Des divers ordres de succession.<a id=67></a>
 
 #### Section 1 : Dispositions générales.<a id=68></a>
+
+###### Article 731
+
+Les successions sont déférées aux enfants et descendants du défunt, à ses ascendants, à ses parents collatéraux et à son
+conjoint survivant, dans l'ordre et suivant les règles ci-après déterminées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+_Modifié par_:
+
+  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
+
 
 ###### Article 732
 
@@ -8563,18 +8635,22 @@ _Créé par_:
 
 #### Section 1 : Dispositions générales.<a id=74></a>
 
-###### Article 771
+###### Article 768
 
-(article abrogé).
+A défaut d'héritiers, la succession est acquise à l'Etat.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
 _Cité par_:
 
-  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-  - Décret n°2016-230 du 26 février 2016 - art.
-  - Code civil - art. 774 (V)
-  - Code de commerce - art. Annexe 4-7 (V)
+  - Code civil - art. 461 (VT)
+  - Code civil - art. 507-1 (V)
+  - Code du domaine de l'Etat - art. L23 (Ab)
+  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
 
 _Codifié par_:
 
@@ -8584,9 +8660,83 @@ _Créé par_:
 
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
-_Abrogé par_:
 
-  - Ordonnance 58-1307 1958-12-23 art. 3 JORF 25 décembre 1958
+###### Article 769
+
+L'administration des domaines qui prétend droit à la succession est tenue de faire apposer les scellés et de faire faire
+inventaire dans les formes prescrites pour l'acceptation des successions sous bénéfice d'inventaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+_Modifié par_:
+
+  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
+
+###### Article 770
+
+Elle doit demander l'envoi en possession au tribunal de grande instance dans le ressort duquel la succession est ouverte.
+
+Elle est dispensée de recourir au ministère d'un avocat ; le tribunal statue sur la demande trois mois et quarante jours
+après une publication et affiche dans les formes usitées, et après avoir entendu le procureur de la République.
+
+Lorsque, la vacance ayant été régulièrement déclarée, l'administration des domaines a été nommée curateur, elle peut, avant
+de former sa demande, procéder par elle-même aux formalités de publicité prévues à l'alinéa précédent.
+
+Dans tous les cas, il sera justifié de l'affichage par un exemplaire du placard signé du directeur des domaines et revêtu
+d'un certificat du maire du lieu d'ouverture de la succession.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance 58-1007 1958-10-24 art. 1 JORF 28 octobre 1958
+  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
+_Cité par_:
+
+  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+###### Article 772
+
+L'administration des domaines qui n'aurait pas rempli les formalités qui lui sont prescrites pourra être condamnée aux
+dommages et intérêts envers les héritiers, s'il s'en représente.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
+_Cité par_:
+
+  - Code civil - art. 774 (V)
+  - Nouveau code de procédure civile - art. 1380 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 774
