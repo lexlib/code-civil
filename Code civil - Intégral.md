@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1982-07-13
+Version Consolidée au 1984-07-13
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -56784,6 +56784,10 @@ ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ;
 6° Les créanciers et légataires d'une personne défunte, sur les immeubles de la succession, pour la garantie des droits
 qu'ils tiennent de l'article 878.
 
+7° Les accédants à la propriété titulaires d'un contrat de location-accession régi par la loi n° 84-595 du 12 juillet 1984
+définissant la location-accession à la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la garantie des
+droits qu'ils tiennent de ce contrat.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -56804,29 +56808,24 @@ _Cité par_:
   - Code rural - art. L342-12 (M)
   - Code rural ancien - art. 691 (Ab)
 
+_Cite_:
+
+  - Loi n°84-595 1984-07-12
+  - Code civil - art. 866 (M)
+  - Code civil - art. 878 (M)
+
 _Modifié par_:
 
-  - Décret n°55-22 du 4 janvier 1955 - art. 11 () JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
-  - Ordonnance 59-71 1959-01-07 JORF 8 janvier 1959 rectificatif JORF 31 janvier, 19 mars 1959
-  - Loi n°71-579 1971-07-16 art. 47-1 JORF 17 juillet 1971
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
+  - Loi n°84-595 du 12 juillet 1984 - art. 35 () JORF 13 juillet 1984 rectificatif JORF 21 juillet 1984
 
 _Nouveaux textes_:
 
   - Code civil - art. 2374 (M)
   - Code civil - art. 2374 (V)
 
-_Cite_:
+_Codifié par_:
 
-  - Code civil - art. 866 (M)
-  - Code civil - art. 878 (M)
+  - Loi n°1804-03-19
 
 
 #### Section 3 : Des privilèges généraux sur les immeubles.<a id=430></a>
@@ -57247,6 +57246,40 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2111-1
+
+Les accédants à la propriété conservent leur privilège par une inscription prise à leur diligence sur l'immeuble faisant
+l'objet du contrat de location-accession, en la forme prévue aux articles 2146 et 2148 et dans un délai de deux mois à
+compter de la signature de ce contrat ; le privilège prend rang à la date dudit contrat.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°84-595 du 12 juillet 1984 - art. 36 () JORF 13 juillet 1984 rectificatif JORF 21 juillet 1984
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 2146 (T)
+  - Code civil - art. 2148 (M)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2384 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
 
 
 ###### Article 2112
