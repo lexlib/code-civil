@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1972-07-09
+Version Consolidée au 1972-07-13
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 509)](#2)
@@ -297,100 +297,101 @@ Version Consolidée au 1972-07-09
           - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#294)
           - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#295)
         - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#296)
-    - [Titre X : Du prêt (art. 1874 à 1914)](#297)
-      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#298)
-        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#299)
-        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#300)
-        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#301)
-      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#302)
-        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#303)
-        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#304)
-        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#305)
-      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#306)
-    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#307)
-      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#308)
-      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1951)](#309)
-        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#310)
-        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#311)
-        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#312)
-        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#313)
-        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1951)](#314)
-      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#315)
-        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#316)
-        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#317)
-        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#318)
-    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#319)
-      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#320)
-      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#321)
-        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#322)
-        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#323)
-    - [Titre XIII : Du mandat (art. 1984 à 2010)](#324)
-      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#325)
-      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#326)
-      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#327)
-      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#328)
-    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#329)
-      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#330)
-      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#331)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#332)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#333)
-        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#334)
-        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#335)
-      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#336)
-      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#337)
-    - [Titre XV : Des transactions (art. 2044 à 2058)](#338)
-    - [Titre XVI : Du compromis (art. 2062 à 2068)](#339)
-    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#340)
-      - [Chapitre I : Du gage. (art. 2073 à 2084)](#341)
-      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#342)
-    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#343)
-      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#344)
-      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#345)
-        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#346)
-        - [Section I : Des privilèges sur les meubles (art. 2101 à 2102)](#347)
-          - [Paragraphe I : Des privilèges généraux sur les meubles. (art. 2101)](#348)
-          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#349)
-        - [Section II : Des privilèges spéciaux sur les immeubles. (art. 2103)](#350)
-        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#351)
-        - [Section III : Des privilèges généraux sur les immeubles (art. 2104)](#352)
-        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#353)
-        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#354)
-      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#355)
-        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#356)
-        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#357)
-        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#358)
-        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#359)
-        - [Section V : Des règles particulières à l'hypothèque légale des époux. (art. 2135 à 2142)](#360)
-        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2141)](#361)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#362)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#363)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#364)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#365)
-        - [Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163)](#366)
-        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164 à 2165)](#367)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#368)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#369)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#370)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#371)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#372)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#373)
-        - [Section 5 : De la vente. (art. 2205)](#374)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#375)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#376)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#377)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#378)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#379)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#380)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#381)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#382)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#383)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#384)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#385)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2270 à 2281)](#386)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#387)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#388)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#389)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#390)
+    - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-3)](#297)
+    - [Titre X : Du prêt (art. 1874 à 1914)](#298)
+      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#299)
+        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#300)
+        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#301)
+        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#302)
+      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#303)
+        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#304)
+        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#305)
+        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#306)
+      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#307)
+    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#308)
+      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#309)
+      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1951)](#310)
+        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#311)
+        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#312)
+        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#313)
+        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#314)
+        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1951)](#315)
+      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#316)
+        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#317)
+        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#318)
+        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#319)
+    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#320)
+      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#321)
+      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#322)
+        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#323)
+        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#324)
+    - [Titre XIII : Du mandat (art. 1984 à 2010)](#325)
+      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#326)
+      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#327)
+      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#328)
+      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#329)
+    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#330)
+      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#331)
+      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#332)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#333)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#334)
+        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#335)
+        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#336)
+      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#337)
+      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#338)
+    - [Titre XV : Des transactions (art. 2044 à 2058)](#339)
+    - [Titre XVI : Du compromis (art. 2062 à 2068)](#340)
+    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#341)
+      - [Chapitre I : Du gage. (art. 2073 à 2084)](#342)
+      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#343)
+    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#344)
+      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#345)
+      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#346)
+        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#347)
+        - [Section I : Des privilèges sur les meubles (art. 2101 à 2102)](#348)
+          - [Paragraphe I : Des privilèges généraux sur les meubles. (art. 2101)](#349)
+          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#350)
+        - [Section II : Des privilèges spéciaux sur les immeubles. (art. 2103)](#351)
+        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#352)
+        - [Section III : Des privilèges généraux sur les immeubles (art. 2104)](#353)
+        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#354)
+        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#355)
+      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#356)
+        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#357)
+        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#358)
+        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#359)
+        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#360)
+        - [Section V : Des règles particulières à l'hypothèque légale des époux. (art. 2135 à 2142)](#361)
+        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2141)](#362)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#363)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#364)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#365)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#366)
+        - [Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163)](#367)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164 à 2165)](#368)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#369)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#370)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#371)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#372)
+    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#373)
+      - [Chapitre Ier : De la saisie. (art. 2205)](#374)
+        - [Section 5 : De la vente. (art. 2205)](#375)
+          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#376)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#377)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#378)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#379)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#380)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#381)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#382)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#383)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#384)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#385)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#386)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2270 à 2281)](#387)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#388)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#389)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#390)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#391)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -37574,7 +37575,38 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-## Titre X : Du prêt<a id=297></a>
+## Titre VIII bis : Du contrat de promotion immobilière<a id=297></a>
+
+###### Article 1831-3
+
+Si, avant l'achèvement du programme, le maître de l'ouvrage cède les droits qu'il a sur celui-ci, le cessionnaire lui est
+substitué de plein droit, activement et passivement, dans l'ensemble du contrat. Le cédant est garant de l'exécution des
+obligations mises à la charge du maître de l'ouvrage par le contrat cédé.
+
+Les mandats spéciaux donnés au promoteur se poursuivent entre celui-ci et le cessionnaire.
+
+Le promoteur ne peut se substituer un tiers dans l'exécution des obligations qu'il a contractées envers le maître de
+l'ouvrage sans l'accord de celui-ci.
+
+Le contrat de promotion immobilière n'est opposable aux tiers qu'à partir de la date de sa mention au fichier immobilier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-579 1971-07-16
+
+_Modifié par_:
+
+  - Loi n°72-649 1972-07-11 JORF 13 juillet 1972 rectificatif JORF 19 juillet 1972
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-3 (V)
+
+
+## Titre X : Du prêt<a id=298></a>
 
 ###### Article 1874
 
@@ -37595,9 +37627,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre Ier : Du prêt à usage, ou commodat<a id=298></a>
+### Chapitre Ier : Du prêt à usage, ou commodat<a id=299></a>
 
-#### Section 1 : De la nature du prêt à usage.<a id=299></a>
+#### Section 1 : De la nature du prêt à usage.<a id=300></a>
 
 ###### Article 1875
 
@@ -37664,7 +37696,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des engagements de l'emprunteur.<a id=300></a>
+#### Section 2 : Des engagements de l'emprunteur.<a id=301></a>
 
 ###### Article 1880
 
@@ -37759,7 +37791,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de celui qui prête à usage.<a id=301></a>
+#### Section 3 : Des engagements de celui qui prête à usage.<a id=302></a>
 
 ###### Article 1888
 
@@ -37813,9 +37845,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre II : Du prêt de consommation, ou simple prêt<a id=302></a>
+### Chapitre II : Du prêt de consommation, ou simple prêt<a id=303></a>
 
-#### Section 1 : De la nature du prêt de consommation.<a id=303></a>
+#### Section 1 : De la nature du prêt de consommation.<a id=304></a>
 
 ###### Article 1892
 
@@ -37894,7 +37926,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des obligations du prêteur.<a id=304></a>
+#### Section 2 : Des obligations du prêteur.<a id=305></a>
 
 ###### Article 1898
 
@@ -37945,7 +37977,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de l'emprunteur.<a id=305></a>
+#### Section 3 : Des engagements de l'emprunteur.<a id=306></a>
 
 ###### Article 1902
 
@@ -37984,7 +38016,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre III : Du prêt à intérêt.<a id=306></a>
+### Chapitre III : Du prêt à intérêt.<a id=307></a>
 
 ###### Article 1905
 
@@ -38108,9 +38140,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-## Titre XI : Du dépôt et du séquestre<a id=307></a>
+## Titre XI : Du dépôt et du séquestre<a id=308></a>
 
-### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=308></a>
+### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=309></a>
 
 ###### Article 1915
 
@@ -38143,9 +38175,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre II : Du dépôt proprement dit<a id=309></a>
+### Chapitre II : Du dépôt proprement dit<a id=310></a>
 
-#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=310></a>
+#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=311></a>
 
 ###### Article 1917
 
@@ -38210,7 +38242,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du dépôt volontaire.<a id=311></a>
+#### Section 2 : Du dépôt volontaire.<a id=312></a>
 
 ###### Article 1921
 
@@ -38315,7 +38347,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Des obligations du dépositaire.<a id=312></a>
+#### Section 3 : Des obligations du dépositaire.<a id=313></a>
 
 ###### Article 1927
 
@@ -38671,7 +38703,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=313></a>
+#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=314></a>
 
 ###### Article 1947
 
@@ -38704,7 +38736,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 5 : Du dépôt nécessaire.<a id=314></a>
+#### Section 5 : Du dépôt nécessaire.<a id=315></a>
 
 ###### Article 1949
 
@@ -38752,9 +38784,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre III : Du séquestre<a id=315></a>
+### Chapitre III : Du séquestre<a id=316></a>
 
-#### Section 1 : Des différentes espèces de séquestre.<a id=316></a>
+#### Section 1 : Des différentes espèces de séquestre.<a id=317></a>
 
 ###### Article 1955
 
@@ -38771,7 +38803,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du séquestre conventionnel.<a id=317></a>
+#### Section 2 : Du séquestre conventionnel.<a id=318></a>
 
 ###### Article 1956
 
@@ -38854,7 +38886,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=318></a>
+#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=319></a>
 
 ###### Article 1961
 
@@ -38918,7 +38950,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-## Titre XII : Des contrats aléatoires.<a id=319></a>
+## Titre XII : Des contrats aléatoires.<a id=320></a>
 
 ###### Article 1964
 
@@ -38948,7 +38980,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre Ier : Du jeu et du pari.<a id=320></a>
+### Chapitre Ier : Du jeu et du pari.<a id=321></a>
 
 ###### Article 1965
 
@@ -39018,9 +39050,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre II : Du contrat de rente viagère<a id=321></a>
+### Chapitre II : Du contrat de rente viagère<a id=322></a>
 
-#### Section 1 : Des conditions requises pour la validité du contrat.<a id=322></a>
+#### Section 1 : Des conditions requises pour la validité du contrat.<a id=323></a>
 
 ###### Article 1968
 
@@ -39183,7 +39215,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=323></a>
+#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=324></a>
 
 ###### Article 1977
 
@@ -39315,9 +39347,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIII : Du mandat<a id=324></a>
+## Titre XIII : Du mandat<a id=325></a>
 
-### Chapitre Ier : De la nature et de la forme du mandat.<a id=325></a>
+### Chapitre Ier : De la nature et de la forme du mandat.<a id=326></a>
 
 ###### Article 1984
 
@@ -39453,7 +39485,7 @@ _Cité par_:
   - Loi du 1er juillet 1901 - art. 2 bis (V)
 
 
-### Chapitre II : Des obligations du mandataire.<a id=326></a>
+### Chapitre II : Des obligations du mandataire.<a id=327></a>
 
 ###### Article 1991
 
@@ -39590,7 +39622,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre III : Des obligations du mandant.<a id=327></a>
+### Chapitre III : Des obligations du mandant.<a id=328></a>
 
 ###### Article 1998
 
@@ -39681,7 +39713,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre IV : Des différentes manières dont le mandat finit.<a id=328></a>
+### Chapitre IV : Des différentes manières dont le mandat finit.<a id=329></a>
 
 ###### Article 2003
 
@@ -39830,9 +39862,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIV : Du cautionnement.<a id=329></a>
+## Titre XIV : Du cautionnement.<a id=330></a>
 
-### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=330></a>
+### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=331></a>
 
 ###### Article 2011
 
@@ -40156,9 +40188,9 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre II : De l'effet du cautionnement<a id=331></a>
+### Chapitre II : De l'effet du cautionnement<a id=332></a>
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=332></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=333></a>
 
 ###### Article 2021
 
@@ -40352,7 +40384,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=333></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=334></a>
 
 ###### Article 2024
 
@@ -40381,7 +40413,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=334></a>
+#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=335></a>
 
 ###### Article 2028
 
@@ -40546,7 +40578,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=335></a>
+#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=336></a>
 
 ###### Article 2033
 
@@ -40579,7 +40611,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre III : De l'extinction du cautionnement.<a id=336></a>
+### Chapitre III : De l'extinction du cautionnement.<a id=337></a>
 
 ###### Article 2034
 
@@ -40732,7 +40764,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=337></a>
+### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=338></a>
 
 ###### Article 2040
 
@@ -40840,7 +40872,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-## Titre XV : Des transactions<a id=338></a>
+## Titre XV : Des transactions<a id=339></a>
 
 ###### Article 2044
 
@@ -41221,7 +41253,7 @@ _Créé par_:
   - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
-## Titre XVI : Du compromis<a id=339></a>
+## Titre XVI : Du compromis<a id=340></a>
 
 ###### Article 2062
 
@@ -41358,7 +41390,7 @@ _Codifié par_:
   - Loi n°72-626 1972-07-05
 
 
-## Titre XVII : Du nantissement.<a id=340></a>
+## Titre XVII : Du nantissement.<a id=341></a>
 
 ###### Article 2071
 
@@ -41411,7 +41443,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre I : Du gage.<a id=341></a>
+### Chapitre I : Du gage.<a id=342></a>
 
 ###### Article 2073
 
@@ -41755,7 +41787,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre II : De l'antichrèse.<a id=342></a>
+### Chapitre II : De l'antichrèse.<a id=343></a>
 
 ###### Article 2085
 
@@ -41948,9 +41980,9 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-## Titre XVIII : Des privilèges et hypothèques.<a id=343></a>
+## Titre XVIII : Des privilèges et hypothèques.<a id=344></a>
 
-### Chapitre I : Dispositions générales.<a id=344></a>
+### Chapitre I : Dispositions générales.<a id=345></a>
 
 ###### Article 2092
 
@@ -42123,7 +42155,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : Des privilèges.<a id=345></a>
+### Chapitre II : Des privilèges.<a id=346></a>
 
 ###### Article 2095
 
@@ -42249,7 +42281,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 1 : Des privilèges sur les meubles.<a id=346></a>
+#### Section 1 : Des privilèges sur les meubles.<a id=347></a>
 
 ###### Article 2100
 
@@ -42274,9 +42306,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section I : Des privilèges sur les meubles<a id=347></a>
+#### Section I : Des privilèges sur les meubles<a id=348></a>
 
-##### Paragraphe I : Des privilèges généraux sur les meubles.<a id=348></a>
+##### Paragraphe I : Des privilèges généraux sur les meubles.<a id=349></a>
 
 ###### Article 2101
 
@@ -42393,7 +42425,7 @@ _Nouveaux textes_:
   - Code civil - art. 2331 (V)
 
 
-##### Paragraphe II : Des privilèges sur certains meubles.<a id=349></a>
+##### Paragraphe II : Des privilèges sur certains meubles.<a id=350></a>
 
 ###### Article 2102
 
@@ -42500,7 +42532,7 @@ _Cite_:
   - Code du travail 721-1
 
 
-#### Section II : Des privilèges spéciaux sur les immeubles.<a id=350></a>
+#### Section II : Des privilèges spéciaux sur les immeubles.<a id=351></a>
 
 ###### Article 2103
 
@@ -42580,7 +42612,7 @@ _Cite_:
   - Code civil - art. 878 (M)
 
 
-#### Section 3 : Des privilèges généraux sur les immeubles.<a id=351></a>
+#### Section 3 : Des privilèges généraux sur les immeubles.<a id=352></a>
 
 ###### Article 2105
 
@@ -42623,7 +42655,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
 
 
-#### Section III : Des privilèges généraux sur les immeubles<a id=352></a>
+#### Section III : Des privilèges généraux sur les immeubles<a id=353></a>
 
 ###### Article 2104
 
@@ -42701,7 +42733,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 4 : Comment se conservent les privilèges.<a id=353></a>
+#### Section 4 : Comment se conservent les privilèges.<a id=354></a>
 
 ###### Article 2106
 
@@ -43058,7 +43090,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section IV : Comment se conservent les privilèges.<a id=354></a>
+#### Section IV : Comment se conservent les privilèges.<a id=355></a>
 
 ###### Article 2107
 
@@ -43091,7 +43123,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre III : Des hypothèques.<a id=355></a>
+### Chapitre III : Des hypothèques.<a id=356></a>
 
 ###### Article 2114
 
@@ -43299,7 +43331,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 1 : Des hypothèques légales.<a id=356></a>
+#### Section 1 : Des hypothèques légales.<a id=357></a>
 
 ###### Article 2121
 
@@ -43414,7 +43446,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 2 : Des hypothèques judiciaires.<a id=357></a>
+#### Section 2 : Des hypothèques judiciaires.<a id=358></a>
 
 ###### Article 2123
 
@@ -43470,7 +43502,7 @@ _Nouveaux textes_:
   - Code civil - art. 2412 (V)
 
 
-#### Section 3 : Des hypothèques conventionnelles.<a id=358></a>
+#### Section 3 : Des hypothèques conventionnelles.<a id=359></a>
 
 ###### Article 2124
 
@@ -43783,7 +43815,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-#### Section IV : Du rang que les hypothèques ont entre elles.<a id=359></a>
+#### Section IV : Du rang que les hypothèques ont entre elles.<a id=360></a>
 
 ###### Article 2134
 
@@ -43836,7 +43868,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section V : Des règles particulières à l'hypothèque légale des époux.<a id=360></a>
+#### Section V : Des règles particulières à l'hypothèque légale des époux.<a id=361></a>
 
 ###### Article 2135
 
@@ -44025,7 +44057,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=361></a>
+#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=362></a>
 
 ###### Article 2136
 
@@ -44230,7 +44262,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=362></a>
+#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=363></a>
 
 ###### Article 2143
 
@@ -44368,7 +44400,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=363></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=364></a>
 
 ###### Article 2146
 
@@ -45035,9 +45067,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=364></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=365></a>
 
-#### Section 1 : Dispositions générales.<a id=365></a>
+#### Section 1 : Dispositions générales.<a id=366></a>
 
 ###### Article 2157
 
@@ -45267,7 +45299,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=366></a>
+#### Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=367></a>
 
 ###### Article 2163
 
@@ -45321,7 +45353,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=367></a>
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=368></a>
 
 ###### Article 2164
 
@@ -45409,7 +45441,7 @@ _Nouveaux textes_:
   - Code civil - art. 2448 (V)
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=368></a>
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=369></a>
 
 ###### Article 2166
 
@@ -45870,7 +45902,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=369></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=370></a>
 
 ###### Article 2180
 
@@ -45925,7 +45957,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=370></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=371></a>
 
 ###### Article 2181
 
@@ -46387,7 +46419,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=371></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=372></a>
 
 ###### Article 2196
 
@@ -46720,13 +46752,13 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=372></a>
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=373></a>
 
-### Chapitre Ier : De la saisie.<a id=373></a>
+### Chapitre Ier : De la saisie.<a id=374></a>
 
-#### Section 5 : De la vente.<a id=374></a>
+#### Section 5 : De la vente.<a id=375></a>
 
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=375></a>
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=376></a>
 
 ###### Article 2205
 
@@ -46756,9 +46788,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=376></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=377></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=377></a>
+### Chapitre Ier : De l'expropriation forcée<a id=378></a>
 
 ###### Article 2204
 
@@ -47102,7 +47134,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=378></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=379></a>
 
 ###### Article 2218
 
@@ -47128,9 +47160,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=379></a>
+## Titre XX : De la prescription et de la possession.<a id=380></a>
 
-### Chapitre Ier : Dispositions générales.<a id=380></a>
+### Chapitre Ier : Dispositions générales.<a id=381></a>
 
 ###### Article 2219
 
@@ -47317,7 +47349,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=381></a>
+### Chapitre II : De la possession.<a id=382></a>
 
 ###### Article 2228
 
@@ -47540,7 +47572,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=382></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=383></a>
 
 ###### Article 2236
 
@@ -47711,9 +47743,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=383></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=384></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=384></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=385></a>
 
 ###### Article 2242
 
@@ -47889,7 +47921,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=385></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=386></a>
 
 ###### Article 2251
 
@@ -48023,7 +48055,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=386></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=387></a>
 
 ###### Article 2270
 
@@ -48063,7 +48095,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 1 : Dispositions générales.<a id=387></a>
+#### Section 1 : Dispositions générales.<a id=388></a>
 
 ###### Article 2260
 
@@ -48104,7 +48136,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=388></a>
+#### Section 2 : De la prescription trentenaire.<a id=389></a>
 
 ###### Article 2262
 
@@ -48179,7 +48211,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=389></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=390></a>
 
 ###### Article 2265
 
@@ -48317,7 +48349,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=390></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=391></a>
 
 ###### Article 2271
 
