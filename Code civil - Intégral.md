@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-04-07
+Version Consolidée au 1998-05-19
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 509)](#2)
@@ -455,33 +455,32 @@ Version Consolidée au 1998-04-07
         - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#452)
         - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#453)
         - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#454)
-        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#455)
-        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2142)](#456)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#457)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#458)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#459)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#460)
-        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163 à 2165)](#461)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#462)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#463)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#464)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#465)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#466)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2217)](#467)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#468)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#469)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#470)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#471)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#472)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#473)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#474)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#475)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2270-1 à 2281)](#476)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#477)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#478)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270)](#479)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#480)
-      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#481)
+        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2142)](#455)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#456)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#457)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#458)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#459)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163 à 2165)](#460)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#461)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#462)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#463)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#464)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#465)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2217)](#466)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#467)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#468)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#469)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#470)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#471)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#472)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#473)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#474)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2270-1 à 2281)](#475)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#476)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#477)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270)](#478)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#479)
+      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#480)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -20261,44 +20260,58 @@ _Créé par_:
 Le conseil de famille est convoqué par le juge des tutelles. Il doit l'être si la convocation est requise, soit par deux de
 ses membres, soit par le tuteur ou le subrogé tuteur, soit par le mineur lui-même pourvu qu'il ait seize ans révolus.
 
+Le conseil de famille est également convoqué à la demande du mineur âgé de moins de seize ans et capable de discernement,
+sauf décision contraire spécialement motivée du juge.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 _Modifié par_:
 
-  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+  - Loi n°98-381 du 14 mai 1998 - art. 1 () JORF 19 mai 1998
 
 _Cité par_:
 
   - Code civil - art. 447 (VT)
 
-
-###### Article 411
-
-La convocation doit être faite huit jours au moins avant la réunion.
-
-**Liens relatifs à cet article**
-
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+###### Article 411
+
+La convocation doit être faite huit jours au moins avant la réunion. 
+
+Préalablement à cette réunion, le juge procède à l'audition du mineur capable de discernement dans les conditions prévues à
+l'article 388-1.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°98-381 du 14 mai 1998 - art. 2 () JORF 19 mai 1998
+
+_Cite_:
+
+  - Code civil - art. 388-1 (VT)
 
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. L222-5 (V)
   - Code de la construction et de l'habitation. - art. R443-38 (Ab)
   - Décret du 26 mars 1910 - art. 12 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 412
@@ -20401,16 +20414,20 @@ Le conseil de famille est présidé par le juge des tutelles, qui aura voix dél
 Le tuteur doit assister à la séance ; il y est entendu mais ne vote pas, non plus que le subrogé tuteur dans le cas où il
 remplace le tuteur.
 
-Le mineur âgé de seize ans révolus peut, si le juge l'estime utile, assister à la séance à titre consultatif. Il y est
-obligatoirement convoqué, quand le conseil a été réuni à sa réquisition.
+Le mineur capable de discernement peut, si le juge ne l'estime pas contraire à son intérêt, assister à la séance à titre
+consultatif. Le mineur de seize ans révolus est obligatoirement convoqué quand le conseil a été réuni à sa réquisition.
 
 En aucun cas, son assentiment à un acte ne décharge le tuteur et les autres organes de la tutelle de leurs responsabilités.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+  - Loi n°98-381 du 14 mai 1998 - art. 3 () JORF 19 mai 1998
 
 _Cité par_:
 
@@ -62986,60 +63003,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-#### Section IV : Du rang que les hypothèques ont entre elles.<a id=455></a>
-
-###### Article 2134
-
-Entre les créanciers, l'hypothèque, soit légale, soit judiciaire, soit conventionnelle, n'a rang que du jour de l'inscription
-prise par le créancier à la conservation des hypothèques, dans la forme et de la manière prescrites par la loi.
-
-Lorsque plusieurs inscriptions sont requises le même jour relativement au même immeuble, celle qui est requise en vertu du
-titre portant la date la plus ancienne est réputée d'un rang antérieur, quel que soit l'ordre qui résulte du registre prévu à
-l'article 2200.
-
-Dans le cas où le requérant est légalement dispensé de la représentation d'un titre, le rang de son inscription est réputé
-antérieur à celui de toute inscription d'hypothèque judiciaire ou conventionnelle requise le même jour.
-
-Si plusieurs inscriptions sont prises le même jour relativement au même immeuble, soit en vertu de titres portant la même
-date, soit au profit de requérants légalement dispensés de la représentation d'un titre, les inscriptions viennent en
-concurrence quel que soit l'ordre du registre susvisé.
-
-L'ordre de préférence entre les créanciers privilégiés ou hypothécaires et les porteurs de warrants, dans la mesure où ces
-derniers sont gagés sur des biens réputés immeubles, est déterminé par les dates auxquelles les titres respectifs ont été
-publiés, la publicité des warrants demeurant soumise aux lois spéciales qui les régissent.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 45 (M)
-  - Code civil - art. 2135 (Ab)
-  - Code civil - art. 2136 (T)
-  - Code civil - art. 2137 (T)
-
-_Modifié par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 20 () JORF 7 janvier 1955
-
-_Cite_:
-
-  - Code civil - art. 2200 (T)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2425 (M)
-  - Code civil - art. 2425 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=456></a>
+#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=455></a>
 
 ###### Article 2136
 
@@ -63398,7 +63362,7 @@ _Cite_:
   - Code civil 2136 à 2141
 
 
-#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=457></a>
+#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=456></a>
 
 ###### Article 2143
 
@@ -63536,7 +63500,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=458></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=457></a>
 
 ###### Article 2146
 
@@ -64242,9 +64206,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=459></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=458></a>
 
-#### Section 1 : Dispositions générales.<a id=460></a>
+#### Section 1 : Dispositions générales.<a id=459></a>
 
 ###### Article 2157
 
@@ -64474,7 +64438,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=461></a>
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=460></a>
 
 ###### Article 2163
 
@@ -64621,7 +64585,7 @@ _Nouveaux textes_:
   - Code civil - art. 2448 (V)
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=462></a>
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=461></a>
 
 ###### Article 2166
 
@@ -65082,7 +65046,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=463></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=462></a>
 
 ###### Article 2180
 
@@ -65137,7 +65101,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=464></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=463></a>
 
 ###### Article 2181
 
@@ -65599,7 +65563,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=465></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=464></a>
 
 ###### Article 2196
 
@@ -65932,9 +65896,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=466></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=465></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=467></a>
+### Chapitre Ier : De l'expropriation forcée<a id=466></a>
 
 ###### Article 2204
 
@@ -66296,7 +66260,7 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=468></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=467></a>
 
 ###### Article 2218
 
@@ -66322,9 +66286,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=469></a>
+## Titre XX : De la prescription et de la possession.<a id=468></a>
 
-### Chapitre Ier : Dispositions générales.<a id=470></a>
+### Chapitre Ier : Dispositions générales.<a id=469></a>
 
 ###### Article 2219
 
@@ -66511,7 +66475,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=471></a>
+### Chapitre II : De la possession.<a id=470></a>
 
 ###### Article 2228
 
@@ -66734,7 +66698,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=472></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=471></a>
 
 ###### Article 2236
 
@@ -66905,9 +66869,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=473></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=472></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=474></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=473></a>
 
 ###### Article 2242
 
@@ -67083,7 +67047,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=475></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=474></a>
 
 ###### Article 2251
 
@@ -67217,7 +67181,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=476></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=475></a>
 
 ###### Article 2270-1
 
@@ -67247,7 +67211,7 @@ _Cité par_:
   - Code des assurances - art. L422-3 (M)
 
 
-#### Section 1 : Dispositions générales.<a id=477></a>
+#### Section 1 : Dispositions générales.<a id=476></a>
 
 ###### Article 2260
 
@@ -67288,7 +67252,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=478></a>
+#### Section 2 : De la prescription trentenaire.<a id=477></a>
 
 ###### Article 2262
 
@@ -67363,7 +67327,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=479></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=478></a>
 
 ###### Article 2265
 
@@ -67548,7 +67512,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°78-12 1978-04-01 art. 14 *l'article 2270 du code civil, tel que modifié en 1978, s'applique aux contrats relatifs aux chantiers dont la déclaration réglementaire d'ouverture a été établie postérieurement à la date du 1er janvier 1979*
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=480></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=479></a>
 
 ###### Article 2271
 
@@ -67893,7 +67857,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre VI : De la protection possessoire.<a id=481></a>
+### Chapitre VI : De la protection possessoire.<a id=480></a>
 
 ###### Article 2282
 
