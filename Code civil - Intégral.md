@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1999-11-16
+Version Consolidée au 1999-12-30
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -19,7 +19,7 @@ Version Consolidée au 1999-11-16
           - [Paragraphe 2 : Acquisition de la nationalité française à raison du mariage (art. 21-1 à 21-6)](#16)
           - [Paragraphe 3 : Acquisition de la nationalité française à raison de la naissance et de la résidence en France (art. 21-7 à 21-11)](#17)
           - [Paragraphe 4 : Acquisition de la nationalité française par déclaration de nationalité (art. 21-12 à 21-14)](#18)
-          - [Paragraphe 5 : Acquisition de la nationalité française par décision de l'autorité publique (art. 21-15 à 21-25-1)](#19)
+          - [Paragraphe 5 : Acquisition de la nationalité française par décision de l'autorité publique (art. 21-14-1 à 21-25-1)](#19)
           - [Paragraphe 6 : Dispositions communes à certains modes d'acquisition de la nationalité française (art. 21-26 à 21-27)](#20)
         - [Section 2 : Des effets de l'acquisition de la nationalité française (art. 22 à 22-3)](#21)
       - [Chapitre IV : De la perte, de la déchéance et de la réintégration dans la nationalité française (art. 23 à 25-1)](#22)
@@ -2431,10 +2431,14 @@ _Cite_:
 
 ##### Paragraphe 5 : Acquisition de la nationalité française par décision de l'autorité publique<a id=19></a>
 
-###### Article 21-15
+###### Article 21-14-1
 
-L'acquisition de la nationalité française par décision de l'autorité publique résulte d'une naturalisation accordée par
-décret à la demande de l'étranger.
+La nationalité française est conférée par décret, sur proposition du ministre de la défense, à tout étranger engagé dans les
+armées françaises qui a été blessé en mission au cours ou à l'occasion d'un engagement opérationnel et qui en fait la
+demande. 
+
+En cas de décès de l'intéressé, dans les conditions prévues au premier alinéa, la même procédure est ouverte à ses enfants
+mineurs qui, au jour du décès, remplissaient la condition de résidence prévue à l'article 22-1.
 
 **Liens relatifs à cet article**
 
@@ -2444,7 +2448,32 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+  - Loi n°99-1141 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
+
+_Cité par_:
+
+  - Décret n°2004-459 du 28 mai 2004 - art. 1 (VT)
+  - Décret n°2008-956 du 12 septembre 2008 - art. 6 (V)
+  - Code civil - art. 21-15 (V)
+  - Code civil - art. 21-28 (VD)
+  - Code de la défense. - art. L4142-5 (V)
+  - Code des relations entre le public et l'adminis... - art. R221-15 (VD)
+
+_Cite_:
+
+  - Code civil - art. 22-1 (V)
+
+
+###### Article 21-15
+
+Hors le cas prévu à l'article 21-14-1, l'acquisition de la nationalité française par décision de l'autorité publique résulte
+d'une naturalisation accordée par décret à la demande de l'étranger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-933 1993-07-22
 
 _Cité par_:
 
@@ -2454,6 +2483,14 @@ _Cité par_:
   - Code civil - art. 21-28 (VD)
   - Code de la défense. - art. L4142-5 (V)
   - Code des relations entre le public et l'adminis... - art. R221-15 (VD)
+
+_Modifié par_:
+
+  - Loi n°99-1141 du 29 décembre 1999 - art. 2 () JORF 30 décembre 1999
+
+_Cite_:
+
+  - Code civil - art. 21-14-1 (V)
 
 _Anciens textes_:
 
@@ -2902,8 +2939,8 @@ nationalité française, devient français de plein droit s'il a la même résid
 alternativement avec ce parent dans le cas de séparation ou divorce.
 
 Les dispositions du présent article ne sont applicables à l'enfant d'une personne qui acquiert la nationalité française par
-décision de l'autorité publique ou par déclaration de nationalité que si son nom est mentionné dans le décret de
-naturalisation ou dans la déclaration.
+décision de l'autorité publique ou par déclaration de nationalité que si son nom est mentionné dans le décret ou dans la
+déclaration.
 
 **Liens relatifs à cet article**
 
@@ -2930,7 +2967,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-170 du 16 mars 1998 - art. 11 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
 
 _Anciens textes_:
 
@@ -3700,8 +3737,8 @@ _Cite_:
 
 ###### Article 27
 
-Toute décision déclarant irrecevable, ajournant ou rejetant une demande de naturalisation ou de réintégration par décret
-ainsi qu'une autorisation de perdre la nationalité française doit être motivée.
+Toute décision déclarant irrecevable, ajournant ou rejetant une demande d'acquisition, de naturalisation ou de réintégration
+par décret ainsi qu'une autorisation de perdre la nationalité française doit être motivée.
 
 **Liens relatifs à cet article**
 
@@ -3710,21 +3747,19 @@ _Anciens textes_:
   - Code de la nationalité française 110
   - Code de la nationalité française. - art. 110 (Ab)
 
-_Créé par_:
-
-  - Loi n°1803-03-08 promulguée le 18 mars 1803
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-
 _Codifié par_:
 
   - Loi n°93-933 1993-07-22
 
+_Modifié par_:
+
+  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
 
 ###### Article 27-1
 
-Les décrets portant naturalisation ou réintégration, autorisation de perdre la nationalité française, perte ou déchéance de
-cette nationalité, sont pris et publiés dans des formes fixées par décret. Ils n'ont point d'effet rétroactif.
+Les décrets portant acquisition, naturalisation ou réintégration, autorisation de perdre la nationalité française, perte ou
+déchéance de cette nationalité, sont pris et publiés dans des formes fixées par décret. Ils n'ont point d'effet rétroactif.
 
 **Liens relatifs à cet article**
 
@@ -3737,17 +3772,17 @@ _Codifié par_:
 
   - Loi n°93-933 1993-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
 
 
 ###### Article 27-2
 
-Les décrets portant naturalisation ou réintégration peuvent être rapportés sur avis conforme du Conseil d'Etat dans le délai
-d'un an à compter de leur publication au Journal officiel si le requérant ne satisfait pas aux conditions légales ; si la
-décision a été obtenue par mensonge ou fraude, ces décrets peuvent être rapportés dans le délai de deux ans à partir de la
-découverte de la fraude.
+Les décrets portant acquisition, naturalisation ou réintégration peuvent être rapportés sur avis conforme du Conseil d'Etat
+dans le délai d'un an à compter de leur publication au Journal officiel si le requérant ne satisfait pas aux conditions
+légales ; si la décision a été obtenue par mensonge ou fraude, ces décrets peuvent être rapportés dans le délai de deux ans à
+partir de la découverte de la fraude.
 
 **Liens relatifs à cet article**
 
@@ -3760,13 +3795,13 @@ _Codifié par_:
 
   - Loi n°93-933 1993-07-22
 
-_Créé par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-
 _Cité par_:
 
   - Décret n°93-1362 du 30 décembre 1993 - art. 62 (V)
+
+_Modifié par_:
+
+  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
 
 
 ###### Article 27-3
@@ -3843,10 +3878,10 @@ des actes dressés pour en tenir lieu.
 
 Ces mentions sont également portées sur les extraits des actes de naissance ou sur le livret de famille à la demande des
 intéressés. Toutefois, la mention de la perte, de la déclination, de la déchéance, de l'opposition à l'acquisition de la
-nationalité française, du retrait du décret de naturalisation ou de réintégration ou de la décision judiciaire ayant constaté
-l'extranéité est portée d'office sur les extraits des actes de naissance et sur le livret de famille lorsqu'une personne
-ayant antérieurement acquis cette nationalité, ou s'étant vu reconnaître judiciairement celle-ci, ou délivrer un certificat
-de nationalité française a demandé qu'il en soit fait mention sur lesdits documents.
+nationalité française, du retrait du décret d'acquisition, de naturalisation ou de réintégration ou de la décision judiciaire
+ayant constaté l'extranéité est portée d'office sur les extraits des actes de naissance et sur le livret de famille
+lorsqu'une personne ayant antérieurement acquis cette nationalité, ou s'étant vu reconnaître judiciairement celle-ci, ou
+délivrer un certificat de nationalité française a demandé qu'il en soit fait mention sur lesdits documents.
 
 **Liens relatifs à cet article**
 
@@ -3869,7 +3904,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-170 du 16 mars 1998 - art. 17 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
 
 
 ### Chapitre VI : Du contentieux de la nationalité<a id=30></a>
@@ -4057,9 +4092,9 @@ _Anciens textes_:
 
 ###### Article 30-1
 
-Lorsque la nationalité française est attribuée ou acquise autrement que par déclaration, naturalisation, réintégration ou
-annexion de territoires, la preuve ne peut être faite qu'en établissant l'existence de toutes les conditions requises par la
-loi.
+Lorsque la nationalité française est attribuée ou acquise autrement que par déclaration, décret d'acquisition ou de
+naturalisation, réintégration ou annexion de territoires, la preuve ne peut être faite qu'en établissant l'existence de
+toutes les conditions requises par la loi.
 
 **Liens relatifs à cet article**
 
@@ -4072,9 +4107,9 @@ _Codifié par_:
 
   - Loi n°93-933 1993-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
 
 
 ###### Article 30-2
