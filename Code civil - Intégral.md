@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1967-07-09
+Version Consolidée au 1967-08-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -264,7 +264,7 @@ Version Consolidée au 1967-07-09
         - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#261)
         - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#262)
         - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#263)
-      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1780 à 1799)](#264)
+      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1779 à 1799)](#264)
         - [Section 1 : Du louage des domestiques et ouvriers. (art. 1780)](#265)
         - [Section 2 : Des voituriers par terre et par eau. (art. 1782 à 1786)](#266)
         - [Section 3 : Des devis et des marchés. (art. 1787 à 1799)](#267)
@@ -31642,6 +31642,47 @@ _Créé par_:
 
 
 ### Chapitre III : Du louage d'ouvrage et d'industrie.<a id=264></a>
+
+###### Article 1779
+
+Il y a trois espèces principales de louage d'ouvrage et d'industrie :
+
+1° Le louage des gens de travail qui s'engagent au service de quelqu'un ;
+
+2° Celui des voituriers, tant par terre que par eau, qui se chargent du transport des personnes ou des marchandises ;
+
+3° Celui des architectes, entrepreneurs d'ouvrages et techniciens par suite d'études, devis ou marchés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+_Modifié par_:
+
+  - Loi n°67-3 du 3 janvier 1967 - art. 4 () JORF 4 janvier 1967 en vigueur le 1er août 1967
+
+_Cité par_:
+
+  - Loi n°71-579 du 16 juillet 1971 - art. 33 (Ab)
+  - Loi n°71-584 du 16 juillet 1971 - art. 1 (V)
+  - Loi n°82-526 du 22 juin 1982 - art. 62 (Ab)
+  - Décret n°99-776 du 8 septembre 1999 - art. 1 (Ab)
+  - Arrêté du 14 janvier 2009 - art. (V)
+  - Loi n°2013-569 du 1er juillet 2013 - art. 1 (V)
+  - Code civil - art. 1799-1 (VD)
+  - Code de la construction et de l'habitation. - art. L111-3-1 (V)
+  - Code de la construction et de l'habitation. - art. L222-1 (V)
+  - Code de la construction et de l'habitation. - art. L222-2 (V)
+  - Code de la construction et de l'habitation. - art. L242-2 (V)
+  - Code des assurances - art. R421-24-3 (V)
+  - Code monétaire et financier - art. D313-26 (VD)
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
 
 #### Section 1 : Du louage des domestiques et ouvriers.<a id=265></a>
 
