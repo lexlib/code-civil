@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1803-03-18
+Version Consolidée au 1803-03-21
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 143)](#2)
@@ -7,9 +7,15 @@ Version Consolidée au 1803-03-18
       - [Chapitre Ier : De la jouissance des droits civils. (art. 12 à 16)](#4)
     - [Titre Ier bis : De la nationalité française (art. 17)](#5)
       - [Chapitre Ier : Dispositions générales (art. 17)](#6)
-    - [Titre III : Du domicile (art. 102)](#7)
-    - [Titre IV : Des absents (art. 133 à 143)](#8)
-      - [Chapitre II : De la déclaration d'absence (art. 133 à 143)](#9)
+    - [Titre II : Des actes de l'état civil (art. 35 à 94)](#7)
+      - [Chapitre Ier : Dispositions générales. (art. 35 à 54)](#8)
+      - [Chapitre II : Des actes de naissance. (art. 60 à 61)](#9)
+      - [Chapitre III : Des actes de mariage. (art. 66)](#10)
+      - [Chapitre IV : Des actes de décès. (art. 77 à 85)](#11)
+      - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94)](#12)
+    - [Titre III : Du domicile (art. 102)](#13)
+    - [Titre IV : Des absents (art. 133 à 143)](#14)
+      - [Chapitre II : De la déclaration d'absence (art. 133 à 143)](#15)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -268,7 +274,566 @@ _Créé par_:
   - Loi n°1803-03-08 promulguée le 18 mars 1803
 
 
-## Titre III : Du domicile<a id=7></a>
+## Titre II : Des actes de l'état civil<a id=7></a>
+
+### Chapitre Ier : Dispositions générales.<a id=8></a>
+
+###### Article 35
+
+Les officiers de l'état civil ne pourront rien insérer dans les actes qu'ils recevront, soit par note, soit par énonciation
+quelconque, que ce qui doit être déclaré par les comparants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 36
+
+Dans les cas où les parties intéressées ne seront point obligées de comparaître en personne, elles pourront se faire
+représenter par un fondé de procuration spéciale et authentique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 39
+
+Ces actes seront signés par l'officier de l'état civil, par les comparants et les témoins ; ou mention sera faite de la cause
+qui empêchera les comparants et les témoins de signer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 40
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
+
+_Cité par_:
+
+  - Décret n°2017-890 du 6 mai 2017 - art. 13 (VD)
+  - Loi n°2018-727 du 10 août 2018 - art. 46 (V)
+  - Ordonnance n°2019-724 du 10 juillet 2019 - art. 12 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 41
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
+
+_Cité par_:
+
+  - Arrêté du 12 décembre 2014 - art. 33 (VD)
+  - Arrêté du 27 novembre 2018 - art. 17 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 42
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 43
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+_Cité par_:
+
+  - Ordonnance du Roi du 26 novembre 1823  - art. 4 (VT)
+
+
+###### Article 44
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+_Cité par_:
+
+  - Ordonnance du Roi du 26 novembre 1823  - art. 4 (VT)
+
+
+###### Article 45
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+_Cité par_:
+
+  - Ordonnance n°59-68 du 7 janvier 1959 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
+
+
+###### Article 46
+
+Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en sera reçue tant par titres que par témoins ;
+et, dans ces cas, les mariages, naissances et décès pourront être prouvés tant par les registres et papiers émanés des pères
+et mères décédés, que par témoins.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°68-671 du 25 juillet 1968 - art. 4 (V)
+  - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
+  - Décret n°2017-890 du 6 mai 2017 - art. 15 (VD)
+  - Décret n°2017-890 du 6 mai 2017 - art. 15-1 (VD)
+  - Décret n°2019-756 du 22 juillet 2019 - art. 11
+  - Décret n°2019-756 du 22 juillet 2019 - art. 9
+  - Code civil - art. 194 (V)
+  - Code de procédure civile - art. 1578 (V)
+  - Code général des impôts, CGI. - art. 1119 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 51
+
+Tout dépositaire des registres sera civilement responsable des altérations qui y surviendront, sauf son recours, s'il y a
+lieu, contre les auteurs desdites altérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 52
+
+Toute altération, tout faux dans les actes de l'état civil, toute inscription de ces actes faite sur une feuille volante et
+autrement que sur les registres à ce destinés, donneront lieu aux dommages-intérêts des parties, sans préjudice des peines
+portées au code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 53
+
+Le procureur de la République au tribunal de grande instance sera tenu de vérifier l'état des registres lors du dépôt qui en
+sera fait au greffe ; il dressera un procès-verbal sommaire de la vérification, dénoncera les contraventions ou délits commis
+par les officiers de l'état civil, et requerra contre eux la condamnation aux amendes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+_Cité par_:
+
+  - Ordonnance du 26 novembre 1823 - art. 1 (VT)
+  - Code de procédure pénale - art. R215 (V)
+
+
+###### Article 54
+
+Dans tous les cas où un tribunal de grande instance connaîtra des actes relatifs à l'état civil, les parties intéressées
+pourront se pourvoir contre le jugement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+### Chapitre II : Des actes de naissance.<a id=9></a>
+
+###### Article 60
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+
+_Cité par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (VD)
+  - Arrêté du 23 décembre 2004 - art. 2 (V)
+  - Décret n°2017-450 du 29 mars 2017 (V)
+  - Décret n°2017-450 du 29 mars 2017 - art. 2
+  - Code de procédure civile - art. 1055-2 (VD)
+  - Code de procédure civile - art. 1055-3 (VD)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 61
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°53-1169 du 28 novembre 1953 - art. 2 (Ab)
+  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+  - Décret n°2004-459 du 28 mai 2004 - art. 1 (VT)
+  - Décret n°2015-1411 du 5 novembre 2015 - art. Annexe I (V)
+  - Code de justice administrative - art. L311-2 (V)
+  - Code des relations entre le public et l'adminis... - art. R221-15 (VD)
+
+_Abrogé par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+### Chapitre III : Des actes de mariage.<a id=10></a>
+
+###### Article 66
+
+Les actes d'opposition au mariage seront signés sur l'original et sur la copie par les opposants ou par leurs fondés de
+procuration, spéciale et authentique ; ils seront signifiés, avec la copie de la procuration, à la personne ou au domicile
+des parties, et à l'officier de l'état civil, qui mettra son visa sur l'original.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+### Chapitre IV : Des actes de décès.<a id=11></a>
+
+###### Article 77
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°60-285 1960-03-28 art. 1 JORF 31 mars 1960
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°99-201 1999-03-18 (dispositions spécifiques à la Nouvelle-Calédonie et à la Polynésie française)
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 1 (V)
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 2 (V)
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 3 (V)
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 4 (V)
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 5 (V)
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 6 (V)
+  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 7 (V)
+
+_Cité par_:
+
+  - Décret n°99-201 du 18 mars 1999 - art. 7 (V)
+  - Décret n°2009-91 du 26 janvier 2009 (V)
+  - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
+  - Code civil - art. 93 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 81
+
+Lorsqu'il y aura des signes ou indices de mort violente, ou d'autres circonstances qui donneront lieu de le soupçonner, on ne
+pourra faire l'inhumation qu'après qu'un officier de police, assisté d'un docteur en médecine ou en chirurgie, aura dressé
+procès-verbal de l'état du cadavre et des circonstances y relatives, ainsi que des renseignements qu'il aura pu recueillir
+sur les prénoms, nom, âge, profession, lieu de naissance et domicile de la personne décédée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°41-5050 du 31 décembre 1941 - art. 5-1 (Ab)
+  - Décret n°74-27 du 14 janvier 1974 - art. 72 (Ab)
+  - CODE DES COMMUNES. - art. R361-38 (Ab)
+  - CODE DES COMMUNES. - art. R364-17 (Ab)
+  - Code de la santé publique - art. R1112-73 (V)
+  - Code général des collectivités territoriales - art. R2213-28 (VD)
+  - Code général des collectivités territoriales - art. R2223-77 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 82
+
+L'officier de police sera tenu de transmettre de suite à l'officier de l'état civil du lieu où la personne sera décédée, tous
+les renseignements énoncés dans son procès-verbal, d'après lesquels l'acte de décès sera rédigé.
+
+L'officier de l'état civil en enverra une expédition à celui du domicile de la personne décédée, s'il est connu : cette
+expédition sera inscrite sur les registres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 83
+
+Les greffiers criminels seront tenus d'envoyer, dans les vingt-quatre heures de l'exécution des jugements portant peine de
+mort, à l'officier de l'état civil du lieu où le condamné aura été exécuté, tous les renseignements énoncés en l'article 79,
+d'après lesquels l'acte de décès sera rédigé.
+
+**Nota:**
+
+La loi 81-908 du 9 octobre 1981 a aboli la peine de mort.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 158
+
+_Cite_:
+
+  - Code civil - art. 79
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 84
+
+En cas de décès dans les prisons ou maisons de réclusion ou de détention, il en sera donné avis sur-le-champ, par les
+concierges ou gardiens, à l'officier de l'état civil, qui s'y transportera comme il est dit en l'article 80, et rédigera
+l'acte de décès.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 80 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D282 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 85
+
+Dans tous les cas de mort violente, ou dans les prisons et maisons de réclusion, ou d'exécution à mort, il ne sera fait sur
+les registres aucune mention de ces circonstances, et les actes de décès seront simplement rédigés dans les formes prescrites
+par l'article 79.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 79 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+### Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux.<a id=12></a>
+
+###### Article 94
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°57-1232 du 28 novembre 1957 - art. 2 (Ab)
+  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+
+_Abrogé par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+## Titre III : Du domicile<a id=13></a>
 
 ###### Article 102
 
@@ -302,9 +867,9 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-## Titre IV : Des absents<a id=8></a>
+## Titre IV : Des absents<a id=14></a>
 
-### Chapitre II : De la déclaration d'absence<a id=9></a>
+### Chapitre II : De la déclaration d'absence<a id=15></a>
 
 ###### Article 133
 
