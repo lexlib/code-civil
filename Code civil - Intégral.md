@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2004-06-22
+Version Consolidée au 2004-06-26
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -451,48 +451,47 @@ Version Consolidée au 2004-06-22
       - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#448)
       - [Chapitre II : Des privilèges. (art. 2095 à 2113)](#449)
         - [Section 1 : Des privilèges sur les meubles. (art. 2100 à 2102)](#450)
-          - [Paragraphe 2 : Des privilèges sur certains meubles. (art. 2102)](#451)
-        - [Section I : Des privilèges sur les meubles (art. 2101)](#452)
-          - [Paragraphe I : Des privilèges généraux sur les meubles. (art. 2101)](#453)
-        - [Section 2 : Des privilèges spéciaux sur les immeubles. (art. 2103)](#454)
-        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2104 à 2105)](#455)
-        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#456)
-      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#457)
-        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#458)
-        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#459)
-        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#460)
-        - [Section 4 : Du rang que les hypothèques ont entre elles. (art. 2134)](#461)
-        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2142)](#462)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#463)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#464)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#465)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#466)
-        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163 à 2165)](#467)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#468)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#469)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#470)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203-1)](#471)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#472)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2217)](#473)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#474)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#475)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#476)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#477)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#478)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#479)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#480)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#481)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#482)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#483)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#484)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270-1)](#485)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#486)
-      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#487)
-  - [Livre IV : Dispositions applicables à Mayotte (art. 2284 à 2302)](#488)
-    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2286)](#489)
-    - [Titre Ier : Dispositions relatives au livre Ier (art. 2287 à 2293)](#490)
-    - [Titre II : Dispositions relatives au livre II (art. 2294 à 2296)](#491)
-    - [Titre III : Dispositions relatives au livre III (art. 2297 à 2302)](#492)
+          - [Paragraphe 1 : Des privilèges généraux sur les meubles. (art. 2101)](#451)
+          - [Paragraphe 2 : Des privilèges sur certains meubles. (art. 2102)](#452)
+        - [Section 2 : Des privilèges spéciaux sur les immeubles. (art. 2103)](#453)
+        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2104 à 2105)](#454)
+        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#455)
+      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#456)
+        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#457)
+        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#458)
+        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#459)
+        - [Section 4 : Du rang que les hypothèques ont entre elles. (art. 2134)](#460)
+        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2142)](#461)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#462)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#463)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#464)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#465)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163 à 2165)](#466)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#467)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#468)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#469)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203-1)](#470)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#471)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2217)](#472)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#473)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#474)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#475)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#476)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#477)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#478)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#479)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#480)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#481)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#482)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#483)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270-1)](#484)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#485)
+      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#486)
+  - [Livre IV : Dispositions applicables à Mayotte (art. 2284 à 2302)](#487)
+    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2286)](#488)
+    - [Titre Ier : Dispositions relatives au livre Ier (art. 2287 à 2293)](#489)
+    - [Titre II : Dispositions relatives au livre II (art. 2294 à 2296)](#490)
+    - [Titre III : Dispositions relatives au livre III (art. 2297 à 2302)](#491)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -62961,7 +62960,169 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-##### Paragraphe 2 : Des privilèges sur certains meubles.<a id=451></a>
+##### Paragraphe 1 : Des privilèges généraux sur les meubles.<a id=451></a>
+
+###### Article 2101
+
+Les créances privilégiées sur la généralité des meubles sont celles ci-après exprimées, et s'exercent dans l'ordre suivant :
+
+1° Les frais de justice ;
+
+2° Les frais funéraires ;
+
+3° Les frais quelconques de la dernière maladie, quelle qu'en ait été la terminaison, concurremment entre ceux à qui ils sont
+dus ;
+
+4° Sans préjudice de l'application éventuelle des dispositions des articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du
+code du travail :
+
+Les rémunérations des gens de service pour l'année échue et l'année courante :
+
+Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
+famille et à la natalité françaises, pour l'année échue et l'année courante :
+
+La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
+développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
+social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural.
+
+Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
+d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
+
+L'indemnité de fin de contrat prévue à l'article L. 122-3-4 du code du travail et l'indemnité de précarité d'emploi prévue à
+l'article L. 124-4-4 du même code.
+
+L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-8 du code du travail et l'indemnité
+compensatrice prévue à l'article L. 122-32-6 du même code.
+
+Les indemnités dues pour les congés payés ;
+
+Les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
+d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-9, L. 122-32-6, L. 761-5 et L.
+761-7 du code du travail pour la totalité de la portion inférieure ou égale au plafond visé à l'article L. 143-10 du code du
+travail et pour le quart de la portion supérieure audit plafond ;
+
+Les indemnités dues, le cas échéant, aux salariés, en application des articles L. 122-3-8, deuxième alinéa,  L. 122-14-4, L.
+122-14-5, deuxième alinéa, L. 122-32-7 et L. 122-32-9 du code du travail.
+
+5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la dernière année et, pendant le même délai,
+les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué, ainsi que
+les sommes dues par tout contractant d'un exploitant agricole en application d'un contrat type homologué.
+
+6° La créance de la victime de l'accident ou de ses ayants droit relative aux frais médicaux, pharmaceutiques et funéraires,
+ainsi qu'aux indemnités allouées à la suite de l'incapacité temporaire de travail ;
+
+7° Les allocations dues aux ouvriers et employés par les caisses de compensation et autres institutions agréées pour le
+service des allocations familiales ou par les employeurs dispensés de l'affiliation à une telle institution en vertu de
+l'article 74 f du livre Ier du code du travail ;
+
+8° Les créances des caisses de compensation et autres institutions agréées pour le service des allocations familiales à
+l'égard de leurs adhérents, pour les cotisations que ceux-ci se sont engagés à leur verser en vue du paiement des allocations
+familiales et de la péréquation des charges résultant du versement desdites prestations.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1913-07-03 du 3 juillet 1913 - art. 11 (M)
+  - Loi n°1922-07-22 du 22 juillet 1922 - art. 24 (M)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 47 (M)
+  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (M)
+  - Ordonnance n°45-2250 du 4 octobre 1945 - art. 36 (V)
+  - Ordonnance n°45-2456 du 19 octobre 1945 - art. 55 (M)
+  - Décret n°46-2769 du 27 novembre 1946 - art. 65 (M)
+  - Décret n°49-1416 du 5 octobre 1949 - art. 48 (Ab)
+  - Loi n°52-1322 du 15 décembre 1952 - art. 103 (M)
+  - Loi n°52-1322 du 15 décembre 1952 - art. 104 (M)
+  - Loi n°52-1322 du 15 décembre 1952 - art. 44 (M)
+  - Loi n°57-298 du 11 mars 1957 - art. 58 (Ab)
+  - Loi n°57-298 du 11 mars 1957 - art. 63-6 (Ab)
+  - Décret n°65-773 du 9 septembre 1965 - art. 54 (Ab)
+  - Loi n°67-563 du 13 juillet 1967 - art. 50 (Ab)
+  - Décret n°68-253 du 19 mars 1968 - art. 38 (Ab)
+  - Décret n°68-382 du 5 avril 1968 - art. 29 (M)
+  - Décret n°68-960 du 11 octobre 1968 - art. 27 (M)
+  - Loi n°85-98 du 25 janvier 1985 - art. 128 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
+  - Loi n°86-845 du 17 juillet 1986 - art. 21 (M)
+  - Arrêté du 15 mars 1988 - art. Annexe (M)
+  - Loi n°89-1008 du 31 décembre 1989 - art. 14 (M)
+  - Loi n°90-9 du 2 janvier 1990 - art. 5 (Ab)
+  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8 (MMN)
+  - CODE DES COMMUNES. - art. L354-10 (Ab)
+  - Code civil - art. 2101 (M)
+  - Code civil - art. 2121 (T)
+  - Code de commerce. - art. L626-20 (VT)
+  - Code de l'aviation civile - art. L426-5 (M)
+  - Code de la mutualité - art. L212-23 (M)
+  - Code de la mutualité - art. L222-9 (MMN)
+  - Code de la sécurité sociale. - art. L243-4 (M)
+  - Code de la sécurité sociale. - art. L731-13 (T)
+  - Code de la sécurité sociale. - art. L732-7 (Ab)
+  - Code de la sécurité sociale. - art. L931-22 (M)
+  - Code de la sécurité sociale. - art. R612-4 (M)
+  - Code des assurances - art. L142-4 (VD)
+  - Code des assurances - art. L143-7 (VT)
+  - Code des assurances - art. L327-2 (M)
+  - Code des pensions civiles et militaires de retrait - art. L56 (M)
+  - Code des pensions de retraite des marins français  - art. L30 (M)
+  - Code des pensions de retraite des marins français  - art. R21 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L105 (M)
+  - Code du domaine public fluvial et de la navigation - art. 89 (M)
+  - Code du domaine public fluvial et de la navigation - art. 91 (M)
+  - Code du travail - art. L5424-14 (VD)
+  - Code du travail - art. L731-7 (M)
+  - Code rural - art. L321-11 (M)
+  - Code rural - art. L321-21 (M)
+  - Code rural - art. L321-21-1 (M)
+  - Code rural - art. L631-15 (M)
+  - Code rural - art. L752-25 (M)
+  - Code rural ancien - art. 1234-23 (Ab)
+  - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
+  - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (M)
+  - Code rural ancien - art. 1033 (Ab)
+  - Code rural ancien - art. 1051-3 (Ab)
+
+_Cite_:
+
+  - Loi n°89-1008 1989-12-31 art. 14
+  - Code du travail - art. L122-14-4 (M)
+  - Code du travail - art. L122-14-5 (Ab)
+  - Code du travail - art. L122-3-4 (M)
+  - Code du travail - art. L122-3-8 (M)
+  - Code du travail - art. L122-32-6 (M)
+  - Code du travail - art. L122-32-7 (AbD)
+  - Code du travail - art. L122-32-9 (AbD)
+  - Code du travail - art. L122-8 (M)
+  - Code du travail - art. L122-9 (Ab)
+  - Code du travail - art. L124-4-4 (M)
+  - Code du travail - art. L143-10 (M)
+  - Code du travail - art. L143-11 (M)
+  - Code du travail - art. L742-6 (V)
+  - Code du travail - art. L751-15 (AbD)
+  - Code du travail - art. L761-5 (AbD)
+  - Code du travail 74, L122-3-8, L122-8, L122-9, L122-14-4, L122-14-5, L122-32-7, L122-32-9, L122-3-4, L124-4-4, L122-32-6, L143-10, L143-11, L742-6, L751-15, L761-5, L761- L980-11-1
+  - Code rural L321-21-1
+  - Décret n°1939-07-29 art. 63
+
+_Modifié par_:
+
+  - Ordonnance n°2004-602 du 24 juin 2004 - art. 13 () JORF 26 juin 2004
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2331 (M)
+  - Code civil - art. 2331 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+
+##### Paragraphe 2 : Des privilèges sur certains meubles.<a id=452></a>
 
 ###### Article 2102
 
@@ -63072,168 +63233,7 @@ _Cite_:
   - Code du travail 721-1
 
 
-#### Section I : Des privilèges sur les meubles<a id=452></a>
-
-##### Paragraphe I : Des privilèges généraux sur les meubles.<a id=453></a>
-
-###### Article 2101
-
-Les créances privilégiées sur la généralité des meubles sont celles ci-après exprimées, et s'exercent dans l'ordre suivant :
-
-1° Les frais de justice ;
-
-2° Les frais funéraires ;
-
-3° Les frais quelconques de la dernière maladie, quelle qu'en ait été la terminaison, concurremment entre ceux à qui ils sont
-dus ;
-
-4° Sans préjudice de l'application éventuelle des dispositions des articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du
-code du travail :
-
-Les rémunérations des gens de service pour l'année échue et l'année courante :
-
-Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
-famille et à la natalité françaises, pour l'année échue et l'année courante :
-
-La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
-développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
-social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural.
-
-Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
-d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
-
-L'indemnité de fin de contrat prévue à l'article L. 122-3-4 du code du travail et l'indemnité de précarité d'emploi prévue à
-l'article L. 124-4-4 du même code.
-
-L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-8 du code du travail et l'indemnité
-compensatrice prévue à l'article L. 122-32-6 du même code.
-
-Les indemnités dues pour les congés payés ;
-
-Les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
-d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-9, L. 122-32-6, L. 761-5 et L.
-761-7 ainsi que l'indemnité prévue à l'article L. 321-6 du code du travail  pour la totalité de la portion inférieure ou
-égale au plafond visé à l'article L. 143-10 du code du travail et pour le quart de la portion supérieure audit plafond ;
-
-Les indemnités dues, le cas échéant, aux salariés, en application des articles L. 122-3-8, deuxième alinéa,  L. 122-14-4, L.
-122-14-5, deuxième alinéa, L. 122-32-7 et L. 122-32-9 du code du travail.
-
-5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la dernière année et, pendant le même délai,
-les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué, ainsi que
-les sommes dues par tout contractant d'un exploitant agricole en application d'un contrat type homologué.
-
-6° La créance de la victime de l'accident ou de ses ayants droit relative aux frais médicaux, pharmaceutiques et funéraires,
-ainsi qu'aux indemnités allouées à la suite de l'incapacité temporaire de travail ;
-
-7° Les allocations dues aux ouvriers et employés par les caisses de compensation et autres institutions agréées pour le
-service des allocations familiales ou par les employeurs dispensés de l'affiliation à une telle institution en vertu de
-l'article 74 f du livre Ier du code du travail ;
-
-8° Les créances des caisses de compensation et autres institutions agréées pour le service des allocations familiales à
-l'égard de leurs adhérents, pour les cotisations que ceux-ci se sont engagés à leur verser en vue du paiement des allocations
-familiales et de la péréquation des charges résultant du versement desdites prestations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L321-21-1
-  - Décret n°1939-07-29 art. 63
-  - Loi n°89-1008 1989-12-31 art. 14
-  - Code du travail - art. L122-14-4 (M)
-  - Code du travail - art. L122-14-5 (Ab)
-  - Code du travail - art. L122-3-4 (M)
-  - Code du travail - art. L122-3-8 (M)
-  - Code du travail - art. L122-32-6 (M)
-  - Code du travail - art. L122-32-7 (AbD)
-  - Code du travail - art. L122-32-9 (AbD)
-  - Code du travail - art. L122-8 (M)
-  - Code du travail - art. L122-9 (Ab)
-  - Code du travail - art. L124-4-4 (M)
-  - Code du travail - art. L143-10 (M)
-  - Code du travail - art. L143-11 (M)
-  - Code du travail - art. L321-6 (T)
-  - Code du travail - art. L742-6 (V)
-  - Code du travail - art. L751-15 (AbD)
-  - Code du travail - art. L761-5 (AbD)
-  - Code du travail 74, L122-3-8, L122-8, L122-9, L122-14-4, L122-14-5, L122-32-7, L122-32-9, L122-3-4, L124-4-4, L122-32-6, L143-10, L143-11, L742-6, L751-15, L761-5, L761- L980-11-1, L321-6
-
-_Cité par_:
-
-  - Loi n°1913-07-03 du 3 juillet 1913 - art. 11 (M)
-  - Loi n°1922-07-22 du 22 juillet 1922 - art. 24 (M)
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 47 (M)
-  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (M)
-  - Ordonnance n°45-2250 du 4 octobre 1945 - art. 36 (V)
-  - Ordonnance n°45-2456 du 19 octobre 1945 - art. 55 (M)
-  - Décret n°46-2769 du 27 novembre 1946 - art. 65 (M)
-  - Décret n°49-1416 du 5 octobre 1949 - art. 48 (Ab)
-  - Loi n°52-1322 du 15 décembre 1952 - art. 103 (M)
-  - Loi n°52-1322 du 15 décembre 1952 - art. 104 (M)
-  - Loi n°52-1322 du 15 décembre 1952 - art. 44 (M)
-  - Loi n°57-298 du 11 mars 1957 - art. 58 (Ab)
-  - Loi n°57-298 du 11 mars 1957 - art. 63-6 (Ab)
-  - Décret n°65-773 du 9 septembre 1965 - art. 54 (Ab)
-  - Loi n°67-563 du 13 juillet 1967 - art. 50 (Ab)
-  - Décret n°68-253 du 19 mars 1968 - art. 38 (Ab)
-  - Décret n°68-382 du 5 avril 1968 - art. 29 (M)
-  - Décret n°68-960 du 11 octobre 1968 - art. 27 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 128 (Ab)
-  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
-  - Loi n°86-845 du 17 juillet 1986 - art. 21 (M)
-  - Arrêté du 15 mars 1988 - art. Annexe (M)
-  - Loi n°89-1008 du 31 décembre 1989 - art. 14 (M)
-  - Loi n°90-9 du 2 janvier 1990 - art. 5 (Ab)
-  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8 (MMN)
-  - CODE DES COMMUNES. - art. L354-10 (Ab)
-  - Code civil - art. 2101 (M)
-  - Code civil - art. 2121 (T)
-  - Code de commerce. - art. L626-20 (VT)
-  - Code de l'aviation civile - art. L426-5 (M)
-  - Code de la mutualité - art. L212-23 (M)
-  - Code de la mutualité - art. L222-9 (MMN)
-  - Code de la sécurité sociale. - art. L243-4 (M)
-  - Code de la sécurité sociale. - art. L731-13 (T)
-  - Code de la sécurité sociale. - art. L732-7 (Ab)
-  - Code de la sécurité sociale. - art. L931-22 (M)
-  - Code de la sécurité sociale. - art. R612-4 (M)
-  - Code des assurances - art. L142-4 (VD)
-  - Code des assurances - art. L143-7 (VT)
-  - Code des assurances - art. L327-2 (M)
-  - Code des pensions civiles et militaires de retrait - art. L56 (M)
-  - Code des pensions de retraite des marins français  - art. L30 (M)
-  - Code des pensions de retraite des marins français  - art. R21 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L105 (M)
-  - Code du domaine public fluvial et de la navigation - art. 89 (M)
-  - Code du domaine public fluvial et de la navigation - art. 91 (M)
-  - Code du travail - art. L5424-14 (VD)
-  - Code du travail - art. L731-7 (M)
-  - Code rural - art. L321-11 (M)
-  - Code rural - art. L321-21 (M)
-  - Code rural - art. L321-21-1 (M)
-  - Code rural - art. L631-15 (M)
-  - Code rural - art. L752-25 (M)
-  - Code rural ancien - art. 1033 (Ab)
-  - Code rural ancien - art. 1051-3 (Ab)
-  - Code rural ancien - art. 1234-23 (Ab)
-  - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
-  - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (M)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Loi n°99-574 du 9 juillet 1999 - art. 36 () JORF 10 juillet 1999
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2331 (M)
-  - Code civil - art. 2331 (V)
-
-
-#### Section 2 : Des privilèges spéciaux sur les immeubles.<a id=454></a>
+#### Section 2 : Des privilèges spéciaux sur les immeubles.<a id=453></a>
 
 ###### Article 2103
 
@@ -63334,7 +63334,7 @@ _Nouveaux textes_:
   - Code civil - art. 2374 (V)
 
 
-#### Section 3 : Des privilèges généraux sur les immeubles.<a id=455></a>
+#### Section 3 : Des privilèges généraux sur les immeubles.<a id=454></a>
 
 ###### Article 2104
 
@@ -63495,7 +63495,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
 
 
-#### Section 4 : Comment se conservent les privilèges.<a id=456></a>
+#### Section 4 : Comment se conservent les privilèges.<a id=455></a>
 
 ###### Article 2106
 
@@ -63927,7 +63927,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre III : Des hypothèques.<a id=457></a>
+### Chapitre III : Des hypothèques.<a id=456></a>
 
 ###### Article 2114
 
@@ -64135,7 +64135,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 1 : Des hypothèques légales.<a id=458></a>
+#### Section 1 : Des hypothèques légales.<a id=457></a>
 
 ###### Article 2121
 
@@ -64250,7 +64250,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 2 : Des hypothèques judiciaires.<a id=459></a>
+#### Section 2 : Des hypothèques judiciaires.<a id=458></a>
 
 ###### Article 2123
 
@@ -64306,7 +64306,7 @@ _Nouveaux textes_:
   - Code civil - art. 2412 (V)
 
 
-#### Section 3 : Des hypothèques conventionnelles.<a id=460></a>
+#### Section 3 : Des hypothèques conventionnelles.<a id=459></a>
 
 ###### Article 2124
 
@@ -64619,7 +64619,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-#### Section 4 : Du rang que les hypothèques ont entre elles.<a id=461></a>
+#### Section 4 : Du rang que les hypothèques ont entre elles.<a id=460></a>
 
 ###### Article 2134
 
@@ -64684,7 +64684,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=462></a>
+#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=461></a>
 
 ###### Article 2136
 
@@ -65043,7 +65043,7 @@ _Cite_:
   - Code civil 2136 à 2141
 
 
-#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=463></a>
+#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=462></a>
 
 ###### Article 2143
 
@@ -65182,7 +65182,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=464></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=463></a>
 
 ###### Article 2146
 
@@ -65935,9 +65935,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=465></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=464></a>
 
-#### Section 1 : Dispositions générales.<a id=466></a>
+#### Section 1 : Dispositions générales.<a id=465></a>
 
 ###### Article 2157
 
@@ -66167,7 +66167,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=467></a>
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=466></a>
 
 ###### Article 2163
 
@@ -66314,7 +66314,7 @@ _Nouveaux textes_:
   - Code civil - art. 2448 (V)
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=468></a>
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=467></a>
 
 ###### Article 2166
 
@@ -66775,7 +66775,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=469></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=468></a>
 
 ###### Article 2180
 
@@ -66830,7 +66830,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=470></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=469></a>
 
 ###### Article 2181
 
@@ -67292,7 +67292,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=471></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=470></a>
 
 ###### Article 2196
 
@@ -67686,9 +67686,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=472></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=471></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=473></a>
+### Chapitre Ier : De l'expropriation forcée<a id=472></a>
 
 ###### Article 2204
 
@@ -68050,7 +68050,7 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=474></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=473></a>
 
 ###### Article 2218
 
@@ -68076,9 +68076,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=475></a>
+## Titre XX : De la prescription et de la possession.<a id=474></a>
 
-### Chapitre Ier : Dispositions générales.<a id=476></a>
+### Chapitre Ier : Dispositions générales.<a id=475></a>
 
 ###### Article 2219
 
@@ -68266,7 +68266,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=477></a>
+### Chapitre II : De la possession.<a id=476></a>
 
 ###### Article 2228
 
@@ -68489,7 +68489,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=478></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=477></a>
 
 ###### Article 2236
 
@@ -68662,9 +68662,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=479></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=478></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=480></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=479></a>
 
 ###### Article 2242
 
@@ -68840,7 +68840,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=481></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=480></a>
 
 ###### Article 2251
 
@@ -68974,9 +68974,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=482></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=481></a>
 
-#### Section 1 : Dispositions générales.<a id=483></a>
+#### Section 1 : Dispositions générales.<a id=482></a>
 
 ###### Article 2260
 
@@ -69017,7 +69017,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=484></a>
+#### Section 2 : De la prescription trentenaire.<a id=483></a>
 
 ###### Article 2262
 
@@ -69092,7 +69092,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=485></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=484></a>
 
 ###### Article 2265
 
@@ -69308,7 +69308,7 @@ _Modifié par_:
   - Loi n°98-468 du 17 juin 1998 - art. 43 () JORF 16 juin 1998
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=486></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=485></a>
 
 ###### Article 2271
 
@@ -69653,7 +69653,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre VI : De la protection possessoire.<a id=487></a>
+### Chapitre VI : De la protection possessoire.<a id=486></a>
 
 ###### Article 2282
 
@@ -69696,7 +69696,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-# Livre IV : Dispositions applicables à Mayotte<a id=488></a>
+# Livre IV : Dispositions applicables à Mayotte<a id=487></a>
 
 ###### Article 2284
 
@@ -69772,7 +69772,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=489></a>
+## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=488></a>
 
 ###### Article 2286
 
@@ -69802,7 +69802,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre Ier : Dispositions relatives au livre Ier<a id=490></a>
+## Titre Ier : Dispositions relatives au livre Ier<a id=489></a>
 
 ###### Article 2287
 
@@ -70050,7 +70050,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
-## Titre II : Dispositions relatives au livre II<a id=491></a>
+## Titre II : Dispositions relatives au livre II<a id=490></a>
 
 ###### Article 2294
 
@@ -70151,7 +70151,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
-## Titre III : Dispositions relatives au livre III<a id=492></a>
+## Titre III : Dispositions relatives au livre III<a id=491></a>
 
 ###### Article 2297
 
