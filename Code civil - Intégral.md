@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1948-08-26
+Version Consolidée au 1950-12-09
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -97,7 +97,7 @@ Version Consolidée au 1948-08-26
         - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#94)
         - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#95)
       - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#96)
-        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 970)](#97)
+        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 980)](#97)
         - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 981 à 1001)](#98)
         - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#99)
         - [Section 4 : Du legs universel. (art. 1003 à 1009)](#100)
@@ -11128,6 +11128,218 @@ _Cité par_:
 
   - Arrêté du 31 janvier 2018 - art. (V)
   - Code civil - art. 999 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 971
+
+Le testament par acte public est reçu par deux notaires ou par un notaire assisté de deux témoins.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 764 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 972
+
+Si le testament est reçu par deux notaires, il leur est dicté par le testateur ; l'un de ces notaires l'écrit lui-même ou le
+fait écrire à la main ou mécaniquement.
+
+S'il n'y a qu'un notaire, il doit également être dicté par le testateur ; le notaire l'écrit lui-même ou le fait écrire à la
+main ou mécaniquement.
+
+Dans l'un et l'autre cas, il doit en être donné lecture au testateur.
+
+Il est fait du tout mention expresse.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2004-193 du 27 février 2004 - art. 34 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 973
+
+Ce testament doit être signé par le testateur en présence des témoins et du notaire ; si le testateur déclare qu'il ne sait
+ou ne peut signer, il sera fait dans l'acte mention expresse de sa déclaration, ainsi que de la cause qui l'empêche de
+signer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 974
+
+Le testament devra être signé par les témoins et par le notaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 975
+
+Ne pourront être pris pour témoins du testament par acte public, ni les légataires, à quelque titre qu'ils soient, ni leurs
+parents ou alliés jusqu'au quatrième degré inclusivement, ni les clercs des notaires par lesquels les actes seront reçus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 976
+
+Lorsque le testateur voudra faire un testament mystique, le papier qui contiendra les dispositions ou le papier qui servira
+d'enveloppe, s'il y en a une, sera clos, cacheté et scellé.
+
+Le testateur le présentera ainsi clos, cacheté et scellé au notaire et à deux témoins, ou il le fera clore, cacheter et
+sceller en leur présence, et il déclarera que le contenu de ce papier est son testament, signé de lui, et écrit par lui ou
+par un autre, en affirmant, dans ce dernier cas, qu'il en a personnellement vérifié le libellé ; il indiquera, dans tous les
+cas, le mode d'écriture employé (à la main ou mécanique).
+
+Le notaire en dressera, en brevet, l'acte de suscription qu'il écrira ou fera écrire à la main ou mécaniquement sur ce papier
+ou sur la feuille qui servira d'enveloppe et portera la date et l'indication du lieu où il a été passé, la description du pli
+et de l'empreinte du sceau, et mention de toutes les formalités ci-dessus ; cet acte sera signé tant par le testateur que par
+le notaire et les témoins.
+
+Tout ce que dessus sera fait de suite et sans divertir à autres actes.
+
+En cas que le testateur, par un empêchement survenu depuis la signature du testament, ne puisse signer l'acte de suscription,
+il sera fait mention de la déclaration qu'il en aura faite et du motif qu'il en aura donné.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 31 janvier 2018 - art. (V)
+  - Code civil - art. 977 (V)
+  - Code civil - art. 979 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 977
+
+Si le testateur ne sait signer ou s'il n'a pu le faire lorsqu'il a fait écrire ses dispositions, il sera procédé comme il est
+dit à l'article précédent ; il sera fait, en outre, mention à l'acte de suscription que le testateur a déclaré ne savoir
+signer ou n'avoir pu le faire lorsqu'il a fait écrire ses dispositions.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 976 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 978
+
+Ceux qui ne savent ou ne peuvent lire ne pourront faire de dispositions dans la forme du testament mystique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 979
+
+En cas que le testateur ne puisse parler, mais qu'il puisse écrire, il pourra faire un testament mystique, à la charge
+expresse que le testament sera signé de lui et écrit par lui ou par un autre, qu'il le présentera au notaire et aux témoins,
+et qu'en haut de l'acte de suscription il écrira, en leur présence, que le papier qu'il présente est son testament et
+signera. Il sera fait mention dans l'acte de suscription que le testateur a écrit et signé ces mots en présence du notaire et
+des témoins et sera, au surplus, observé tout ce qui est prescrit par l'article 976 et n'est pas contraire au présent
+article.
+
+Dans tous les cas prévus au présent article ou aux articles précédents, le testament mystique dans lequel n'auront point été
+observées les formalités légales, et qui sera nul comme tel, vaudra cependant comme testament olographe si toutes les
+conditions requises pour sa validité comme testament olographe sont remplies, même s'il a été qualifié de testament mystique.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 976 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 980
+
+Les témoins appelés pour être présents aux testaments devront être Français et majeurs, savoir signer et avoir la jouissance
+de leurs droits civils. Ils pourront être de l'un ou de l'autre sexe, mais le mari et la femme ne pourront être témoins dans
+le même acte.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
