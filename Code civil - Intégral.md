@@ -1,8 +1,8 @@
 # Code civil  
-Version Consolidée au 1803-03-27
+Version Consolidée au 1803-04-05
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
-  - [Livre Ier : Des personnes (art. 12 à 211)](#2)
+  - [Livre Ier : Des personnes (art. 12 à 486)](#2)
     - [Titre Ier : De la jouissance et de la privation des droits civils. (art. 12 à 16)](#3)
       - [Chapitre Ier : De la jouissance des droits civils. (art. 12 à 16)](#4)
     - [Titre Ier bis : De la nationalité française (art. 17)](#5)
@@ -22,6 +22,13 @@ Version Consolidée au 1803-03-27
       - [Chapitre III : Des oppositions au mariage (art. 172 à 175)](#19)
       - [Chapitre IV : Des demandes en nullité de mariage (art. 181 à 200)](#20)
       - [Chapitre V : Des obligations qui naissent du mariage (art. 203 à 211)](#21)
+    - [Titre X : De la minorité, de la tutelle et de l'émancipation. (art. 399 à 486)](#22)
+      - [Chapitre II : De la tutelle. (art. 399 à 431)](#23)
+        - [Section 2 : De l'organisation de la tutelle. (art. 399 à 431)](#24)
+          - [Paragraphe 2 : Du tuteur. (art. 399 à 400)](#25)
+          - [Paragraphe 4 : Des autres organes de la tutelle. (art. 422)](#26)
+          - [Paragraphe 5 : Des charges tutélaires. (art. 430 à 431)](#27)
+      - [Chapitre III : De l'émancipation. (art. 483 à 486)](#28)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -1932,5 +1939,250 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+## Titre X : De la minorité, de la tutelle et de l'émancipation.<a id=22></a>
+
+### Chapitre II : De la tutelle.<a id=23></a>
+
+#### Section 2 : De l'organisation de la tutelle.<a id=24></a>
+
+##### Paragraphe 2 : Du tuteur.<a id=25></a>
+
+###### Article 399
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+_Cité par_:
+
+  - Code civil - art. 456 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L422-2 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 400
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+##### Paragraphe 4 : Des autres organes de la tutelle.<a id=26></a>
+
+###### Article 422
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+_Cité par_:
+
+  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+
+##### Paragraphe 5 : Des charges tutélaires.<a id=27></a>
+
+###### Article 430
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1805
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+_Cité par_:
+
+  - Code civil - art. 442 (V)
+  - Code de procédure civile - art. 1218-1 (V)
+  - Code de procédure civile - art. 1220-4 (V)
+  - Code de procédure civile - art. 1222 (V)
+  - Code de procédure civile - art. 1239 (V)
+  - Code de procédure civile - art. 1251-1 (V)
+
+
+###### Article 431
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+_Cité par_:
+
+  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+  - Code civil - art. 426 (M)
+  - Code civil - art. 431-1 (Ab)
+  - Code civil - art. 432 (V)
+  - Code civil - art. 441 (V)
+  - Code civil - art. 442 (V)
+  - Code civil - art. 481 (V)
+  - Code civil - art. 494-4 (VD)
+  - Code civil - art. 494-6 (V)
+  - Code de procédure civile - art. 1218 (V)
+  - Code de procédure civile - art. 1219 (V)
+  - Code de procédure civile - art. 1256 (V)
+  - Code de procédure civile - art. 1258 (V)
+  - Code de procédure civile - art. 1258-1 (V)
+  - Code de procédure civile - art. 1259 (V)
+  - Code de procédure civile - art. 1260-3 (V)
+  - Code de procédure pénale - art. D47-24 (V)
+  - Code de procédure pénale - art. R217-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1805
+
+
+### Chapitre III : De l'émancipation.<a id=28></a>
+
+###### Article 483
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1213 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 484
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1213 (V)
+  - Code de procédure civile - art. 1259-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 485
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+_Cité par_:
+
+  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
+  - Code de procédure civile - art. 1217 (V)
+  - Code de procédure civile - art. 1259-5 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 486
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+  - Code civil - art. 491 (V)
+  - Code civil - art. 494 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+_Abrogé par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
