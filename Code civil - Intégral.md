@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1956-08-07
+Version Consolidée au 1957-03-27
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -8101,15 +8101,20 @@ _Créé par_:
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-###### Article 754
+###### Article 753
 
-(article abrogé).
+A défaut de frères ou soeurs ou de descendants d'eux et à défaut d'ascendants dans une ligne, la succession est dévolue en
+totalité aux ascendants de l'autre ligne ; à défaut d'ascendants dans l'une et l'autre ligne, la succession est dévolue pour
+moitié aux parents les plus proches dans chaque ligne.
+
+S'il y a concours de parents collatéraux au même degré, ils partagent par tête.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Code civil - art. 755 (V)
+  - Code civil - art. 733 (M)
+  - Code civil - art. 766 (M)
 
 _Codifié par_:
 
@@ -8119,9 +8124,9 @@ _Créé par_:
 
   - Loi n°1803-04-19 promulguée le 29 avril 1803
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Loi n°57-379 1957-03-26 art. 3 JORF 27 mars 1957
+  - Loi n°57-379 1957-03-26 art. 2 JORF 27 mars 1957
 
 
 ###### Article 755
