@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1971-06-27
+Version Consolidée au 1971-07-08
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 509)](#2)
@@ -47163,6 +47163,30 @@ Le serment pourra être déféré aux veuves et héritiers, ou aux tuteurs de ce
 _Anciens textes_:
 
   - Code civil - art. 2269 (T)
+
+_Codifié par_:
+
+  - Loi n°1804-03-15
+
+_Créé par_:
+
+  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+###### Article 2276
+
+Les juges ainsi que les personnes qui ont représenté ou assisté les parties sont déchargés des pièces cinq ans après le
+jugement ou la cessation de leur concours.
+
+Les huissiers de justice, après deux ans depuis l'exécution de la commission ou la signification des actes dont ils étaient
+chargés, en sont pareillement déchargés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 2337 (V)
+  - Code civil - art. 924-4 (V)
 
 _Codifié par_:
 
