@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1965-06-15
+Version Consolidée au 1965-07-14
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -144,13 +144,13 @@ Version Consolidée au 1965-06-15
         - [Section 2 : De la capacité des parties contractantes. (art. 1123)](#141)
         - [Section 3 : De l'objet et de la matière des contrats. (art. 1126 à 1130)](#142)
         - [Section 4 : De la cause. (art. 1131 à 1133)](#143)
-      - [Chapitre III : De l'effet des obligations. (art. 1134 à 1166)](#144)
+      - [Chapitre III : De l'effet des obligations. (art. 1134 à 1167)](#144)
         - [Section 1 : Dispositions générales. (art. 1134 à 1135)](#145)
         - [Section 2 : De l'obligation de donner. (art. 1136 à 1141)](#146)
         - [Section 3 : De l'obligation de faire ou de ne pas faire. (art. 1142 à 1145)](#147)
         - [Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation. (art. 1146 à 1155)](#148)
         - [Section 5 : De l'interprétation des conventions. (art. 1156 à 1164)](#149)
-        - [Section 6 : De l'effet des conventions à l'égard des tiers. (art. 1165 à 1166)](#150)
+        - [Section 6 : De l'effet des conventions à l'égard des tiers. (art. 1165 à 1167)](#150)
       - [Chapitre IV : Des diverses espèces d'obligations. (art. 1168 à 1233)](#151)
         - [Section 1 : Des obligations conditionnelles. (art. 1168 à 1184)](#152)
           - [Paragraphe 1 : De la condition en général, et de ses diverses espèces. (art. 1168 à 1180)](#153)
@@ -302,37 +302,38 @@ Version Consolidée au 1965-06-15
         - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#299)
         - [Section IV : Comment se conservent les privilèges. (art. 2107)](#300)
       - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#301)
-        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#302)
-        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#303)
-        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#304)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#305)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#306)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2164)](#307)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#308)
-        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164)](#309)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#310)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#311)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#312)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2197 à 2203)](#313)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#314)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#315)
-        - [Section 5 : De la vente. (art. 2205)](#316)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#317)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#318)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#319)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#320)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#321)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#322)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#323)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#324)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#325)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#326)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#327)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#328)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#329)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#330)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#331)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#332)
+        - [Section 1 : Des hypothèques légales. (art. 2121)](#302)
+        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#303)
+        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#304)
+        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#305)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#306)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#307)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2164)](#308)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#309)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164)](#310)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#311)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#312)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#313)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2197 à 2203)](#314)
+    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#315)
+      - [Chapitre Ier : De la saisie. (art. 2205)](#316)
+        - [Section 5 : De la vente. (art. 2205)](#317)
+          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#318)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#319)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#320)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#321)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2281)](#322)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#323)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#324)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#325)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#326)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#327)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#328)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#329)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#330)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#331)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#332)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2273 à 2281)](#333)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -18529,6 +18530,33 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
+###### Article 1167
+
+Ils peuvent aussi, en leur nom personnel, attaquer les actes faits par leur débiteur en fraude de leurs droits.
+
+Ils doivent néanmoins, quant à leurs droits énoncés au titre "Des successions" et au titre "Du contrat de mariage et des
+régimes matrimoniaux", se conformer aux règles qui y sont prescrites.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°67-563 du 13 juillet 1967 - art. 78 (Ab)
+  - Code civil - art. 1397 (V)
+  - Code civil - art. 1578 (V)
+  - Code civil - art. 794 (V)
+  - Code de la mutualité - art. L223-15 (VT)
+  - Code des assurances - art. L132-14 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-02-07
+
+_Créé par_:
+
+  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
 ### Chapitre IV : Des diverses espèces d'obligations.<a id=151></a>
 
 #### Section 1 : Des obligations conditionnelles.<a id=152></a>
@@ -34343,7 +34371,76 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 2 : Des hypothèques judiciaires.<a id=302></a>
+#### Section 1 : Des hypothèques légales.<a id=302></a>
+
+###### Article 2121
+
+Indépendamment des hypothèques légales résultant d'autres codes ou de lois particulières, les droits et créances auxquels
+l'hypothèque légale est attribuée sont :
+
+1° Ceux d'un époux, sur les biens de l'autre ;
+
+2° Ceux des mineurs ou majeurs en tutelle, sur les biens du tuteur ou de l'administrateur légal ;
+
+3° Ceux de l'Etat, des départements, des communes et des établissements publics, sur les biens des receveurs et
+administrateurs comptables ;
+
+4° Ceux du légataire, sur les biens de la succession, en vertu de l'article 1017 ;
+
+5° Ceux énoncés en l'article 2101, 2°, 3°, 5°, 6°, 7° et 8°.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 20 (Ab)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 23 (Ab)
+  - Décret n°53-1227 du 10 décembre 1953 - art. 6 (Ab)
+  - Décret n°55-22 du 4 janvier 1955 - art. 31 (M)
+  - Code civil - art. 2134 (T)
+  - Code civil - art. 2148 (T)
+  - Code civil - art. 2323 (MMN)
+  - Code de l'action sociale et des familles - art. L224-9 (M)
+  - Code de la construction et de l'habitation. - art. R423-34 (V)
+  - Code de la famille et de l'aide sociale. - art. 60 (M)
+  - Code de la famille et de l'aide sociale. - art. 64 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D457 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L474 (M)
+  - Décret n°1893-07-12. du 12 juillet 1893 - art. 22 (Ab)
+  - Décret n°1921-02-09 du 9 février 1921 - art. 60 (M)
+
+_Modifié par_:
+
+  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965
+
+_Transféré par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code civil - art. 1017 (M)
+  - Code civil - art. 2101 (M)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2400 (V)
+
+_Créé par_:
+
+  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+#### Section 2 : Des hypothèques judiciaires.<a id=303></a>
 
 ###### Article 2123
 
@@ -34399,7 +34496,7 @@ _Nouveaux textes_:
   - Code civil - art. 2412 (V)
 
 
-#### Section 3 : Des hypothèques conventionnelles.<a id=303></a>
+#### Section 3 : Des hypothèques conventionnelles.<a id=304></a>
 
 ###### Article 2124
 
@@ -34712,7 +34809,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-#### Section IV : Du rang que les hypothèques ont entre elles.<a id=304></a>
+#### Section IV : Du rang que les hypothèques ont entre elles.<a id=305></a>
 
 ###### Article 2134
 
@@ -34765,7 +34862,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=305></a>
+#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=306></a>
 
 ###### Article 2143
 
@@ -34903,7 +35000,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=306></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=307></a>
 
 ###### Article 2146
 
@@ -35369,9 +35466,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=307></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=308></a>
 
-#### Section 1 : Dispositions générales.<a id=308></a>
+#### Section 1 : Dispositions générales.<a id=309></a>
 
 ###### Article 2157
 
@@ -35558,7 +35655,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=309></a>
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=310></a>
 
 ###### Article 2164
 
@@ -35610,7 +35707,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=310></a>
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=311></a>
 
 ###### Article 2166
 
@@ -36071,7 +36168,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=311></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=312></a>
 
 ###### Article 2180
 
@@ -36126,7 +36223,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=312></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=313></a>
 
 ###### Article 2181
 
@@ -36588,7 +36685,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=313></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=314></a>
 
 ###### Article 2197
 
@@ -36824,13 +36921,13 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=314></a>
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=315></a>
 
-### Chapitre Ier : De la saisie.<a id=315></a>
+### Chapitre Ier : De la saisie.<a id=316></a>
 
-#### Section 5 : De la vente.<a id=316></a>
+#### Section 5 : De la vente.<a id=317></a>
 
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=317></a>
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=318></a>
 
 ###### Article 2205
 
@@ -36860,9 +36957,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=318></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=319></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=319></a>
+### Chapitre Ier : De l'expropriation forcée<a id=320></a>
 
 ###### Article 2204
 
@@ -37181,7 +37278,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=320></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=321></a>
 
 ###### Article 2218
 
@@ -37207,9 +37304,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=321></a>
+## Titre XX : De la prescription et de la possession.<a id=322></a>
 
-### Chapitre Ier : Dispositions générales.<a id=322></a>
+### Chapitre Ier : Dispositions générales.<a id=323></a>
 
 ###### Article 2219
 
@@ -37396,7 +37493,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=323></a>
+### Chapitre II : De la possession.<a id=324></a>
 
 ###### Article 2228
 
@@ -37619,7 +37716,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=324></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=325></a>
 
 ###### Article 2236
 
@@ -37790,9 +37887,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=325></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=326></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=326></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=327></a>
 
 ###### Article 2242
 
@@ -37968,7 +38065,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=327></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=328></a>
 
 ###### Article 2251
 
@@ -38159,9 +38256,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=328></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=329></a>
 
-#### Section 1 : Dispositions générales.<a id=329></a>
+#### Section 1 : Dispositions générales.<a id=330></a>
 
 ###### Article 2260
 
@@ -38202,7 +38299,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=330></a>
+#### Section 2 : De la prescription trentenaire.<a id=331></a>
 
 ###### Article 2262
 
@@ -38277,7 +38374,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=331></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=332></a>
 
 ###### Article 2265
 
@@ -38415,7 +38512,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=332></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=333></a>
 
 ###### Article 2273
 
