@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1996-07-04
+Version Consolidée au 1996-07-06
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 509)](#2)
@@ -124,7 +124,7 @@ Version Consolidée au 1996-07-04
         - [Section 1 : De l'exercice de l'autorité parentale. (art. 372 à 374)](#121)
         - [Section 2 : De l'assistance éducative (art. 375 à 375-8)](#122)
         - [Section 3 : De la délégation de l'autorité parentale (art. 376 à 377-3)](#123)
-        - [Section 4 : De la déchéance et du retrait partiel de l'autorité parentale. (art. 378 à 381)](#124)
+        - [Section 4 : Du retrait total ou partiel de l'autorité parentale (art. 378 à 381)](#124)
       - [Chapitre II : De l'autorité parentale relativement aux biens de l'enfant (art. 382 à 387)](#125)
     - [Titre X : De la minorité et de l'émancipation (art. 389 à 392)](#126)
       - [Chapitre Ier : De la minorité (art. 389 à 392)](#127)
@@ -4942,12 +4942,13 @@ donnés, les prénoms, noms, âges, professions et domiciles des père et mère 
 et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état civil, il ne sera fait sur les
 registres aucune mention à ce sujet.
 
-Les prénoms de l'enfant sont choisis par ses père et mère. Si ces derniers ne sont pas connus, l'officier de l'état civil
-attribue à l'enfant plusieurs prénoms dont le dernier lui tient lieu de patronyme. L'officier de l'état civil porte
-immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom inscrit dans l'acte de naissance peut être choisi
-comme prénom usuel.
+Les prénoms de l'enfant sont choisis par ses père et mère. La femme qui a demandé le secret de son identité lors de
+l'accouchement peut faire connaître les prénoms qu'elle souhaite voir attribuer à l'enfant. A défaut ou lorsque les parents
+de celui-ci ne sont pas connus, l'officier de l'état civil choisit trois prénoms dont le dernier tient lieu de patronyme à
+l'enfant. L'officier de l'état civil porte immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom inscrit
+dans l'acte de naissance peut être choisi comme prénom usuel.
 
-Lorsque ces prénoms ou l'un d'eux, seul ou associé aux autres prénoms ou au nom, lui paraissent contraires à l'intérêt de
+Lorsque ces prénoms ou l'un deux, seul ou associé aux autres prénoms ou au nom, lui paraissent contraires à l'intérêt de
 l'enfant ou au droit des tiers à voir protéger leur patronyme, l'officier de l'état civil en avise sans délai le procureur de
 la République. Celui-ci peut saisir le juge aux affaires familiales.
 
@@ -4955,6 +4956,11 @@ Si le juge estime que le prénom n'est pas conforme à l'intérêt de l'enfant o
 leur patronyme, il en ordonne la suppression sur les registres de l'état civil. Il attribue, le cas échéant, à l'enfant un
 autre prénom qu'il détermine lui-même à défaut par les parents d'un nouveau choix qui soit conforme aux intérêts susvisés.
 Mention de la décision est portée en marge des actes de l'état civil de l'enfant.
+
+**Nota:**
+
+Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au 1er
+janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -4978,12 +4984,31 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-22 1993-01-08 art. 3 I, III JORF 9 janvier 1993
-  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+  - Loi n°96-604 du 5 juillet 1996 - art. 24 () JORF 6 juillet 1996
 
 _Codifié par_:
 
   - Loi n°1803-03-11
+
+
+###### Article 57-1
+
+Lorsque l'officier de l'état civil du lieu de naissance d'un enfant naturel porte mention de la reconnaissance dudit enfant
+en marge de l'acte de naissance de celui-ci, il en avise l'autre parent par lettre recommandée avec demande d'avis de
+réception.
+
+Si ce parent ne peut être avisé, l'officier de l'état civil en informe le procureur de la République, qui fait procéder aux
+diligences utiles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 25 () JORF 6 juillet 1996
 
 
 ###### Article 58
@@ -15690,6 +15715,9 @@ ou par tout autre acte authentique.
 
 L'acte comporte les énonciations prévues à l'article 62.
 
+Il comporte également la mention que l'auteur de la reconnaissance a été informé du caractère divisible du lien de filiation
+naturelle.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -15702,7 +15730,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-22 du 8 janvier 1993 - art. 22 () JORF 9 janvier 1993
+  - Loi n°96-604 du 5 juillet 1996 - art. 25 () JORF 6 juillet 1996
 
 _Cité par_:
 
@@ -15794,7 +15822,7 @@ _Abrogé par_:
 La reconnaissance peut être contestée par toutes personnes qui y ont intérêt, même par son auteur.
 
 L'action est aussi ouverte au ministère public, si des indices tirés des actes eux-mêmes rendent invraisemblable la filiation
-déclarée.
+déclarée. Elle lui est également ouverte lorsque la reconnaissance est effectuée en fraude des règles régissant l'adoption.
 
 Quand il existe une possession d'état conforme à la reconnaissance et qui a duré dix ans au moins depuis celle-ci, aucune
 contestation n'est plus recevable, si ce n'est de la part de l'autre parent, de l'enfant lui-même ou de ceux qui se
@@ -15806,21 +15834,21 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
 _Cité par_:
 
   - Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
+
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 26 () JORF 6 juillet 1996
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 #### Section 3 : Des actions en recherche de paternité et de maternité.<a id=107></a>
@@ -16384,23 +16412,20 @@ _Créé par_:
 
 ###### Article 343
 
-L'adoption peut être demandée après cinq ans de mariage par deux époux non séparés de corps.
+L'adoption peut être demandée par deux époux non séparés de corps, mariés depuis plus de deux ans ou âgés l'un et l'autre de
+plus de vingt-huit ans.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-_Modifié par_:
-
-  - Loi n°76-1179 1976-12-22 art. 1 JORF 23 décembre 1976
 
 _Cité par_:
 
   - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
   - Code civil - art. 361 (V)
   - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
+
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 1 () JORF 6 juillet 1996
 
 _Codifié par_:
 
@@ -16409,20 +16434,16 @@ _Codifié par_:
 
 ###### Article 343-1
 
-L'adoption peut être aussi demandée par toute personne âgée de plus de trente ans.
+L'adoption peut être aussi demandée par toute personne âgée de plus de vingt-huit ans.
 
 Si l'adoptant est marié et non séparé de corps, le consentement de son conjoint est nécessaire à moins que ce conjoint ne
 soit dans l'impossibilité de manifester sa volonté.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
 _Modifié par_:
 
-  - Loi n°76-1179 1976-12-22 art. 2 JORF 23 décembre 1976
+  - Loi n°96-604 du 5 juillet 1996 - art. 2 () JORF 6 juillet 1996
 
 _Cité par_:
 
@@ -16494,7 +16515,8 @@ au moins six mois.
 
 Toutefois, si l'enfant a plus de quinze ans et a été accueilli avant d'avoir atteint cet âge par des personnes qui ne
 remplissaient pas les conditions légales pour adopter ou s'il a fait l'objet d'une adoption simple avant d'avoir atteint cet
-âge, l'adoption plénière pourra être demandée, si les conditions en sont remplies, pendant toute la minorité de l'enfant.
+âge, l'adoption plénière pourra être demandée, si les conditions en sont remplies, pendant la minorité de l'enfant et dans
+les deux ans suivant sa majorité.
 
 S'il a plus de treize ans, l'adopté doit consentir personnellement à son adoption plénière.
 
@@ -16504,10 +16526,6 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
 _Cité par_:
 
   - Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
@@ -16515,29 +16533,31 @@ _Cité par_:
   - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
   - Code civil - art. 361 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1179 1976-12-22 art. 22
-
 _Modifié par_:
 
-  - Loi n°76-1179 1976-12-22 art. 5 JORF 23 décembre 1976
+  - Loi n°96-604 du 5 juillet 1996 - art. 3 () JORF 6 juillet 1996
 
 
 ###### Article 345-1
 
-L'adoption plénière de l'enfant du conjoint n'est permise que lorsque cet enfant n'a de filiation légalement établie qu'à
-l'égard de ce conjoint.
+L'adoption plénière de l'enfant du conjoint est permise :
+
+1° Lorsque l'enfant n'a de filiation légalement établie qu'à l'égard de ce conjoint ;
+
+2° Lorsque l'autre parent que le conjoint s'est vu retirer totalement l'autorité parentale ;
+
+3° Lorsque l'autre parent que le conjoint est décédé et n'a pas laissé d'ascendants au premier degré ou lorsque ceux-ci se
+sont manifestement désintéressés de l'enfant.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 4 () JORF 6 juillet 1996
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 29 () JORF 9 janvier 1993
 
 
 ###### Article 346
@@ -16696,11 +16716,11 @@ Le consentement à l'adoption est donné devant le greffier en chef du tribunal 
 personne qui consent, ou devant un notaire français ou étranger, ou devant les agents diplomatiques ou consulaires français.
 Il peut également être reçu par le service de l'aide sociale à l'enfance lorsque l'enfant lui a été remis.
 
-Le consentement à l'adoption peut être rétracté pendant trois mois. La rétractation doit être faite par lettre recommandée
+Le consentement à l'adoption peut être rétracté pendant deux mois. La rétractation doit être faite par lettre recommandée
 avec demande d'avis de réception adressée à la personne ou au service qui a reçu le consentement à l'adoption. La remise de
 l'enfant à ses parents sur demande même verbale vaut également preuve de la rétractation.
 
-Si à l'expiration du délai de trois mois, le consentement n'a pas été rétracté, les parents peuvent encore demander la
+Si à l'expiration du délai de deux mois, le consentement n'a pas été rétracté, les parents peuvent encore demander la
 restitution de l'enfant à condition que celui-ci n'ait pas été placé en vue de l'adoption. Si la personne qui l'a recueilli
 refuse de le rendre, les parents peuvent saisir le tribunal qui apprécie, compte tenu de l'intérêt de l'enfant, s'il y a lieu
 d'en ordonner la restitution. La restitution rend caduc le consentement à l'adoption.
@@ -16723,13 +16743,9 @@ _Cité par_:
   - Code de procédure civile - art. 1165 (V)
   - Loi du 16 mars 1803 - art. 10 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
 _Modifié par_:
 
-  - Loi n°95-125 du 8 février 1995 - art. 9 () JORF 9 février 1995 en vigueur le 9 mai 1995
+  - Loi n°96-604 du 5 juillet 1996 - art. 5 () JORF 6 juillet 1996
 
 _Codifié par_:
 
@@ -16738,27 +16754,22 @@ _Codifié par_:
 
 ###### Article 348-4
 
-Les père et mère ou le conseil de famille peuvent consentir à l'adoption de l'enfant en laissant le choix de l'adoptant au
-service de l'aide sociale à l'enfance ou à l'oeuvre d'adoption autorisée qui recueillerait provisoirement l'enfant.
+Lorsque les père et mère ou le conseil de famille consentent à l'adoption de l'enfant en le remettant au service de l'aide
+sociale à l'enfance ou à un organisme autorisé pour l'adoption, le choix de l'adoptant est laissé au tuteur avec l'accord du
+conseil de famille des pupilles de l'Etat ou du conseil de famille de la tutelle organisée à l'initiative de l'organisme
+autorisé pour l'adoption.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 _Cité par_:
 
   - Décret n°89-95 du 10 février 1989 - art. 22 (Ab)
   - Décret n°2002-575 du 18 avril 2002 - art. 18 (Ab)
   - Code de l'action sociale et des familles - art. R225-31 (V)
+
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 6 () JORF 6 juillet 1996
 
 _Codifié par_:
 
@@ -16769,7 +16780,7 @@ _Codifié par_:
 
 Sauf le cas où il existe un lien de parenté ou d'alliance jusqu'au sixième degré inclus entre l'adoptant et l'adopté, le
 consentement à l'adoption des enfants de moins de deux ans n'est valable que si l'enfant a été effectivement remis au service
-de l'aide sociale à l'enfance ou à une oeuvre d'adoption autorisée.
+de l'aide sociale à l'enfance ou à un organisme autorisé pour l'adoption.
 
 **Liens relatifs à cet article**
 
@@ -16777,16 +16788,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+  - Loi n°96-604 du 5 juillet 1996 - art. 7 () JORF 6 juillet 1996
 
 
 ###### Article 348-6
@@ -16846,11 +16850,12 @@ _Codifié par_:
 
 ###### Article 350
 
-L'enfant recueilli par un particulier, une oeuvre privée ou un service de l'aide sociale à l'enfance, dont les parents se
-sont manifestement désintéressés pendant l'année qui précède l'introduction de la demande en déclaration d'abandon, peut être
-déclaré abandonné par le tribunal de grande instance. La demande en déclaration d'abandon est obligatoirement transmise par
-le particulier, l'oeuvre privée ou le service de l'aide sociale à l'enfance à l'expiration du délai d'un an dès lors que les
-parents se sont manifestement désintéressés de l'enfant.
+L'enfant recueilli par un particulier, un établissement ou un service de l'aide sociale à l'enfance, dont les parents se sont
+manifestement désintéressés pendant l'année qui précède l'introduction de la demande en déclaration d'abandon, est déclaré
+abandonné par le tribunal de grande instance sauf le cas de grande détresse des parents et sans préjudice des dispositions du
+quatrième alinéa. La demande en déclaration d'abandon est obligatoirement transmise par le particulier, l'établissement ou le
+service de l'aide sociale à l'enfance qui a recueilli l'enfant à l'expiration du délai d'un an dès lors que les parents se
+sont manifestement désintéressés de l'enfant.
 
 Sont considérés comme s'étant manifestement désintéressés de leur enfant les parents qui n'ont pas entretenu avec lui les
 relations nécessaires au maintien de liens affectifs.
@@ -16885,7 +16890,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-629 du 25 juillet 1994 - art. 33 () JORF 26 juillet 1994
+  - Loi n°96-604 du 5 juillet 1996 - art. 8 () JORF 6 juillet 1996
 
 
 #### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière<a id=112></a>
@@ -16897,23 +16902,12 @@ valablement et définitivement consenti à l'adoption, d'un pupille de l'Etat ou
 judiciaire.
 
 Lorsque la filiation de l'enfant n'est pas établie, il ne peut y avoir de placement en vue de l'adoption pendant un délai de
-trois mois à compter du recueil de l'enfant.
+deux mois à compter du recueil de l'enfant.
 
 Le placement ne peut avoir lieu lorsque les parents ont demandé la restitution de l'enfant tant qu'il n'a pas été statué sur
 le bien-fondé de cette demande à la requête de la partie la plus diligente.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 _Cité par_:
 
@@ -16931,6 +16925,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R225-31 (VD)
   - Code de la défense. - art. D4123-4 (V)
   - Code de la défense. - art. R4123-21 (V)
+
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 9 () JORF 6 juillet 1996
 
 _Codifié par_:
 
@@ -16983,6 +16981,9 @@ vie familiale.
 Si l'adoptant décède, après avoir régulièrement recueilli l'enfant en vue de son adoption, la requête peut être présentée en
 son nom par le conjoint survivant ou l'un des héritiers de l'adoptant.
 
+Si l'enfant décède après avoir été régulièrement recueilli en vue de son adoption, la requête peut toutefois être présentée.
+Le jugement produit effet le jour précédant le décès et emporte uniquement modification de l'état civil de l'enfant.
+
 Le jugement prononçant l'adoption n'est pas motivé.
 
 **Liens relatifs à cet article**
@@ -16998,7 +16999,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-22 du 8 janvier 1993 - art. 33 () JORF 9 janvier 1993
+  - Loi n°96-604 du 5 juillet 1996 - art. 10 () JORF 6 juillet 1996
 
 _Codifié par_:
 
@@ -17007,21 +17008,18 @@ _Codifié par_:
 
 ###### Article 353-1
 
-La tierce opposition à l'encontre du jugement d'adoption n'est recevable qu'en cas de dol ou de fraude imputable aux
-adoptants.
+Dans le cas d'adoption d'un pupille de l'Etat ou d'un enfant étranger qui n'est pas l'enfant du conjoint de l'adoptant, le
+tribunal vérifie avant de prononcer l'adoption que le ou les requérants ont obtenu l'agrément pour adopter ou en étaient
+dispensés.
+
+Si l'agrément a été refusé ou s'il n'a pas été délivré dans le délai légal, le tribunal peut prononcer l'adoption s'il estime
+que les requérants sont aptes à accueillir l'enfant et que celle-ci est conforme à son intérêt.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+  - Loi n°96-604 du 5 juillet 1996 - art. 11 () JORF 6 juillet 1996
 
 _Cité par_:
 
@@ -17039,11 +17037,38 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
+###### Article 353-2
+
+La tierce opposition à l'encontre du jugement d'adoption n'est recevable qu'en cas de dol ou de fraude imputable aux
+adoptants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 11 () JORF 6 juillet 1996
+
+_Cité par_:
+
+  - Code civil - art. 361 (V)
+
+_Anciens textes_:
+
+  - Code civil 353-1 (1ère version)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
 ###### Article 354
 
 Dans les quinze jours de la date à laquelle elle est passée en force de chose jugée, la décision prononçant l'adoption
 plénière est transcrite sur les registres de l'état civil du lieu de naissance de l'adopté, à la requête du procureur de la
 République.
+
+Lorsque l'adopté est né à l'étranger, la décision est transcrite sur les registres du service central d'état civil du
+ministère des affaires étrangères.
 
 La transcription énonce le jour, l'heure et le lieu de la naissance, le sexe de l'enfant ainsi que ses prénoms, tels qu'ils
 résultent du jugement d'adoption, les prénoms, noms, date et lieu de naissance, profession et domicile du ou des adoptants.
@@ -17051,35 +17076,29 @@ Elle ne contient aucune indication relative à la filiation réelle de l'enfant.
 
 La transcription tient lieu d'acte de naissance à l'adopté.
 
-L'acte de naissance originaire et le cas échéant, l'acte de naissance établi en application de l'article 58 sont, à la
-diligence du procureur de la République, revêtus de la mention "adoption" et considérés comme nuls.
+L'acte de naissance originaire conservé par un officier de l'état civil français et, le cas échéant, l'acte de naissance
+établi en application de l'article 58 sont, à la diligence du procureur de la République, revêtus de la mention "adoption" et
+considérés comme nuls.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
 _Cité par_:
 
-  - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
   - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+  - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
   - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
   - Décret n°2017-890 du 6 mai 2017 - art. 37 (VD)
   - Code civil - art. 2292 (T)
   - Code civil - art. 2498 (VT)
   - Code de l'action sociale et des familles - art. L147-8 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 12 () JORF 6 juillet 1996
 
 _Cite_:
 
@@ -17257,6 +17276,8 @@ _Cité par_:
 
 L'adoption simple est permise quel que soit l'âge de l'adopté.
 
+S'il est justifié de motifs graves, l'adoption simple d'un enfant ayant fait l'objet d'une adoption plénière est permise.
+
 Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement à l'adoption.
 
 **Liens relatifs à cet article**
@@ -17271,7 +17292,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-22 du 8 janvier 1993 - art. 31 () JORF 9 janvier 1993
+  - Loi n°96-604 du 5 juillet 1996 - art. 13 () JORF 6 juillet 1996
 
 
 ###### Article 361
@@ -17440,7 +17461,7 @@ _Cité par_:
 
 ###### Article 366
 
-Le lien de parenté résultant de l'adoption s'étend aux enfants légitimes de l'adopté.
+Le lien de parenté résultant de l'adoption s'étend aux enfants de l'adopté.
 
 Le mariage est prohibé :
 
@@ -17464,13 +17485,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
 _Modifié par_:
 
-  - Loi n°76-1179 1976-12-22 art. 12 JORF 23 décembre 1976
+  - Loi n°96-604 du 5 juillet 1996 - art. 14 () JORF 6 juillet 1996
 
 
 ###### Article 367
@@ -17504,8 +17521,12 @@ _Codifié par_:
 
 ###### Article 368
 
-L'adopté et ses descendants légitimes ont dans la famille de l'adoptant les mêmes droits successoraux qu'un enfant légitime
-sans acquérir cependant la qualité d'héritier réservataire à l'égard des ascendants de l'adoptant.
+L'adopté a, dans la famille de l'adoptant, les droits successoraux d'un enfant légitime.
+
+Les descendants de l'adopté ont, dans la famille de l'adoptant, les droits successoraux prévus au chapitre III du titre Ier
+du livre III.
+
+L'adopté et ses descendants n'ont cependant pas la qualité d'héritier réservataire à l'égard des ascendants de l'adoptant.
 
 **Liens relatifs à cet article**
 
@@ -17513,16 +17534,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+  - Loi n°96-604 du 5 juillet 1996 - art. 15 () JORF 6 juillet 1996
 
 _Cité par_:
 
@@ -17589,7 +17603,8 @@ _Cité par_:
 
 ###### Article 370
 
-S'il est justifié de motifs graves, l'adoption peut être révoquée, à la demande de l'adoptant ou de l'adopté.
+S'il est justifié de motifs graves, l'adoption peut être révoquée, à la demande de l'adoptant ou de l'adopté, ou, lorsque ce
+dernier est mineur, à celle du ministère public.
 
 La demande de révocation faite par l'adoptant n'est recevable que si l'adopté est âgé de plus de quinze ans.
 
@@ -17598,24 +17613,17 @@ de cousin germain inclus, peuvent également demander la révocation.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
-_Cité par_:
-
-  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+  - Loi n°96-604 du 5 juillet 1996 - art. 16 () JORF 6 juillet 1996
 
 
 ###### Article 370-1
@@ -18080,23 +18088,14 @@ autre cause ;
 3° S'il a été condamné sous l'un des divers chefs de l'abandon de famille, tant qu'il n'a pas recommencé à assumer ses
 obligations pendant une durée de six mois au moins ;
 
-4° Si un jugement de déchéance ou de retrait a été prononcé contre lui, pour ceux de ses droits qui lui ont été retirés.
+4° Si un jugement de retrait total ou partiel de l'autorité parentale a été prononcé contre lui, pour ceux de ses droits qui
+lui ont été retirés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
 
 _Cité par_:
 
@@ -18973,16 +18972,16 @@ _Créé par_:
   - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 
-#### Section 4 : De la déchéance et du retrait partiel de l'autorité parentale.<a id=124></a>
+#### Section 4 : Du retrait total ou partiel de l'autorité parentale<a id=124></a>
 
 ###### Article 378
 
-Peuvent être déchus de l'autorité parentale par une disposition expresse du jugement pénal les père et mère qui sont
-condamnés, soit comme auteurs, coauteurs ou complices d'un crime ou délit commis sur la personne de leur enfant, soit comme
-coauteurs ou complices d'un crime ou délit commis par leur enfant.
+Peuvent se voir retirer totalement l'autorité parentale par une disposition expresse du jugement pénal les père et mère qui
+sont condamnés, soit comme auteurs, coauteurs ou complices d'un crime ou délit commis sur la personne de leur enfant, soit
+comme coauteurs ou complices d'un crime ou délit commis par leur enfant.
 
-Cette déchéance est applicable aux ascendants autres que les père et mère pour la part d'autorité parentale qui peut leur
-revenir sur leurs descendants.
+Ce retrait est applicable aux ascendants autres que les père et mère pour la part d'autorité parentale qui peut leur revenir
+sur leurs descendants.
 
 **Liens relatifs à cet article**
 
@@ -19010,19 +19009,10 @@ _Cité par_:
   - Code pénal - art. 227-28-2 (Ab)
   - Code pénal - art. 421-2-4-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
+  - Loi n°96-604 du 5 juillet 1996 - art. 18 () JORF 6 juillet 1996
 
 _Codifié par_:
 
@@ -19031,41 +19021,28 @@ _Codifié par_:
 
 ###### Article 378-1
 
-Peuvent être déchus de l'autorité parentale, en dehors de toute condamnation pénale, les père et mère qui, soit par de
-mauvais traitements, soit par des exemples pernicieux d'ivrognerie habituelle, d'inconduite notoire ou de délinquance, soit
-par un défaut de soins ou un manque de direction, mettent manifestement en danger la sécurité, la santé ou la moralité de
-l'enfant.
+Peuvent se voir retirer totalement l'autorité parentale, en dehors de toute condamnation pénale, les père et mère qui, soit
+par de mauvais traitements, soit par une consommation habituelle et excessive de boissons alcooliques ou un usage de
+stupéfiants, soit par une inconduite notoire ou des comportements délictueux, soit par un défaut de soins ou un manque de
+direction, mettent manifestement en danger la sécurité, la santé ou la moralité de l'enfant. 
 
-Peuvent pareillement en être déchus, quand une mesure d'assistance éducative avait été prise à l'égard de l'enfant, les père
-et mère qui, pendant plus de deux ans, se sont volontairement abstenus d'exercer les droits et de remplir les devoirs que
-leur laissait l'article 375-7.
+Peuvent pareillement se voir retirer totalement l'autorité parentale, quand une mesure d'assistance éducative avait été prise
+à l'égard de l'enfant, les père et mère qui, pendant plus de deux ans, se sont volontairement abstenus d'exercer les droits
+et de remplir les devoirs que leur laissait l'article 375-7.
 
-L'action en déchéance est portée devant le tribunal de grande instance, soit par le ministère public, soit par un membre de
-la famille ou le tuteur de l'enfant.
+L'action en retrait total de l'autorité parentale est portée devant le tribunal de grande instance, soit par le ministère
+public, soit par un membre de la famille ou le tuteur de l'enfant.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
+  - Loi n°96-604 du 5 juillet 1996 - art. 19 () JORF 6 juillet 1996
 
 _Cite_:
 
-  - Code civil - art. 375-7 (M)
+  - Code civil - art. 375-7 (V)
 
 _Cité par_:
 
@@ -19073,15 +19050,19 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 50 (Ab)
   - Code de la famille et de l'aide sociale. - art. 61 (Ab)
 
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
 
 ###### Article 379
 
-La déchéance prononcée en vertu de l'un des deux articles précédents porte de plein droit sur tous les attributs, tant
-patrimoniaux que personnels, se rattachant à l'autorité parentale ; à défaut d'autre détermination, elle s'étend à tous les
-enfants mineurs déjà nés au moment du jugement.
+Le retrait total de l'autorité parentale prononcé en vertu de l'un des deux articles précédents porte de plein droit sur tous
+les attributs, tant patrimoniaux que personnels, se rattachant à l'autorité parentale ; à défaut d'autre détermination, il
+s'étend à tous les enfants mineurs déjà nés au moment du jugement. 
 
-Elle emporte, pour l'enfant, dispense de l'obligation alimentaire, par dérogation aux articles 205 à 207, sauf disposition
-contraire dans le jugement de déchéance.
+Il emporte, pour l'enfant, dispense de l'obligation alimentaire, par dérogation aux articles 205 à 207, sauf disposition
+contraire dans le jugement de retrait.
 
 **Liens relatifs à cet article**
 
@@ -19095,19 +19076,15 @@ _Cité par_:
   - Décret n°59-1095 du 21 septembre 1959 - art. 8 (Ab)
   - Code de la famille et de l'aide sociale. - art. 57 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
+  - Loi n°96-604 du 5 juillet 1996 - art. 20 () JORF 6 juillet 1996
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+  - Code civil - art. 205 (V)
+  - Code civil - art. 207 (V)
 
 _Codifié par_:
 
@@ -19116,9 +19093,9 @@ _Codifié par_:
 
 ###### Article 379-1
 
-Le jugement peut, au lieu de la déchéance totale, se borner à prononcer un retrait partiel de droits, limité aux attributs
-qu'il spécifie. Il peut aussi décider que la déchéance ou le retrait n'auront d'effet qu'à l'égard de certains des enfants
-déjà nés.
+Le jugement peut, au lieu du retrait total, se borner à prononcer un retrait partiel de l'autorité parentale, limité aux
+attributs qu'il spécifie. Il peut aussi décider que le retrait total ou partiel de l'autorité parentale n'aura d'effet qu'à
+l'égard de certains des enfants déjà nés.
 
 **Liens relatifs à cet article**
 
@@ -19142,33 +19119,25 @@ _Cité par_:
   - Code pénal - art. 227-28-2 (Ab)
   - Code pénal - art. 421-2-4-1 (V)
 
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
+  - Loi n°96-604 du 5 juillet 1996 - art. 21 () JORF 6 juillet 1996
+
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
 
 ###### Article 380
 
-En prononçant la déchéance ou le retrait du droit de garde, la juridiction saisie devra, si l'autre parent est décédé ou s'il
-a perdu l'exercice de l'autorité parentale, soit désigner un tiers auquel l'enfant sera provisoirement confié à charge pour
-lui de requérir l'organisation de la tutelle, soit confier l'enfant au service départemental de l'aide sociale à l'enfance.
+En prononçant le retrait total ou partiel de l'autorité parentale ou du droit de garde, la juridiction saisie devra, si
+l'autre parent est décédé ou s'il a perdu l'exercice de l'autorité parentale, soit désigner un tiers auquel l'enfant sera
+provisoirement confié à charge pour lui de requérir l'organisation de la tutelle, soit confier l'enfant au service
+départemental de l'aide sociale à l'enfance.
 
-Elle pourra prendre les mêmes mesures lorsque l'autorité parentale est dévolue à l'un des parents par l'effet de la déchéance
-prononcée contre l'autre.
+Elle pourra prendre les mêmes mesures lorsque l'autorité parentale est dévolue à l'un des parents par l'effet du retrait
+total de l'autorité parentale prononcé contre l'autre.
 
 **Liens relatifs à cet article**
 
@@ -19186,29 +19155,26 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 61 (Ab)
   - Code de la famille et de l'aide sociale. - art. 64 (M)
 
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
+  - Loi n°96-604 du 5 juillet 1996 - art. 22 () JORF 6 juillet 1996
+
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
-
-  - Loi n°87-570 du 22 juillet 1987 - art. 25 () JORF 24 juillet 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
 
 ###### Article 381
 
-Les père et mère qui ont fait l'objet d'une déchéance ou d'un retrait de droits pour l'une des causes prévues aux articles
-378 et 378-1, pourront, par requête, obtenir du tribunal de grande instance, en justifiant de circonstances nouvelles, que
-leur soient restitués, en tout ou partie, les droits dont ils avaient été privés.
+Les père et mère qui ont fait l'objet d'un retrait total de l'autorité parentale ou d'un retrait de droits pour l'une des
+causes prévues aux articles 378 et 378-1 pourront, par requête, obtenir du tribunal de grande instance, en justifiant de
+circonstances nouvelles, que leur soient restitués, en tout ou partie, les droits dont ils avaient été privés. 
 
-La demande en restitution ne pourra être formée qu'un an au plus tôt après que le jugement prononçant la déchéance ou le
-retrait est devenu irrévocable ; en cas de rejet, elle ne pourra être renouvelée qu'après une nouvelle période d'un an.
-Aucune demande ne sera recevable lorsque, avant le dépôt de la requête, l'enfant aura été placé en vue de l'adoption.
+La demande en restitution ne pourra être formée qu'un an au plus tôt après que le jugement prononçant le retrait total ou
+partiel de l'autorité parentale est devenu irrévocable ; en cas de rejet, elle ne pourra être renouvelée qu'après une
+nouvelle période d'un an. Aucune demande ne sera recevable lorsque, avant le dépôt de la requête, l'enfant aura été placé en
+vue de l'adoption. 
 
 Si la restitution est accordée, le ministère public requerra, le cas échéant, des mesures d'assistance éducative.
 
@@ -19218,32 +19184,23 @@ _Cité par_:
 
   - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
   - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
-  - Loi n°70-459 du 4 juin 1970 - art. 14 (V)
   - Code de la famille et de l'aide sociale. - art. 64 (M)
   - Code de la famille et de l'aide sociale. - art. 75 (Ab)
+  - Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+
+_Modifié par_:
+
+  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
+  - Loi n°96-604 du 5 juillet 1996 - art. 23 () JORF 6 juillet 1996
+
+_Cite_:
+
+  - Code civil - art. 378 (V)
+  - Code civil - art. 378-1 (V)
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
-_Cite_:
-
-  - Code civil - art. 378 (M)
-  - Code civil - art. 378-1 (M)
 
 
 ### Chapitre II : De l'autorité parentale relativement aux biens de l'enfant<a id=125></a>
