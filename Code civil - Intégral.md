@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1893-08-29
+Version Consolidée au 1896-03-25
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -6831,25 +6831,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Ordonnance 58-1307 1958-12-23 art. 3 JORF 25 décembre 1958
-
-
-###### Article 773
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code civil - art. 774 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 774
