@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1945-10-18
+Version Consolidée au 1945-11-02
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -2292,6 +2292,42 @@ _Créé par_:
 _Abrogé par_:
 
   - Ordonnance 58-779 1958-12-23 art. 8 JORF 30 août 1958
+
+
+###### Article 169
+
+Le procureur de la République dans l'arrondissement duquel sera célébré le mariage peut dispenser, pour des causes graves, de
+la publication et de tout délai ou de l'affichage de la publication seulement.
+
+Il peut également, dans des cas exceptionnels, dispenser les futurs époux, ou l'un d'eux seulement, de la remise du
+certificat médical exigé par le deuxième alinéa de l'article 63.
+
+Le certificat médical n'est exigible d'aucun des futurs époux au cas de péril imminent de mort de l'un d'eux, prévu au
+deuxième alinéa de l'article 75 du présent code.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance 45-2720 1945-11-02 art. 7 JORF 5 novembre 1945 rectificatif JORF 31 décembre 1945
+
+_Cité par_:
+
+  - Code civil - art. 165 (V)
+  - Code civil - art. 171-2 (V)
+  - Code civil - art. 63 (V)
+
+_Cite_:
+
+  - Code civil - art. 75 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 170
