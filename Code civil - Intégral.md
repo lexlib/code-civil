@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1919-08-09
+Version Consolidée au 1919-10-27
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -591,6 +591,22 @@ _Créé par_:
 
 Dans les cas où les parties intéressées ne seront point obligées de comparaître en personne, elles pourront se faire
 représenter par un fondé de procuration spéciale et authentique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 37
+
+Les témoins produits aux actes de l'état civil devront être âgés de dix-huit ans au moins, parents ou autres, sans
+distinction de sexe ; ils seront choisis par les personnes intéressées.
 
 **Liens relatifs à cet article**
 
