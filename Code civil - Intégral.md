@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1978-06-11
+Version Consolidée au 1978-07-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 34 à 509)](#2)
@@ -355,100 +355,112 @@ Version Consolidée au 1978-06-11
           - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#352)
         - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#353)
     - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-2 à 1831-5)](#354)
-    - [Titre IX bis : Des conventions relatives à l'exercice des droits indivis (art. 1873-1 à 1873-18)](#355)
-      - [Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier. (art. 1873-2 à 1873-15)](#356)
-      - [Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier. (art. 1873-16 à 1873-18)](#357)
-    - [Titre X : Du prêt (art. 1874 à 1914)](#358)
-      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#359)
-        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#360)
-        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#361)
-        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#362)
-      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#363)
-        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#364)
-        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#365)
-        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#366)
-      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#367)
-    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#368)
-      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#369)
-      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1954)](#370)
-        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#371)
-        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#372)
-        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#373)
-        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#374)
-        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1954)](#375)
-      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#376)
-        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#377)
-        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#378)
-        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#379)
-    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#380)
-      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#381)
-      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#382)
-        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#383)
-        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#384)
-    - [Titre XIII : Du mandat (art. 1984 à 2010)](#385)
-      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#386)
-      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#387)
-      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#388)
-      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#389)
-    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#390)
-      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#391)
-      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#392)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#393)
-        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#394)
-        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#395)
-        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#396)
-      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#397)
-      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#398)
-    - [Titre XV : Des transactions (art. 2044 à 2058)](#399)
-    - [Titre XVI : Du compromis (art. 2059 à 2068)](#400)
-    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#401)
-      - [Chapitre I : Du gage. (art. 2073 à 2084)](#402)
-      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#403)
-    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#404)
-      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#405)
-      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#406)
-        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#407)
-        - [Section I : Des privilèges sur les meubles (art. 2101 à 2102)](#408)
-          - [Paragraphe I : Des privilèges généraux sur les meubles. (art. 2101)](#409)
-          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#410)
-        - [Section II : Des privilèges spéciaux sur les immeubles. (art. 2103)](#411)
-        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#412)
-        - [Section III : Des privilèges généraux sur les immeubles (art. 2104)](#413)
-        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#414)
-        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#415)
-      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#416)
-        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#417)
-        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#418)
-        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#419)
-        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#420)
-        - [Section V : Des règles particulières à l'hypothèque légale des époux. (art. 2135 à 2142)](#421)
-        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2141)](#422)
-        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#423)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#424)
-      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#425)
-        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#426)
-        - [Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163)](#427)
-        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164 à 2165)](#428)
-      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#429)
-      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#430)
-      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#431)
-      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#432)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#433)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#434)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#435)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#436)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#437)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#438)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#439)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#440)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#441)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#442)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2270 à 2281)](#443)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#444)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#445)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#446)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#447)
-      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#448)
+    - [Titre IX : De la société (art. 1832 à 1873)](#355)
+      - [Chapitre Ier : Dispositions générales. (art. 1832 à 1844-17)](#356)
+      - [Chapitre II : De la société civile (art. 1845 à 1870-1)](#357)
+        - [Section 1 : Dispositions générales. (art. 1845)](#358)
+        - [Section I : Dispositions générales. (art. 1845-1)](#359)
+        - [Section 2 : Gérance. (art. 1846 à 1851)](#360)
+        - [Section 3 : Décisions collectives. (art. 1852 à 1854)](#361)
+        - [Section 4 : Information des associés. (art. 1855 à 1856)](#362)
+        - [Section 5 : Engagement des associés à l'égard des tiers. (art. 1857 à 1860)](#363)
+        - [Section 6 : Cession des parts sociales. (art. 1861 à 1868)](#364)
+        - [Section 7 : Retrait ou décès d'un associé. (art. 1869 à 1870-1)](#365)
+      - [Chapitre III : De la société en participation. (art. 1871 à 1873)](#366)
+    - [Titre IX bis : Des conventions relatives à l'exercice des droits indivis (art. 1873-1 à 1873-18)](#367)
+      - [Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier. (art. 1873-2 à 1873-15)](#368)
+      - [Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier. (art. 1873-16 à 1873-18)](#369)
+    - [Titre X : Du prêt (art. 1874 à 1914)](#370)
+      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#371)
+        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#372)
+        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#373)
+        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#374)
+      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#375)
+        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#376)
+        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#377)
+        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#378)
+      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#379)
+    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#380)
+      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#381)
+      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1954)](#382)
+        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#383)
+        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#384)
+        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#385)
+        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#386)
+        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1954)](#387)
+      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#388)
+        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#389)
+        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#390)
+        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#391)
+    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#392)
+      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#393)
+      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#394)
+        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#395)
+        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#396)
+    - [Titre XIII : Du mandat (art. 1984 à 2010)](#397)
+      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#398)
+      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#399)
+      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#400)
+      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#401)
+    - [Titre XIV : Du cautionnement. (art. 2011 à 2043)](#402)
+      - [Chapitre I : De la nature et de l'étendue du cautionnement. (art. 2011 à 2020)](#403)
+      - [Chapitre II : De l'effet du cautionnement (art. 2021 à 2033)](#404)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2021 à 2027)](#405)
+        - [Section 1 : De l'effet du cautionnement entre le créancier et la caution. (art. 2024)](#406)
+        - [Section 2 : De l'effet du cautionnement entre le débiteur et la caution. (art. 2028 à 2032)](#407)
+        - [Section 3 : De l'effet du cautionnement entre les cofidéjusseurs. (art. 2033)](#408)
+      - [Chapitre III : De l'extinction du cautionnement. (art. 2034 à 2039)](#409)
+      - [Chapitre IV : De la caution légale et de la caution judiciaire. (art. 2040 à 2043)](#410)
+    - [Titre XV : Des transactions (art. 2044 à 2058)](#411)
+    - [Titre XVI : Du compromis (art. 2059 à 2068)](#412)
+    - [Titre XVII : Du nantissement. (art. 2071 à 2091)](#413)
+      - [Chapitre I : Du gage. (art. 2073 à 2084)](#414)
+      - [Chapitre II : De l'antichrèse. (art. 2085 à 2091)](#415)
+    - [Titre XVIII : Des privilèges et hypothèques. (art. 2092 à 2203)](#416)
+      - [Chapitre I : Dispositions générales. (art. 2092 à 2094)](#417)
+      - [Chapitre II : Des privilèges. (art. 2095 à 2107)](#418)
+        - [Section 1 : Des privilèges sur les meubles. (art. 2100)](#419)
+        - [Section I : Des privilèges sur les meubles (art. 2101 à 2102)](#420)
+          - [Paragraphe I : Des privilèges généraux sur les meubles. (art. 2101)](#421)
+          - [Paragraphe II : Des privilèges sur certains meubles. (art. 2102)](#422)
+        - [Section II : Des privilèges spéciaux sur les immeubles. (art. 2103)](#423)
+        - [Section 3 : Des privilèges généraux sur les immeubles. (art. 2105)](#424)
+        - [Section III : Des privilèges généraux sur les immeubles (art. 2104)](#425)
+        - [Section 4 : Comment se conservent les privilèges. (art. 2106 à 2113)](#426)
+        - [Section IV : Comment se conservent les privilèges. (art. 2107)](#427)
+      - [Chapitre III : Des hypothèques. (art. 2114 à 2145)](#428)
+        - [Section 1 : Des hypothèques légales. (art. 2121 à 2122)](#429)
+        - [Section 2 : Des hypothèques judiciaires. (art. 2123)](#430)
+        - [Section 3 : Des hypothèques conventionnelles. (art. 2124 à 2133)](#431)
+        - [Section IV : Du rang que les hypothèques ont entre elles. (art. 2134)](#432)
+        - [Section V : Des règles particulières à l'hypothèque légale des époux. (art. 2135 à 2142)](#433)
+        - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2141)](#434)
+        - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#435)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#436)
+      - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#437)
+        - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#438)
+        - [Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163)](#439)
+        - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2164 à 2165)](#440)
+      - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs. (art. 2166 à 2179)](#441)
+      - [Chapitre VII : De l'extinction des privilèges et hypothèques. (art. 2180)](#442)
+      - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques. (art. 2181 à 2192)](#443)
+      - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs. (art. 2196 à 2203)](#444)
+    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#445)
+      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2216)](#446)
+      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#447)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#448)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#449)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#450)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#451)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#452)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#453)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#454)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2270 à 2281)](#455)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#456)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#457)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2269)](#458)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#459)
+      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#460)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -47683,7 +47695,2100 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-5 (V)
 
 
-## Titre IX bis : Des conventions relatives à l'exercice des droits indivis<a id=355></a>
+## Titre IX : De la société<a id=355></a>
+
+### Chapitre Ier : Dispositions générales.<a id=356></a>
+
+###### Article 1832
+
+La société est un contrat par lequel deux ou plusieurs personnes conviennent de mettre en commun des biens ou leur industrie,
+en vue de partager le bénéfice ou de profiter de l'économie qui pourra en résulter.
+
+Les associés s'engagent à contribuer aux pertes.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-920 du 2 novembre 1965 - art. 1 (Ab)
+  - Loi n°71-579 du 16 juillet 1971 - art. 1 (Ab)
+  - Décret n°2006-966 du 1 août 2006 - art. 1 (Ab)
+  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+  - Code civil - art. 1844-10 (V)
+  - Code civil - art. 1871 (V)
+  - Code de commerce - art. L225-39 (V)
+  - Code de commerce - art. L225-87 (V)
+  - Code de commerce - art. R121-1 (V)
+  - Code de la santé publique - art. R4131-10 (V)
+  - Code du travail - art. R2152-6-1 (V)
+  - Code du travail - art. R2261-1-1 (Ab)
+  - Code forestier (nouveau) - art. L331-1 (VD)
+  - Code forestier - art. L241-2 (VT)
+  - Code rural - art. L531-1 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Modifié par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil 1844-10 *nullité*
+
+
+###### Article 1832-1
+
+Deux époux peuvent, seuls ou avec d'autres personnes, être associés dans une même société et participer ensemble ou non à la
+gestion sociale. Toutefois, cette faculté n'est ouverte que si les époux ne doivent pas, l'un et l'autre, être indéfiniment
+et solidairement responsables des dettes sociales.
+
+Les avantages et libéralités résultant d'un contrat de société entre époux ne peuvent être annulés parce qu'ils
+constitueraient des donations déguisées, lorsque les conditions en ont été réglées par un acte authentique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 13 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1844-10 (V)
+
+_Cité par_:
+
+  - Code civil - art. 1844-10 (V)
+  - Code civil - art. 1871 (V)
+
+
+###### Article 1833
+
+Toute société doit avoir un objet licite et être constituée dans l'intérêt commun des associés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Modifié par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Code civil - art. 1844-10 (V)
+  - Code civil - art. 1871 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil 1844-10 *nullité*
+
+
+###### Article 1834
+
+Les dispositions du présent chapitre sont applicables à toutes les sociétés s'il n'en est autrement disposé par la loi en
+raison de leur forme ou de leur objet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1835
+
+Les statuts doivent être établis par écrit. Ils déterminent, outre les apports de chaque associé, la forme, l'objet,
+l'appellation, le siège social, le capital social, la durée de la société et les modalités de son fonctionnement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 281 ter (V)
+
+
+###### Article 1836
+
+Les statuts ne peuvent être modifiés, à défaut de clause contraire, que par accord unanime des associés.
+
+En aucun cas, les engagements d'un associé ne peuvent être augmentés sans le consentement de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Ordonnance n°2016-394 du 31 mars 2016 - art. 4
+  - Code civil - art. 1871 (V)
+  - Code rural - art. R241-50 (M)
+
+
+###### Article 1837
+
+Toute société dont le siège est situé sur le territoire français est soumise aux dispositions de la loi française.
+
+Les tiers peuvent se prévaloir du siège statutaire, mais celui-ci ne leur est pas opposable par la société si le siège réel
+est situé en un autre lieu.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°47-1775 du 10 septembre 1947 - art. 26-1 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1838
+
+La durée de la société ne peut excéder quatre-vingt-dix-neuf ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+
+###### Article 1839
+
+Si les statuts ne contiennent pas toutes les énonciations exigées par la législation ou si une formalité prescrite par celle-
+ci a été omise ou irrégulièrement accomplie, tout intéressé est recevable à demander en justice que soit ordonnée, sous
+astreinte, la régularisation de la constitution. Le ministère public est habile à agir aux mêmes fins.
+
+Les mêmes règles sont applicables en cas de modification des statuts.
+
+L'action aux fins de régularisation prévue à l'alinéa premier se prescrit par trois ans à compter de l'immatriculation de la
+société ou de la publication de l'acte modifiant les statuts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°78-9 du 4 janvier 1978 - art. 4 (Ab)
+  - Décret n°78-704 du 3 juillet 1978 - art. 4 (V)
+  - Code civil - art. 1840 (V)
+
+
+###### Article 1840
+
+Les fondateurs, ainsi que les premiers membres des organes de gestion, de direction ou d'administration sont solidairement
+responsables du préjudice causé soit par le défaut d'une mention obligatoire dans les statuts, soit par l'omission ou
+l'accomplissement irrégulier d'une formalité prescrite pour la constitution de la société. 
+
+En cas de modification des statuts, les dispositions de l'alinéa précédent sont applicables aux membres des organes de
+gestion, de direction ou d'administration alors en fonction. 
+
+L'action se prescrira par dix ans à compter du jour où l'une ou l'autre, selon le cas, des formalités visées à l'alinéa 3 de
+l'article 1839 aura été accomplie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1839 (V)
+
+
+###### Article 1841
+
+Il est interdit aux sociétés n'y ayant pas été autorisées par la loi de faire publiquement appel à l'épargne ou d'émettre des
+titres négociables, à peine de nullité des contrats conclus ou des titres émis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Ordonnance n°2009-798 du 24 juin 2009 - art. 5 (V)
+  - Code civil - art. 1871 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code monétaire et financier - art. L412-3 (V)
+
+
+###### Article 1842
+
+Les sociétés autres que les sociétés en participation visées au chapitre III jouissent de la personnalité morale à compter de
+leur immatriculation.
+
+Jusqu'à l'immatriculation, les rapports entre les associés sont régis par le contrat de société et par les principes généraux
+du droit applicable aux contrats et obligations.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-879 du 29 novembre 1966 - art. 1 (V)
+  - Décret n°67-237 du 23 mars 1967 - art. 2 (Ab)
+  - Loi n°78-9 du 4 janvier 1978 - art. 4 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 1 (Ab)
+  - Décret n°92-680 du 20 juillet 1992 - art. 12 (V)
+  - Code de commerce. - art. L123-1 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1843
+
+Les personnes qui ont agi au nom d'une société en formation avant l'immatriculation sont tenues des obligations nées des
+actes ainsi accomplis, avec solidarité si la société est commerciale, sans solidarité dans les autres cas. La société
+régulièrement immatriculée peut reprendre les engagements souscrits, qui sont alors réputés avoir été dès l'origine
+contractés par celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Décret n°2001-650 du 19 juillet 2001 - art. 1 (Ab)
+  - Code de commerce. - art. R321-1 (V)
+
+
+###### Article 1843-1
+
+L'apport d'un bien ou d'un droit soumis à publicité pour son opposabilité aux tiers peut être publié dès avant
+l'immatriculation et sous la condition que celle-ci intervienne. A compter de celle-ci, les effets de la formalité
+rétroagissent à la date de son accomplissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1843-2
+
+Les droits de chaque associé dans le capital social sont proportionnels à ses apports lors de la constitution de la société
+ou au cours de l'existence de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°69-763 du 24 juillet 1969 - art. 13 (V)
+  - Décret n°69-1057 du 20 novembre 1969 - art. 13 (Ab)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 13 (V)
+  - Code de commerce - art. L227-1 (V)
+  - Code rural et de la pêche maritime - art. R173-6 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1843-3
+
+Chaque associé est débiteur envers la société de tout ce qu'il a promis de lui apporter en nature, en numéraire ou en
+industrie.
+
+Les apports en nature sont réalisés par le transfert des droits correspondants et par la mise à la disposition effective des
+biens.
+
+Lorsque l'apport est en propriété, l'apporteur est garant envers la société comme un vendeur envers son acheteur.
+
+Lorsqu'il est en jouissance, l'apporteur est garant envers la société comme un bailleur envers son preneur. Toutefois,
+lorsque l'apport en jouissance porte sur des choses de genre ou sur tous autres biens normalement appelés à être renouvelés
+pendant la durée de la société, le contrat transfère à celle-ci la propriété des biens apportés, à charge d'en rendre une
+pareille quantité, qualité et valeur ; dans ce cas, l'apporteur est garant dans les conditions prévues à l'alinéa précédent.
+
+L'associé qui devait apporter une somme dans la société et qui ne l'a point fait devient de plein droit et sans demande,
+débiteur des intérêts de cette somme à compter du jour où elle devait être payée et ce sans préjudice de plus amples
+dommages-intérêts, s'il y a lieu.
+
+L'associé qui s'est obligé à apporter son industrie à la société lui doit compte de tous les gains qu'il a réalisés par
+l'activité faisant l'objet de son apport.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+  - Arrêté du 21 décembre 2005 - art. 5 (V)
+  - Code monétaire et financier - art. L613-34-7 (V)
+
+
+###### Article 1843-4
+
+Dans tous les cas où sont prévus la cession des droits sociaux d'un associé, ou le rachat de ceux-ci par la société, la
+valeur de ces droits est déterminée, en cas de contestation, par un expert désigné, soit par les parties, soit à défaut
+d'accord entre elles, par ordonnance du président du tribunal statuant en la forme des référés et sans recours possible.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-537 du 24 juillet 1966 - art. 18 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 21 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 22 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 262-19 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 269-8 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 275 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 365 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 45 (Ab)
+  - Loi n°66-879 du 29 novembre 1966 - art. 19 (V)
+  - Décret n°67-236 du 23 mars 1967 - art. 203-11 (Ab)
+  - Décret n°67-236 du 23 mars 1967 - art. 207 (Ab)
+  - Décret n°67-236 du 23 mars 1967 - art. 29 (Ab)
+  - Ordonnance n°67-820 du 23 septembre 1967 - art. 32 (Ab)
+  - Décret n°67-868 du 2 octobre 1967 - art. 28 (V)
+  - Décret n°69-763 du 24 juillet 1969 - art. 28 (V)
+  - Décret n°69-810 du 12 août 1969 - art. 148 (Ab)
+  - Décret n°69-810 du 12 août 1969 - art. 149 (Ab)
+  - Décret n°69-810 du 12 août 1969 - art. 155 (Ab)
+  - Décret n°69-1057 du 20 novembre 1969 - art. 28 (Ab)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 101 (V)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 111 (V)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 28 (V)
+  - Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+  - Décret n°78-704 du 3 juillet 1978 - art. 58 (V)
+  - Décret n°79-885 du 11 octobre 1979 - art. 30 (Ab)
+  - Loi n°86-18 du 6 janvier 1986 - art. 19-1 (VD)
+  - Décret n°86-260 du 18 février 1986 - art. 18 (Ab)
+  - Décret n°86-636 du 14 mars 1986 - art. 23 (Ab)
+  - Décret n°86-1176 du 5 novembre 1986 - art. 26 (Ab)
+  - Décret n°86-1176 du 5 novembre 1986 - art. 31 (Ab)
+  - Loi n°90-1258 du 31 décembre 1990 - art. 10 (V)
+  - Loi n°90-1258 du 31 décembre 1990 - art. 13 (V)
+  - Loi n°90-1258 du 31 décembre 1990 - art. 34 (V)
+  - Loi n°90-1258 du 31 décembre 1990 - art. 5 (V)
+  - Loi n°90-1258 du 31 décembre 1990 - art. 18 (V)
+  - Décret n°92-545 du 17 juin 1992 - art. 15 (V)
+  - Décret n°92-739 du 29 juillet 1992 - art. 15 (Ab)
+  - Décret n°92-740 du 29 juillet 1992 - art. 13 (Ab)
+  - Décret n°92-741 du 29 juillet 1992 - art. 9 (Ab)
+  - Décret n°92-788 du 4 août 1992 - art. 8 (Ab)
+  - Décret n°92-789 du 4 août 1992 - art. 8 (Ab)
+  - Décret n°93-618 du 27 mars 1993 - art. Annexe, 15 (V)
+  - Décret n°93-1105 du 17 septembre 1993 - art. 8 (Ab)
+  - Décret n°94-680 du 3 août 1994 - art. 15 (Ab)
+  - Décret n°95-70 du 20 janvier 1995 - art. ANNEXE (V)
+  - Décret n°2013-466 du 4 juin 2013 - art. 3 (V)
+  - Loi n°2014-1 du 2 janvier 2014 - art. 3 (V)
+  - Décret n°2015-28 du 15 janvier 2015 - art. (V)
+  - Décret n°2016-44 du 26 janvier 2016 - art. 3 (V)
+  - Décret n°2016-881 du 29 juin 2016 - art. 13 (V)
+  - Décret n°2016-883 du 29 juin 2016 - art. 13 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 52 (V)
+  - Décret n°2017-354 du 20 mars 2017 - art. 2
+  - Décret n°2017-354 du 20 mars 2017 - art. 3 (V)
+  - Décret n°2017-794 du 5 mai 2017 - art. 11 (V)
+  - Code civil - art. 1844-12 (V)
+  - Code civil - art. 1860 (V)
+  - Code civil - art. 1862 (V)
+  - Code civil - art. 1869 (V)
+  - Code civil - art. 1870-1 (V)
+  - Code de commerce - art. L221-12 (V)
+  - Code de commerce - art. L221-15 (V)
+  - Code de commerce - art. L221-16 (V)
+  - Code de commerce - art. L223-13 (V)
+  - Code de commerce - art. L223-14 (V)
+  - Code de commerce - art. L227-18 (V)
+  - Code de commerce - art. L228-35-10 (V)
+  - Code de commerce - art. L229-14 (V)
+  - Code de commerce - art. L235-6 (V)
+  - Code de commerce - art. L236-11-1 (V)
+  - Code de commerce - art. R223-11 (V)
+  - Code de commerce - art. R228-23 (V)
+  - Code de commerce - art. R743-100 (V)
+  - Code de commerce - art. R814-131 (V)
+  - Code de commerce - art. R822-125 (T)
+  - Code de commerce - art. R822-126 (T)
+  - Code de commerce - art. R822-132 (T)
+  - Code de commerce - art. R822-87 (V)
+  - Code de commerce - art. R822-88 (V)
+  - Code de commerce - art. R822-94 (V)
+  - Code de commerce. - art. L228-19 (M)
+  - Code de commerce. - art. L228-24 (V)
+  - Code de commerce. - art. R229-8 (V)
+  - Code de commerce. - art. R814-126 (V)
+  - Code de la propriété intellectuelle - art. R422-29 (V)
+  - Code de la propriété intellectuelle - art. R422-48 (V)
+  - Code de la santé publique - art. R4113-16 (V)
+  - Code de la santé publique - art. R4381-16 (V)
+  - Code de la santé publique - art. R4381-29 (T)
+  - Code de la santé publique - art. R5090-11 (Ab)
+  - Code de la santé publique - art. R5090-8 (Ab)
+  - Code de la santé publique - art. R5125-20 (V)
+  - Code de la santé publique - art. R5125-21 (V)
+  - Code de la santé publique - art. R5125-24 (V)
+  - Code de la santé publique - art. R6212-86 (T)
+  - Code de la santé publique - art. R6223-27 (V)
+  - Code de la santé publique - art. R6223-65 (V)
+  - Code de la santé publique - art. R6223-66 (V)
+  - Code monétaire et financier - art. L214-65 (V)
+  - Code monétaire et financier - art. L214-97 (V)
+  - Code rural - art. R241-101 (V)
+  - Code rural - art. R241-56 (V)
+  - Code rural et de la pêche maritime - art. R173-22 (V)
+  - Code rural et de la pêche maritime - art. R173-61 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+
+
+###### Article 1844
+
+Tout associé a le droit de participer aux décisions collectives.
+
+Les copropriétaires d'une part sociale indivise sont représentés par un mandataire unique, choisi parmi les indivisaires ou
+en dehors d'eux. En cas de désaccord, le mandataire sera désigné en justice à la demande du plus diligent.
+
+Si une part est grevée d'un usufruit, le droit de vote appartient au nu-propriétaire, sauf pour les décisions concernant
+l'affectation des bénéfices, où il est réservé à l'usufruitier.
+
+Les statuts peuvent déroger aux dispositions des deux alinéas qui précèdent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+  - Code civil - art. 1871 (V)
+  - Code du sport. - art. Annexe I-2 à l'article R122-4 (V)
+
+
+###### Article 1844-1
+
+La part de chaque associé dans les bénéfices et sa contribution aux pertes se déterminent à proportion de sa part dans le
+capital social et la part de l'associé qui n'a apporté que son industrie est égale à celle de l'associé qui a le moins
+apporté, le tout sauf clause contraire.
+
+Toutefois, la stipulation attribuant à un associé la totalité du profit procuré par la société ou l'exonérant de la totalité
+des pertes, celle excluant un associé totalement du profit ou mettant à sa charge la totalité des pertes sont réputées non
+écrites.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-537 du 24 juillet 1966 - art. 360 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 38 (Ab)
+  - Code civil - art. 1871 (V)
+  - Code de commerce - art. L235-1 (V)
+  - Code de commerce. - art. L223-7 (M)
+  - Code de la construction et de l'habitation. - art. Annexe à l'article R443-9-4 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1844-2
+
+Il peut être consenti hypothèque ou toute autre sûreté réelle sur les biens de la société en vertu de pouvoirs résultant de
+délibérations ou délégations établies sous signatures privées alors même que la constitution de l'hypothèque ou de la sureté
+doit l'être par acte authentique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Modifié par_:
+
+  - Loi n°78-753 du 17 juillet 1978 - art. 64
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 IV (champ d'application territoriale Polynésie française, Wallis et Futuna, Mayotte)
+
+_Cité par_:
+
+  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+
+
+###### Article 1844-3
+
+La transformation régulière d'une société en une société d'une autre forme n'entraîne pas la création d'une personne morale
+nouvelle. Il en est de même de la prorogation ou de toute autre modification statutaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1844-4
+
+Une société, même en liquidation, peut être absorbée par une autre société ou participer à la constitution d'une société
+nouvelle, par voie de fusion.
+
+Elle peut aussi transmettre son patrimoine par voie de scission à des sociétés existantes ou à des sociétés nouvelles.
+
+Ces opérations peuvent intervenir entre des sociétés de forme différente.
+
+Elles sont décidées, par chacune des sociétés intéressées, dans les conditions requises pour la modification de ses statuts.
+
+Si l'opération comporte la création de sociétés nouvelles, chacune de celles-ci est constituée selon les règles propres à la
+forme de société adoptée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°66-537 du 24 juillet 1966 - art. 371 (Ab)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Ordonnance n°2016-394 du 31 mars 2016 - art. 4
+  - Code civil - art. 1844-8 (V)
+  - Code de commerce - art. R814-100 (V)
+
+
+###### Article 1844-5
+
+La réunion de toutes les parts sociales en une seule main n'entraîne pas la dissolution de plein droit de la société. Tout
+intéressé peut demander la dissolution de la société si la situation n'a pas été régularisée dans le délai d'un an.
+
+L'appartenance de l'usufruit de toutes les parts sociales à la même personne est sans conséquence sur l'existence de la
+société.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-537 du 24 juillet 1966 - art. 262-5 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 36-1 (Ab)
+  - Loi n°66-537 du 24 juillet 1966 - art. 391 (Ab)
+  - Décret n°67-868 du 2 octobre 1967 - art. 84 (V)
+  - Décret n°67-868 du 2 octobre 1967 - art. 85 (V)
+  - Décret n°69-763 du 24 juillet 1969 - art. 84 (V)
+  - Décret n°69-763 du 24 juillet 1969 - art. 85 (V)
+  - Décret n°69-1057 du 20 novembre 1969 - art. 84 (Ab)
+  - Décret n°69-1057 du 20 novembre 1969 - art. 85 (Ab)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 84 (V)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 85 (V)
+  - Décret n°78-380 du 15 mars 1978 - art. 63 (V)
+  - Décret n°78-704 du 3 juillet 1978 - art. 8 (V)
+  - Décret n°84-406 du 30 mai 1984 - art. 24 (Ab)
+  - Loi n°85-697 du 11 juillet 1985 - art. 11 (Ab)
+  - Décret n°92-680 du 20 juillet 1992 - art. 78 (V)
+  - Décret n°2001-148 du 16 février 2001 - art. Annexe (Ab)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+  - Décret n°2014-769 du 4 juillet 2014 - art. 2 (V)
+  - Décret n°2016-652 du 20 mai 2016 - art. 25
+  - Décret n°2017-613 du 24 avril 2017 - art. 6
+  - Code civil - art. 1844-7 (VD)
+  - Code civil - art. 1844-8 (V)
+  - Code de commerce - art. L145-16 (V)
+  - Code de commerce - art. L223-4 (V)
+  - Code de commerce - art. L227-4 (V)
+  - Code de commerce - art. L237-2 (V)
+  - Code de commerce - art. R123-75 (V)
+  - Code de commerce - art. R743-115 (V)
+  - Code général des impôts, CGI. - art. 1518 B (VD)
+  - Code général des impôts, CGI. - art. 1586 octies (V)
+  - Code général des impôts, CGI. - art. 1586 quater (VT)
+  - Code général des impôts, CGI. - art. 1647 B sexies (VT)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 C (V)
+  - Code rural - art. L324-1 (V)
+  - Code rural - art. L526-9 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil 1844-10 *nullité*
+
+
+###### Article 1844-6
+
+La prorogation de la société est décidée à l'unanimité des associés, ou, si les statuts le prévoient, à la majorité prévue
+pour la modification de ceux-ci.
+
+Un an au moins avant la date d'expiration de la société, les associés doivent être consultés à l'effet de décider si la
+société doit être prorogée.
+
+A défaut, tout associé peut demander  au président du tribunal, statuant sur requête, la désignation d'un mandataire de
+justice chargé de provoquer la consultation prévue ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+  - Décret n°92-680 du 20 juillet 1992 - art. 70 (V)
+  - Arrêté du 23 avril 2008 - art. (M)
+  - Code civil - art. 1844-7 (VD)
+  - Code de commerce - art. R123-124 (VD)
+  - Code rural et de la pêche maritime - art. R524-15 (V)
+
+
+###### Article 1844-7
+
+La société prend fin :
+
+1° Par l'expiration du temps pour lequel elle a été constituée, sauf prorogation effectuée conformément à l'article 1844-6 ;
+
+2° Par la réalisation ou l'extinction de son objet ;
+
+3° Par l'annulation du contrat de société ;
+
+4° Par la dissolution anticipée décidée par les associés ;
+
+5° Par la dissolution anticipée prononcée par le tribunal à la demande d'un associé pour justes motifs, notamment en cas
+d'inexécution de ses obligations par un associé, ou de mésentente entre associés paralysant le fonctionnement de la société ;
+
+6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à l'article 1844-5 ;
+
+7° Par l'effet d'un jugement ordonnant la liquidation des biens de la société ;
+
+8° Pour toute autre cause prévue par les statuts.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
+  - Décret n°67-868 du 2 octobre 1967 - art. 74 (V)
+  - Décret n°69-763 du 24 juillet 1969 - art. 74 (V)
+  - Décret n°69-1057 du 20 novembre 1969 - art. 74 (Ab)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 74 (V)
+  - Décret n°86-1176 du 5 novembre 1986 - art. 49 (Ab)
+  - Décret n°92-680 du 20 juillet 1992 - art. 70 (V)
+  - Décret n°96-31 du 16 janvier 1996 - art. Annexe, art. 6 (V)
+  - Loi n°2014-1 du 2 janvier 2014 - art. 2 (V)
+  - Code civil - art. 1846-1 (V)
+  - Code de commerce - art. R814-142 (V)
+  - Code de commerce - art. R814-99 (V)
+  - Code monétaire et financier - art. L511-16 (V)
+  - Code monétaire et financier - art. L522-11 (V)
+  - Code monétaire et financier - art. L526-17 (V)
+  - Code monétaire et financier - art. L532-11 (VD)
+  - Code monétaire et financier - art. L532-6 (VD)
+  - Code monétaire et financier - art. L745-8-5 (V)
+  - Code monétaire et financier - art. L755-8-5 (V)
+  - Code rural - art. L323-4 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1844-5 (M)
+  - Code civil - art. 1844-6 (V)
+
+
+###### Article 1844-8
+
+La dissolution de la société entraîne sa liquidation, hormis les cas prévus à l'article 1844-4. Elle n'a d'effet à l'égard
+des tiers qu'après sa publication.
+
+Le liquidateur est nommé conformément aux dispositions des statuts. Dans le silence de ceux-ci, il est nommé par les associés
+ou, si les associés n'ont pu procéder à cette nomination, par décision de justice. Le liquidateur peut être révoqué dans les
+mêmes conditions. La nomination et la révocation ne sont opposables aux tiers qu'à compter de leur publication. Ni la société
+ni les tiers ne peuvent, pour se soustraire à leurs engagements, se prévaloir d'une irrégularité dans la nomination ou dans
+la révocation du liquidateur, dès lors que celle-ci a été régulièrement publiée.
+
+La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la publication de la clôture de
+celle-ci.
+
+Si la clôture de la liquidation n'est pas intervenue dans un délai de trois ans à compter de la dissolution, le ministère
+public ou tout intéressé peut saisir le tribunal, qui fait procéder à la liquidation ou, si celle-ci a été commencée, à son
+achèvement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°47-1775 du 10 septembre 1947 - art. 26-37 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1844-4 (V)
+
+
+###### Article 1844-9
+
+Après paiement des dettes et remboursement du capital social, le partage de l'actif est effectué entre les associés dans les
+mêmes proportions que leur participation aux bénéfices, sauf clause ou convention contraire.
+
+Les règles concernant le partage des successions, y compris l'attribution préférentielle, s'appliquent aux partages entre
+associés.
+
+Toutefois, les associés peuvent valablement décider, soit dans les statuts, soit par une décision ou un acte distinct, que
+certains biens seront attribués à certains associés. A défaut, tout bien apporté qui se retrouve en nature dans la masse
+partagée est attribué, sur sa demande, et à charge de soulte s'il y a lieu, à l'associé qui en avait fait l'apport. Cette
+faculté s'exerce avant tout autre droit à une attribution préférentielle.
+
+Tous les associés, ou certains d'entre eux seulement, peuvent aussi demeurer dans l'indivision pour tout ou partie des biens
+sociaux. Leurs rapports  sont alors régis, à la clôture de la liquidation, en ce qui concerne ces biens, par les dispositions
+relatives à l'indivision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Code civil - art. 1869 (V)
+
+
+###### Article 1844-10
+
+La nullité de la société ne peut résulter que de la violation des dispositions des articles 1832, 1832-1, alinéa 1er, et
+1833, ou de l'une des causes de nullité des contrats en général. 
+
+Toute clause statutaire contraire à une disposition impérative du présent titre dont la violation n'est pas sanctionnée par
+la nullité de la société, est réputée non écrite. 
+
+La nullité des actes ou délibérations des organes de la société ne peut résulter que de la violation d'une disposition
+impérative du présent titre ou de l'une des causes de nullité des contrats en général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1832 (V)
+  - Code civil - art. 1832-1 (V)
+  - Code civil - art. 1833 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1832-1 (V)
+
+
+###### Article 1844-11
+
+L'action en nullité est éteinte lorsque la cause de la nullité a cessé d'exister le jour où le tribunal statue sur le fond en
+première instance, sauf si cette nullité est fondée sur l'illicéité de l'objet social.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1844-12
+
+En cas de nullité d'une société ou d'actes ou délibérations postérieurs à sa constitution, fondée sur un vice de consentement
+ou l'incapacité d'un associé, et lorsque la régularisation peut intervenir, toute personne, y ayant intérêt, peut mettre en
+demeure celui qui est susceptible de l'opérer, soit de régulariser, soit d'agir en nullité dans un délai de six mois à peine
+de forclusion. Cette mise en demeure est dénoncée à la société. 
+
+La société ou un associé peut soumettre au tribunal saisi dans le délai prévu à l'alinéa précédent, toute mesure susceptible
+de supprimer l'intérêt du demandeur notamment par le rachat de ses droits sociaux. En ce cas, le tribunal peut, soit
+prononcer la nullité, soit rendre obligatoires les mesures proposées si celles-ci ont été préalablement adoptées par la
+société aux conditions prévues pour les modifications statutaires. Le vote de l'associé dont le rachat des droits est demandé
+est sans influence sur la décision de la société. 
+
+En cas de contestation, la valeur des droits sociaux à rembourser à l'associé est déterminée conformément aux dispositions de
+l'article 1843-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 15 (V)
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 15 (V)
+  - Loi n°89-377 du 13 juin 1989 - art. 9 (Ab)
+  - Code de commerce - art. L251-5 (V)
+  - Code de commerce - art. L252-9 (V)
+
+_Cite_:
+
+  - Code civil - art. 1843-4 (V)
+
+
+###### Article 1844-13
+
+Le tribunal, saisi d'une demande en nullité, peut, même d'office, fixer un délai pour permettre de couvrir les nullités. Il
+ne peut prononcer la nullité moins de deux mois après la date de l'exploit introductif d'instance.
+
+Si, pour couvrir une nullité, une assemblée doit être convoquée, ou une consultation des associés effectuée, et s'il est
+justifié d'une convocation régulière de cette assemblée ou de l'envoi aux associés du texte des projets de décision
+accompagné des documents qui doivent leur être communiqués, le tribunal accorde par jugement le délai nécessaire pour que les
+associés puissent prendre une décision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°89-377 du 13 juin 1989 - art. 9 (Ab)
+
+
+###### Article 1844-14
+
+Les actions en nullité de la société ou d'actes et délibérations postérieurs à sa constitution se prescrivent par trois ans à
+compter du jour où la nullité est encourue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°89-377 du 13 juin 1989 - art. 9 (Ab)
+
+
+###### Article 1844-15
+
+Lorsque la nullité de la société est prononcée, elle met fin, sans rétroactivité, à l'exécution du contrat.
+
+A l'égard de la personne morale qui a pu prendre naissance, elle produit les effets d'une dissolution prononcée par justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°89-377 du 13 juin 1989 - art. 9 (Ab)
+
+
+###### Article 1844-16
+
+Ni la société ni les associés ne peuvent se prévaloir d'une nullité à l'égard des tiers de bonne foi. Cependant la nullité
+résultant de l'incapacité ou de l'un des vices du consentement est opposable même aux tiers par l'incapable et ses
+représentants légaux, ou par l'associé dont le consentement a été surpris par erreur, dol ou violence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°89-377 du 13 juin 1989 - art. 9 (Ab)
+
+
+###### Article 1844-17
+
+L'action en responsabilité fondée sur l'annulation de la société ou des actes et délibérations postérieurs à la constitution
+se prescrit par trois ans à compter du jour où la décision d'annulation est passée en force de chose jugée.
+
+La disparition de la cause de nullité ne met pas obstacle à l'exercice de l'action en dommages-intérêts tendant à la
+réparation du préjudice causé par le vice dont la société, l'acte ou la délibération était entaché. Cette action se prescrit
+par trois ans à compter du jour où la nullité a été couverte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°89-377 du 13 juin 1989 - art. 9 (Ab)
+  - Code de commerce. - art. L251-5 (M)
+
+
+### Chapitre II : De la société civile<a id=357></a>
+
+#### Section 1 : Dispositions générales.<a id=358></a>
+
+###### Article 1845
+
+Les dispositions du présent chapitre sont applicables à toutes les sociétés civiles, à moins qu'il n'y soit dérogé par le
+statut légal particulier auquel certaines d'entre elles sont assujetties.
+
+Ont le caractère civil toutes les sociétés auxquelles la loi n'attribue pas un autre caractère à raison de leur forme, de
+leur nature, ou de leur objet.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°63-837 du 12 août 1963 - art. Annexe (Ab)
+  - Décret n°78-704 du 3 juillet 1978 - art. 30 (V)
+  - Décret n°80-307 du 29 avril 1980 - art. Annexe II (Ab)
+  - Livre des procédures fiscales - art. L94 A (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+#### Section I : Dispositions générales.<a id=359></a>
+
+###### Article 1845-1
+
+Le capital social est divisé en parts égales.
+
+Les apports en industrie ne concourent pas à sa formation, mais donnent lieu à l'attribution de parts ouvrant droit au
+partage des bénéfices de l'actif net, à charge de contribuer aux pertes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°78-9 du 4 janvier 1978 - art. 4 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+
+#### Section 2 : Gérance.<a id=360></a>
+
+###### Article 1846
+
+La société est gérée par une ou plusieurs personnes, associées ou non, nommées soit par les statuts, soit par un acte
+distinct, soit par une décision des associés.
+
+Les statuts fixent les règles de désignation du ou des gérants et le mode d'organisation de la gérance.
+
+Sauf disposition contraire des statuts, le gérant est nommé par une décision des associés représentant plus de la moitié des
+parts sociales.
+
+Dans le silence des statuts, et s'il n'en a été décidé autrement par les associés lors de la désignation, les gérants sont
+réputés nommés pour la durée de la société.
+
+Si, pour quelque cause que ce soit, la société se trouve dépourvue de gérant, tout associé peut demander au président du
+tribunal statuant sur requête la désignation d'un mandataire chargé de réunir les associés en vue de nommer un ou plusieurs
+gérants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 36 (V)
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 36 (V)
+
+
+###### Article 1846-1
+
+Hors les cas visés à l'article 1844-7, la société prend fin par la dissolution anticipée que peut prononcer le tribunal à la
+demande de tout intéressé, lorsqu'elle est dépourvue de gérant depuis plus d'un an.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 37 (V)
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 37 (V)
+
+_Cite_:
+
+  - Code civil - art. 1844-7 (V)
+
+
+###### Article 1846-2
+
+La nomination et la cessation de fonction des gérants doivent être publiées.
+
+Ni la société, ni les tiers ne peuvent, pour se soustraire à leurs engagements, se prévaloir d'une irrégularité dans la
+nomination des gérants ou dans la cessation de leur fonction, dès lors que ces décisions ont été régulièrement publiées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1847
+
+Si une personne morale exerce la gérance, ses dirigeants sont soumis aux mêmes conditions et obligations et encourent les
+mêmes responsabilités, civile et pénale, que s'ils étaient gérants en leur nom propre, sans préjudice de la responsabilité
+solidaire de la personne morale qu'ils dirigent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1848
+
+Dans les rapports entre associés, le gérant peut accomplir tous les actes de gestion que demande l'intérêt de la société.
+
+S'il y a plusieurs gérants, ils exercent séparément ces pouvoirs, sauf le droit qui appartient à chacun de s'opposer à une
+opération avant qu'elle ne soit conclue.
+
+Le tout, à défaut de dispositions des statuts sur le mode d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1852 (V)
+
+
+###### Article 1849
+
+Dans les rapports avec les tiers, le gérant engage la société par les actes entrant dans l'objet social.
+
+En cas de pluralité de gérants, ceux-ci détiennent séparément les pouvoirs prévus à l'alinéa précédent. L'opposition formée
+par un gérant aux actes d'un autre gérant est sans effet à l'égard des tiers, à moins qu'il ne soit établi qu'ils en ont eu
+connaissance.
+
+Les clauses statutaires limitant les pouvoirs des gérants sont inopposables aux tiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1850
+
+Chaque gérant est responsable individuellement envers la société et envers les tiers, soit des infractions aux lois et
+règlements, soit de la violation des statuts, soit des fautes commises dans sa gestion.
+
+Si plusieurs gérants ont participé aux mêmes faits, leur responsabilité est solidaire à l'égard des tiers et des associés.
+Toutefois, dans leurs rapports entre eux, le tribunal détermine la part contributive de chacun dans la réparation du dommage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1851
+
+Sauf disposition contraire des statuts le gérant est révocable par une décision des associés représentant plus de la moitié
+des parts sociales. Si la révocation est décidée sans juste motif, elle peut donner lieu à dommages-intérêts. 
+
+Le gérant est également révocable par les tribunaux pour cause légitime, à la demande de tout associé. 
+
+Sauf clause contraire, la révocation d'un gérant, qu'il soit associé ou non, n'entraîne pas la dissolution de la société. Si
+le gérant révoqué est un associé, il peut, à moins qu'il n'en soit autrement convenu dans les statuts, ou que les autres
+associés ne décident la dissolution anticipée de la société, se retirer de celle-ci dans les conditions prévues à l'article
+1869 (2ème alinéa).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1869 (V)
+
+
+#### Section 3 : Décisions collectives.<a id=361></a>
+
+###### Article 1852
+
+Les décisions qui excèdent les pouvoirs reconnus aux gérants sont prises selon les dispositions statutaires ou, en l'absence
+de telles dispositions, à l'unanimité des associés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1848 (V)
+
+
+###### Article 1853
+
+Les décisions sont prises par les associés réunis en assemblée. Les statuts peuvent aussi prévoir qu'elles résulteront d'une
+consultation écrite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1854
+
+Les décisions peuvent encore résulter du consentement de tous les associés exprimé dans un acte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+#### Section 4 : Information des associés.<a id=362></a>
+
+###### Article 1855
+
+Les associés ont le droit d'obtenir, au moins une fois par an, communication des livres et des documents sociaux, et de poser
+par écrit des questions sur la gestion sociale auxquelles il devra être répondu par écrit dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-537 du 24 juillet 1966 - art. 360 (M)
+  - Décret n°78-704 du 3 juillet 1978 - art. 48 (V)
+  - Décret n°79-885 du 11 octobre 1979 - art. 24 (Ab)
+  - Code de l'urbanisme - art. R213-7 (V)
+  - Code de la propriété intellectuelle - art. L321-5 (V)
+  - Code rural - art. R241-51 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1856
+
+Les gérants doivent, au moins une fois dans l'année, rendre compte de leur gestion aux associés. Cette reddition de compte
+doit comporter un rapport écrit d'ensemble sur l'activité de la société au cours de l'année ou de l'exercice écoulé
+comportant l'indication des bénéfices réalisés ou prévisibles et des pertes encourues ou prévues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 41 (V)
+  - Décret n°79-885 du 11 octobre 1979 - art. 23 (Ab)
+  - Décret n°80-337 du 7 mai 1980 - art. 2 (Ab)
+  - Décret n°86-260 du 18 février 1986 - art. 15 (Ab)
+  - Décret n°86-1074 du 26 septembre 1986 - art. 5 (Ab)
+  - Code de l'urbanisme - art. R213-7 (V)
+  - Code de la construction et de l'habitation. - art. Annexe à l'article R443-9-4 (V)
+  - Code de la propriété intellectuelle - art. R321-4 (M)
+  - Code de la propriété intellectuelle - art. R422-26 (V)
+  - Code rural et de la pêche maritime - art. R241-50 (V)
+
+
+#### Section 5 : Engagement des associés à l'égard des tiers.<a id=363></a>
+
+###### Article 1857
+
+A l'égard des tiers, les associés répondent indéfiniment des dettes sociales à proportion de leur part dans le capital social
+à la date de l'exigibilité ou au jour de la cessation des paiements.
+
+L'associé qui n'a apporté que son industrie est tenu comme celui dont la participation dans le capital social est la plus
+faible.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-920 du 2 novembre 1965 - art. 9 (Ab)
+  - Loi n°86-18 du 6 janvier 1986 - art. 4 (V)
+  - Code de la construction et de l'habitation. - art. L200-5 (V)
+  - Code de la construction et de l'habitation. - art. L443-6-7 (V)
+  - Code de la construction et de l'habitation. - art. L443-7-1 (Ab)
+  - Code de la santé publique - art. R4131-18 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°86-18 du 6 janvier 1986 - art. 4 (V)
+
+
+###### Article 1858
+
+Les créanciers ne peuvent poursuivre le paiement des dettes sociales contre un associé qu'après avoir préalablement et
+vainement poursuivi la personne morale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1859
+
+Toutes les actions  contre les associés non liquidateurs ou leurs héritiers et ayants cause se prescrivent par cinq ans à
+compter de la publication de la dissolution de la société.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1860
+
+S'il y a déconfiture, faillite personnelle, liquidation de biens ou règlement judiciaire atteignant l'un des associés, à
+moins que les autres unanimes ne décident de dissoudre la société par anticipation ou que cette dissolution ne soit prévue
+par les statuts, il est procédé, dans les conditions énoncées à l'article 1843-4, au remboursement des droits sociaux de
+l'intéressé, lequel perdra alors la qualité d'associé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1843-4 (V)
+
+
+#### Section 6 : Cession des parts sociales.<a id=364></a>
+
+###### Article 1861
+
+Les parts sociales ne peuvent être cédées qu'avec l'agrément de tous les associés.
+
+Les statuts peuvent toutefois convenir que cet agrément sera obtenu à une majorité qu'ils déterminent, ou qu'il peut être
+accordé par les gérants. Ils peuvent aussi dispenser d'agrément les cessions consenties à des associés ou au conjoint de l'un
+d'eux. Sauf dispositions contraires des statuts, ne sont pas soumises à agrément les cessions consenties à des ascendants ou
+descendants du cédant.
+
+Le projet de cession est notifié, avec demande d'agrément, à la société et à chacun des associés. Il n'est notifié qu'à la
+société quand les statuts prévoient que l'agrément peut être accordé par les gérants.
+
+Lorsque deux époux sont simultanément membres d'une société, les cessions faites par l'un d'eux à l'autre doivent, pour être
+valables, résulter d'un acte notarié ou d'un acte sous seing privé ayant acquis date certaine autrement que par le décès du
+cédant.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-537 du 24 juillet 1966 - art. 30 (Ab)
+  - Code civil - art. 1863 (V)
+  - Code rural - art. L322-4 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1862
+
+Lorsque plusieurs associés expriment leur volonté d'acquérir, ils sont, sauf clause ou convention contraire, réputés
+acquéreurs à proportion du nombre de parts qu'ils détenaient antérieurement. 
+
+Si aucun associé ne se porte acquéreur, la société peut faire acquérir les parts par un tiers désigné à l'unanimité des
+autres associés ou suivant les modalités prévues par les statuts. La société peut également procéder au rachat des parts en
+vue de leur annulation. 
+
+Le nom du ou des acquéreurs proposés, associés ou tiers, ou l'offre de rachat par la société, ainsi que le prix offert sont
+notifiés au cédant. En cas de contestation, sur le prix, celui-ci est fixé conformément aux dispositions de l'article 1843-4,
+le tout sans préjudice du droit du cédant de conserver ses parts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 50 (V)
+  - Code civil - art. 1868 (V)
+
+_Cite_:
+
+  - Code civil - art. 1843-4 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1864 (V)
+
+
+###### Article 1863
+
+Si aucune offre d'achat n'est faite au cédant dans un délai de six mois à compter de la dernière des notifications prévues au
+troisième alinéa de l'article 1861, l'agrément à la cession est réputé acquis, à moins que les autres associés ne décident,
+dans le même délai, la dissolution anticipée de la société. 
+
+Dans ce dernier cas, le cédant peut rendre caduque cette décision en faisant connaître qu'il renonce à la cession dans le
+délai d'un mois à compter de ladite décision.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-920 du 2 novembre 1965 - art. 9 (M)
+  - Décret n°78-704 du 3 juillet 1978 - art. 50 (V)
+  - Code civil - art. 1864 (V)
+  - Code civil - art. 1868 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1861 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1864 (V)
+
+
+###### Article 1864
+
+Il ne peut être dérogé aux dispositions des deux articles qui précèdent que pour modifier le délai de six mois prévu à
+l'article 1863 (1er alinéa), et sans que le délai prévu par les statuts puisse excéder un an ni être inférieur à un mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Décret n°78-704 du 3 juillet 1978 - art. 50 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1862 (V)
+  - TXT_ASSOCIE: Code civil - art. 1863 (V)
+
+_Cite_:
+
+  - Code civil - art. 1863 (V)
+
+
+###### Article 1865
+
+La cession de parts sociales doit être constatée par écrit. Elle est rendue opposable à la société dans les formes prévues à
+l'article 1690 ou, si les statuts le stipulent, par transfert sur les registres de la société. 
+
+Elle n'est opposable aux tiers qu'après accomplissement de ces formalités et après publication.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-933 du 8 août 1962 - art. 5 (V)
+  - Loi n°70-1300 du 31 décembre 1970 - art. 36-1 (Ab)
+  - Décret n°86-1176 du 5 novembre 1986 - art. 33 (Ab)
+  - Code de commerce - art. R814-133 (V)
+  - Code monétaire et financier - art. L214-58 (V)
+  - Code monétaire et financier - art. L214-59 (V)
+  - Code monétaire et financier - art. L214-92 (V)
+  - Code monétaire et financier - art. L214-93 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°70-1300 1970-12-31 art. 36-1 *sociétés civiles faisant appel public à l'épargne*
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatifs JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1690 (V)
+
+
+###### Article 1866
+
+Les parts sociales peuvent faire l'objet d'un nantissement constaté, soit par acte authentique, soit par acte sous signatures
+privées signifié à la société ou accepté par elle dans un acte authentique, et donnant lieu à une publicité dont la date
+détermine le rang des créanciers nantis. Ceux dont les titres sont publiés le même jour viennent en concurrence.
+
+Le privilège du créancier gagiste subsiste sur les droits sociaux nantis, par le seul fait de la publication du nantissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Code monétaire et financier - art. D211-14 (V)
+
+
+###### Article 1867
+
+Tout associé peut obtenir des autres associés leur consentement à un projet de nantissement dans les mêmes conditions que
+leur agrément à une cession de parts.
+
+Le consentement donné au projet de nantissement emporte agrément du cessionnaire en cas de réalisation forcée des parts
+sociales à la condition que cette réalisation soit notifiée un mois avant la vente aux associés et à la société.
+
+Chaque associé peut se substituer à l'acquéreur dans un délai de cinq jours francs à compter de la vente. Si plusieurs
+associés exercent cette faculté, ils sont, sauf clause ou convention contraire, réputés acquéreurs à proportion du nombre de
+parts qu'ils détenaient antérieurement. Si aucun associé n'exerce cette faculté, la société peut racheter les parts elle-
+même, en vue de leur annulation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Code civil - art. 1868 (V)
+
+
+###### Article 1868
+
+La réalisation forcée qui ne procède pas d'un nantissement auquel les autres associés ont donné leur consentement doit
+pareillement être notifiée un mois avant la vente aux associés et à la société. 
+
+Les associés peuvent, dans ce délai, décider la dissolution de la société ou l'acquisition des parts dans les conditions
+prévues aux articles 1862 et 1863. 
+
+Si la vente a eu lieu, les associés ou la société peuvent exercer la faculté de substitution qui leur est reconnue par
+l'article 1867. Le non-exercice de cette faculté emporte agrément de l'acquéreur.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°66-537 du 24 juillet 1966 - art. 18 (M)
+  - Loi n°66-537 du 24 juillet 1966 - art. 21 (M)
+  - Loi n°66-537 du 24 juillet 1966 - art. 22 (M)
+  - Loi n°66-537 du 24 juillet 1966 - art. 45 (M)
+  - Décret n°67-236 du 23 mars 1967 - art. 207 (M)
+  - Décret n°67-236 du 23 mars 1967 - art. 29 (M)
+  - Décret n°67-868 du 2 octobre 1967 - art. 101 (V)
+  - Décret n°67-868 du 2 octobre 1967 - art. 111 (V)
+  - Décret n°69-763 du 24 juillet 1969 - art. 101 (V)
+  - Décret n°69-763 du 24 juillet 1969 - art. 111 (V)
+  - Décret n°69-1057 du 20 novembre 1969 - art. 101 (Ab)
+  - Décret n°69-1057 du 20 novembre 1969 - art. 111 (Ab)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 101 (M)
+  - Décret n°69-1274 du 31 décembre 1969 - art. 111 (M)
+  - Loi n°70-1300 du 31 décembre 1970 - art. 8 (Ab)
+  - Décret n°78-704 du 3 juillet 1978 - art. 58 (V)
+  - Décret n°92-755 du 31 juillet 1992 - art. 191 (Ab)
+  - Code des procédures civiles d'exécution - art. R233-7 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1862 (V)
+  - Code civil - art. 1863 (V)
+  - Code civil - art. 1867 (V)
+
+
+#### Section 7 : Retrait ou décès d'un associé.<a id=365></a>
+
+###### Article 1869
+
+Sans préjudice des droits des tiers, un associé peut se retirer totalement ou partiellement de la société, dans les
+conditions prévues par les statuts ou, à défaut, après autorisation donnée par une décision unanime des autres associés. Ce
+retrait peut également être autorisé pour justes motifs par une décision de justice.
+
+A moins qu'il ne soit fait application de l'article 1844-9 (3ème alinéa), l'associé qui se retire a droit au remboursement de
+la valeur de ses droits sociaux, fixée, à défaut d'accord amiable, conformément à l'article 1843-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1843-4 (V)
+  - Code civil - art. 1844-9 (V)
+
+_Cité par_:
+
+  - Code civil - art. 1851 (V)
+
+
+###### Article 1870
+
+La société n'est pas dissoute par le décès d'un associé, mais continue avec ses héritiers ou légataires, sauf à prévoir dans
+les statuts qu'ils doivent être agréés par les associés.
+
+Il peut toutefois, être convenu que ce décès entraînera la dissolution de la société ou que celle-ci continuera avec les
+seuls associés survivants.
+
+Il peut également être convenu que la société continuera soit avec le conjoint survivant, soit avec un ou plusieurs des
+héritiers, soit avec toute autre personne désignée par les statuts ou, si ceux-ci l'autorisent, par disposition
+testamentaire.
+
+Sauf clause contraire des statuts, lorsque la succession est dévolue à une personne morale, celle-ci ne peut devenir associée
+qu'avec l'agrément des autres associés, donné selon les conditions statutaires ou, à défaut, par l'accord unanime des
+associés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
+  - Décret n°67-868 du 2 octobre 1967 - art. 101 (V)
+  - Décret n°67-868 du 2 octobre 1967 - art. 111 (V)
+  - Code rural - art. L323-6 (M)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1870-1
+
+Les héritiers ou légataires qui ne deviennent pas associés n'ont droit qu'à la valeur des parts sociales de leur auteur.
+Cette valeur doit leur être payée par les nouveaux titulaires des parts ou par la société elle-même si celle-ci les a
+rachetées en vue de leur annulation. 
+
+La valeur de ces droits sociaux est déterminée au jour du décès dans les conditions prévues à l'article 1843-4.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
+  - Décret n°67-868 du 2 octobre 1967 - art. 101 (V)
+  - Décret n°67-868 du 2 octobre 1967 - art. 111 (V)
+  - Code rural - art. L323-6 (V)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1843-4 (V)
+
+
+### Chapitre III : De la société en participation.<a id=366></a>
+
+###### Article 1871
+
+Les associés peuvent convenir que la société ne sera point immatriculée. La société est dite alors " société en participation
+". Elle n'est pas une personne morale et n'est pas soumise à publicité. Elle peut être prouvée par tous moyens. 
+
+Les associés conviennent librement de l'objet, du fonctionnement et des conditions de la société en participation, sous
+réserve de ne pas déroger aux dispositions impératives des articles 1832, 1832-1, 1833, 1836 (2 ème alinéa), 1841, 1844 (1er
+alinéa) et 1844-1 (2e alinéa).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°57-298 du 11 mars 1957 - art. 50 (Ab)
+  - Loi n°88-1201 du 23 décembre 1988 - art. 34 (Ab)
+  - Loi n°88-1201 du 23 décembre 1988 - art. 7 (Ab)
+  - Loi n°90-1258 du 31 décembre 1990 - art. 22 (V)
+  - Décret n°2016-1820 du 21 décembre 2016 - art. 1
+  - Code de commerce - art. R822-107 (V)
+  - Code monétaire et financier - art. L214-130 (V)
+  - Code monétaire et financier - art. L214-180 (VD)
+  - Code monétaire et financier - art. L214-190-3 (VD)
+  - Code monétaire et financier - art. L214-24-34 (VD)
+  - Code monétaire et financier - art. L214-49-4 (Ab)
+  - Code monétaire et financier - art. L214-71 (V)
+  - Code monétaire et financier - art. L214-8 (VD)
+  - Code rural - art. R522-1 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°66-537 du 24 juillet 1966 - art. 419 (Ab)
+  - TXT_ASSOCIE: Loi n°66-537 du 24 juillet 1966 - art. 420 (Ab)
+  - TXT_ASSOCIE: Loi n°66-537 du 24 juillet 1966 - art. 421 (Ab)
+  - TXT_ASSOCIE: Loi n°66-537 du 24 juillet 1966 - art. 422 (Ab)
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1832 (V)
+  - Code civil - art. 1832-1 (V)
+  - Code civil - art. 1833 (V)
+  - Code civil - art. 1836 (V)
+  - Code civil - art. 1841 (V)
+  - Code civil - art. 1844 (V)
+  - Code civil - art. 1844-1 (V)
+
+
+###### Article 1871-1
+
+A moins qu'une organisation différente n'ait été prévue, les rapports entre associés sont régis, en tant que de raison, soit
+par les dispositions applicables aux sociétés civiles, si la société a un caractère civil, soit, si elle a un caractère
+commercial, par celles applicables aux sociétés en nom collectif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1872
+
+A l'égard des tiers, chaque associé reste propriétaire des biens qu'il met à la disposition de la société.
+
+Sont réputés indivis entre les associés les biens acquis par emploi ou remploi de deniers indivis pendant la durée de la
+société et ceux qui se trouvaient indivis avant d'être mis à la disposition de la société.
+
+Il en est de même de ceux que les associés auraient convenu de mettre en indivision.
+
+Il peut en outre être convenu que l'un des associés est, à l'égard des tiers, propriétaire de tout ou partie des biens qu'il
+acquiert en vue de la réalisation de l'objet social.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°88-1201 du 23 décembre 1988 - art. 34 (Ab)
+  - Loi n°88-1201 du 23 décembre 1988 - art. 7 (Ab)
+  - Code civil - art. 1872-1 (V)
+  - Code civil - art. 1872-2 (V)
+
+
+###### Article 1872-1
+
+Chaque associé contracte en son nom personnel et est seul engagé à l'égard des tiers. 
+
+Toutefois, si les participants agissent en qualité d'associés au vu et au su des tiers, chacun d'eux est tenu à l'égard de
+ceux-ci des obligations nées des actes accomplis en cette qualité par l'un des autres, avec solidarité, si la société est
+commerciale, sans solidarité dans les autres cas. 
+
+Il en est de même de l'associé qui, par son immixtion, a laissé croire au cocontractant qu'il entendait s'engager à son
+égard, ou dont il est prouvé que l'engagement a tourné à son profit. 
+
+Dans tous les cas, en ce qui concerne les biens réputés indivis en application de l'article 1872 (alinéas 2 et 3), sont
+applicables dans les rapports avec les tiers, soit les dispositions du chapitre VI du titre Ier du livre III du présent code,
+soit, si les formalités prévues à l'article 1873-2 ont été accomplies, celles du titre IX bis du présent livre, tous les
+associés étant alors, sauf convention contraire, réputés gérants de l'indivision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1872 (V)
+  - Code civil - art. 1873-2 (V)
+
+
+###### Article 1872-2
+
+Lorsque la société en participation est à durée indéterminée, sa dissolution peut résulter à tout moment d'une notification
+adressée par l'un d'eux à tous les associés, pourvu que cette notification soit de bonne foi, et non faite à contretemps.
+
+A moins qu'il n'en soit autrement convenu, aucun associé ne peut demander le partage des biens indivis en application de
+l'article 1872 tant que la société n'est pas dissoute.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cite_:
+
+  - Code civil - art. 1872 (V)
+
+
+###### Article 1873
+
+Les dispositions du présent chapitre sont applicables aux sociétés créées de fait.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°78-9 1978-01-04
+
+_Créé par_:
+
+  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+_Cité par_:
+
+  - Loi n°88-1201 du 23 décembre 1988 - art. 34 (Ab)
+  - Loi n°88-1201 du 23 décembre 1988 - art. 7 (Ab)
+
+
+## Titre IX bis : Des conventions relatives à l'exercice des droits indivis<a id=367></a>
 
 ###### Article 1873-1
 
@@ -47713,7 +49818,7 @@ _Créé par_:
   - Loi n°76-1286 du 31 décembre 1976 - art. 5 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
 
 
-### Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.<a id=356></a>
+### Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.<a id=368></a>
 
 ###### Article 1873-2
 
@@ -48138,7 +50243,7 @@ _Cite_:
   - Code civil - art. 815-17 (V)
 
 
-### Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.<a id=357></a>
+### Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.<a id=369></a>
 
 ###### Article 1873-16
 
@@ -48213,7 +50318,7 @@ _Cite_:
   - Code civil - art. 582 (V)
 
 
-## Titre X : Du prêt<a id=358></a>
+## Titre X : Du prêt<a id=370></a>
 
 ###### Article 1874
 
@@ -48234,9 +50339,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre Ier : Du prêt à usage, ou commodat<a id=359></a>
+### Chapitre Ier : Du prêt à usage, ou commodat<a id=371></a>
 
-#### Section 1 : De la nature du prêt à usage.<a id=360></a>
+#### Section 1 : De la nature du prêt à usage.<a id=372></a>
 
 ###### Article 1875
 
@@ -48303,7 +50408,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des engagements de l'emprunteur.<a id=361></a>
+#### Section 2 : Des engagements de l'emprunteur.<a id=373></a>
 
 ###### Article 1880
 
@@ -48398,7 +50503,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de celui qui prête à usage.<a id=362></a>
+#### Section 3 : Des engagements de celui qui prête à usage.<a id=374></a>
 
 ###### Article 1888
 
@@ -48452,9 +50557,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre II : Du prêt de consommation, ou simple prêt<a id=363></a>
+### Chapitre II : Du prêt de consommation, ou simple prêt<a id=375></a>
 
-#### Section 1 : De la nature du prêt de consommation.<a id=364></a>
+#### Section 1 : De la nature du prêt de consommation.<a id=376></a>
 
 ###### Article 1892
 
@@ -48533,7 +50638,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des obligations du prêteur.<a id=365></a>
+#### Section 2 : Des obligations du prêteur.<a id=377></a>
 
 ###### Article 1898
 
@@ -48584,7 +50689,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de l'emprunteur.<a id=366></a>
+#### Section 3 : Des engagements de l'emprunteur.<a id=378></a>
 
 ###### Article 1902
 
@@ -48623,7 +50728,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre III : Du prêt à intérêt.<a id=367></a>
+### Chapitre III : Du prêt à intérêt.<a id=379></a>
 
 ###### Article 1905
 
@@ -48747,9 +50852,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-## Titre XI : Du dépôt et du séquestre<a id=368></a>
+## Titre XI : Du dépôt et du séquestre<a id=380></a>
 
-### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=369></a>
+### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=381></a>
 
 ###### Article 1915
 
@@ -48782,9 +50887,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre II : Du dépôt proprement dit<a id=370></a>
+### Chapitre II : Du dépôt proprement dit<a id=382></a>
 
-#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=371></a>
+#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=383></a>
 
 ###### Article 1917
 
@@ -48849,7 +50954,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du dépôt volontaire.<a id=372></a>
+#### Section 2 : Du dépôt volontaire.<a id=384></a>
 
 ###### Article 1921
 
@@ -48954,7 +51059,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Des obligations du dépositaire.<a id=373></a>
+#### Section 3 : Des obligations du dépositaire.<a id=385></a>
 
 ###### Article 1927
 
@@ -49310,7 +51415,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=374></a>
+#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=386></a>
 
 ###### Article 1947
 
@@ -49343,7 +51448,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 5 : Du dépôt nécessaire.<a id=375></a>
+#### Section 5 : Du dépôt nécessaire.<a id=387></a>
 
 ###### Article 1949
 
@@ -49469,9 +51574,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre III : Du séquestre<a id=376></a>
+### Chapitre III : Du séquestre<a id=388></a>
 
-#### Section 1 : Des différentes espèces de séquestre.<a id=377></a>
+#### Section 1 : Des différentes espèces de séquestre.<a id=389></a>
 
 ###### Article 1955
 
@@ -49488,7 +51593,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du séquestre conventionnel.<a id=378></a>
+#### Section 2 : Du séquestre conventionnel.<a id=390></a>
 
 ###### Article 1956
 
@@ -49571,7 +51676,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=379></a>
+#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=391></a>
 
 ###### Article 1961
 
@@ -49635,7 +51740,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-## Titre XII : Des contrats aléatoires.<a id=380></a>
+## Titre XII : Des contrats aléatoires.<a id=392></a>
 
 ###### Article 1964
 
@@ -49665,7 +51770,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre Ier : Du jeu et du pari.<a id=381></a>
+### Chapitre Ier : Du jeu et du pari.<a id=393></a>
 
 ###### Article 1965
 
@@ -49735,9 +51840,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre II : Du contrat de rente viagère<a id=382></a>
+### Chapitre II : Du contrat de rente viagère<a id=394></a>
 
-#### Section 1 : Des conditions requises pour la validité du contrat.<a id=383></a>
+#### Section 1 : Des conditions requises pour la validité du contrat.<a id=395></a>
 
 ###### Article 1968
 
@@ -49900,7 +52005,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=384></a>
+#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=396></a>
 
 ###### Article 1977
 
@@ -50032,9 +52137,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIII : Du mandat<a id=385></a>
+## Titre XIII : Du mandat<a id=397></a>
 
-### Chapitre Ier : De la nature et de la forme du mandat.<a id=386></a>
+### Chapitre Ier : De la nature et de la forme du mandat.<a id=398></a>
 
 ###### Article 1984
 
@@ -50170,7 +52275,7 @@ _Cité par_:
   - Loi du 1er juillet 1901 - art. 2 bis (V)
 
 
-### Chapitre II : Des obligations du mandataire.<a id=387></a>
+### Chapitre II : Des obligations du mandataire.<a id=399></a>
 
 ###### Article 1991
 
@@ -50307,7 +52412,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre III : Des obligations du mandant.<a id=388></a>
+### Chapitre III : Des obligations du mandant.<a id=400></a>
 
 ###### Article 1998
 
@@ -50398,7 +52503,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre IV : Des différentes manières dont le mandat finit.<a id=389></a>
+### Chapitre IV : Des différentes manières dont le mandat finit.<a id=401></a>
 
 ###### Article 2003
 
@@ -50547,9 +52652,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIV : Du cautionnement.<a id=390></a>
+## Titre XIV : Du cautionnement.<a id=402></a>
 
-### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=391></a>
+### Chapitre I : De la nature et de l'étendue du cautionnement.<a id=403></a>
 
 ###### Article 2011
 
@@ -50873,9 +52978,9 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre II : De l'effet du cautionnement<a id=392></a>
+### Chapitre II : De l'effet du cautionnement<a id=404></a>
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=393></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=405></a>
 
 ###### Article 2021
 
@@ -51069,7 +53174,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=394></a>
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.<a id=406></a>
 
 ###### Article 2024
 
@@ -51098,7 +53203,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=395></a>
+#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.<a id=407></a>
 
 ###### Article 2028
 
@@ -51263,7 +53368,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=396></a>
+#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.<a id=408></a>
 
 ###### Article 2033
 
@@ -51296,7 +53401,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre III : De l'extinction du cautionnement.<a id=397></a>
+### Chapitre III : De l'extinction du cautionnement.<a id=409></a>
 
 ###### Article 2034
 
@@ -51449,7 +53554,7 @@ _Créé par_:
   - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
-### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=398></a>
+### Chapitre IV : De la caution légale et de la caution judiciaire.<a id=410></a>
 
 ###### Article 2040
 
@@ -51557,7 +53662,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
-## Titre XV : Des transactions<a id=399></a>
+## Titre XV : Des transactions<a id=411></a>
 
 ###### Article 2044
 
@@ -51928,7 +54033,7 @@ _Créé par_:
   - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
-## Titre XVI : Du compromis<a id=400></a>
+## Titre XVI : Du compromis<a id=412></a>
 
 ###### Article 2059
 
@@ -52132,7 +54237,7 @@ _Codifié par_:
   - Loi n°72-626 1972-07-05
 
 
-## Titre XVII : Du nantissement.<a id=401></a>
+## Titre XVII : Du nantissement.<a id=413></a>
 
 ###### Article 2071
 
@@ -52185,7 +54290,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre I : Du gage.<a id=402></a>
+### Chapitre I : Du gage.<a id=414></a>
 
 ###### Article 2073
 
@@ -52564,7 +54669,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-### Chapitre II : De l'antichrèse.<a id=403></a>
+### Chapitre II : De l'antichrèse.<a id=415></a>
 
 ###### Article 2085
 
@@ -52757,9 +54862,9 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-## Titre XVIII : Des privilèges et hypothèques.<a id=404></a>
+## Titre XVIII : Des privilèges et hypothèques.<a id=416></a>
 
-### Chapitre I : Dispositions générales.<a id=405></a>
+### Chapitre I : Dispositions générales.<a id=417></a>
 
 ###### Article 2092
 
@@ -52932,7 +55037,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : Des privilèges.<a id=406></a>
+### Chapitre II : Des privilèges.<a id=418></a>
 
 ###### Article 2095
 
@@ -53058,7 +55163,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 1 : Des privilèges sur les meubles.<a id=407></a>
+#### Section 1 : Des privilèges sur les meubles.<a id=419></a>
 
 ###### Article 2100
 
@@ -53083,9 +55188,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section I : Des privilèges sur les meubles<a id=408></a>
+#### Section I : Des privilèges sur les meubles<a id=420></a>
 
-##### Paragraphe I : Des privilèges généraux sur les meubles.<a id=409></a>
+##### Paragraphe I : Des privilèges généraux sur les meubles.<a id=421></a>
 
 ###### Article 2101
 
@@ -53201,7 +55306,7 @@ _Nouveaux textes_:
   - Code civil - art. 2331 (V)
 
 
-##### Paragraphe II : Des privilèges sur certains meubles.<a id=410></a>
+##### Paragraphe II : Des privilèges sur certains meubles.<a id=422></a>
 
 ###### Article 2102
 
@@ -53308,7 +55413,7 @@ _Cite_:
   - Code du travail 721-1
 
 
-#### Section II : Des privilèges spéciaux sur les immeubles.<a id=411></a>
+#### Section II : Des privilèges spéciaux sur les immeubles.<a id=423></a>
 
 ###### Article 2103
 
@@ -53388,7 +55493,7 @@ _Cite_:
   - Code civil - art. 878 (M)
 
 
-#### Section 3 : Des privilèges généraux sur les immeubles.<a id=412></a>
+#### Section 3 : Des privilèges généraux sur les immeubles.<a id=424></a>
 
 ###### Article 2105
 
@@ -53431,7 +55536,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
 
 
-#### Section III : Des privilèges généraux sur les immeubles<a id=413></a>
+#### Section III : Des privilèges généraux sur les immeubles<a id=425></a>
 
 ###### Article 2104
 
@@ -53509,7 +55614,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 4 : Comment se conservent les privilèges.<a id=414></a>
+#### Section 4 : Comment se conservent les privilèges.<a id=426></a>
 
 ###### Article 2106
 
@@ -53866,7 +55971,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section IV : Comment se conservent les privilèges.<a id=415></a>
+#### Section IV : Comment se conservent les privilèges.<a id=427></a>
 
 ###### Article 2107
 
@@ -53899,7 +56004,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre III : Des hypothèques.<a id=416></a>
+### Chapitre III : Des hypothèques.<a id=428></a>
 
 ###### Article 2114
 
@@ -54107,7 +56212,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 1 : Des hypothèques légales.<a id=417></a>
+#### Section 1 : Des hypothèques légales.<a id=429></a>
 
 ###### Article 2121
 
@@ -54222,7 +56327,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 2 : Des hypothèques judiciaires.<a id=418></a>
+#### Section 2 : Des hypothèques judiciaires.<a id=430></a>
 
 ###### Article 2123
 
@@ -54278,7 +56383,7 @@ _Nouveaux textes_:
   - Code civil - art. 2412 (V)
 
 
-#### Section 3 : Des hypothèques conventionnelles.<a id=419></a>
+#### Section 3 : Des hypothèques conventionnelles.<a id=431></a>
 
 ###### Article 2124
 
@@ -54591,7 +56696,7 @@ _Abrogé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
-#### Section IV : Du rang que les hypothèques ont entre elles.<a id=420></a>
+#### Section IV : Du rang que les hypothèques ont entre elles.<a id=432></a>
 
 ###### Article 2134
 
@@ -54644,7 +56749,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section V : Des règles particulières à l'hypothèque légale des époux.<a id=421></a>
+#### Section V : Des règles particulières à l'hypothèque légale des époux.<a id=433></a>
 
 ###### Article 2135
 
@@ -54833,7 +56938,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=422></a>
+#### Section 5 : Des règles particulières à l'hypothèque légale des époux.<a id=434></a>
 
 ###### Article 2136
 
@@ -55038,7 +57143,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=423></a>
+#### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=435></a>
 
 ###### Article 2143
 
@@ -55176,7 +57281,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=424></a>
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=436></a>
 
 ###### Article 2146
 
@@ -55843,9 +57948,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre V : De la radiation et réduction des inscriptions<a id=425></a>
+### Chapitre V : De la radiation et réduction des inscriptions<a id=437></a>
 
-#### Section 1 : Dispositions générales.<a id=426></a>
+#### Section 1 : Dispositions générales.<a id=438></a>
 
 ###### Article 2157
 
@@ -56075,7 +58180,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=427></a>
+#### Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=439></a>
 
 ###### Article 2163
 
@@ -56129,7 +58234,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=428></a>
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.<a id=440></a>
 
 ###### Article 2164
 
@@ -56217,7 +58322,7 @@ _Nouveaux textes_:
   - Code civil - art. 2448 (V)
 
 
-### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=429></a>
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.<a id=441></a>
 
 ###### Article 2166
 
@@ -56678,7 +58783,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=430></a>
+### Chapitre VII : De l'extinction des privilèges et hypothèques.<a id=442></a>
 
 ###### Article 2180
 
@@ -56733,7 +58838,7 @@ _Transféré par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=431></a>
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.<a id=443></a>
 
 ###### Article 2181
 
@@ -57195,7 +59300,7 @@ _Nouveaux textes_:
   - Code civil - art. 2487 (V)
 
 
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=432></a>
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.<a id=444></a>
 
 ###### Article 2196
 
@@ -57528,9 +59633,9 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=433></a>
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=445></a>
 
-### Chapitre Ier : De l'expropriation forcée<a id=434></a>
+### Chapitre Ier : De l'expropriation forcée<a id=446></a>
 
 ###### Article 2204
 
@@ -57874,7 +59979,7 @@ _Créé par_:
   - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=435></a>
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=447></a>
 
 ###### Article 2218
 
@@ -57900,9 +60005,9 @@ _Abrogé par_:
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
-## Titre XX : De la prescription et de la possession.<a id=436></a>
+## Titre XX : De la prescription et de la possession.<a id=448></a>
 
-### Chapitre Ier : Dispositions générales.<a id=437></a>
+### Chapitre Ier : Dispositions générales.<a id=449></a>
 
 ###### Article 2219
 
@@ -58089,7 +60194,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=438></a>
+### Chapitre II : De la possession.<a id=450></a>
 
 ###### Article 2228
 
@@ -58312,7 +60417,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=439></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=451></a>
 
 ###### Article 2236
 
@@ -58483,9 +60588,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=440></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=452></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=441></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=453></a>
 
 ###### Article 2242
 
@@ -58657,7 +60762,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=442></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=454></a>
 
 ###### Article 2251
 
@@ -58791,7 +60896,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=443></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=455></a>
 
 ###### Article 2270
 
@@ -58831,7 +60936,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 1 : Dispositions générales.<a id=444></a>
+#### Section 1 : Dispositions générales.<a id=456></a>
 
 ###### Article 2260
 
@@ -58872,7 +60977,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=445></a>
+#### Section 2 : De la prescription trentenaire.<a id=457></a>
 
 ###### Article 2262
 
@@ -58947,7 +61052,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=446></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=458></a>
 
 ###### Article 2265
 
@@ -59085,7 +61190,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=447></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=459></a>
 
 ###### Article 2271
 
@@ -59410,7 +61515,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre VI : De la protection possessoire.<a id=448></a>
+### Chapitre VI : De la protection possessoire.<a id=460></a>
 
 ###### Article 2282
 
