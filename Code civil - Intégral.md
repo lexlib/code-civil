@@ -1,16 +1,16 @@
 # Code civil  
-Version Consolidée au 1957-11-20
+Version Consolidée au 1957-11-29
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
     - [Titre Ier : De la jouissance et de la privation des droits civils. (art. 16)](#3)
       - [Chapitre Ier : De la jouissance des droits civils. (art. 16)](#4)
-    - [Titre II : Des actes de l'état civil (art. 34 à 95)](#5)
+    - [Titre II : Des actes de l'état civil (art. 34 à 96)](#5)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#6)
       - [Chapitre II : Des actes de naissance. (art. 60 à 61)](#7)
       - [Chapitre III : Des actes de mariage. (art. 63 à 74)](#8)
       - [Chapitre IV : Des actes de décès. (art. 77 à 85)](#9)
-      - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94 à 95)](#10)
+      - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux. (art. 94 à 96)](#10)
     - [Titre III : Du domicile (art. 102 à 110)](#11)
     - [Titre IV : Des absents (art. 133 à 143)](#12)
       - [Chapitre II : De la déclaration d'absence (art. 133 à 143)](#13)
@@ -1554,6 +1554,32 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 96
+
+Lorsqu'un mariage est célébré dans l'un des cas prévus aux alinéas 2 et 3 de l'article 93, les publications sont faites, dans
+la mesure où les circonstances le permettent, au lieu du dernier domicile du futur époux ; elles sont en outre assurées, dans
+l'unité à laquelle l'intéressé appartient, dans les conditions fixées par arrêté du ministre de la défense nationale et des
+forces armées.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 93 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+_Modifié par_:
+
+  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
 
 
 ## Titre III : Du domicile<a id=11></a>
