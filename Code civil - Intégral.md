@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1930-12-03
+Version Consolidée au 1932-03-10
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -772,6 +772,42 @@ Un double des registres de l'état civil tenus par ces agents sera adressé à l
 _Cité par_:
 
   - Arrêté du 13 juillet 2012 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
+
+_Créé par_:
+
+  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 49
+
+Dans tous les cas où la mention d'un acte relatif à l'état civil devra avoir lieu en marge d'un acte déjà inscrit, elle sera
+faite d'office.
+
+L'officier de l'état civil qui aura dressé ou transcrit l'acte donnant lieu à mention effectuera cette mention, dans les
+trois jours, sur les registres qu'il détient, et, si le double du registre où la mention doit être effectuée se trouve au
+greffe, il adressera un avis au procureur de la République de son arrondissement.
+
+Si l'acte en marge duquel doit être effectuée cette mention a été dressé ou transcrit dans une autre commune, l'avis sera
+adressé, dans le délai de trois jours, à l'officier de l'état civil de cette commune et celui-ci en avisera aussitôt, si le
+double du registre est au greffe, le procureur de la République de son arrondissement.
+
+Si l'acte en marge duquel une mention devra être effectuée a été dressé ou transcrit dans une colonie ou à l'étranger,
+l'officier de l'état civil qui a dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les trois jours, le
+ministre des colonies ou le ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°46-1917 du 19 août 1946 - art. 8 (Ab)
+  - Décret n°2006-1806 du 23 décembre 2006 - art. 6 (VD)
+  - Décret n°2008-521 du 2 juin 2008 - art. 9 (VD)
+  - Décret n°2012-966 du 20 août 2012 - art. 6 (VD)
+  - Code de procédure civile - art. 1047 (V)
 
 _Codifié par_:
 
