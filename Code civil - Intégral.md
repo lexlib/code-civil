@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1942-07-15
+Version Consolidée au 1942-09-22
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 515)](#2)
@@ -20,7 +20,7 @@ Version Consolidée au 1942-07-15
       - [Chapitre III : Des oppositions au mariage (art. 172 à 179)](#17)
       - [Chapitre IV : Des demandes en nullité de mariage (art. 181 à 200)](#18)
       - [Chapitre V : Des obligations qui naissent du mariage (art. 203 à 211)](#19)
-      - [Chapitre VI : Des devoirs et des droits respectifs des époux (art. 213 à 215)](#20)
+      - [Chapitre VI : Des devoirs et des droits respectifs des époux (art. 212 à 215)](#20)
       - [Chapitre VII : De la dissolution du mariage (art. 227)](#21)
     - [Titre X : De la minorité, de la tutelle et de l'émancipation. (art. 399 à 486)](#22)
       - [Chapitre II : De la tutelle. (art. 399 à 436)](#23)
@@ -3059,6 +3059,37 @@ _Créé par_:
 
 
 ### Chapitre VI : Des devoirs et des droits respectifs des époux<a id=20></a>
+
+###### Article 212
+
+Les époux se doivent mutuellement fidélité, secours, assistance.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+  - Code civil - art. 270 (M)
+  - Code civil - art. 75 (V)
+  - Code de l'action sociale et des familles - art. L262-10 (VD)
+  - Code de l'action sociale et des familles - art. L262-35 (V)
+  - Code de l'action sociale et des familles - art. L314-12-1 (V)
+  - Code de l'action sociale et des familles - art. L315-16 (V)
+  - Code de la santé publique - art. L6145-11 (V)
+  - Code de la santé publique - art. L708 (T)
+  - Code de la santé publique - art. L714-38 (Ab)
+  - Code de la santé publique - art. R6145-4 (V)
+  - Code de la sécurité sociale. - art. L524-4 (VT)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
 
 ###### Article 213
 
