@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1972-09-16
+Version Consolidée au 1972-12-31
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 16 à 509)](#2)
@@ -317,7 +317,7 @@ Version Consolidée au 1972-09-16
           - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#314)
           - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#315)
         - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#316)
-    - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-3)](#317)
+    - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-2 à 1831-5)](#317)
     - [Titre X : Du prêt (art. 1874 à 1914)](#318)
       - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#319)
         - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#320)
@@ -41617,6 +41617,30 @@ _Créé par_:
 
 ## Titre VIII bis : Du contrat de promotion immobilière<a id=317></a>
 
+###### Article 1831-2
+
+Le contrat emporte pouvoir pour le promoteur de conclure les contrats, recevoir les travaux, liquider les marchés et
+généralement celui d'accomplir, à concurrence du prix global convenu, au nom du maître de l'ouvrage, tous les actes qu'exige
+la réalisation du programme.
+
+Toutefois, le promoteur n'engage le maître de l'ouvrage, par les emprunts qu'il contracte ou par les actes de disposition
+qu'il passe, qu'en vertu d'un mandat spécial contenu dans le contrat ou dans un acte postérieur.
+
+Le maître de l'ouvrage est tenu d'exécuter les engagements contractés en son nom par le promoteur en vertu des pouvoirs que
+celui-ci tient de la loi ou de la convention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-579 1971-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-2 (V)
+
+
 ###### Article 1831-3
 
 Si, avant l'achèvement du programme, le maître de l'ouvrage cède les droits qu'il a sur celui-ci, le cessionnaire lui est
@@ -41644,6 +41668,46 @@ _Modifié par_:
 
   - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
   - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-3 (V)
+
+
+###### Article 1831-4
+
+La mission du promoteur ne s'achève à la livraison de l'ouvrage que si les comptes de construction ont été définitivement
+arrêtés entre le maître de l'ouvrage et le promoteur, le tout sans préjudicier aux actions en responsabilité qui peuvent
+appartenir au maître de l'ouvrage contre le promoteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-579 1971-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-4 (V)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*222-14 (V)
+  - Code de la construction et de l'habitation. - art. R*222-8 (V)
+
+
+###### Article 1831-5
+
+Le règlement judiciaire ou la liquidation des biens n'entraîne pas de plein droit la résiliation du contrat de promotion
+immobilière. Toute stipulation contraire est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-579 1971-07-16
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-5 (V)
 
 
 ## Titre X : Du prêt<a id=318></a>
