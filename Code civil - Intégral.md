@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1808-04-05
+Version Consolidée au 1819-07-14
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 12 à 515)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 1808-04-05
     - [Dispositions générales (art. 711 à 717)](#61)
     - [Titre Ier : Des successions (art. 718 à 892)](#62)
       - [Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers. (art. 718 à 722)](#63)
-      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 726 à 730)](#64)
+      - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 727 à 730)](#64)
       - [Chapitre III : Des divers ordres de succession. (art. 732 à 754)](#65)
         - [Section 1 : Dispositions générales. (art. 732 à 738)](#66)
         - [Section 2 : De la représentation. (art. 739 à 743)](#67)
@@ -109,7 +109,7 @@ Version Consolidée au 1808-04-05
       - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#106)
       - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1095)](#107)
     - [Titre II : Des donations entre vifs et des testaments (art. 905 à 1100)](#108)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 912)](#109)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 905 à 910)](#109)
       - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 916)](#110)
         - [Section 1 : De la portion de biens disponible. (art. 916)](#111)
       - [Chapitre IV : Des donations entre vifs (art. 934 à 962)](#112)
@@ -6039,26 +6039,6 @@ _Créé par_:
 
 ### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.<a id=64></a>
 
-###### Article 726
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2007-262 du 27 février 2007 - art. ANNEXE (V)
-  - Code civil - art. 728 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
 ###### Article 727
 
 Sont indignes de succéder, et, comme tels, exclus des successions :
@@ -11227,21 +11207,6 @@ _Créé par_:
   - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 4 (V)
   - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 5 (V)
   - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 7 (V)
-
-
-###### Article 912
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ### Chapitre III : De la portion de biens disponible, et de la réduction<a id=110></a>
