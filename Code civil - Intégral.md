@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-06-09
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -481,7 +481,7 @@ Version Consolidée au 2005-05-07
       - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#478)
         - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#479)
         - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#480)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270-1)](#481)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270-2)](#481)
         - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#482)
       - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#483)
   - [Livre IV : Dispositions applicables à Mayotte (art. 2284 à 2302)](#484)
@@ -54099,18 +54099,18 @@ _Codifié par_:
 ###### Article 1792-2
 
 La présomption de responsabilité établie par l'article 1792 s'étend également aux dommages qui affectent la solidité des
-éléments d'équipement d'un bâtiment, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de
-viabilité, de fondation, d'ossature, de clos ou de couvert.
+éléments d'équipement d'un ouvrage, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de
+viabilité, de fondation, d'ossature, de clos ou de couvert. 
 
-Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages mentionnés à l'alinéa
-précédent lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de
-matière de cet ouvrage.
+Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages de viabilité, de
+fondation, d'ossature, de clos ou de couvert lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans
+détérioration ou enlèvement de matière de cet ouvrage.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
 
 _Cité par_:
 
@@ -54135,6 +54135,11 @@ _Cité par_:
   - Code des assurances - art. A243-4 (VD)
   - Code des assurances - art. L241-2 (M)
 
+_Modifié par_:
+
+  - Ordonnance 2005-658 2005-06-08 art. 1 I, II JORF 9 juin 2005
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
+
 _Cite_:
 
   - Code civil - art. 1792 (V)
@@ -54146,14 +54151,18 @@ _Codifié par_:
 
 ###### Article 1792-3
 
-Les autres éléments d'équipement du bâtiment font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
-ans à compter de la réception de l'ouvrage.
+Les autres éléments d'équipement de l'ouvrage font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
+ans à compter de sa réception.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
 
 _Cité par_:
 
@@ -54299,6 +54308,34 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L111-30 (V)
   - Code des assurances - art. Annexe II art A243-1 (VD)
   - Code des assurances - art. L242-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-07
+
+
+###### Article 1792-7
+
+Ne sont pas considérés comme des éléments d'équipement d'un ouvrage au sens des articles 1792, 1792-2, 1792-3 et 1792-4 les
+éléments d'équipement, y compris leurs accessoires, dont la fonction exclusive est de permettre l'exercice d'une activité
+professionnelle dans l'ouvrage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
+
+_Cite_:
+
+  - Code civil - art. 1792 (V)
+  - Code civil - art. 1792-2 (V)
+  - Code civil - art. 1792-3 (V)
+  - Code civil - art. 1792-4 (V)
 
 _Codifié par_:
 
@@ -69107,6 +69144,38 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°98-468 du 17 juin 1998 - art. 43 () JORF 16 juin 1998
+
+
+###### Article 2270-2
+
+Les actions en responsabilité dirigées contre un sous-traitant en raison de dommages affectant un ouvrage ou des éléments
+d'équipement d'un ouvrage mentionnés aux articles 1792 et 1792-2 se prescrivent par dix ans à compter de la réception des
+travaux et, pour les dommages affectant ceux des éléments d'équipement de l'ouvrage mentionnés à l'article 1792-3, par deux
+ans à compter de cette même réception.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 1792 (V)
+  - Code civil - art. 1792-2 (M)
+  - Code civil - art. 1792-3 (M)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 1792-4-2 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-03-15
+
+_Créé par_:
+
+  - Ordonnance n°2005-658 du 8 juin 2005 - art. 2 () JORF 9 juin 2005
 
 
 #### Section 4 : De quelques prescriptions particulières.<a id=482></a>
