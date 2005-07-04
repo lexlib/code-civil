@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-06-17
+Version Consolidée au 2005-07-05
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -16654,10 +16654,9 @@ _Codifié par_:
 
 L'enfant recueilli par un particulier, un établissement ou un service de l'aide sociale à l'enfance, dont les parents se sont
 manifestement désintéressés pendant l'année qui précède l'introduction de la demande en déclaration d'abandon, est déclaré
-abandonné par le tribunal de grande instance sauf le cas de grande détresse des parents et sans préjudice des dispositions du
-quatrième alinéa. La demande en déclaration d'abandon est obligatoirement transmise par le particulier, l'établissement ou le
-service de l'aide sociale à l'enfance qui a recueilli l'enfant à l'expiration du délai d'un an dès lors que les parents se
-sont manifestement désintéressés de l'enfant.
+abandonné par le tribunal de grande instance sans préjudice des dispositions du quatrième alinéa. La demande en déclaration
+d'abandon est obligatoirement transmise par le particulier, l'établissement ou le service de l'aide sociale à l'enfance qui a
+recueilli l'enfant à l'expiration du délai d'un an dès lors que les parents se sont manifestement désintéressés de l'enfant.
 
 Sont considérés comme s'étant manifestement désintéressés de leur enfant les parents qui n'ont pas entretenu avec lui les
 relations nécessaires au maintien de liens affectifs.
@@ -16686,13 +16685,17 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 61 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. L161-3 (VD)
 
+_Abrogé par_:
+
+  - Loi n°2016-297 du 14 mars 2016 - art. 40
+
 _Codifié par_:
 
   - Loi n°1803-03-14
 
 _Modifié par_:
 
-  - Loi n°96-604 du 5 juillet 1996 - art. 8 () JORF 6 juillet 1996
+  - Loi n°2005-744 du 4 juillet 2005 - art. 3 () JORF 5 juillet 2005
 
 
 #### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière<a id=110></a>
