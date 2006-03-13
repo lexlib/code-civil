@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-03-14
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -462,7 +462,7 @@ Version Consolidée au 2006-01-24
         - [Section 4 : Du rang que les hypothèques ont entre elles. (art. 2134)](#459)
         - [Section 5 : Des règles particulières à l'hypothèque légale des époux. (art. 2136 à 2142)](#460)
         - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2143 à 2145)](#461)
-      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2146 à 2156)](#462)
+      - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques. (art. 2147 à 2156)](#462)
       - [Chapitre V : De la radiation et réduction des inscriptions (art. 2157 à 2165)](#463)
         - [Section 1 : Dispositions générales. (art. 2157 à 2162)](#464)
         - [Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle. (art. 2163 à 2165)](#465)
@@ -65371,66 +65371,6 @@ _Créé par_:
 
 
 ### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.<a id=462></a>
-
-###### Article 2146
-
-Sont inscrits au bureau des hypothèques de la situation des biens :
-
-1° Les privilèges sur les immeubles, sous réserve des seules exceptions visées à l'article 2107 ;
-
-2° Les hypothèques légales, judiciaires ou conventionnelles.
-
-L'inscription qui n'est jamais faite d'office par le conservateur, ne peut avoir lieu que pour une somme et sur des immeubles
-déterminés, dans les conditions fixées par l'article 2148.
-
-En toute hypothèse, les immeubles sur lesquels l'inscription est requise doivent être individuellement désignés, avec
-indication de la commune où ils sont situés, à l'exclusion de toute désignation générale, même limitée à une circonscription
-territoriale donnée.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
-
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 76 (M)
-  - Décret n°67-1120 du 22 décembre 1967 - art. 29 (Ab)
-  - Code civil - art. 2106 (T)
-  - Code civil - art. 2108 (T)
-  - Code civil - art. 2109 (T)
-  - Code civil - art. 2111-1 (T)
-  - Code civil - art. 2122 (T)
-  - Code civil - art. 2123 (T)
-  - Code civil - art. 2129 (T)
-
-_Transféré par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-_Cite_:
-
-  - Code civil - art. 2107 (M)
-  - Code civil - art. 2148 (M)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2426 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
 
 ###### Article 2147
 
