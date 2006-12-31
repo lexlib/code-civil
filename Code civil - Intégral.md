@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-11-15
+Version Consolidée au 2007-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -190,7 +190,7 @@ Version Consolidée au 2006-11-15
         - [Section 4 : Comment les servitudes s'éteignent (art. 703 à 710)](#187)
   - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 2283)](#188)
     - [Dispositions générales (art. 711 à 717)](#189)
-    - [Titre Ier : Des successions (art. 720 à 832-3)](#190)
+    - [Titre Ier : Des successions (art. 720 à 892)](#190)
       - [Chapitre Ier : De l'ouverture des successions, du titre universel et de la saisine (art. 720 à 724-1)](#191)
       - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier. (art. 725 à 730-5)](#192)
         - [Section 1 : Des qualités requises pour succéder. (art. 725 à 729-1)](#193)
@@ -202,7 +202,7 @@ Version Consolidée au 2006-11-15
           - [Paragraphe 3 : De la division par branches, paternelle et maternelle. (art. 746 à 750)](#199)
           - [Paragraphe 4 : De la représentation. (art. 751 à 755)](#200)
         - [Section 2 : Des droits du conjoint successible. (art. 756 à 767)](#201)
-          - [Paragraphe 1 : De la nature des droits, de leur montant et de leur exercice (art. 756 à 758-5)](#202)
+          - [Paragraphe 1 : De la nature des droits, de leur montant et de leur exercice (art. 756 à 758-6)](#202)
           - [Paragraphe 2 : De la conversion de l'usufruit (art. 759 à 762)](#203)
           - [Paragraphe 3 : Du droit au logement temporaire et du droit viager au logement (art. 763 à 766)](#204)
           - [Paragraphe 4 : Du droit à pension (art. 767)](#205)
@@ -213,304 +213,335 @@ Version Consolidée au 2006-11-15
           - [Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net. (art. 787 à 790)](#210)
           - [Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net. (art. 791 à 803)](#211)
         - [Section 4 : De la renonciation à la succession. (art. 804 à 808)](#212)
-      - [Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007) (art. 809 à 814)](#213)
-        - [Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire. (art. 809 à 810)](#214)
-        - [Section 4 : Des successions vacantes. (art. 811 à 814)](#215)
-      - [Chapitre VI : De l'administration de la succession par un mandataire. (art. 815-5)](#216)
-        - [Section 1 : Du mandat à effet posthume. (art. 815-5)](#217)
-      - [Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007) (art. 815 à 892)](#218)
-        - [Section 1 : De l'indivision et de l'action en partage. (art. 815 à 842)](#219)
-        - [Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles. (art. 843 à 869)](#220)
-        - [Section 3 : Du paiement des dettes. (art. 870 à 882)](#221)
-        - [Section 4 : Des effets du partage et de la garantie des lots. (art. 883 à 886)](#222)
-        - [Section 5 : De la rescision en matière de partage. (art. 887 à 892)](#223)
-      - [Chapitre VII : Du régime légal de l'indivision. (art. 815-8 à 815-18)](#224)
-        - [Section 1 : Des actes relatifs aux biens indivis. (art. 815-8 à 815-18)](#225)
-      - [Chapitre VIII : Du partage. (art. 832-2 à 832-3)](#226)
-        - [Section 1 : Des opérations de partage. (art. 832-2 à 832-3)](#227)
-          - [Sous-section 1 : Dispositions communes. (art. 832-2 à 832-3)](#228)
-            - [Paragraphe 3 : Des attributions préférentielles. (art. 832-2 à 832-3)](#229)
-    - [Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007) (art. 893 à 1099-1)](#230)
-      - [Chapitre Ier : Dispositions générales. (art. 893 à 900-8)](#231)
-      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#232)
-      - [Chapitre III : De la portion de biens disponible, et de la réduction (art. 913 à 930)](#233)
-        - [Section 1 : De la portion de biens disponible. (art. 913 à 919)](#234)
-        - [Section 2 : De la réduction des donations et legs. (art. 920 à 930)](#235)
-      - [Chapitre IV : Des donations entre vifs (art. 931 à 966)](#236)
-        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#237)
-        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#238)
-      - [Chapitre V : Des dispositions testamentaires (art. 967 à 1047)](#239)
-        - [Section 1 : Des règles générales sur la forme des testaments (art. 967 à 980)](#240)
-        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 981 à 1001)](#241)
-        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002)](#242)
-        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#243)
-        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#244)
-        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#245)
-        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#246)
-        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#247)
-      - [Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs. (art. 1048 à 1074)](#248)
-      - [Chapitre VII : Des partages faits par les ascendants. (art. 1075 à 1080)](#249)
-        - [Section 1 : Des donations-partages. (art. 1076 à 1078-3)](#250)
-        - [Section 2 : Des testaments-partages. (art. 1079 à 1080)](#251)
-      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#252)
-      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1099-1)](#253)
-    - [Titre III : Des contrats ou des obligations conventionnelles en général (art. 1101 à 1369-11)](#254)
-      - [Chapitre Ier : Dispositions préliminaires. (art. 1101 à 1107)](#255)
-      - [Chapitre II : Des conditions essentielles pour la validité des conventions. (art. 1108 à 1133)](#256)
-        - [Section 1 : Du consentement. (art. 1109 à 1122)](#257)
-        - [Section 2 : De la capacité des parties contractantes. (art. 1123 à 1125-1)](#258)
-        - [Section 3 : De l'objet et de la matière des contrats. (art. 1126 à 1130)](#259)
-        - [Section 4 : De la cause. (art. 1131 à 1133)](#260)
-      - [Chapitre III : De l'effet des obligations. (art. 1134 à 1167)](#261)
-        - [Section 1 : Dispositions générales. (art. 1134 à 1135)](#262)
-        - [Section 2 : De l'obligation de donner. (art. 1136 à 1141)](#263)
-        - [Section 3 : De l'obligation de faire ou de ne pas faire. (art. 1142 à 1145)](#264)
-        - [Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation. (art. 1146 à 1155)](#265)
-        - [Section 5 : De l'interprétation des conventions. (art. 1156 à 1164)](#266)
-        - [Section 6 : De l'effet des conventions à l'égard des tiers. (art. 1165 à 1167)](#267)
-      - [Chapitre IV : Des diverses espèces d'obligations. (art. 1168 à 1233)](#268)
-        - [Section 1 : Des obligations conditionnelles. (art. 1168 à 1184)](#269)
-          - [Paragraphe 1 : De la condition en général, et de ses diverses espèces. (art. 1168 à 1180)](#270)
-          - [Paragraphe 2 : De la condition suspensive. (art. 1181 à 1182)](#271)
-          - [Paragraphe 3 : De la condition résolutoire. (art. 1183 à 1184)](#272)
-        - [Section 2 : Des obligations à terme. (art. 1185 à 1188)](#273)
-        - [Section 3 : Des obligations alternatives. (art. 1189 à 1196)](#274)
-        - [Section 4 : Des obligations solidaires. (art. 1197 à 1216)](#275)
-          - [Paragraphe 1 : De la solidarité entre les créanciers. (art. 1197 à 1199)](#276)
-          - [Paragraphe 2 : De la solidarité de la part des débiteurs. (art. 1200 à 1216)](#277)
-        - [Section 5 : Des obligations divisibles et indivisibles. (art. 1217 à 1225)](#278)
-          - [Paragraphe 1 : Des effets de l'obligation divisible. (art. 1220 à 1221)](#279)
-          - [Paragraphe 2 : Des effets de l'obligation indivisible. (art. 1222 à 1225)](#280)
-        - [Section 6 : Des obligations avec clauses pénales. (art. 1226 à 1233)](#281)
-      - [Chapitre V : De l'extinction des obligations. (art. 1234 à 1314)](#282)
-        - [Section 1 : Du paiement (art. 1235 à 1264)](#283)
-          - [Paragraphe 1 : Du paiement en général. (art. 1235 à 1248)](#284)
-          - [Paragraphe 2 : Du paiement avec subrogation. (art. 1249 à 1252)](#285)
-          - [Paragraphe 3 : De l'imputation des paiements. (art. 1253 à 1256)](#286)
-          - [Paragraphe 4 : Des offres de paiement, et de la consignation. (art. 1257 à 1264)](#287)
-        - [Section 2 : De la novation. (art. 1271 à 1281)](#288)
-        - [Section 3 : De la remise de la dette. (art. 1282 à 1288)](#289)
-        - [Section 4 : De la compensation. (art. 1289 à 1299)](#290)
-        - [Section 5 : De la confusion. (art. 1300 à 1301)](#291)
-        - [Section 6 : De la perte de la chose due. (art. 1302 à 1303)](#292)
-        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1304 à 1314)](#293)
-      - [Chapitre VI : De la preuve des obligations et de celle du paiement. (art. 1315 à 1369)](#294)
-        - [Section 1 : De la preuve littérale. (art. 1316 à 1340)](#295)
-          - [Paragraphe 1 : Dispositions générales. (art. 1316 à 1316-4)](#296)
-          - [Paragraphe 2 : Du titre authentique. (art. 1317 à 1321-1)](#297)
-          - [Paragraphe 3 : De l'acte sous seing privé. (art. 1322 à 1332)](#298)
-          - [Paragraphe 4 : Des tailles. (art. 1333)](#299)
-          - [Paragraphe 5 : Des copies des titres. (art. 1334 à 1336)](#300)
-          - [Paragraphe 6 : Des actes récognitifs et confirmatifs. (art. 1337 à 1340)](#301)
-        - [Section 2 : De la preuve testimoniale. (art. 1341 à 1348)](#302)
-        - [Section 3 : Des présomptions. (art. 1349 à 1353)](#303)
-          - [Paragraphe 1 : Des présomptions établies par la loi. (art. 1350 à 1352)](#304)
-          - [Paragraphe 2 : Des présomptions qui ne sont point établies par la loi. (art. 1353)](#305)
-        - [Section 4 : De l'aveu de la partie. (art. 1354 à 1356)](#306)
-        - [Section 5 : Du serment. (art. 1357 à 1369)](#307)
-          - [Paragraphe 1 : Du serment décisoire. (art. 1358 à 1365)](#308)
-          - [Paragraphe 2 : Du serment déféré d'office. (art. 1366 à 1369)](#309)
-      - [Chapitre VII : Des contrats sous forme électronique. (art. 1369-1 à 1369-11)](#310)
-        - [Section 1 : De l'échange d'informations en cas de contrat sous forme électronique. (art. 1369-1 à 1369-3)](#311)
-        - [Section 2 : De la conclusion d'un contrat sous forme électronique. (art. 1369-4 à 1369-6)](#312)
-        - [Section 3 : De l'envoi ou de la remise d'un écrit par voie électronique. (art. 1369-7 à 1369-9)](#313)
-        - [Section 4 : De certaines exigences de forme. (art. 1369-10 à 1369-11)](#314)
-    - [Titre IV : Des engagements qui se forment sans convention (art. 1370 à 1386)](#315)
-      - [Chapitre Ier : Des quasi-contrats. (art. 1371 à 1381)](#316)
-      - [Chapitre II : Des délits et des quasi-délits. (art. 1382 à 1386)](#317)
-    - [Titre IV bis : De la responsabilité du fait des produits défectueux (art. 1386-1 à 1386-18)](#318)
-    - [Titre V : Du contrat de mariage et des régimes matrimoniaux (art. 1387 à 1581)](#319)
-      - [Chapitre Ier : Dispositions générales. (art. 1387 à 1399)](#320)
-      - [Chapitre II : Du régime en communauté (art. 1400 à 1527)](#321)
-        - [Première partie : De la communauté légale (art. 1400 à 1491)](#322)
-          - [Section 1 : De ce qui compose la communauté activement et passivement (art. 1401 à 1418)](#323)
-            - [Paragraphe 1 : De l'actif de la communauté (art. 1401 à 1408)](#324)
-            - [Paragraphe 2 : Du passif de la communauté (art. 1409 à 1418)](#325)
-          - [Section 2 : De l'administration de la communauté et des biens propres. (art. 1421 à 1440)](#326)
-          - [Section 3 : De la dissolution de la communauté (art. 1441 à 1491)](#327)
-            - [Paragraphe 1 : Des causes de dissolution et de la séparation de biens. (art. 1441 à 1451)](#328)
-            - [Paragraphe 2 : De la liquidation et du partage de la communauté. (art. 1467 à 1480)](#329)
-            - [Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution. (art. 1482 à 1491)](#330)
-        - [Deuxième partie : De la communauté conventionnelle. (art. 1497 à 1526)](#331)
-          - [Section 1 : De la communauté de meubles et acquêts. (art. 1498 à 1501)](#332)
-          - [Section 2 : De la clause d'administration conjointe. (art. 1503)](#333)
-          - [Section 3 : De la clause de prélèvement moyennant indemnité. (art. 1511 à 1514)](#334)
-          - [Section 4 : Du préciput. (art. 1515 à 1519)](#335)
-          - [Section 5 : De la stipulation de parts inégales. (art. 1520 à 1525)](#336)
-          - [Section 6 : De la communauté universelle. (art. 1526)](#337)
-        - [Dispositions communes aux deux parties du chapitre II. (art. 1527)](#338)
-      - [Chapitre III : Du régime de séparation de biens. (art. 1536 à 1543)](#339)
-      - [Chapitre IV : Du régime de participation aux acquêts. (art. 1569 à 1581)](#340)
-    - [Titre VI : De la vente (art. 1582 à 1701)](#341)
-      - [Chapitre Ier : De la nature et de la forme de la vente. (art. 1582 à 1593)](#342)
-      - [Chapitre II : Qui peut acheter ou vendre. (art. 1594 à 1597)](#343)
-      - [Chapitre III : Des choses qui peuvent être vendues. (art. 1598 à 1601)](#344)
-      - [Chapitre III-1 : De la vente d'immeubles à construire. (art. 1601-1 à 1601-4)](#345)
-      - [Chapitre IV : Des obligations du vendeur (art. 1602 à 1649)](#346)
-        - [Section 1 : Dispositions générales. (art. 1602 à 1603)](#347)
-        - [Section 2 : De la délivrance. (art. 1604 à 1624)](#348)
-        - [Section 3 : De la garantie. (art. 1625 à 1649)](#349)
-          - [Paragraphe 1 : De la garantie en cas d'éviction. (art. 1626 à 1640)](#350)
-          - [Paragraphe 2 : De la garantie des défauts de la chose vendue. (art. 1641 à 1649)](#351)
-      - [Chapitre V : Des obligations de l'acheteur. (art. 1650 à 1657)](#352)
-      - [Chapitre VI : De la nullité et de la résolution de la vente. (art. 1658 à 1685)](#353)
-        - [Section 1 : De la faculté de rachat. (art. 1659 à 1673)](#354)
-        - [Section 2 : De la rescision de la vente pour cause de lésion. (art. 1674 à 1685)](#355)
-      - [Chapitre VII : De la licitation. (art. 1686 à 1688)](#356)
-      - [Chapitre VIII : Du transport des créances et autres droits incorporels. (art. 1689 à 1701)](#357)
-    - [Titre VII : De l'échange (art. 1702 à 1707)](#358)
-    - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#359)
-      - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#360)
-      - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#361)
-        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#362)
-        - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#363)
-        - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#364)
-      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1779 à 1799-1)](#365)
-        - [Section 1 : Du louage des domestiques et ouvriers. (art. 1780)](#366)
-        - [Section 2 : Des voituriers par terre et par eau. (art. 1782 à 1786)](#367)
-        - [Section 3 : Des devis et des marchés. (art. 1787 à 1799-1)](#368)
-      - [Chapitre IV : Du bail à cheptel (art. 1800 à 1831)](#369)
-        - [Section 1 : Dispositions générales. (art. 1800 à 1803)](#370)
-        - [Section 2 : Du cheptel simple. (art. 1804 à 1817)](#371)
-        - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#372)
-        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#373)
-          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#374)
-          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#375)
-        - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#376)
-    - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-1 à 1831-5)](#377)
-    - [Titre IX : De la société (art. 1832 à 1873)](#378)
-      - [Chapitre Ier : Dispositions générales. (art. 1832 à 1844-17)](#379)
-      - [Chapitre II : De la société civile (art. 1845 à 1870-1)](#380)
-        - [Section 1 : Dispositions générales. (art. 1845 à 1845-1)](#381)
-        - [Section 2 : Gérance. (art. 1846 à 1851)](#382)
-        - [Section 3 : Décisions collectives. (art. 1852 à 1854)](#383)
-        - [Section 4 : Information des associés. (art. 1855 à 1856)](#384)
-        - [Section 5 : Engagement des associés à l'égard des tiers. (art. 1857 à 1860)](#385)
-        - [Section 6 : Cession des parts sociales. (art. 1861 à 1868)](#386)
-        - [Section 7 : Retrait ou décès d'un associé. (art. 1869 à 1870-1)](#387)
-      - [Chapitre III : De la société en participation. (art. 1871 à 1873)](#388)
-    - [Titre IX bis : Des conventions relatives à l'exercice des droits indivis (art. 1873-1 à 1873-18)](#389)
-      - [Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier. (art. 1873-2 à 1873-15)](#390)
-      - [Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier. (art. 1873-16 à 1873-18)](#391)
-    - [Titre X : Du prêt (art. 1874 à 1914)](#392)
-      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#393)
-        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#394)
-        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#395)
-        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#396)
-      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#397)
-        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#398)
-        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#399)
-        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#400)
-      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#401)
-    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#402)
-      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#403)
-      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1954)](#404)
-        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#405)
-        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#406)
-        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#407)
-        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#408)
-        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1954)](#409)
-      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#410)
-        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#411)
-        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#412)
-        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#413)
-    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#414)
-      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#415)
-      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#416)
-        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#417)
-        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#418)
-    - [Titre XIII : Du mandat (art. 1984 à 2010)](#419)
-      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#420)
-      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#421)
-      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#422)
-      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#423)
-    - [Titre XV : Des transactions (art. 2044 à 2058)](#424)
-    - [Titre XVI : Du compromis (art. 2059 à 2068)](#425)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2205)](#426)
-      - [Chapitre Ier : De la saisie. (art. 2205)](#427)
-        - [Section 5 : De la vente. (art. 2205)](#428)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2205)](#429)
-    - [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers (art. 2204 à 2218)](#430)
-      - [Chapitre Ier : De l'expropriation forcée (art. 2204 à 2217)](#431)
-      - [Chapitre II : De l'ordre et de la distribution du prix entre les créanciers (art. 2218)](#432)
-    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#433)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#434)
-      - [Chapitre II : De la possession. (art. 2228 à 2235)](#435)
-      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#436)
-      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#437)
-        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#438)
-        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#439)
-      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#440)
-        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#441)
-        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#442)
-        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270-2)](#443)
-        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#444)
-      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#445)
-  - [Livre IV : Des sûretés (art. 2284 à 2488)](#446)
-    - [Titre Ier : Des sûretés personnelles (art. 2287-1 à 2322)](#447)
-      - [Chapitre Ier : Du cautionnement (art. 2288 à 2320)](#448)
-        - [Section 1 : De la nature et de l'étendue du cautionnement (art. 2288 à 2297)](#449)
-        - [Section 2 : De l'effet du cautionnement (art. 2298 à 2310)](#450)
-          - [Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution (art. 2298 à 2304)](#451)
-          - [Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution (art. 2305 à 2309)](#452)
-          - [Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs (art. 2310)](#453)
-        - [Section 3 : De l'extinction du cautionnement (art. 2311 à 2316)](#454)
-        - [Section 4 : De la caution légale et de la caution judiciaire (art. 2317 à 2320)](#455)
-      - [Chapitre II : De la garantie autonome (art. 2321)](#456)
-      - [Chapitre III : De la lettre d'intention (art. 2322)](#457)
-    - [Titre II : Des sûretés réelles (art. 2323 à 2488)](#458)
-      - [Sous-titre Ier : Dispositions générales (art. 2323 à 2328)](#459)
-      - [Sous-titre II : Des sûretés sur les meubles (art. 2329 à 2372)](#460)
-        - [Chapitre Ier : Des privilèges mobiliers (art. 2330 à 2332-3)](#461)
-          - [Section 1 : Des privilèges généraux (art. 2331)](#462)
-          - [Section 2 : Des privilèges spéciaux (art. 2332)](#463)
-          - [Section 3 : Du classement des privilèges (art. 2332-1 à 2332-3)](#464)
-        - [Chapitre II : Du gage de meubles corporels (art. 2333 à 2354)](#465)
-          - [Section 1 : Du droit commun du gage (art. 2333 à 2350)](#466)
-          - [Section 3 : Dispositions communes. (art. 2354)](#467)
-        - [Chapitre III : Du nantissement de meubles incorporels. (art. 2355 à 2366)](#468)
-        - [Chapitre IV : De la propriété retenue à titre de garantie (art. 2367 à 2372)](#469)
-      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488)](#470)
-        - [Chapitre Ier : Des privilèges immobiliers (art. 2374 à 2386)](#471)
-          - [Section 1 : Des privilèges spéciaux. (art. 2374)](#472)
-          - [Section 2 : Des privilèges généraux. (art. 2375 à 2376)](#473)
-          - [Section 3 : Des cas où les privilèges doivent être inscrits (art. 2377 à 2386)](#474)
-        - [Chapitre II : De l'antichrèse (art. 2387 à 2392)](#475)
-        - [Chapitre III : Des hypothèques (art. 2393 à 2425)](#476)
-          - [Section 1 : Dispositions générales. (art. 2393 à 2399)](#477)
-          - [Section 2 : Des hypothèques légales (art. 2400 à 2411)](#478)
-            - [Sous-section 1 : Dispositions générales. (art. 2400 à 2401)](#479)
-            - [Sous-section 2 : Des règles particulières à l'hypothèque légale des époux. (art. 2402 à 2408)](#480)
-            - [Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2409 à 2411)](#481)
-          - [Section 3 : Des hypothèques judiciaires (art. 2412)](#482)
-          - [Section 4 : Des hypothèques conventionnelles (art. 2413 à 2424)](#483)
-          - [Section 5 : Du classement des hypothèques (art. 2425)](#484)
-        - [Chapitre IV : De l'inscription des privilèges et des hypothèques (art. 2426 à 2457)](#485)
-          - [Section 1 : Du mode d'inscription des privilèges et des hypothèques (art. 2426 à 2439)](#486)
-          - [Section 2 : De la radiation et de la réduction des inscriptions (art. 2440 à 2448)](#487)
-            - [Sous-section 1 : Dispositions générales. (art. 2440 à 2445)](#488)
-            - [Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle (art. 2446 à 2448)](#489)
-          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art. 2449 à 2457)](#490)
-        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#491)
-          - [Section 1 : Dispositions particulières aux hypothèques conventionnelles (art. 2458 à 2460)](#492)
-          - [Section 2 : Dispositions générales (art. 2461 à 2474)](#493)
-        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#494)
-          - [Section 1 : Dispositions particulières aux hypothèques conventionnelles (art. 2475)](#495)
-          - [Section 2 : Dispositions générales (art. 2476 à 2487)](#496)
-        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#497)
-  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#498)
-    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#499)
-    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#500)
-    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#501)
-    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#502)
-    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#503)
-      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#504)
-        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#505)
-        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#506)
-        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#507)
-      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#508)
-        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#509)
-        - [Section 2 : Expropriation forcée (art. 2533 à 2534)](#510)
+      - [Chapitre V : Des successions vacantes et des successions en déshérence (art. 809 à 811-3)](#213)
+        - [Section 1 : Des successions vacantes. (art. 809 à 810-12)](#214)
+          - [Paragraphe 1 : De l'ouverture de la vacance. (art. 809 à 809-3)](#215)
+          - [Paragraphe 2 : Des pouvoirs du curateur. (art. 810 à 810-6)](#216)
+          - [Paragraphe 3 : De la reddition des comptes et de la fin de la curatelle. (art. 810-7 à 810-12)](#217)
+        - [Section 2 : Des successions en déshérence. (art. 811 à 811-3)](#218)
+      - [Chapitre VI : De l'administration de la succession par un mandataire. (art. 812 à 814-1)](#219)
+        - [Section 1 : Du mandat à effet posthume. (art. 812 à 812-7)](#220)
+          - [Paragraphe 1 : Des conditions du mandat à effet posthume. (art. 812 à 812-1-4)](#221)
+          - [Paragraphe 2 : De la rémunération du mandataire. (art. 812-2 à 812-3)](#222)
+          - [Paragraphe 3 : De la fin du mandat à effet posthume. (art. 812-4 à 812-7)](#223)
+        - [Section 2 : Du mandataire désigné par convention. (art. 813)](#224)
+        - [Section 3 : Du mandataire successoral désigné en justice. (art. 813-1 à 814-1)](#225)
+      - [Chapitre VII : Du régime légal de l'indivision. (art. 815 à 815-18)](#226)
+        - [Section 1 : Des actes relatifs aux biens indivis. (art. 815-2 à 815-7)](#227)
+          - [Paragraphe 1 : Des actes accomplis par les indivisaires. (art. 815-2 à 815-3)](#228)
+          - [Paragraphe 2 : Des actes autorisés en justice. (art. 815-4 à 815-7)](#229)
+        - [Section 2 : Des droits et des obligations des indivisaires. (art. 815-8 à 815-16)](#230)
+        - [Section 3 : Du droit de poursuite des créanciers. (art. 815-17)](#231)
+        - [Section 4 : De l'indivision en usufruit. (art. 815-18)](#232)
+      - [Chapitre VIII : Du partage. (art. 816 à 892)](#233)
+        - [Section 1 : Des opérations de partage. (art. 816 à 842)](#234)
+          - [Sous-section 1 : Dispositions communes. (art. 816 à 834)](#235)
+            - [Paragraphe 1 : Des demandes en partage. (art. 816 à 824)](#236)
+            - [Paragraphe 2 : Des parts et des lots. (art. 825 à 830)](#237)
+            - [Paragraphe 3 : Des attributions préférentielles. (art. 831 à 834)](#238)
+          - [Sous-section 2 : Du partage amiable. (art. 835 à 839)](#239)
+          - [Sous-section 3 : Du partage judiciaire. (art. 840 à 842)](#240)
+        - [Section 2 : Du rapport des libéralités. (art. 843 à 863)](#241)
+        - [Section 3 : Du paiement des dettes (art. 864 à 882)](#242)
+          - [Paragraphe 1 : Des dettes des copartageants (art. 864 à 867)](#243)
+          - [Paragraphe 2 : Des autres dettes (art. 870 à 882)](#244)
+        - [Section 4 : Des effets du partage et de la garantie des lots (art. 883 à 886)](#245)
+        - [Section 5 : Des actions en nullité du partage ou en complément de part (art. 887 à 892)](#246)
+          - [Paragraphe 1 : Des actions en nullité du partage (art. 887 à 888)](#247)
+          - [Paragraphe 2 : De l'action en complément de part (art. 889 à 892)](#248)
+    - [Titre II : Des libéralités (art. 893 à 1099-1)](#249)
+      - [Chapitre Ier : Dispositions générales. (art. 893 à 900-8)](#250)
+      - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament. (art. 901 à 911)](#251)
+      - [Chapitre III : De la réserve héréditaire, de la quotité disponible et de la réduction. (art. 912 à 930-5)](#252)
+        - [Section 1 : De la réserve héréditaire et de la quotité disponible (art. 912 à 917)](#253)
+        - [Section 2 : De la réduction des libéralités excessives (art. 918 à 930-5)](#254)
+          - [Paragraphe 1 : Des opérations préliminaires à la réduction (art. 918 à 920)](#255)
+          - [Paragraphe 2 : De l'exercice de la réduction (art. 921 à 928)](#256)
+          - [Paragraphe 3 : De la renonciation anticipée à l'action en réduction (art. 929 à 930-5)](#257)
+      - [Chapitre IV : Des donations entre vifs. (art. 931 à 966)](#258)
+        - [Section 1 : De la forme des donations entre vifs. (art. 931 à 952)](#259)
+        - [Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs. (art. 953 à 966)](#260)
+      - [Chapitre V : Des dispositions testamentaires. (art. 967 à 1047)](#261)
+        - [Section 1 : Des règles générales sur la forme des testaments. (art. 967 à 980)](#262)
+        - [Section 2 : Des règles particulières sur la forme de certains testaments. (art. 981 à 1001)](#263)
+        - [Section 3 : Des institutions d'héritiers et des legs en général. (art. 1002 à 1002-1)](#264)
+        - [Section 4 : Du legs universel. (art. 1003 à 1009)](#265)
+        - [Section 5 : Du legs à titre universel. (art. 1010 à 1013)](#266)
+        - [Section 6 : Des legs particuliers. (art. 1014 à 1024)](#267)
+        - [Section 7 : Des exécuteurs testamentaires. (art. 1025 à 1034)](#268)
+        - [Section 8 : De la révocation des testaments et de leur caducité. (art. 1035 à 1047)](#269)
+      - [Chapitre VI : Des libéralités graduelles et résiduelles. (art. 1048 à 1061)](#270)
+        - [Section 1 : Des libéralités graduelles. (art. 1048 à 1056)](#271)
+        - [Section 2 : Des libéralités résiduelles. (art. 1057 à 1061)](#272)
+      - [Chapitre VII : Des libéralités-partages. (art. 1075 à 1080)](#273)
+        - [Section 1 : Dispositions générales. (art. 1075 à 1075-5)](#274)
+        - [Section 2 : Des donations-partages. (art. 1076 à 1078-10)](#275)
+          - [Paragraphe 1 : Des donations-partages faites aux héritiers présomptifs. (art. 1076 à 1078-3)](#276)
+          - [Paragraphe 2 : Des donations-partages faites à des descendants de degrés différents. (art. 1078-4 à 1078-10)](#277)
+        - [Section 3 : Des testaments-partages. (art. 1079 à 1080)](#278)
+      - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage. (art. 1081 à 1090)](#279)
+      - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage. (art. 1091 à 1099-1)](#280)
+    - [Titre III : Des contrats ou des obligations conventionnelles en général (art. 1101 à 1369-11)](#281)
+      - [Chapitre Ier : Dispositions préliminaires. (art. 1101 à 1107)](#282)
+      - [Chapitre II : Des conditions essentielles pour la validité des conventions. (art. 1108 à 1133)](#283)
+        - [Section 1 : Du consentement. (art. 1109 à 1122)](#284)
+        - [Section 2 : De la capacité des parties contractantes. (art. 1123 à 1125-1)](#285)
+        - [Section 3 : De l'objet et de la matière des contrats. (art. 1126 à 1130)](#286)
+        - [Section 4 : De la cause. (art. 1131 à 1133)](#287)
+      - [Chapitre III : De l'effet des obligations. (art. 1134 à 1167)](#288)
+        - [Section 1 : Dispositions générales. (art. 1134 à 1135)](#289)
+        - [Section 2 : De l'obligation de donner. (art. 1136 à 1141)](#290)
+        - [Section 3 : De l'obligation de faire ou de ne pas faire. (art. 1142 à 1145)](#291)
+        - [Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation. (art. 1146 à 1155)](#292)
+        - [Section 5 : De l'interprétation des conventions. (art. 1156 à 1164)](#293)
+        - [Section 6 : De l'effet des conventions à l'égard des tiers. (art. 1165 à 1167)](#294)
+      - [Chapitre IV : Des diverses espèces d'obligations. (art. 1168 à 1233)](#295)
+        - [Section 1 : Des obligations conditionnelles. (art. 1168 à 1184)](#296)
+          - [Paragraphe 1 : De la condition en général, et de ses diverses espèces. (art. 1168 à 1180)](#297)
+          - [Paragraphe 2 : De la condition suspensive. (art. 1181 à 1182)](#298)
+          - [Paragraphe 3 : De la condition résolutoire. (art. 1183 à 1184)](#299)
+        - [Section 2 : Des obligations à terme. (art. 1185 à 1188)](#300)
+        - [Section 3 : Des obligations alternatives. (art. 1189 à 1196)](#301)
+        - [Section 4 : Des obligations solidaires. (art. 1197 à 1216)](#302)
+          - [Paragraphe 1 : De la solidarité entre les créanciers. (art. 1197 à 1199)](#303)
+          - [Paragraphe 2 : De la solidarité de la part des débiteurs. (art. 1200 à 1216)](#304)
+        - [Section 5 : Des obligations divisibles et indivisibles. (art. 1217 à 1225)](#305)
+          - [Paragraphe 1 : Des effets de l'obligation divisible. (art. 1220 à 1221)](#306)
+          - [Paragraphe 2 : Des effets de l'obligation indivisible. (art. 1222 à 1225)](#307)
+        - [Section 6 : Des obligations avec clauses pénales. (art. 1226 à 1233)](#308)
+      - [Chapitre V : De l'extinction des obligations. (art. 1234 à 1314)](#309)
+        - [Section 1 : Du paiement (art. 1235 à 1264)](#310)
+          - [Paragraphe 1 : Du paiement en général. (art. 1235 à 1248)](#311)
+          - [Paragraphe 2 : Du paiement avec subrogation. (art. 1249 à 1252)](#312)
+          - [Paragraphe 3 : De l'imputation des paiements. (art. 1253 à 1256)](#313)
+          - [Paragraphe 4 : Des offres de paiement, et de la consignation. (art. 1257 à 1264)](#314)
+        - [Section 2 : De la novation. (art. 1271 à 1281)](#315)
+        - [Section 3 : De la remise de la dette. (art. 1282 à 1288)](#316)
+        - [Section 4 : De la compensation. (art. 1289 à 1299)](#317)
+        - [Section 5 : De la confusion. (art. 1300 à 1301)](#318)
+        - [Section 6 : De la perte de la chose due. (art. 1302 à 1303)](#319)
+        - [Section 7 : De l'action en nullité ou en rescision des conventions. (art. 1304 à 1314)](#320)
+      - [Chapitre VI : De la preuve des obligations et de celle du paiement. (art. 1315 à 1369)](#321)
+        - [Section 1 : De la preuve littérale. (art. 1316 à 1340)](#322)
+          - [Paragraphe 1 : Dispositions générales. (art. 1316 à 1316-4)](#323)
+          - [Paragraphe 2 : Du titre authentique. (art. 1317 à 1321-1)](#324)
+          - [Paragraphe 3 : De l'acte sous seing privé. (art. 1322 à 1332)](#325)
+          - [Paragraphe 4 : Des tailles. (art. 1333)](#326)
+          - [Paragraphe 5 : Des copies des titres. (art. 1334 à 1336)](#327)
+          - [Paragraphe 6 : Des actes récognitifs et confirmatifs. (art. 1337 à 1340)](#328)
+        - [Section 2 : De la preuve testimoniale. (art. 1341 à 1348)](#329)
+        - [Section 3 : Des présomptions. (art. 1349 à 1353)](#330)
+          - [Paragraphe 1 : Des présomptions établies par la loi. (art. 1350 à 1352)](#331)
+          - [Paragraphe 2 : Des présomptions qui ne sont point établies par la loi. (art. 1353)](#332)
+        - [Section 4 : De l'aveu de la partie. (art. 1354 à 1356)](#333)
+        - [Section 5 : Du serment. (art. 1357 à 1369)](#334)
+          - [Paragraphe 1 : Du serment décisoire. (art. 1358 à 1365)](#335)
+          - [Paragraphe 2 : Du serment déféré d'office. (art. 1366 à 1369)](#336)
+      - [Chapitre VII : Des contrats sous forme électronique. (art. 1369-1 à 1369-11)](#337)
+        - [Section 1 : De l'échange d'informations en cas de contrat sous forme électronique. (art. 1369-1 à 1369-3)](#338)
+        - [Section 2 : De la conclusion d'un contrat sous forme électronique. (art. 1369-4 à 1369-6)](#339)
+        - [Section 3 : De l'envoi ou de la remise d'un écrit par voie électronique. (art. 1369-7 à 1369-9)](#340)
+        - [Section 4 : De certaines exigences de forme. (art. 1369-10 à 1369-11)](#341)
+    - [Titre IV : Des engagements qui se forment sans convention (art. 1370 à 1386)](#342)
+      - [Chapitre Ier : Des quasi-contrats. (art. 1371 à 1381)](#343)
+      - [Chapitre II : Des délits et des quasi-délits. (art. 1382 à 1386)](#344)
+    - [Titre IV bis : De la responsabilité du fait des produits défectueux (art. 1386-1 à 1386-18)](#345)
+    - [Titre V : Du contrat de mariage et des régimes matrimoniaux (art. 1387 à 1581)](#346)
+      - [Chapitre Ier : Dispositions générales. (art. 1387 à 1399)](#347)
+      - [Chapitre II : Du régime en communauté (art. 1400 à 1527)](#348)
+        - [Première partie : De la communauté légale (art. 1400 à 1491)](#349)
+          - [Section 1 : De ce qui compose la communauté activement et passivement (art. 1401 à 1418)](#350)
+            - [Paragraphe 1 : De l'actif de la communauté (art. 1401 à 1408)](#351)
+            - [Paragraphe 2 : Du passif de la communauté (art. 1409 à 1418)](#352)
+          - [Section 2 : De l'administration de la communauté et des biens propres. (art. 1421 à 1440)](#353)
+          - [Section 3 : De la dissolution de la communauté (art. 1441 à 1491)](#354)
+            - [Paragraphe 1 : Des causes de dissolution et de la séparation de biens. (art. 1441 à 1451)](#355)
+            - [Paragraphe 2 : De la liquidation et du partage de la communauté. (art. 1467 à 1480)](#356)
+            - [Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution. (art. 1482 à 1491)](#357)
+        - [Deuxième partie : De la communauté conventionnelle. (art. 1497 à 1526)](#358)
+          - [Section 1 : De la communauté de meubles et acquêts. (art. 1498 à 1501)](#359)
+          - [Section 2 : De la clause d'administration conjointe. (art. 1503)](#360)
+          - [Section 3 : De la clause de prélèvement moyennant indemnité. (art. 1511 à 1514)](#361)
+          - [Section 4 : Du préciput. (art. 1515 à 1519)](#362)
+          - [Section 5 : De la stipulation de parts inégales. (art. 1520 à 1525)](#363)
+          - [Section 6 : De la communauté universelle. (art. 1526)](#364)
+        - [Dispositions communes aux deux parties du chapitre II. (art. 1527)](#365)
+      - [Chapitre III : Du régime de séparation de biens. (art. 1536 à 1543)](#366)
+      - [Chapitre IV : Du régime de participation aux acquêts. (art. 1569 à 1581)](#367)
+    - [Titre VI : De la vente (art. 1582 à 1701)](#368)
+      - [Chapitre Ier : De la nature et de la forme de la vente. (art. 1582 à 1593)](#369)
+      - [Chapitre II : Qui peut acheter ou vendre. (art. 1594 à 1597)](#370)
+      - [Chapitre III : Des choses qui peuvent être vendues. (art. 1598 à 1601)](#371)
+      - [Chapitre III-1 : De la vente d'immeubles à construire. (art. 1601-1 à 1601-4)](#372)
+      - [Chapitre IV : Des obligations du vendeur (art. 1602 à 1649)](#373)
+        - [Section 1 : Dispositions générales. (art. 1602 à 1603)](#374)
+        - [Section 2 : De la délivrance. (art. 1604 à 1624)](#375)
+        - [Section 3 : De la garantie. (art. 1625 à 1649)](#376)
+          - [Paragraphe 1 : De la garantie en cas d'éviction. (art. 1626 à 1640)](#377)
+          - [Paragraphe 2 : De la garantie des défauts de la chose vendue. (art. 1641 à 1649)](#378)
+      - [Chapitre V : Des obligations de l'acheteur. (art. 1650 à 1657)](#379)
+      - [Chapitre VI : De la nullité et de la résolution de la vente. (art. 1658 à 1685)](#380)
+        - [Section 1 : De la faculté de rachat. (art. 1659 à 1673)](#381)
+        - [Section 2 : De la rescision de la vente pour cause de lésion. (art. 1674 à 1685)](#382)
+      - [Chapitre VII : De la licitation. (art. 1686 à 1688)](#383)
+      - [Chapitre VIII : Du transport des créances et autres droits incorporels. (art. 1689 à 1701)](#384)
+    - [Titre VII : De l'échange (art. 1702 à 1707)](#385)
+    - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#386)
+      - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#387)
+      - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#388)
+        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#389)
+        - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#390)
+        - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#391)
+      - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1779 à 1799-1)](#392)
+        - [Section 1 : Du louage des domestiques et ouvriers. (art. 1780)](#393)
+        - [Section 2 : Des voituriers par terre et par eau. (art. 1782 à 1786)](#394)
+        - [Section 3 : Des devis et des marchés. (art. 1787 à 1799-1)](#395)
+      - [Chapitre IV : Du bail à cheptel (art. 1800 à 1831)](#396)
+        - [Section 1 : Dispositions générales. (art. 1800 à 1803)](#397)
+        - [Section 2 : Du cheptel simple. (art. 1804 à 1817)](#398)
+        - [Section 3 : Du cheptel à moitié. (art. 1818 à 1820)](#399)
+        - [Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire (art. 1821 à 1830)](#400)
+          - [Paragraphe 1 : Du cheptel donné au fermier. (art. 1821 à 1826)](#401)
+          - [Paragraphe 2 : Du cheptel donné au colon partiaire. (art. 1827 à 1830)](#402)
+        - [Section 5 : Du contrat improprement appelé cheptel. (art. 1831)](#403)
+    - [Titre VIII bis : Du contrat de promotion immobilière (art. 1831-1 à 1831-5)](#404)
+    - [Titre IX : De la société (art. 1832 à 1873)](#405)
+      - [Chapitre Ier : Dispositions générales. (art. 1832 à 1844-17)](#406)
+      - [Chapitre II : De la société civile (art. 1845 à 1870-1)](#407)
+        - [Section 1 : Dispositions générales. (art. 1845 à 1845-1)](#408)
+        - [Section 2 : Gérance. (art. 1846 à 1851)](#409)
+        - [Section 3 : Décisions collectives. (art. 1852 à 1854)](#410)
+        - [Section 4 : Information des associés. (art. 1855 à 1856)](#411)
+        - [Section 5 : Engagement des associés à l'égard des tiers. (art. 1857 à 1860)](#412)
+        - [Section 6 : Cession des parts sociales. (art. 1861 à 1868)](#413)
+        - [Section 7 : Retrait ou décès d'un associé. (art. 1869 à 1870-1)](#414)
+      - [Chapitre III : De la société en participation. (art. 1871 à 1873)](#415)
+    - [Titre IX bis : Des conventions relatives à l'exercice des droits indivis (art. 1873-1 à 1873-18)](#416)
+      - [Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier. (art. 1873-2 à 1873-15)](#417)
+      - [Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier. (art. 1873-16 à 1873-18)](#418)
+    - [Titre X : Du prêt (art. 1874 à 1914)](#419)
+      - [Chapitre Ier : Du prêt à usage, ou commodat (art. 1875 à 1891)](#420)
+        - [Section 1 : De la nature du prêt à usage. (art. 1875 à 1879)](#421)
+        - [Section 2 : Des engagements de l'emprunteur. (art. 1880 à 1887)](#422)
+        - [Section 3 : Des engagements de celui qui prête à usage. (art. 1888 à 1891)](#423)
+      - [Chapitre II : Du prêt de consommation, ou simple prêt (art. 1892 à 1904)](#424)
+        - [Section 1 : De la nature du prêt de consommation. (art. 1892 à 1897)](#425)
+        - [Section 2 : Des obligations du prêteur. (art. 1898 à 1901)](#426)
+        - [Section 3 : Des engagements de l'emprunteur. (art. 1902 à 1904)](#427)
+      - [Chapitre III : Du prêt à intérêt. (art. 1905 à 1914)](#428)
+    - [Titre XI : Du dépôt et du séquestre (art. 1915 à 1963)](#429)
+      - [Chapitre Ier : Du dépôt en général et de ses diverses espèces. (art. 1915 à 1916)](#430)
+      - [Chapitre II : Du dépôt proprement dit (art. 1917 à 1954)](#431)
+        - [Section 1 : De la nature et de l'essence du contrat de dépôt. (art. 1917 à 1920)](#432)
+        - [Section 2 : Du dépôt volontaire. (art. 1921 à 1926)](#433)
+        - [Section 3 : Des obligations du dépositaire. (art. 1927 à 1946)](#434)
+        - [Section 4 : Des obligations de la personne par laquelle le dépôt a été fait. (art. 1947 à 1948)](#435)
+        - [Section 5 : Du dépôt nécessaire. (art. 1949 à 1954)](#436)
+      - [Chapitre III : Du séquestre (art. 1955 à 1963)](#437)
+        - [Section 1 : Des différentes espèces de séquestre. (art. 1955)](#438)
+        - [Section 2 : Du séquestre conventionnel. (art. 1956 à 1960)](#439)
+        - [Section 3 : Du séquestre ou dépôt judiciaire. (art. 1961 à 1963)](#440)
+    - [Titre XII : Des contrats aléatoires. (art. 1964 à 1983)](#441)
+      - [Chapitre Ier : Du jeu et du pari. (art. 1965 à 1967)](#442)
+      - [Chapitre II : Du contrat de rente viagère (art. 1968 à 1983)](#443)
+        - [Section 1 : Des conditions requises pour la validité du contrat. (art. 1968 à 1976)](#444)
+        - [Section 2 : Des effets du contrat entre les parties contractantes. (art. 1977 à 1983)](#445)
+    - [Titre XIII : Du mandat (art. 1984 à 2010)](#446)
+      - [Chapitre Ier : De la nature et de la forme du mandat. (art. 1984 à 1990)](#447)
+      - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#448)
+      - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#449)
+      - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#450)
+    - [Titre XV : Des transactions (art. 2044 à 2058)](#451)
+    - [Titre XVI : Du compromis (art. 2059 à 2068)](#452)
+    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2190 à 2216)](#453)
+      - [Chapitre Ier : De la saisie. (art. 2191 à 2213)](#454)
+        - [Section 1 : Du créancier. (art. 2191 à 2192)](#455)
+        - [Section 2 : Des biens et droits saisissables. (art. 2193 à 2195)](#456)
+        - [Section 3 : Du débiteur. (art. 2196 à 2197)](#457)
+        - [Section 4 : Des effets de l'acte de saisie. (art. 2198 à 2200)](#458)
+        - [Section 5 : De la vente. (art. 2201 à 2213)](#459)
+          - [Paragraphe 1 : Dispositions relatives à la vente amiable. (art. 2202 à 2203)](#460)
+          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2204 à 2212)](#461)
+          - [Paragraphe 3 : Dispositions communes. (art. 2213)](#462)
+      - [Chapitre II : De la distribution du prix. (art. 2214 à 2216)](#463)
+    - [Titre XX : De la prescription et de la possession. (art. 2219 à 2283)](#464)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2227)](#465)
+      - [Chapitre II : De la possession. (art. 2228 à 2235)](#466)
+      - [Chapitre III : Des causes qui empêchent la prescription. (art. 2236 à 2241)](#467)
+      - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription. (art. 2242 à 2259)](#468)
+        - [Section 1 : Des causes qui interrompent la prescription. (art. 2242 à 2250)](#469)
+        - [Section 2 : Des causes qui suspendent le cours de la prescription. (art. 2251 à 2259)](#470)
+      - [Chapitre V : Du temps requis pour prescrire. (art. 2260 à 2281)](#471)
+        - [Section 1 : Dispositions générales. (art. 2260 à 2261)](#472)
+        - [Section 2 : De la prescription trentenaire. (art. 2262 à 2264)](#473)
+        - [Section 3 : De la prescription par dix et vingt ans. (art. 2265 à 2270-2)](#474)
+        - [Section 4 : De quelques prescriptions particulières. (art. 2271 à 2281)](#475)
+      - [Chapitre VI : De la protection possessoire. (art. 2282 à 2283)](#476)
+  - [Livre IV : Des sûretés (art. 2284 à 2488)](#477)
+    - [Titre Ier : Des sûretés personnelles (art. 2287-1 à 2322)](#478)
+      - [Chapitre Ier : Du cautionnement (art. 2288 à 2320)](#479)
+        - [Section 1 : De la nature et de l'étendue du cautionnement (art. 2288 à 2297)](#480)
+        - [Section 2 : De l'effet du cautionnement (art. 2298 à 2310)](#481)
+          - [Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution (art. 2298 à 2304)](#482)
+          - [Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution (art. 2305 à 2309)](#483)
+          - [Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs (art. 2310)](#484)
+        - [Section 3 : De l'extinction du cautionnement (art. 2311 à 2316)](#485)
+        - [Section 4 : De la caution légale et de la caution judiciaire (art. 2317 à 2320)](#486)
+      - [Chapitre II : De la garantie autonome (art. 2321)](#487)
+      - [Chapitre III : De la lettre d'intention (art. 2322)](#488)
+    - [Titre II : Des sûretés réelles (art. 2323 à 2488)](#489)
+      - [Sous-titre Ier : Dispositions générales (art. 2323 à 2328)](#490)
+      - [Sous-titre II : Des sûretés sur les meubles (art. 2329 à 2372)](#491)
+        - [Chapitre Ier : Des privilèges mobiliers (art. 2330 à 2332-3)](#492)
+          - [Section 1 : Des privilèges généraux (art. 2331)](#493)
+          - [Section 2 : Des privilèges spéciaux (art. 2332)](#494)
+          - [Section 3 : Du classement des privilèges (art. 2332-1 à 2332-3)](#495)
+        - [Chapitre II : Du gage de meubles corporels (art. 2333 à 2354)](#496)
+          - [Section 1 : Du droit commun du gage (art. 2333 à 2350)](#497)
+          - [Section 3 : Dispositions communes. (art. 2354)](#498)
+        - [Chapitre III : Du nantissement de meubles incorporels. (art. 2355 à 2366)](#499)
+        - [Chapitre IV : De la propriété retenue à titre de garantie (art. 2367 à 2372)](#500)
+      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488)](#501)
+        - [Chapitre Ier : Des privilèges immobiliers (art. 2374 à 2386)](#502)
+          - [Section 1 : Des privilèges spéciaux. (art. 2374)](#503)
+          - [Section 2 : Des privilèges généraux. (art. 2375 à 2376)](#504)
+          - [Section 3 : Des cas où les privilèges doivent être inscrits (art. 2377 à 2386)](#505)
+        - [Chapitre II : De l'antichrèse (art. 2387 à 2392)](#506)
+        - [Chapitre III : Des hypothèques (art. 2393 à 2425)](#507)
+          - [Section 1 : Dispositions générales. (art. 2393 à 2399)](#508)
+          - [Section 2 : Des hypothèques légales (art. 2400 à 2411)](#509)
+            - [Sous-section 1 : Dispositions générales. (art. 2400 à 2401)](#510)
+            - [Sous-section 2 : Des règles particulières à l'hypothèque légale des époux. (art. 2402 à 2408)](#511)
+            - [Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2409 à 2411)](#512)
+          - [Section 3 : Des hypothèques judiciaires (art. 2412)](#513)
+          - [Section 4 : Des hypothèques conventionnelles (art. 2413 à 2424)](#514)
+          - [Section 5 : Du classement des hypothèques (art. 2425)](#515)
+        - [Chapitre IV : De l'inscription des privilèges et des hypothèques (art. 2426 à 2457)](#516)
+          - [Section 1 : Du mode d'inscription des privilèges et des hypothèques (art. 2426 à 2439)](#517)
+          - [Section 2 : De la radiation et de la réduction des inscriptions (art. 2440 à 2448)](#518)
+            - [Sous-section 1 : Dispositions générales. (art. 2440 à 2445)](#519)
+            - [Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle (art. 2446 à 2448)](#520)
+          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art. 2449 à 2457)](#521)
+        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#522)
+          - [Section 1 : Dispositions particulières aux hypothèques conventionnelles (art. 2458 à 2460)](#523)
+          - [Section 2 : Dispositions générales (art. 2461 à 2474)](#524)
+        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#525)
+          - [Section 1 : Dispositions particulières aux hypothèques conventionnelles (art. 2475)](#526)
+          - [Section 2 : Dispositions générales (art. 2476 à 2487)](#527)
+        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#528)
+  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#529)
+    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#530)
+    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#531)
+    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#532)
+    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#533)
+    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#534)
+      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#535)
+        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#536)
+        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#537)
+        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#538)
+      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#539)
+        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#540)
+        - [Section 2 : Expropriation forcée (art. 2533 à 2534)](#541)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -5066,15 +5097,15 @@ _Créé par_:
 
 ###### Article 55
 
-Les déclarations de naissance seront faites dans les trois jours de l'accouchement, à l'officier de l'état civil du lieu.
+Les déclarations de naissance sont faites dans les trois jours de l'accouchement, à l'officier de l'état civil du lieu.
 
-Lorsqu'une naissance n'aura pas été déclarée dans le délai légal, l'officier de l'état civil ne pourra la relater sur ses
+Lorsqu'une naissance n'a pas été déclarée dans le délai légal, l'officier de l'état civil ne peut la relater sur ses
 registres qu'en vertu d'un jugement rendu par le tribunal de l'arrondissement dans lequel est né l'enfant, et mention
-sommaire en sera faite en marge à la date de la naissance. Si le lieu de la naissance est inconnu, le tribunal compétent sera
+sommaire en est faite en marge à la date de la naissance. Si le lieu de la naissance est inconnu, le tribunal compétent est
 celui du domicile du requérant.
 
-En pays étranger, les déclarations aux agents diplomatiques ou consulaires seront faites dans les quinze jours de
-l'accouchement. Toutefois, ce délai pourra être prolongé par décret dans certaines circonscriptions consulaires.
+En pays étranger, les déclarations aux agents diplomatiques ou consulaires sont faites dans les quinze jours de
+l'accouchement. Toutefois, ce délai peut être prolongé par décret dans certaines circonscriptions consulaires.
 
 **Liens relatifs à cet article**
 
@@ -5084,15 +5115,6 @@ l'accouchement. Toutefois, ce délai pourra être prolongé par décret dans cer
   - TXT_SOURCE: Décret n°60-1265 du 25 novembre 1960 - art. 1 (Ab)
   - TXT_SOURCE: Ordonnance n°98-580 du 8 juillet 1998
   - TXT_SOURCE: Ordonnance n°98-580 du 8 juillet 1998 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Modifié par_:
-
-  - Loi n°93-22 1993-01-08 art. 3 I, II JORF 9 janvier 1993
-  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -5107,6 +5129,14 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 47 (Ab)
   - Code pénal - art. 433-18-1 (V)
   - Code pénal - art. R645-4 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Codifié par_:
+
+  - Loi n°1803-03-11
 
 
 ###### Article 56
@@ -5501,19 +5531,19 @@ _Cite_:
 ###### Article 62
 
 L'acte de reconnaissance énonce les prénoms, nom, date de naissance ou, à défaut, âge, lieu de naissance et domicile de
-l'auteur de la reconnaissance.
+l'auteur de la reconnaissance. 
 
 Il indique les date et lieu de naissance, le sexe et les prénoms de l'enfant ou, à défaut, tous renseignements utiles sur la
 naissance, sous réserve des dispositions de l'article 341-1.
 
-L'acte de reconnaissance sera inscrit à sa date sur les registres de l'état civil.
+L'acte de reconnaissance est inscrit à sa date sur les registres de l'état civil. 
 
-Seules les mentions prévues au premier alinéa sont portées en marge de l'acte de naissance s'il en existe un.
+Seules les mentions prévues au premier alinéa sont portées, le cas échéant, en marge de l'acte de naissance de l'enfant. 
 
-Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance pourra être reçue par les officiers
-instrumentaires désignés en cet article et dans les formes qui y sont indiquées.
+Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance peut être reçue par les officiers
+instrumentaires désignés en cet article et dans les formes qui y sont indiquées. 
 
-Lors de l'établissement de l'acte de reconnaissance, il sera fait lecture à son auteur des articles 371-1 et 371-2.
+Lors de l'établissement de l'acte de reconnaissance, il est fait lecture à son auteur des articles 371-1 et 371-2.
 
 **Liens relatifs à cet article**
 
@@ -5526,19 +5556,15 @@ _Cité par_:
   - Code civil - art. 335 (M)
   - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
   - Code civil - art. 341-1 (T)
-  - Code civil - art. 371-1 (M)
-  - Code civil - art. 371-2 (M)
+  - Code civil - art. 371-1 (V)
+  - Code civil - art. 371-2 (V)
   - Code civil - art. 59 (V)
 
 _Codifié par_:
@@ -7352,39 +7378,35 @@ _Cité par_:
 
 ###### Article 116
 
-Si le présumé absent est appelé à un partage, il est fait application de l'article 838, alinéa 1er, du code civil.
+Si le présumé absent est appelé à un partage, celui-ci peut être fait à l'amiable. 
 
-Toutefois, le juge des tutelles peut autoriser le partage, même partiel, et désigner un notaire pour y procéder, en présence
-du représentant du présumé absent, ou de son remplaçant désigné conformément à l'article 115, si le représentant initial est
-lui-même intéressé au partage. L'état liquidatif est soumis à l'homologation du tribunal de grande instance.
+En ce cas, le juge des tutelles autorise le partage, même partiel, et désigne, s'il y a lieu, un notaire pour y procéder, en
+présence du représentant du présumé absent ou de son remplaçant désigné conformément à l'article 115, si le représentant
+initial est lui-même intéressé au partage. L'état liquidatif est soumis à l'approbation du juge des tutelles. 
+
+Le partage peut également être fait en justice conformément aux dispositions des articles 840 à 842. 
+
+Tout autre partage est considéré comme provisionnel.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+  - Code civil - art. 836 (V)
 
 _Cite_:
 
   - Code civil - art. 115 (V)
-  - Code civil - art. 838 (M)
-
-_Cité par_:
-
-  - Code civil - art. 836 (V)
-  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+  - Code civil - art. 840 (V)
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
-  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
 
 
 ###### Article 117
@@ -11920,20 +11942,14 @@ matrimonial ou au décès de l'un des époux et des dispositions à cause de mor
 contrat de mariage ou pendant l'union, sauf volonté contraire de l'époux qui les a consentis. Cette volonté est constatée par
 le juge au moment du prononcé du divorce et rend irrévocables l'avantage ou la disposition maintenus.
 
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+Toutefois, si le contrat de mariage le prévoit, les époux pourront toujours reprendre les biens qu'ils auront apportés à la
+communauté.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
 _Modifié par_:
 
-  - Loi n°2004-439 du 26 mai 2004 - art. 16 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2006-728 du 23 juin 2006 - art. 43 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -16237,34 +16253,26 @@ _Cité par_:
 
 ###### Article 368-1
 
-Si l'adopté meurt sans descendants, les biens donnés par l'adoptant ou recueillis dans sa succession retournent à l'adoptant
-ou à ses descendants, s'ils existent encore en nature lors du décès de l'adopté, à charge de contribuer aux dettes et sous
-réserve des droits acquis par les tiers. Les biens que l'adopté avait reçus à titre gratuit de ses père et mère retournent
-pareillement à ces derniers ou à leurs descendants.
+Dans la succession de l'adopté, à défaut de descendants et de conjoint survivant, les biens donnés par l'adoptant ou
+recueillis dans sa succession retournent à l'adoptant ou à ses descendants, s'ils existent encore en nature lors du décès de
+l'adopté, à charge de contribuer aux dettes et sous réserve des droits acquis par les tiers. Les biens que l'adopté avait
+reçus à titre gratuit de ses père et mère retournent pareillement à ces derniers ou à leurs descendants.
 
-Le surplus des biens de l'adopté se divise par moitié entre la famille d'origine et la famille de l'adoptant, sans préjudice
-des droits du conjoint sur l'ensemble de la succession.
+Le surplus des biens de l'adopté se divise par moitié entre la famille d'origine et la famille de l'adoptant.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 786 (V)
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 786 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 369
@@ -18579,25 +18587,20 @@ A défaut d'accord entre les parents, l'acte doit être autorisé par le juge de
 
 Même d'un commun accord, les parents ne peuvent ni vendre de gré à gré, ni apporter en société un immeuble ou un fonds de
 commerce appartenant au mineur, ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit, sans l'autorisation du
-juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif devra être homologué dans
-les conditions prévues à l'article 466.
+juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif doit être approuvé par le
+juge des tutelles.
 
 Si l'acte cause un préjudice au mineur, les parents en sont responsables solidairement.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°85-1372 du 23 décembre 1985 - art. 42 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
-
-_Cite_:
-
-  - Code civil - art. 466 (M)
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -20693,34 +20696,46 @@ _Créé par_:
 
 ###### Article 461
 
-Le tuteur ne peut accepter une succession échue au mineur que sous bénéfice d'inventaire. Toutefois, le conseil de famille
-pourra, par une délibération spéciale, l'autoriser à accepter purement et simplement, si l'actif dépasse manifestement le
-passif.
+Par dérogation à l'article 768, le tuteur ne peut accepter une succession échue au mineur qu'à concurrence de l'actif net.
+Toutefois, le conseil de famille pourra, par une délibération spéciale, l'autoriser à accepter purement et simplement, si
+l'actif dépasse manifestement le passif. 
 
-Le tuteur ne peut répudier une succession échue au mineur sans une autorisation du conseil de famille.
+Le tuteur ne peut renoncer à une succession échue au mineur sans une autorisation du conseil de famille.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
   - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+_Cite_:
+
+  - Code civil - art. 768 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 462
 
-Dans le cas où la succession répudiée au nom du mineur n'aurait pas été acceptée par un autre, elle pourra être reprise, soit
-par le tuteur autorisé à cet effet par une nouvelle délibération du conseil de famille, soit par le mineur devenu majeur,
-mais dans l'état où elle se trouvera lors de la reprise et sans pouvoir attaquer les ventes et autres actes qui auraient été
-légalement faits durant la vacance.
+Dans le cas où la succession à laquelle il a été renoncé au nom du mineur n'a pas été acceptée par un autre héritier et tant
+que l'Etat n'a pas déjà été envoyé en possession, cette renonciation peut être révoquée, soit par le tuteur autorisé à cet
+effet par une nouvelle délibération du conseil de famille, soit par le mineur devenu majeur. Le deuxième alinéa de l'article
+807 est applicable.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -20728,14 +20743,18 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
   - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+_Cite_:
+
+  - Code civil - art. 807 (V)
 
 
 ###### Article 463
@@ -20800,7 +20819,11 @@ _Codifié par_:
 
 Le tuteur ne peut, sans l'autorisation du conseil de famille, introduire une demande de partage au nom du mineur ; mais il
 pourra, sans cette autorisation, répondre à une demande en partage dirigée contre le mineur, ou s'adjoindre à la requête
-collective à fin de partage, présentée par tous les intéressés selon l'article 822.
+collective à fin de partage, présentée par tous les intéressés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -20810,13 +20833,9 @@ _Cité par_:
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
   - Code civil - art. 1150 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-_Cite_:
-
-  - Code civil - art. 822 (M)
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
@@ -20825,20 +20844,28 @@ _Codifié par_:
 
 ###### Article 466
 
-Pour obtenir à l'égard du mineur tout l'effet qu'il aurait entre majeurs, le partage devra être fait en justice, conformément
-aux dispositions des articles 815 et suivants.
+Le partage à l'égard d'un mineur peut être fait à l'amiable. 
 
-Toutefois, le conseil de famille pourra autoriser le partage, même partiel, à l'amiable. En ce cas, il désignera un notaire
-pour y procéder. L'état liquidatif, auquel sera jointe la délibération du conseil de famille, sera soumis à l'homologation du
-tribunal de grande instance.
+En ce cas, le conseil de famille autorise le partage, même partiel, et désigne s'il y a lieu un notaire pour y
+procéder.L'état liquidatif est soumis à l'approbation du conseil de famille. 
 
-Tout autre partage ne sera considéré que comme provisionnel.
+Le partage peut également être fait en justice conformément aux dispositions des articles 840 à 842. 
+
+Tout autre partage est considéré comme provisionnel.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+  - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -20850,11 +20877,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 815 (M)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Code civil - art. 840 (V)
 
 
 ###### Article 467
@@ -22752,25 +22775,24 @@ _Cité par_:
 
 ###### Article 504
 
-Le testament fait après ouverture de la tutelle sera nul de droit.
+Le testament fait par le majeur après l'ouverture de la tutelle est nul de droit, à moins que le conseil de famille n'ait
+autorisé préalablement le majeur à tester avec l'assistance du tuteur. Toutefois, le majeur en tutelle peut seul révoquer le
+testament fait avant comme après l'ouverture de la tutelle.
 
-Le testament antérieurement fait restera valable, à moins qu'il ne soit établi que, depuis l'ouverture de la tutelle, a
-disparu la cause qui a déterminé le testateur à disposer.
+Le tuteur ne peut représenter le majeur pour faire son testament, même avec l'autorisation du conseil de famille ou du juge.
+
+Le testament fait antérieurement reste valable, à moins qu'il ne soit établi que, depuis l'ouverture de la tutelle, la cause
+qui avait déterminé le testateur à disposer a disparu.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -22784,31 +22806,31 @@ _Codifié par_:
 
 ###### Article 505
 
-Avec l'autorisation du conseil de famille, des donations peuvent être faites au nom du majeur en tutelle, mais seulement au
-profit de ses descendants et en avancement d'hoirie, ou en faveur de son conjoint.
+Avec l'autorisation du conseil de famille, des donations peuvent être faites au nom du majeur en tutelle en faveur :
+
+- de ses descendants, en avancement de part successorale ;
+
+- de ses frères ou soeurs ou de leurs descendants ;
+
+- de son conjoint.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 506
@@ -23529,31 +23551,24 @@ _Codifié par_:
 
 ###### Article 515-3
 
-Deux personnes qui concluent un pacte civil de solidarité en font la déclaration conjointe au greffe du tribunal d'instance
+Les personnes qui concluent un pacte civil de solidarité en font la déclaration conjointe au greffe du tribunal d'instance
 dans le ressort duquel elles fixent leur résidence commune.
 
-A peine d'irrecevabilité, elles produisent au greffier la convention passée entre elles en double original et joignent les
-pièces d'état civil permettant d'établir la validité de l'acte au regard de l'article 515-2 ainsi qu'un certificat du greffe
-du tribunal d'instance de leur lieu de naissance ou, en cas de naissance à l'étranger, du greffe du tribunal de grande
-instance de Paris, attestant qu'elles ne sont pas déjà liées par un pacte civil de solidarité.
+A peine d'irrecevabilité, elles produisent au greffier la convention passée entre elles par acte authentique ou par acte sous
+seing privé.
 
-Après production de l'ensemble des pièces, le greffier inscrit cette déclaration sur un registre.
+Le greffier enregistre la déclaration et fait procéder aux formalités de publicité.
 
-Le greffier vise et date les deux exemplaires originaux de la convention et les restitue à chaque partenaire.
+La convention par laquelle les partenaires modifient le pacte civil de solidarité est remise ou adressée au greffe du
+tribunal qui a reçu l'acte initial afin d'y être enregistrée.
 
-Il fait porter mention de la déclaration sur un registre tenu au greffe du tribunal d'instance du lieu de naissance de chaque
-partenaire ou, en cas de naissance à l'étranger, au greffe du tribunal de grande instance de Paris.
-
-L'inscription sur le registre du lieu de résidence confère date certaine au pacte civil de solidarité et le rend opposable
-aux tiers.
-
-Toute modification du pacte fait l'objet d'une déclaration conjointe inscrite au greffe du tribunal d'instance qui a reçu
-l'acte initial, à laquelle est joint, à peine d'irrecevabilité et en double original, l'acte portant modification de la
-convention. Les formalités prévues au quatrième alinéa sont applicables.
-
-A l'étranger, l'inscription de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de
-nationalité française et les formalités prévues aux deuxième et quatrième alinéas sont assurées par les agents diplomatiques
+A l'étranger, l'enregistrement de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de
+nationalité française et les formalités prévues aux deuxième et quatrième alinéas sont assurés par les agents diplomatiques
 et consulaires français ainsi que celles requises en cas de modification du pacte.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23577,26 +23592,62 @@ _Cité par_:
   - Code civil - art. 515-5 (V)
   - Code civil - art. 515-7 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+  - Loi n°2006-728 du 23 juin 2006 - art. 26 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Cite_:
 
-  - Code civil - art. 515-2 (AbD)
+###### Article 515-3-1
+
+Il est fait mention, en marge de l'acte de naissance de chaque partenaire, de la déclaration de pacte civil de solidarité,
+avec indication de l'identité de l'autre partenaire. Pour les personnes de nationalité étrangère nées à l'étranger, cette
+information est portée sur un registre tenu au greffe du tribunal de grande instance de Paris. L'existence de conventions
+modificatives est soumise à la même publicité.
+
+Le pacte civil de solidarité ne prend effet entre les parties qu'à compter de son enregistrement, qui lui confère date
+certaine. Il n'est opposable aux tiers qu'à compter du jour où les formalités de publicité sont accomplies. Il en va de même
+des conventions modificatives.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 4-2 (VD)
+  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+  - Décret n°2006-1806 du 23 décembre 2006 - art. 6 (VD)
+  - Décret n°2006-1807 du 23 décembre 2006 - art. 7 (VD)
+  - Décret n°2012-966 du 20 août 2012 - art. 14 (VD)
+  - Décret n°2012-966 du 20 août 2012 - art. 6 (VD)
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 26 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 515-4
 
-Les partenaires liés par un pacte civil de solidarité s'apportent une aide mutuelle et matérielle. Les modalités de cette
-aide sont fixées par le pacte.
+Les partenaires liés par un pacte civil de solidarité s'engagent à une vie commune, ainsi qu'à une aide matérielle et une
+assistance réciproques. Si les partenaires n'en disposent autrement, l'aide matérielle est proportionnelle à leurs facultés
+respectives.
 
 Les partenaires sont tenus solidairement à l'égard des tiers des dettes contractées par l'un d'eux pour les besoins de la vie
-courante et pour les dépenses relatives au logement commun.
+courante. Toutefois, cette solidarité n'a pas lieu pour les dépenses manifestement excessives.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23606,9 +23657,9 @@ _Cité par_:
   - Code civil - art. 515-11 (V)
   - Code civil - art. 515-5 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
@@ -23617,34 +23668,148 @@ _Codifié par_:
 
 ###### Article 515-5
 
-Les partenaires d'un pacte civil de solidarité indiquent, dans la convention visée au deuxième alinéa de l'article 515-3,
-s'ils entendent soumettre au régime de l'indivision les meubles meublants dont ils feraient l'acquisition à titre onéreux
-postérieurement à la conclusion du pacte. A défaut, ces meubles sont présumés indivis par moitié. Il en est de même lorsque
-la date d'acquisition de ces biens ne peut être établie.
+Sauf dispositions contraires de la convention visée au deuxième alinéa de l'article 515-3, chacun des partenaires conserve
+l'administration, la jouissance et la libre disposition de ses biens personnels. Chacun d'eux reste seul tenu des dettes
+personnelles nées avant ou pendant le pacte, hors le cas du dernier alinéa de l'article 515-4. 
 
-Les autres biens dont les partenaires deviennent propriétaires à titre onéreux postérieurement à la conclusion du pacte sont
-présumés indivis par moitié si l'acte d'acquisition ou de souscription n'en dispose autrement.
+Chacun des partenaires peut prouver par tous les moyens, tant à l'égard de son partenaire que des tiers, qu'il a la propriété
+exclusive d'un bien. Les biens sur lesquels aucun des partenaires ne peut justifier d'une propriété exclusive sont réputés
+leur appartenir indivisément, à chacun pour moitié. 
+
+Le partenaire qui détient individuellement un bien meuble est réputé, à l'égard des tiers de bonne foi, avoir le pouvoir de
+faire seul sur ce bien tout acte d'administration, de jouissance ou de disposition.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 515-3 (VD)
+  - Code civil - art. 515-4 (VD)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 515-5-1
+
+Les partenaires peuvent, dans la convention initiale ou dans une convention modificative, choisir de soumettre au régime de
+l'indivision les biens qu'ils acquièrent, ensemble ou séparément, à compter de l'enregistrement de ces conventions. Ces biens
+sont alors réputés indivis par moitié, sans recours de l'un des partenaires contre l'autre au titre d'une contribution
+inégale.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
-
-_Cite_:
-
-  - Code civil - art. 515-3 (M)
+  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
   - Loi n°1803-03-14
+
+
+###### Article 515-5-2
+
+Toutefois, demeurent la propriété exclusive de chaque partenaire :
+
+1° Les deniers perçus par chacun des partenaires, à quelque titre que ce soit, postérieurement à la conclusion du pacte et
+non employés à l'acquisition d'un bien ;
+
+2° Les biens créés et leurs accessoires ;
+
+3° Les biens à caractère personnel ;
+
+4° Les biens ou portions de biens acquis au moyen de deniers appartenant à un partenaire antérieurement à l'enregistrement de
+la convention initiale ou modificative aux termes de laquelle ce régime a été choisi ;
+
+5° Les biens ou portions de biens acquis au moyen de deniers reçus par donation ou succession ;
+
+6° Les portions de biens acquises à titre de licitation de tout ou partie d'un bien dont l'un des partenaires était
+propriétaire au sein d'une indivision successorale ou par suite d'une donation.
+
+L'emploi de deniers tels que définis aux 4° et 5° fait l'objet d'une mention dans l'acte d'acquisition. A défaut, le bien est
+réputé indivis par moitié et ne donne lieu qu'à une créance entre partenaires.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 515-5-3
+
+A défaut de dispositions contraires dans la convention, chaque partenaire est gérant de l'indivision et peut exercer les
+pouvoirs reconnus par les articles 1873-6 à 1873-8. 
+
+Pour l'administration des biens indivis, les partenaires peuvent conclure une convention relative à l'exercice de leurs
+droits indivis dans les conditions énoncées aux articles 1873-1 à 1873-15.A peine d'inopposabilité, cette convention est, à
+l'occasion de chaque acte d'acquisition d'un bien soumis à publicité foncière, publiée à la conservation des hypothèques. 
+
+Par dérogation à l'article 1873-3, la convention d'indivision est réputée conclue pour la durée du pacte civil de solidarité.
+Toutefois, lors de la dissolution du pacte, les partenaires peuvent décider qu'elle continue de produire ses effets. Cette
+décision est soumise aux dispositions des articles 1873-1 à 1873-15.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Ordonnance n°2013-516 du 20 juin 2013 - art. 2 (V)
+
+_Cite_:
+
+  - Code civil - art. 1873-1 (V)
+  - Code civil - art. 1873-3 (V)
+  - Code civil - art. 1873-6 (V)
 
 
 ###### Article 515-6
 
-Les dispositions de l'article 832 sont applicables entre partenaires d'un pacte civil de solidarité en cas de dissolution de
-celui-ci, à l'exception de celles relatives à tout ou partie d'une exploitation agricole, ainsi qu'à une quote-part indivise
-ou aux parts sociales de cette exploitation.
+Les dispositions des articles 831, 831-2, 832-3 et 832-4 sont applicables entre partenaires d'un pacte civil de solidarité en
+cas de dissolution de celui-ci. 
+
+Les dispositions du premier alinéa de l'article 831-3 sont applicables au partenaire survivant lorsque le défunt l'a
+expressément prévu par testament. 
+
+Lorsque le pacte civil de solidarité prend fin par le décès d'un des partenaires, le survivant peut se prévaloir des
+dispositions des deux premiers alinéas de l'article 763.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23652,9 +23817,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -23665,51 +23830,55 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 832 (M)
+  - Code civil - art. 763 (V)
+  - Code civil - art. 831 (V)
+  - Code civil - art. 831-2 (V)
+  - Code civil - art. 831-3 (V)
+  - Code civil - art. 832-3 (V)
+  - Code civil - art. 832-4 (V)
 
 
 ###### Article 515-7
 
-Lorsque les partenaires décident d'un commun accord de mettre fin au pacte civil de solidarité, ils remettent une déclaration
-conjointe écrite au greffe du tribunal d'instance dans le ressort duquel l'un d'entre eux au moins a sa résidence. Le
-greffier inscrit cette déclaration sur un registre et en assure la conservation.
+Le pacte civil de solidarité se dissout par la mort de l'un des partenaires ou par le mariage des partenaires ou de l'un
+d'eux. En ce cas, la dissolution prend effet à la date de l'événement. 
 
-Lorsque l'un des partenaires décide de mettre fin au pacte civil de solidarité, il signifie à l'autre sa décision et adresse
-copie de cette signification au greffe du tribunal d'instance qui a reçu l'acte initial.
+Le greffier du tribunal d'instance du lieu d'enregistrement du pacte civil de solidarité, informé du mariage ou du décès par
+l'officier de l'état civil compétent, enregistre la dissolution et fait procéder aux formalités de publicité. 
 
-Lorsque l'un des partenaires met fin au pacte civil de solidarité en se mariant, il en informe l'autre par voie de
-signification et adresse copies de celle-ci et de son acte de naissance, sur lequel est portée mention du mariage, au greffe
-du tribunal d'instance qui a reçu l'acte initial.
+Le pacte civil de solidarité se dissout également par déclaration conjointe des partenaires ou décision unilatérale de l'un
+d'eux. 
 
-Lorsque le pacte civil de solidarité prend fin par le décès de l'un au moins des partenaires, le survivant ou tout intéressé
-adresse copie de l'acte de décès au greffe du tribunal d'instance qui a reçu l'acte initial.
+Les partenaires qui décident de mettre fin d'un commun accord au pacte civil de solidarité remettent ou adressent au greffe
+du tribunal d'instance du lieu de son enregistrement une déclaration conjointe à cette fin. 
 
-Le greffier, qui reçoit la déclaration ou les actes prévus aux alinéas précédents, porte ou fait porter mention de la fin du
-pacte en marge de l'acte initial. Il fait également procéder à l'inscription de cette mention en marge du registre prévu au
-cinquième alinéa de l'article 515-3.
+Le partenaire qui décide de mettre fin au pacte civil de solidarité le fait signifier à l'autre. Une copie de cette
+signification est remise ou adressée au greffe du tribunal d'instance du lieu de son enregistrement. 
 
-A l'étranger, la réception, l'inscription et la conservation de la déclaration ou des actes prévus aux quatre premiers
-alinéas sont assurées par les agents diplomatiques et consulaires français, qui procèdent ou font procéder également aux
-mentions prévues à l'alinéa précédent.
+Le greffier enregistre la dissolution et fait procéder aux formalités de publicité. 
 
-Le pacte civil de solidarité prend fin, selon le cas :
+La dissolution du pacte civil de solidarité prend effet, dans les rapports entre les partenaires, à la date de son
+enregistrement au greffe. 
 
-1° Dès la mention en marge de l'acte initial de la déclaration conjointe prévue au premier alinéa ;
+Elle est opposable aux tiers à partir du jour où les formalités de publicité ont été accomplies.
 
-2° Trois mois après la signification délivrée en application du deuxième alinéa, sous réserve qu'une copie en ait été portée
-à la connaissance du greffier du tribunal désigné à cet alinéa ;
-
-3° A la date du mariage ou du décès de l'un des partenaires.
+A l'étranger, les fonctions confiées par le présent article au greffier du tribunal d'instance sont assurées par les agents
+diplomatiques et consulaires français, qui procèdent ou font procéder également aux formalités prévues au sixième alinéa. 
 
 Les partenaires procèdent eux-mêmes à la liquidation des droits et obligations résultant pour eux du pacte civil de
-solidarité. A défaut d'accord, le juge statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
-réparation du dommage éventuellement subi.
+solidarité.A défaut d'accord, le juge statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
+réparation du dommage éventuellement subi. 
+
+Sauf convention contraire, les créances dont les partenaires sont titulaires l'un envers l'autre sont évaluées selon les
+règles prévues à l'article 1469. Ces créances peuvent être compensées avec les avantages que leur titulaire a pu retirer de
+la vie commune, notamment en ne contribuant pas à hauteur de ses facultés aux dettes contractées pour les besoins de la vie
+courante.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
 
 _Cité par_:
 
@@ -23744,9 +23913,13 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Tableau IV bis (V)
   - Code général des impôts, CGI. - art. 6 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 26 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 515-3 (M)
+  - Code civil - art. 1469 (V)
 
 _Codifié par_:
 
@@ -25987,8 +26160,11 @@ _Créé par_:
 
 ###### Article 621
 
-La vente de la chose sujette à usufruit ne fait aucun changement dans le droit de l'usufruitier ; il continue de jouir de son
-usufruit s'il n'y a pas formellement renoncé.
+En cas de vente simultanée de l'usufruit et de la nue-propriété d'un bien, le prix se répartit entre l'usufruit et la nue-
+propriété selon la valeur respective de chacun de ces droits, sauf accord des parties pour reporter l'usufruit sur le prix.
+
+La vente du bien grevé d'usufruit, sans l'accord de l'usufruitier, ne modifie pas le droit de ce dernier, qui continue à
+jouir de son usufruit sur le bien s'il n'y a pas expressément renoncé.
 
 **Liens relatifs à cet article**
 
@@ -25996,9 +26172,9 @@ _Codifié par_:
 
   - Loi n°1804-01-30
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-01-30 promulguée le 9 février 1804
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 622
@@ -28046,29 +28222,6 @@ _Modifié par_:
   - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
-###### Article 723
-
-Les successeurs universels ou à titre universel sont tenus d'une obligation indéfinie aux dettes de la succession.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Modifié par_:
-
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L23 (M)
-
-
 ###### Article 724
 
 Les héritiers désignés par la loi sont saisis de plein droit des biens, droits et actions du défunt.
@@ -28418,7 +28571,7 @@ _Créé par_:
 ###### Article 730-5
 
 Celui qui, sciemment et de mauvaise foi, se prévaut d'un acte de notoriété inexact, encourt les pénalités de recel prévues à
-l'article 792, sans préjudice de dommages-intérêts.
+l'article 778, sans préjudice de dommages et intérêts.
 
 **Liens relatifs à cet article**
 
@@ -28426,13 +28579,13 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code civil - art. 792 (M)
+  - Code civil - art. 778 (V)
 
 
 ### Chapitre III : Des héritiers.<a id=195></a>
@@ -28454,8 +28607,7 @@ _Codifié par_:
 
 ###### Article 732
 
-Est conjoint successible le conjoint survivant non divorcé, contre lequel n'existe pas de jugement de séparation de corps
-ayant force de chose jugée.
+Est conjoint successible le conjoint survivant non divorcé.
 
 **Liens relatifs à cet article**
 
@@ -28465,7 +28617,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 #### Section 1 : Des droits des parents en l'absence de conjoint successible.<a id=196></a>
@@ -28588,6 +28740,54 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 738-1
+
+Lorsque seul le père ou la mère survit et que le défunt n'a ni postérité ni frère ni soeur ni descendant de ces derniers,
+mais laisse un ou des ascendants de l'autre branche que celle de son père ou de sa mère survivant, la succession est dévolue
+pour moitié au père ou à la mère et pour moitié aux ascendants de l'autre branche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 738-2
+
+Lorsque les père et mère ou l'un d'eux survivent au défunt et que celui-ci n'a pas de postérité, ils peuvent dans tous les
+cas exercer un droit de retour, à concurrence des quote-parts fixées au premier alinéa de l'article 738, sur les biens que le
+défunt avait reçus d'eux par donation. 
+
+La valeur de la portion des biens soumise au droit de retour s'impute en priorité sur les droits successoraux des père et
+mère. 
+
+Lorsque le droit de retour ne peut s'exercer en nature, il s'exécute en valeur, dans la limite de l'actif successoral.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 738 (V)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 763 bis (V)
+  - Code général des impôts, CGI. - art. 791 ter (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 739
@@ -28816,10 +29016,14 @@ _Modifié par_:
 
 ###### Article 751
 
-La représentation est une fiction de la loi, dont l'effet est de faire entrer les représentants dans les droits du
+La représentation est une fiction juridique qui a pour effet d'appeler à la succession les représentants aux droits du
 représenté.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 752 (V)
 
 _Codifié par_:
 
@@ -28827,11 +29031,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-_Cité par_:
-
-  - Code civil - art. 752 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 752
@@ -28918,7 +29118,16 @@ _Codifié par_:
 
 ###### Article 754
 
-On représente les prédécédés, on ne représente pas les renonçants.
+On représente les prédécédés, on ne représente les renonçants que dans les successions dévolues en ligne directe ou
+collatérale. 
+
+Les enfants du renonçant conçus avant l'ouverture de la succession dont le renonçant a été exclu rapportent à la succession
+de ce dernier les biens dont ils ont hérité en son lieu et place, s'ils viennent en concours avec d'autres enfants conçus
+après l'ouverture de la succession. Le rapport se fait selon les dispositions énoncées à la section 2 du chapitre VIII du
+présent titre. 
+
+Sauf volonté contraire du disposant, en cas de représentation d'un renonçant, les donations faites à ce dernier s'imputent,
+le cas échéant, sur la part de réserve qui aurait dû lui revenir s'il n'avait pas renoncé. 
 
 On peut représenter celui à la succession duquel on a renoncé.
 
@@ -28926,7 +29135,11 @@ On peut représenter celui à la succession duquel on a renoncé.
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil -  Section 2 : Du rapport des libéralités. (V)
 
 _Cité par_:
 
@@ -28940,13 +29153,9 @@ _Codifié par_:
 ###### Article 755
 
 La représentation est admise en faveur des enfants et descendants de l'indigne, encore que celui-ci soit vivant à l'ouverture
-de la succession.
+de la succession. 
 
-Les enfants de l'indigne conçus avant l'ouverture de la succession dont l'indigne avait été exclu rapporteront à la
-succession de ce dernier les biens dont ils avaient hérité en son lieu et place, s'ils viennent en concours avec d'autres
-enfants conçus après l'ouverture de la première succession.
-
-Le rapport se fera selon les dispositions énoncées à la section 2 du chapitre VI du présent titre.
+Les dispositions prévues au deuxième alinéa de l'article 754 sont applicables aux enfants de l'indigne de son vivant.
 
 **Liens relatifs à cet article**
 
@@ -28956,7 +29165,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 754 (V)
 
 
 #### Section 2 : Des droits du conjoint successible.<a id=201></a>
@@ -29055,16 +29268,16 @@ _Codifié par_:
 
 ###### Article 757-3
 
-Par dérogation à l'article 757-2, en cas de prédécès des père et mère, les biens que le défunt avait reçus d'eux par
-succession ou donation et qui se retrouvent en nature dans la succession sont, en l'absence de descendants, dévolus pour
-moitié aux frères et soeurs du défunt ou à leurs descendants, eux-m^emes descendants du ou des parents prédécédés à l'origine
+Par dérogation à l'article 757-2, en cas de prédécès des père et mère, les biens que le défunt avait reçus de ses ascendants
+par succession ou donation et qui se retrouvent en nature dans la succession sont, en l'absence de descendants, dévolus pour
+moitié aux frères et soeurs du défunt ou à leurs descendants, eux-mêmes descendants du ou des parents prédécédés à l'origine
 de la transmission.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -29188,6 +29401,29 @@ _Créé par_:
 
 _Cite_:
 
+  - Code civil - art. 757 (V)
+  - Code civil - art. 757-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 758-6
+
+Les libéralités reçues du défunt par le conjoint survivant s'imputent sur les droits de celui-ci dans la succession. Lorsque
+les libéralités ainsi reçues sont inférieures aux droits définis aux articles 757 et 757-1, le conjoint survivant peut en
+réclamer le complément, sans jamais recevoir une portion des biens supérieure à la quotité définie à l'article 1094-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1094-1 (V)
   - Code civil - art. 757 (V)
   - Code civil - art. 757-1 (V)
 
@@ -29321,8 +29557,9 @@ Si, à l'époque du décès, le conjoint successible occupe effectivement, à ti
 appartenant aux époux ou dépendant totalement de la succession, il a de plein droit, pendant une année, la jouissance
 gratuite de ce logement, ainsi que du mobilier, compris dans la succession, qui le garnit.
 
-Si son habitation était assurée au moyen d'un bail à loyer, les loyers lui en seront remboursés par la succession pendant
-l'année, au fur et à mesure de leur acquittement.
+Si son habitation était assurée au moyen d'un bail à loyer ou d'un logement appartenant pour partie indivise au défunt, les
+loyers ou l'indemnité d'occupation lui en seront remboursés par la succession pendant l'année, au fur et à mesure de leur
+acquittement.
 
 Les droits prévus au présent article sont réputés effets directs du mariage et non droits successoraux.
 
@@ -29330,14 +29567,9 @@ Le présent article est d'ordre public.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Codifié par_:
 
-  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à la date d'entrée en vigueur), II (ouverture des successions)
-
-_Modifié par_:
-
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001
+  - Loi n°1803-04-19
 
 _Cité par_:
 
@@ -29347,9 +29579,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L254-7 (V)
   - Code général des impôts, CGI. - art. 775 quater (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 764
@@ -29538,13 +29770,16 @@ _Codifié par_:
 
 ###### Article 768
 
-A défaut d'héritiers, la succession est acquise à l'Etat.
+L'héritier peut accepter la succession purement et simplement ou y renoncer. Il peut également accepter la succession à
+concurrence de l'actif net lorsqu'il a une vocation universelle ou à titre universel.
+
+Est nulle l'option conditionnelle ou à terme.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -29557,15 +29792,13 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 769
 
-L'administration des domaines qui prétend droit à la succession est tenue de faire apposer les scellés et de faire faire
-inventaire dans les formes prescrites pour l'acceptation des successions sous bénéfice d'inventaire.
+L'option est indivisible.
+
+Toutefois, celui qui cumule plus d'une vocation successorale à la même succession a, pour chacune d'elles, un droit d'option
+distinct.
 
 **Liens relatifs à cet article**
 
@@ -29573,34 +29806,20 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 _Modifié par_:
 
-  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 770
 
-Elle doit demander l'envoi en possession au tribunal de grande instance dans le ressort duquel la succession est ouverte.
-
-Elle est dispensée de recourir au ministère d'un avocat ; le tribunal statue sur la demande trois mois et quarante jours
-après une publication et affiche dans les formes usitées, et après avoir entendu le procureur de la République.
-
-Lorsque, la vacance ayant été régulièrement déclarée, l'administration des domaines a été nommée curateur, elle peut, avant
-de former sa demande, procéder par elle-même aux formalités de publicité prévues à l'alinéa précédent.
-
-Dans tous les cas, il sera justifié de l'affichage par un exemplaire du placard signé du directeur des domaines et revêtu
-d'un certificat du maire du lieu d'ouverture de la succession.
+L'option ne peut être exercée avant l'ouverture de la succession, même par contrat de mariage.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance 58-1007 1958-10-24 art. 1 JORF 28 octobre 1958
-  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -29610,21 +29829,47 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
+
+###### Article 771
+
+L'héritier ne peut être contraint à opter avant l'expiration d'un délai de quatre mois à compter de l'ouverture de la
+succession.
+
+A l'expiration de ce délai, il peut être sommé, par acte extrajudiciaire, de prendre parti à l'initiative d'un créancier de
+la succession, d'un cohéritier, d'un héritier de rang subséquent ou de l'Etat.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code civil - art. 774 (V)
+  - Code de commerce - art. Annexe 4-7 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 772
 
-L'administration des domaines qui n'aurait pas rempli les formalités qui lui sont prescrites pourra être condamnée aux
-dommages et intérêts envers les héritiers, s'il s'en représente.
+Dans les deux mois qui suivent la sommation, l'héritier doit prendre parti ou solliciter un délai supplémentaire auprès du
+juge lorsqu'il n'a pas été en mesure de clôturer l'inventaire commencé ou lorsqu'il justifie d'autres motifs sérieux et
+légitimes. Ce délai est suspendu à compter de la demande de prorogation jusqu'à la décision du juge saisi.
+
+A défaut d'avoir pris parti à l'expiration du délai de deux mois ou du délai supplémentaire accordé, l'héritier est réputé
+acceptant pur et simple.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -29635,16 +29880,50 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
+
+###### Article 773
+
+A défaut de sommation, l'héritier conserve la faculté d'opter, s'il n'a pas fait par ailleurs acte d'héritier et s'il n'est
+pas tenu pour héritier acceptant pur et simple en application des articles 778, 790 ou 800.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 774 (V)
+
+_Cite_:
+
+  - Code civil - art. 778 (V)
+  - Code civil - art. 790 (V)
+  - Code civil - art. 800 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 774
 
-Une succession peut être acceptée purement et simplement, ou sous bénéfice d'inventaire.
+Les dispositions des articles 771, 772 et 773 s'appliquent à l'héritier de rang subséquent appelé à succéder lorsque
+l'héritier de premier rang renonce à la succession ou est indigne de succéder. Le délai de quatre mois prévu à l'article 771
+court à compter du jour où l'héritier subséquent a eu connaissance de la renonciation ou de l'indignité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 771 (V)
+  - Code civil - art. 772 (V)
+  - Code civil - art. 773 (V)
 
 _Cité par_:
 
@@ -29654,14 +29933,13 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 775
 
-Nul n'est tenu d'accepter une succession qui lui est échue.
+Les dispositions visées à l'article 774 s'appliquent également aux héritiers de celui qui décède sans avoir opté. Le délai de
+quatre mois court à compter de l'ouverture de la succession de ce dernier. 
+
+Les héritiers de celui qui décède sans avoir opté exercent l'option séparément, chacun pour sa part.
 
 **Liens relatifs à cet article**
 
@@ -29669,15 +29947,18 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 774 (V)
 
 
 ###### Article 776
 
-Les successions échues aux mineurs et aux majeurs en tutelle ne pourront être valablement acceptées que conformément aux
-dispositions du titre De la minorité, de la tutelle et de l'émancipation.
+L'option exercée a un effet rétroactif au jour de l'ouverture de la succession.
 
 **Liens relatifs à cet article**
 
@@ -29685,14 +29966,17 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 777
 
-L'effet de l'acceptation remonte au jour de l'ouverture de la succession.
+L'erreur, le dol ou la violence est une cause de nullité de l'option exercée par l'héritier.
+
+L'action en nullité se prescrit par cinq ans à compter du jour où l'erreur ou le dol a été découvert ou du jour où la
+violence a cessé.
 
 **Liens relatifs à cet article**
 
@@ -29704,16 +29988,24 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 778
 
-L'acceptation peut être expresse ou tacite : elle est expresse quand on prend le titre ou la qualité d'héritier dans un acte
-authentique ou privé ; elle est tacite quand l'héritier fait un acte qui suppose nécessairement son intention d'accepter et
-qu'il n'aurait droit de faire qu'en sa qualité d'héritier.
+Sans préjudice de dommages et intérêts, l'héritier qui a recelé des biens ou des droits d'une succession ou dissimulé
+l'existence d'un cohéritier est réputé accepter purement et simplement la succession, nonobstant toute renonciation ou
+acceptation à concurrence de l'actif net, sans pouvoir prétendre à aucune part dans les biens ou les droits divertis ou
+recelés. Les droits revenant à l'héritier dissimulé et qui ont ou auraient pu augmenter ceux de l'auteur de la dissimulation
+sont réputés avoir été recelés par ce dernier.
+
+Lorsque le recel a porté sur une donation rapportable ou réductible, l'héritier doit le rapport ou la réduction de cette
+donation sans pouvoir y prétendre à aucune part.
+
+L'héritier receleur est tenu de rendre tous les fruits et revenus produits par les biens recelés dont il a eu la jouissance
+depuis l'ouverture de la succession.
 
 **Liens relatifs à cet article**
 
@@ -29728,15 +30020,18 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 779
 
-Les actes purement conservatoires, de surveillance et d'administration provisoire ne sont pas des actes d'addition d'hérédité
-si l'on n'y a pas pris le titre ou la qualité d'héritier.
+Les créanciers personnels de celui qui s'abstient d'accepter une succession ou qui renonce à une succession au préjudice de
+leurs droits peuvent être autorisés en justice à accepter la succession du chef de leur débiteur, en son lieu et place.
+
+L'acceptation n'a lieu qu'en faveur de ces créanciers et jusqu'à concurrence de leurs créances. Elle ne produit pas d'autre
+effet à l'égard de l'héritier.
 
 **Liens relatifs à cet article**
 
@@ -29744,41 +30039,46 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 780
 
-La donation, vente ou transport que fait de ses droits successifs un des cohéritiers, soit à un étranger, soit à tous ses
-cohéritiers, soit à quelques-uns d'eux, emporte de sa part acceptation de la succession.
+La faculté d'option se prescrit par dix ans à compter de l'ouverture de la succession.
 
-Il en est de même : 1° de la renonciation, même gratuite, que fait un des héritiers au profit d'un ou de plusieurs de ses
-cohéritiers ;
+L'héritier qui n'a pas pris parti dans ce délai est réputé renonçant.
 
-2° De la renonciation qu'il fait même au profit de tous ses cohéritiers indistinctement, lorsqu'il reçoit le prix de sa
-renonciation.
+La prescription ne court contre l'héritier qui a laissé le conjoint survivant en jouissance des biens héréditaires qu'à
+compter de l'ouverture de la succession de ce dernier.
+
+La prescription ne court contre l'héritier subséquent d'un héritier dont l'acceptation est annulée qu'à compter de la
+décision définitive constatant cette nullité.
+
+La prescription ne court pas tant que le successible a des motifs légitimes d'ignorer la naissance de son droit, notamment
+l'ouverture de la succession.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 781 (V)
 
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 781
 
-Lorsque celui à qui une succession est échue est décédé sans l'avoir répudiée ou sans l'avoir acceptée expressément ou
-tacitement, ses héritiers peuvent l'accepter ou la répudier de son chef.
+Lorsque le délai de prescription mentionné à l'article 780 est expiré, celui qui se prévaut de sa qualité d'héritier doit
+justifier que lui-même ou celui ou ceux dont il tient cette qualité ont accepté cette succession avant l'expiration de ce
+délai.
 
 **Liens relatifs à cet article**
 
@@ -29786,17 +30086,22 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 780 (V)
 
 
 #### Section 2 : De l'acceptation pure et simple de la succession.<a id=208></a>
 
 ###### Article 782
 
-Si ces héritiers ne sont pas d'accord pour accepter ou pour répudier la succession, elle doit être acceptée sous bénéfice
-d'inventaire.
+L'acceptation pure et simple peut être expresse ou tacite. Elle est expresse quand le successible prend le titre ou la
+qualité d'héritier acceptant dans un acte authentique ou sous seing privé. Elle est tacite quand le successible saisi fait un
+acte qui suppose nécessairement son intention d'accepter et qu'il n'aurait droit de faire qu'en qualité d'héritier acceptant.
 
 **Liens relatifs à cet article**
 
@@ -29804,17 +30109,23 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 783
 
-Le majeur ne peut attaquer l'acceptation expresse ou tacite qu'il a faite d'une succession, que dans le cas où cette
-acceptation aurait été la suite d'un dol pratiqué envers lui : il ne peut jamais réclamer sous prétexte de lésion, excepté
-seulement dans le cas où la succession se trouverait absorbée ou diminuée de plus de moitié, par la découverte d'un testament
-inconnu au moment de l'acceptation.
+Toute cession, à titre gratuit ou onéreux, faite par un héritier de tout ou partie de ses droits dans la succession emporte
+acceptation pure et simple.
+
+Il en est de même :
+
+1° De la renonciation, même gratuite, que fait un héritier au profit d'un ou de plusieurs de ses cohéritiers ou héritiers de
+rang subséquent ;
+
+2° De la renonciation qu'il fait, même au profit de tous ses cohéritiers ou héritiers de rang subséquent indistinctement, à
+titre onéreux.
 
 **Liens relatifs à cet article**
 
@@ -29822,17 +30133,42 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 784
 
-La renonciation à une succession ne se présume pas ; elle ne peut plus être faite qu'au greffe du tribunal de grande instance
-dans l'arrondissement duquel la succession s'est ouverte, sur un registre particulier tenu à cet effet.
+Les actes purement conservatoires ou de surveillance et les actes d'administration provisoire peuvent être accomplis sans
+emporter acceptation de la succession, si le successible n'y a pas pris le titre ou la qualité d'héritier.
+
+Tout autre acte que requiert l'intérêt de la succession et que le successible veut accomplir sans prendre le titre ou la
+qualité d'héritier doit être autorisé par le juge.
+
+Sont réputés purement conservatoires :
+
+1° Le paiement des frais funéraires et de dernière maladie, des impôts dus par le défunt, des loyers et autres dettes
+successorales dont le règlement est urgent ;
+
+2° Le recouvrement des fruits et revenus des biens successoraux ou la vente des biens périssables, à charge de justifier que
+les fonds ont été employés à éteindre les dettes visées au 1° ou ont été déposés chez un notaire ou consignés ;
+
+3° L'acte destiné à éviter l'aggravation du passif successoral.
+
+Sont réputés être des actes d'administration provisoire les opérations courantes nécessaires à la continuation à court terme
+de l'activité de l'entreprise dépendant de la succession.
+
+Sont également réputés pouvoir être accomplis sans emporter acceptation tacite de la succession le renouvellement, en tant
+que bailleur ou preneur à bail, des baux qui, à défaut, donneraient lieu au paiement d'une indemnité, ainsi que la mise en
+oeuvre de décisions d'administration ou de disposition engagées par le défunt et nécessaires au bon fonctionnement de
+l'entreprise.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -29846,14 +30182,13 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 785
 
-L'héritier qui renonce est censé n'avoir jamais été héritier.
+L'héritier universel ou à titre universel qui accepte purement et simplement la succession répond indéfiniment des dettes et
+charges qui en dépendent.
+
+Il n'est tenu des legs de sommes d'argent qu'à concurrence de l'actif successoral net des dettes.
 
 **Liens relatifs à cet article**
 
@@ -29861,14 +30196,21 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 786
 
-La part du renonçant accroît à ses cohéritiers ; s'il est seul, elle est dévolue au degré subséquent.
+L'héritier acceptant purement et simplement ne peut plus renoncer à la succession ni l'accepter à concurrence de l'actif net.
+
+Toutefois, il peut demander à être déchargé en tout ou partie de son obligation à une dette successorale qu'il avait des
+motifs légitimes d'ignorer au moment de l'acceptation, lorsque l'acquittement de cette dette aurait pour effet d'obérer
+gravement son patrimoine personnel.
+
+L'héritier doit introduire l'action dans les cinq mois du jour où il a eu connaissance de l'existence et de l'importance de
+la dette.
 
 **Liens relatifs à cet article**
 
@@ -29876,9 +30218,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 #### Section 3 : De l'acceptation de la succession à concurrence de l'actif net.<a id=209></a>
@@ -29887,8 +30229,7 @@ _Créé par_:
 
 ###### Article 787
 
-On ne vient jamais par représentation d'un héritier qui a renoncé : si le renonçant est seul héritier de son degré ou si tous
-ses cohéritiers renoncent, les enfants viennent de leur chef et succèdent par tête.
+Un héritier peut déclarer qu'il n'entend prendre cette qualité qu'à concurrence de l'actif net.
 
 **Liens relatifs à cet article**
 
@@ -29896,20 +30237,24 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 788
 
-Les créanciers de celui qui renonce au préjudice de leurs droits, peuvent se faire autoriser en justice à accepter la
-succession du chef de leur débiteur, en son lieu et place.
+La déclaration doit être faite au greffe du tribunal de grande instance dans le ressort duquel la succession est ouverte.
+Elle comporte élection d'un domicile unique, qui peut être le domicile de l'un des acceptants à concurrence de l'actif net,
+ou celui de la personne chargée du règlement de la succession. Le domicile doit être situé en France.
 
-Dans ce cas, la renonciation n'est annulée qu'en faveur des créanciers, et jusqu'à concurrence seulement de leurs créances :
-elle ne l'est pas au profit de l'héritier qui a renoncé.
+La déclaration est enregistrée et fait l'objet d'une publicité nationale, qui peut être faite par voie électronique.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -29923,17 +30268,20 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 789
 
-La faculté d'accepter ou de répudier une succession se prescrit par le laps de temps requis pour la prescription la plus
-longue des droits immobiliers.
+La déclaration est accompagnée ou suivie de l'inventaire de la succession qui comporte une estimation, article par article,
+des éléments de l'actif et du passif.
+
+L'inventaire est établi par un commissaire-priseur judiciaire, un huissier ou un notaire, selon les lois et règlements
+applicables à ces professions.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -29946,19 +30294,26 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 790
 
-Tant que la prescription du droit d'accepter n'est pas acquise contre les héritiers qui ont renoncé, ils ont la faculté
-d'accepter encore la succession, si elle n'a pas été déjà acceptée par d'autres héritiers ; sans préjudice néanmoins des
-droits qui peuvent être acquis à des tiers sur les biens de la succession, soit par prescription, soit par actes valablement
-faits avec le curateur à la succession vacante.
+L'inventaire est déposé au tribunal dans le délai de deux mois à compter de la déclaration.
+
+L'héritier peut solliciter du juge un délai supplémentaire s'il justifie de motifs sérieux et légitimes qui retardent le
+dépôt de l'inventaire. En ce cas, le délai de deux mois est suspendu à compter de la demande de prorogation.
+
+Le dépôt de l'inventaire est soumis à la même publicité que la déclaration.
+
+Faute d'avoir déposé l'inventaire dans le délai prévu, l'héritier est réputé acceptant pur et simple.
+
+Les créanciers successoraux et légataires de sommes d'argent peuvent, sur justification de leur titre, consulter l'inventaire
+et en obtenir copie. Ils peuvent demander à être avisés de toute nouvelle publicité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -29974,17 +30329,18 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ##### Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.<a id=211></a>
 
 ###### Article 791
 
-On ne peut, même par contrat de mariage, renoncer à la succession d'un homme vivant, ni aliéner les droits éventuels qu'on
-peut avoir à cette succession.
+L'acceptation à concurrence de l'actif net donne à l'héritier l'avantage :
+
+1° D'éviter la confusion de ses biens personnels avec ceux de la succession ;
+
+2° De conserver contre celle-ci tous les droits qu'il avait antérieurement sur les biens du défunt ;
+
+3° De n'être tenu au paiement des dettes de la succession que jusqu'à concurrence de la valeur des biens qu'il a recueillis.
 
 **Liens relatifs à cet article**
 
@@ -29992,18 +30348,27 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 792
 
-Les héritiers qui auraient diverti ou recélé des effets d'une succession sont déchus de la faculté d'y renoncer : ils
-demeurent héritiers purs et simples, nonobstant leur renonciation, sans pouvoir prétendre aucune part dans les objets
-divertis ou recélés.
+Les créanciers de la succession déclarent leurs créances en notifiant leur titre au domicile élu de la succession. Ils sont
+payés dans les conditions prévues à l'article 796. Les créances dont le montant n'est pas encore définitivement fixé sont
+déclarées à titre provisionnel sur la base d'une évaluation. 
+
+Faute de déclaration dans un délai de quinze mois à compter de la publicité prévue à l'article 788, les créances non
+assorties de sûretés sur les biens de la succession sont éteintes à l'égard de celle-ci. Cette disposition bénéficie
+également aux cautions et coobligés, ainsi qu'aux personnes ayant consenti une garantie autonome portant sur la créance ainsi
+éteinte.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30015,22 +30380,78 @@ _Cité par_:
   - Code civil - art. 799 (V)
   - Code de procédure civile - art. 1337 (VD)
 
+_Cite_:
+
+  - Code civil - art. 788 (V)
+  - Code civil - art. 796 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 792-1
+
+A compter de sa publication et pendant le délai prévu à l'article 792, la déclaration arrête ou interdit toute voie
+d'exécution et toute nouvelle inscription de sûreté de la part des créanciers de la succession, portant tant sur les meubles
+que sur les immeubles. 
+
+Toutefois, pour l'application des dispositions de la présente section et sous réserve de la signification prévue à l'article
+877, les créanciers saisissants sont considérés comme titulaires de sûretés sur les biens et droits antérieurement saisis.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 792 (V)
+  - Code civil - art. 877 (V)
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 792-2
+
+Lorsque la succession a été acceptée par un ou plusieurs héritiers purement et simplement et par un ou plusieurs autres à
+concurrence de l'actif net, les règles applicables à cette dernière option s'imposent à tous les héritiers jusqu'au jour du
+partage.
+
+Les créanciers d'une succession acceptée par un ou plusieurs héritiers purement et simplement et par d'autres à concurrence
+de l'actif net peuvent provoquer le partage dès lors qu'ils justifient de difficultés dans le recouvrement de la part de leur
+créance incombant aux héritiers acceptants à concurrence de l'actif net.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 793
 
-La déclaration d'un héritier, qu'il entend ne prendre cette qualité que sous bénéfice d'inventaire, doit être faite au greffe
-du tribunal de grande instance dans l'arrondissement duquel la succession s'est ouverte : elle doit être inscrite sur le
-registre destiné à recevoir les actes de renonciation.
+Dans le délai prévu à l'article 792, l'héritier peut déclarer qu'il conserve en nature un ou plusieurs biens de la
+succession. En ce cas, il doit la valeur du bien fixée dans l'inventaire. 
+
+Il peut vendre les biens qu'il n'entend pas conserver. En ce cas, il doit le prix de leur aliénation.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 792 (V)
 
 _Cité par_:
 
@@ -30040,17 +30461,24 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 794
 
-Cette déclaration n'a d'effet qu'autant qu'elle est précédée ou suivie d'un inventaire fidèle et exact des biens de la
-succession, dans les formes réglées par les lois sur la procédure, et dans les délais qui seront ci-après déterminés.
+La déclaration de l'aliénation ou de la conservation d'un ou de plusieurs biens est faite dans les quinze jours au tribunal
+qui en assure la publicité. 
+
+Sans préjudice des droits réservés aux créanciers munis de sûretés, tout créancier successoral peut contester devant le juge,
+dans un délai de trois mois après la publicité mentionnée au premier alinéa, la valeur du bien conservé ou, lorsque la vente
+a été faite à l'amiable, le prix de l'aliénation en prouvant que la valeur du bien est supérieure. 
+
+Lorsque la demande du créancier est accueillie, l'héritier est tenu du complément sur ses biens personnels, sauf à restituer
+à la succession le bien conservé et sans préjudice de l'action prévue à l'article 1167.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30062,48 +30490,57 @@ _Cité par_:
   - Code de procédure civile - art. 1335 (VD)
   - Nouveau code de procédure civile - art. 1380 (V)
 
+_Cite_:
+
+  - Code civil - art. 1167 (V)
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 795
 
-L'héritier a trois mois pour faire inventaire, à compter du jour de l'ouverture de la succession.
+La déclaration de conserver un bien n'est pas opposable aux créanciers tant qu'elle n'a pas été publiée. 
 
-Il a de plus, pour délibérer sur son acceptation ou sur sa renonciation, un délai de quarante jours, qui commencent à courir
-du jour de l'expiration des trois mois donnés pour l'inventaire, ou du jour de la clôture de l'inventaire s'il a été terminé
-avant les trois mois.
+Le défaut de déclaration de l'aliénation d'un bien dans le délai prévu à l'article 794 engage l'héritier sur ses biens
+personnels à hauteur du prix de l'aliénation.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 1513 (V)
   - Code civil - art. 800 (M)
 
+_Cite_:
+
+  - Code civil - art. 794 (V)
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 796
 
-Si, cependant, il existe dans la succession des objets susceptibles de dépérir ou dispendieux à conserver, l'héritier peut,
-en sa qualité d'habile à succéder, et sans qu'on puisse en induire de sa part une acceptation, se faire autoriser par justice
-à procéder à la vente de ces effets.
+L'héritier règle le passif de la succession.
 
-Cette vente doit être faite par officier public, après les affiches et publications réglées par les lois sur la procédure.
+Il paye les créanciers inscrits selon le rang de la sûreté assortissant leur créance.
+
+Les autres créanciers qui ont déclaré leur créance sont désintéressés dans l'ordre des déclarations.
+
+Les legs de sommes d'argent sont délivrés après paiement des créanciers.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30114,16 +30551,14 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 797
 
-Pendant la durée des délais pour faire inventaire et pour délibérer, l'héritier ne peut être contraint à prendre qualité, et
-il ne peut être obtenu contre lui de condamnation : s'il renonce lorsque les délais sont expirés ou avant, les frais par lui
-faits légitimement jusqu'à cette époque sont à la charge de la succession.
+L'héritier doit payer les créanciers dans les deux mois suivant soit la déclaration de conserver le bien, soit le jour où le
+produit de l'aliénation est disponible.
+
+Lorsqu'il ne peut s'en dessaisir au profit des créanciers dans ce délai, notamment en raison d'une contestation portant sur
+l'ordre ou la nature des créances, il consigne les sommes disponibles tant que la contestation subsiste.
 
 **Liens relatifs à cet article**
 
@@ -30131,17 +30566,34 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 798
 
-Après l'expiration des délais ci-dessus, l'héritier, en cas de poursuite dirigée contre lui, peut demander un nouveau délai,
-que le tribunal saisi de la contestation accorde ou refuse suivant les circonstances.
+Sans préjudice des droits des créanciers munis de sûretés, les créanciers de la succession et les légataires de sommes
+d'argent ne peuvent poursuivre le recouvrement que sur les biens recueillis de la succession qui n'ont été ni conservés ni
+aliénés dans les conditions prévues à l'article 793. 
+
+Les créanciers personnels de l'héritier ne peuvent poursuivre le recouvrement de leurs créances sur ces biens qu'à l'issue du
+délai prévu à l'article 792 et après le désintéressement intégral des créanciers successoraux et des légataires.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 792 (V)
+  - Code civil - art. 793 (V)
 
 _Cité par_:
 
@@ -30149,48 +30601,49 @@ _Cité par_:
   - Code civil - art. 800 (M)
   - Code civil - art. 802 (V)
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil 799 *frais de poursuite*
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 799
 
-Les frais de poursuite, dans le cas de l'article précédent, sont à la charge de la succession, si l'héritier justifie, ou
-qu'il n'avait pas eu connaissance du décès, ou que les délais ont été insuffisants, soit à raison de la situation des biens,
-soit à raison des contestations survenues : s'il n'en justifie pas, les frais restent à sa charge personnelle.
+Les créanciers successoraux qui, dans le délai prévu à l'article 792, déclarent leurs créances après l'épuisement de l'actif
+n'ont de recours que contre les légataires qui ont été remplis de leurs droits.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 798 (M)
+  - Code civil - art. 792 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 800
 
-L'héritier conserve néanmoins, après l'expiration des délais accordés par l'article 795, même de ceux donnés par le juge
-conformément à l'article 798, la faculté de faire encore inventaire et de se porter héritier bénéficiaire, s'il n'a pas fait
-d'ailleurs acte d'héritier, ou s'il n'existe pas contre lui de jugement passé en force de chose jugée, qui le condamne en
-qualité d'héritier pur et simple.
+L'héritier est chargé d'administrer les biens qu'il recueille dans la succession. Il tient le compte de son administration,
+des créances qu'il paye et des actes qui engagent les biens recueillis ou qui affectent leur valeur. 
+
+Il répond des fautes graves dans cette administration. 
+
+Il doit présenter le compte à tout créancier successoral qui en fait la demande et répondre dans un délai de deux mois à la
+sommation, signifiée par acte extrajudiciaire, de lui révéler où se trouvent les biens et droits recueillis dans la
+succession qu'il n'a pas aliénés ou conservés dans les conditions prévues à l'article 794. A défaut, il peut être contraint
+sur ses biens personnels.
+
+L'héritier qui a omis, sciemment et de mauvaise foi, de comprendre dans l'inventaire des éléments actifs ou passifs de la
+succession ou qui n'a pas affecté au paiement des créanciers de la succession la valeur des biens conservés ou le prix des
+biens aliénés est déchu de l'acceptation à concurrence de l'actif net. Il est réputé acceptant pur et simple à compter de
+l'ouverture de la succession.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30198,22 +30651,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 795 (M)
-  - Code civil - art. 798 (M)
+  - Code civil - art. 794 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 801
 
-L'héritier qui s'est rendu coupable de recel, ou qui a omis, sciemment et de mauvaise foi, de comprendre dans l'inventaire
-des effets de la succession, est déchu du bénéfice d'inventaire.
+Tant que la prescription du droit d'accepter n'est pas acquise contre lui, l'héritier peut révoquer son acceptation à
+concurrence de l'actif net en acceptant purement et simplement. Cette acceptation rétroagit au jour de l'ouverture de la
+succession.
+
+L'acceptation à concurrence de l'actif net empêche toute renonciation à la succession.
 
 **Liens relatifs à cet article**
 
@@ -30221,43 +30672,36 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 802
 
-L'effet du bénéfice d'inventaire est de donner à l'héritier l'avantage :
-
-1° De n'être tenu du paiement des dettes de la succession que jusqu'à concurrence de la valeur des biens qu'il a recueillis,
-même de pouvoir se décharger du paiement des dettes en abandonnant tous les biens de la succession aux créanciers et aux
-légataires ;
-
-2° De ne pas confondre ses biens personnels avec ceux de la succession, et de conserver contre elle le droit de réclamer le
-paiement de ses créances.
+Malgré la déchéance ou la révocation de l'acceptation à concurrence de l'actif net, les créanciers successoraux et les
+légataires de sommes d'argent conservent l'exclusivité des poursuites sur les biens mentionnés au premier alinéa de l'article
+798.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 798 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 803
 
-L'héritier bénéficiaire est chargé d'administrer les biens de la succession et doit rendre compte de son administration aux
-créanciers et aux légataires.
-
-Il ne peut être contraint sur ses biens personnels qu'après avoir été mis en demeure de présenter son compte, et faute
-d'avoir satisfait à cette obligation.
-
-Après l'apurement du compte, il ne peut être contraint sur ses biens personnels que jusqu'à concurrence seulement des sommes
-dont il se trouve reliquataire.
+Les frais de scellés, d'inventaire et de compte sont à la charge de la succession. Ils sont payés en frais privilégiés de
+partage.
 
 **Liens relatifs à cet article**
 
@@ -30265,50 +30709,57 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 #### Section 4 : De la renonciation à la succession.<a id=212></a>
 
 ###### Article 804
 
-Il n'est tenu que des fautes graves dans l'administration dont il est chargé.
+La renonciation à une succession ne se présume pas.
+
+Pour être opposable aux tiers, la renonciation opérée par l'héritier universel ou à titre universel doit être faite au
+tribunal dans le ressort duquel la succession s'est ouverte.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 805
 
-Il ne peut vendre les meubles de la succession que par le ministère d'un officier public, aux enchères, et après les affiches
-et publications accoutumées.
+L'héritier qui renonce est censé n'avoir jamais été héritier. 
 
-S'il les représente en nature, il n'est tenu que de la dépréciation ou de la détérioration causée par sa négligence.
+Sous réserve des dispositions de l'article 845, la part du renonçant échoit à ses représentants ; à défaut, elle accroît à
+ses cohéritiers ; s'il est seul, elle est dévolue au degré subséquent.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 845 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 806
 
-Il ne peut vendre les immeubles que dans les formes prescrites par les lois sur la procédure ; il est tenu d'en déléguer le
-prix aux créanciers hypothécaires qui se sont fait connaître.
+Le renonçant n'est pas tenu au paiement des dettes et charges de la succession. Toutefois, il est tenu à proportion de ses
+moyens au paiement des frais funéraires de l'ascendant ou du descendant à la succession duquel il renonce.
 
 **Liens relatifs à cet article**
 
@@ -30316,20 +30767,26 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 807
 
-Il est tenu, si les créanciers ou autres personnes intéressées l'exigent, de donner caution bonne et solvable de la valeur du
-mobilier compris dans l'inventaire, et de la portion du prix des immeubles non déléguée aux créanciers hypothécaires.
+Tant que la prescription du droit d'accepter n'est pas acquise contre lui, l'héritier peut révoquer sa renonciation en
+acceptant la succession purement et simplement, si elle n'a pas été déjà acceptée par un autre héritier ou si l'Etat n'a pas
+déjà été envoyé en possession.
 
-Faute par lui de fournir cette caution, les meubles sont vendus et leur prix est déposé, ainsi que la portion non déléguée du
-prix des immeubles, pour être employés à l'acquit des charges de la succession.
+Cette acceptation rétroagit au jour de l'ouverture de la succession, sans toutefois remettre en cause les droits qui peuvent
+être acquis à des tiers sur les biens de la succession par prescription ou par actes valablement faits avec le curateur à la
+succession vacante.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30340,17 +30797,10 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 808
 
-S'il y a des créanciers opposants, l'héritier bénéficiaire ne peut payer que dans l'ordre et de la manière réglés par le
-juge.
-
-S'il n'y a pas de créanciers opposants, il paye les créanciers et les légataires à mesure qu'ils se présentent.
+Les frais légitimement engagés par l'héritier avant sa renonciation sont à la charge de la succession.
 
 **Liens relatifs à cet article**
 
@@ -30358,41 +30808,149 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre V : De l'acceptation et de la répudiation des successions (en vigueur jusqu'au 1er janvier 2007)<a id=213></a>
+### Chapitre V : Des successions vacantes et des successions en déshérence<a id=213></a>
 
-#### Section 3 : Du bénéfice d'inventaire, de ses effets et des obligations de l'héritier bénéficiaire.<a id=214></a>
+#### Section 1 : Des successions vacantes.<a id=214></a>
+
+##### Paragraphe 1 : De l'ouverture de la vacance.<a id=215></a>
 
 ###### Article 809
 
-Les créanciers non opposants qui ne se présentent qu'après l'apurement du compte et le paiement du reliquat, n'ont de recours
-à exercer que contre les légataires.
+La succession est vacante :
 
-Dans l'un et l'autre cas, le recours se prescrit par le laps de trois ans, à compter du jour de l'apurement du compte et du
-paiement du reliquat.
+1° Lorsqu'il ne se présente personne pour réclamer la succession et qu'il n'y a pas d'héritier connu ;
+
+2° Lorsque tous les héritiers connus ont renoncé à la succession ;
+
+3° Lorsque, après l'expiration d'un délai de six mois depuis l'ouverture de la succession, les héritiers connus n'ont pas
+opté, de manière tacite ou expresse.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Arrêté du 31 janvier 2018 - art. (V)
 
+
+###### Article 809-1
+
+Le juge, saisi sur requête de tout créancier, de toute personne qui assurait, pour le compte de la personne décédée,
+l'administration de tout ou partie de son patrimoine, de toute autre personne intéressée ou du ministère public, confie la
+curatelle de la succession vacante, dont le régime est défini à la présente section, à l'autorité administrative chargée du
+domaine.
+
+L'ordonnance de curatelle fait l'objet d'une publicité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Arrêté du 23 février 2018 (V)
+  - Code civil - art. 811-1 (V)
+  - Nouveau code de procédure civile - art. 1342 (V)
+  - Nouveau code de procédure civile - art. 1379 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 809-2
+
+Dès sa désignation, le curateur fait dresser un inventaire estimatif, article par article, de l'actif et du passif de la
+succession par un commissaire-priseur judiciaire, un huissier ou un notaire, selon les lois et règlements applicables à ces
+professions, ou par un fonctionnaire assermenté appartenant à l'administration chargée du domaine.
+
+L'avis au tribunal, par le curateur, de l'établissement de l'inventaire est soumis à la même publicité que la décision de
+curatelle.
+
+Les créanciers et légataires de sommes d'argent peuvent, sur justification de leur titre, consulter l'inventaire et en
+obtenir copie. Ils peuvent demander à être avisés de toute nouvelle publicité.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code civil - art. 811-1 (V)
+  - Code de commerce - art. Annexe 4-7 (V)
+  - Nouveau code de procédure civile - art. 1342 (V)
+  - Nouveau code de procédure civile - art. 1345 (V)
+
+
+###### Article 809-3
+
+La déclaration des créances est faite au curateur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+##### Paragraphe 2 : Des pouvoirs du curateur.<a id=216></a>
 
 ###### Article 810
 
-Les frais de scellés, s'il en a été apposé, d'inventaire et de compte, sont à la charge de la succession.
+Dès sa désignation, le curateur prend possession des valeurs et autres biens détenus par des tiers et poursuit le
+recouvrement des sommes dues à la succession.
+
+Il peut poursuivre l'exploitation de l'entreprise individuelle dépendant de la succession, qu'elle soit commerciale,
+industrielle, agricole ou artisanale.
+
+Après prélèvement des frais d'administration, de gestion et de vente, il consigne les sommes composant l'actif de la
+succession ainsi que les revenus des biens et les produits de leur réalisation. En cas de poursuite de l'activité de
+l'entreprise, seules les recettes qui excèdent le fonds de roulement nécessaire au fonctionnement de celle-ci sont
+consignées.
+
+Les sommes provenant à un titre quelconque d'une succession vacante ne peuvent, en aucun cas, être consignées autrement que
+par l'intermédiaire du curateur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 810-1
+
+Pendant les six mois qui suivent l'ouverture de la succession, le curateur ne peut procéder qu'aux actes purement
+conservatoires ou de surveillance, aux actes d'administration provisoire et à la vente des biens périssables.
 
 **Liens relatifs à cet article**
 
@@ -30402,18 +30960,273 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 810-2 (V)
+  - Nouveau code de procédure civile - art. 1343 (V)
 
 
-#### Section 4 : Des successions vacantes.<a id=215></a>
+###### Article 810-2
+
+A l'issue du délai mentionné à l'article 810-1, le curateur exerce l'ensemble des actes conservatoires et d'administration. 
+
+Il procède ou fait procéder à la vente des biens jusqu'à l'apurement du passif. 
+
+Il ne peut céder les immeubles que si le produit prévisible de la vente des meubles apparaît insuffisant. Il procède ou fait
+procéder à la vente des biens dont la conservation est difficile ou onéreuse, alors même que leur réalisation n'est pas
+nécessaire à l'acquittement du passif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 810-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 810-3
+
+La vente a lieu soit par commissaire-priseur judiciaire, huissier ou notaire selon les lois et règlements applicables à ces
+professions, soit par le tribunal, soit dans les formes prévues par le code général de la propriété des personnes publiques
+pour l'aliénation, à titre onéreux, du domaine immobilier ou du domaine mobilier appartenant à l'Etat.
+
+Elle donne lieu à publicité.
+
+Lorsqu'il est envisagé une vente amiable, tout créancier peut exiger que la vente soit faite par adjudication. Si la vente
+par adjudication a lieu pour un prix inférieur au prix convenu dans le projet de vente amiable, le créancier qui a demandé
+l'adjudication est tenu, à l'égard des autres créanciers, de la perte qu'ils ont subie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Arrêté du 23 février 2018 (V)
+  - Code civil - art. 810-8 (V)
+  - Code général de la propriété des personnes publ... - art. R2222-26 (V)
+  - Nouveau code de procédure civile - art. 1349 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 810-4
+
+Le curateur est seul habilité à payer les créanciers de la succession. Il n'est tenu d'acquitter les dettes de la succession
+que jusqu'à concurrence de l'actif.
+
+Il ne peut payer, sans attendre le projet de règlement du passif, que les frais nécessaires à la conservation du patrimoine,
+les frais funéraires et de dernière maladie, les impôts dus par le défunt, les loyers et autres dettes successorales dont le
+règlement est urgent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 810-5
+
+Le curateur dresse un projet de règlement du passif. 
+
+Le projet prévoit le paiement des créances dans l'ordre prévu à l'article 796. 
+
+Le projet de règlement est publié. Les créanciers qui ne sont pas intégralement désintéressés peuvent, dans le mois de la
+publicité, saisir le juge afin de contester le projet de règlement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 796 (V)
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1342 (V)
+  - Nouveau code de procédure civile - art. 1380 (V)
+
+
+###### Article 810-6
+
+Les pouvoirs du curateur s'exercent sous réserve des dispositions applicables à la succession d'une personne faisant l'objet
+d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+##### Paragraphe 3 : De la reddition des comptes et de la fin de la curatelle.<a id=217></a>
+
+###### Article 810-7
+
+Le curateur rend compte au juge des opérations effectuées par lui. Le dépôt du compte fait l'objet de publicité.
+
+Le curateur présente le compte à tout créancier ou tout héritier qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1342 (V)
+
+
+###### Article 810-8
+
+Après réception du compte, le juge autorise le curateur à procéder à la réalisation de l'actif subsistant. 
+
+Le projet de réalisation est notifié aux héritiers connus. S'ils sont encore dans le délai pour accepter, ils peuvent s'y
+opposer dans les trois mois en réclamant la succession. La réalisation ne peut avoir lieu qu'à l'expiration de ce délai,
+selon les formes prescrites au premier alinéa de l'article 810-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 810-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1379 (V)
+
+
+###### Article 810-9
+
+Les créanciers qui déclarent leur créance postérieurement à la remise du compte ne peuvent prétendre qu'à l'actif subsistant.
+En cas d'insuffisance de cet actif, ils n'ont de recours que contre les légataires qui ont été remplis de leurs droits.
+
+Ce recours se prescrit par deux ans à compter de la réalisation de la totalité de l'actif subsistant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 810-10
+
+Le produit net de la réalisation de l'actif subsistant est consigné. Les héritiers, s'il s'en présente dans le délai pour
+réclamer la succession, sont admis à exercer leur droit sur ce produit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 810-11
+
+Les frais d'administration, de gestion et de vente donnent lieu au privilège du 1° des articles 2331 et 2375.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 2331 (V)
+  - Code civil - art. 2375 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 810-12
+
+La curatelle prend fin :
+
+1° Par l'affectation intégrale de l'actif au paiement des dettes et des legs ;
+
+2° Par la réalisation de la totalité de l'actif et la consignation du produit net ;
+
+3° Par la restitution de la succession aux héritiers dont les droits sont reconnus ;
+
+4° Par l'envoi en possession de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+#### Section 2 : Des successions en déshérence.<a id=218></a>
 
 ###### Article 811
 
-Lorsqu'après l'expiration des délais pour faire inventaire et pour délibérer, il ne se présente personne qui réclame une
-succession, qu'il n'y a pas d'héritiers connus ou que les héritiers connus y ont renoncé, cette succession est réputée
-vacante.
+Lorsque l'Etat prétend à la succession d'une personne qui décède sans héritier ou à une succession abandonnée, il doit en
+demander l'envoi en possession au tribunal.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30426,15 +31239,77 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
+
+###### Article 811-1
+
+Si l'inventaire prévu à l'article 809-2 n'a pas été établi, l'autorité administrative mentionnée à l'article 809-1 y fait
+procéder dans les formes prévues par l'article 809-2.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+_Cite_:
+
+  - Code civil - art. 809-1 (V)
+  - Code civil - art. 809-2 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 811-2
+
+La déshérence de la succession prend fin en cas d'acceptation de la succession par un héritier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 811-3
+
+Lorsqu'il n'a pas accompli les formalités qui lui incombent, l'Etat peut être condamné à des dommages et intérêts envers les
+héritiers, s'il s'en présente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+### Chapitre VI : De l'administration de la succession par un mandataire.<a id=219></a>
+
+#### Section 1 : Du mandat à effet posthume.<a id=220></a>
+
+##### Paragraphe 1 : Des conditions du mandat à effet posthume.<a id=221></a>
 
 ###### Article 812
 
-Le tribunal de grande instance dans l'arrondissement duquel elle est ouverte, nomme un curateur sur la demande des personnes
-intéressées ou sur la réquisition du procureur de la République.
+Toute personne peut donner à une ou plusieurs autres personnes, physiques ou morales, mandat d'administrer ou de gérer, sous
+réserve des pouvoirs confiés à l'exécuteur testamentaire, tout ou partie de sa succession pour le compte et dans l'intérêt
+d'un ou de plusieurs héritiers identifiés.
+
+Le mandataire peut être un héritier.
+
+Il doit jouir de la pleine capacité civile et ne pas être frappé d'une interdiction de gérer lorsque des biens professionnels
+sont compris dans le patrimoine successoral.
+
+Le mandataire ne peut être le notaire chargé du règlement de la succession.
 
 **Liens relatifs à cet article**
 
@@ -30445,22 +31320,266 @@ _Cité par_:
   - Code de la santé publique - art. R4322-90 (V)
   - Code de procédure civile - art. 998 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 812-1
+
+Le mandataire exerce ses pouvoirs alors même qu'il existe un mineur ou un majeur protégé parmi les héritiers.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+
+###### Article 812-1-1
+
+Le mandat n'est valable que s'il est justifié par un intérêt sérieux et légitime au regard de la personne de l'héritier ou du
+patrimoine successoral, précisément motivé.
+
+Il est donné pour une durée qui ne peut excéder deux ans, prorogeable une ou plusieurs fois par décision du juge, saisi par
+un héritier ou par le mandataire. Toutefois, il peut être donné pour une durée de cinq ans, prorogeable dans les mêmes
+conditions, en raison de l'inaptitude, de l'âge du ou des héritiers, ou de la nécessité de gérer des biens professionnels.
+
+Il est donné et accepté en la forme authentique.
+
+Il doit être accepté par le mandataire avant le décès du mandant.
+
+Préalablement à son exécution, le mandant et le mandataire peuvent renoncer au mandat après avoir notifié leur décision à
+l'autre partie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1379 (V)
+
+
+###### Article 812-1-2
+
+Les actes réalisés par le mandataire dans le cadre de sa mission sont sans effet sur l'option héréditaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 812-1-3
+
+Tant qu'aucun héritier visé par le mandat n'a accepté la succession, le mandataire ne dispose que des pouvoirs reconnus au
+successible à l'article 784.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 784 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 812-1-4
+
+Le mandat à effet posthume est soumis aux dispositions des articles 1984 à 2010 qui ne sont pas incompatibles avec les
+dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 1984 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+##### Paragraphe 2 : De la rémunération du mandataire.<a id=222></a>
+
+###### Article 812-2
+
+Le mandat est gratuit s'il n'y a convention contraire.
+
+S'il est prévu une rémunération, celle-ci doit être expressément déterminée dans le mandat. Elle correspond à une part des
+fruits et revenus perçus par l'hérédité et résultant de la gestion ou de l'administration du mandataire. En cas
+d'insuffisance ou d'absence de fruits et revenus, elle peut être complétée par un capital ou prendre la forme d'un capital.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 812-3
+
+La rémunération du mandataire est une charge de la succession qui ouvre droit à réduction lorsqu'elle a pour effet de priver
+les héritiers de tout ou partie de leur réserve. Les héritiers visés par le mandat ou leurs représentants peuvent demander en
+justice la révision de la rémunération lorsqu'ils justifient de la nature excessive de celle-ci au regard de la durée ou de
+la charge résultant du mandat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1380 (V)
+
+
+##### Paragraphe 3 : De la fin du mandat à effet posthume.<a id=223></a>
+
+###### Article 812-4
+
+Le mandat prend fin par l'un des événements suivants :
+
+1° L'arrivée du terme prévu ;
+
+2° La renonciation du mandataire ;
+
+3° La révocation judiciaire, à la demande d'un héritier intéressé ou de son représentant, en cas d'absence ou de disparition
+de l'intérêt sérieux et légitime ou de mauvaise exécution par le mandataire de sa mission ;
+
+4° La conclusion d'un mandat conventionnel entre les héritiers et le mandataire titulaire du mandat à effet posthume ;
+
+5° L'aliénation par les héritiers des biens mentionnés dans le mandat ;
+
+6° Le décès ou la mise sous mesure de protection du mandataire personne physique, ou la dissolution du mandataire personne
+morale ;
+
+7° Le décès de l'héritier intéressé ou, en cas de mesure de protection, la décision du juge des tutelles de mettre fin au
+mandat.
+
+Un même mandat donné pour le compte de plusieurs héritiers ne cesse pas entièrement pour une cause d'extinction qui ne
+concerne que l'un d'eux. De même, en cas de pluralité de mandataires, la fin du mandat intervenant à l'égard de l'un ne met
+pas fin à la mission des autres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 812-5
+
+La révocation pour cause de disparition de l'intérêt sérieux et légitime ne donne pas lieu à la restitution par le mandataire
+de tout ou partie des sommes perçues au titre de sa rémunération, sauf si elles ont été excessives eu égard à la durée ou à
+la charge effectivement assumée par le mandataire.
+
+Sans préjudice de dommages et intérêts, lorsque la révocation est intervenue en raison d'une mauvaise exécution de sa
+mission, le mandataire peut être tenu de restituer tout ou partie des sommes perçues au titre de sa rémunération.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 812-6
+
+Le mandataire ne peut renoncer à poursuivre l'exécution du mandat qu'après avoir notifié sa décision aux héritiers intéressés
+ou à leurs représentants.
+
+Sauf convention contraire entre le mandataire et les héritiers intéressés ou leurs représentants, la renonciation prend effet
+à l'issue d'un délai de trois mois à compter de la notification.
+
+Sans préjudice de dommages et intérêts, le mandataire rémunéré par un capital peut être tenu de restituer tout ou partie des
+sommes perçues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 812-7
+
+Chaque année et en fin de mandat, le mandataire rend compte de sa gestion aux héritiers intéressés ou à leurs représentants
+et les informe de l'ensemble des actes accomplis. A défaut, une révocation judiciaire peut être demandée par tout intéressé.
+
+Si le mandat prend fin par suite du décès du mandataire, cette obligation incombe à ses héritiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+#### Section 2 : Du mandataire désigné par convention.<a id=224></a>
 
 ###### Article 813
 
-Le curateur à une succession vacante est tenu, avant tout, d'en faire constater l'état par un inventaire : il en exerce et
-poursuit les droits ; il répond aux demandes formées contre elle ; il administre, sous la charge de faire verser le numéraire
-qui se trouve dans la succession, ainsi que les deniers provenant du prix des meubles ou immeubles vendus, dans la caisse du
-receveur de la régie royale (nationale) pour la conservation des droits et à la charge de rendre compte à qui il
-appartiendra.
+Les héritiers peuvent, d'un commun accord, confier l'administration de la succession à l'un d'eux ou à un tiers. Le mandat
+est régi par les articles 1984 à 2010. 
+
+Lorsqu'un héritier au moins a accepté la succession à concurrence de l'actif net, le mandataire ne peut, même avec l'accord
+de l'ensemble des héritiers, être désigné que par le juge. Le mandat est alors régi par les articles 813-1 à 814.
 
 **Liens relatifs à cet article**
 
@@ -30470,27 +31589,252 @@ _Cité par_:
   - Arrêté du 31 janvier 2018 - art. (V)
   - Nouveau code de procédure civile - art. 1379 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1984 (V)
+  - Code civil - art. 813-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+#### Section 3 : Du mandataire successoral désigné en justice.<a id=225></a>
+
+###### Article 813-1
+
+Le juge peut désigner toute personne qualifiée, physique ou morale, en qualité de mandataire successoral, à l'effet
+d'administrer provisoirement la succession en raison de l'inertie, de la carence ou de la faute d'un ou de plusieurs
+héritiers dans cette administration, de leur mésentente, d'une opposition d'intérêts entre eux ou de la complexité de la
+situation successorale.
+
+La demande est formée par un héritier, un créancier, toute personne qui assurait, pour le compte de la personne décédée,
+l'administration de tout ou partie de son patrimoine de son vivant, toute autre personne intéressée ou par le ministère
+public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 813 (V)
+  - Code civil - art. 813-9 (V)
+  - Code civil - art. 814 (V)
+  - Code civil - art. 815-7-1 (V)
+  - Nouveau code de procédure civile - art. 1380 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 813-2
+
+Le mandataire successoral ne peut agir que dans la mesure compatible avec les pouvoirs de celui qui a été désigné en
+application du troisième alinéa de l'article 815-6, du mandataire désigné en application de l'article 812 ou de l'exécuteur
+testamentaire, nommé par le testateur en application de l'article 1025.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1025 (V)
+  - Code civil - art. 812 (V)
+  - Code civil - art. 815-6 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 813-3
+
+La décision de nomination est enregistrée et publiée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Arrêté du 9 novembre 2009 - art. 1 (V)
+  - Code de procédure civile - art. 1355 (VD)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 813-4
+
+Tant qu'aucun héritier n'a accepté la succession, le mandataire successoral ne peut accomplir que les actes mentionnés à
+l'article 784, à l'exception de ceux prévus à son deuxième alinéa. Le juge peut également autoriser tout autre acte que
+requiert l'intérêt de la succession. Il peut autoriser le mandataire successoral à dresser un inventaire dans les formes
+prescrites à l'article 789, ou le demander d'office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 784 (V)
+  - Code civil - art. 789 (V)
+
+_Cité par_:
+
+  - Code civil - art. 813-6 (V)
+  - Nouveau code de procédure civile - art. 1379 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 813-5
+
+Dans la limite des pouvoirs qui lui sont conférés, le mandataire successoral représente l'ensemble des héritiers pour les
+actes de la vie civile et en justice.
+
+Il exerce ses pouvoirs alors même qu'il existe un mineur ou un majeur protégé parmi les héritiers.
+
+Le paiement fait entre les mains du mandataire successoral est valable.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 813-6
+
+Les actes visés à l'article 813-4 accomplis par le mandataire successoral dans le cadre de sa mission sont sans effet sur
+l'option héréditaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 813-4 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 813-7
+
+A la demande de toute personne intéressée ou du ministère public, le juge peut dessaisir le mandataire successoral de sa
+mission en cas de manquement caractérisé dans l'exercice de celle-ci. Il désigne alors un autre mandataire successoral, pour
+une durée qu'il définit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1380 (V)
+
+
+###### Article 813-8
+
+Chaque héritier peut exiger du mandataire successoral la consultation, à tout moment, des documents relatifs à l'exécution de
+sa mission.
+
+Chaque année et à la fin de sa mission, le mandataire successoral remet au juge et à chaque héritier sur sa demande un
+rapport sur l'exécution de sa mission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 813-9
+
+Le jugement désignant le mandataire successoral fixe la durée de sa mission ainsi que sa rémunération. A la demande de l'une
+des personnes mentionnées au deuxième alinéa de l'article 813-1 ou à l'article 814-1, il peut la proroger pour une durée
+qu'il détermine. 
+
+La mission cesse de plein droit par l'effet d'une convention d'indivision entre les héritiers ou par la signature de l'acte
+de partage. Elle cesse également lorsque le juge constate l'exécution complète de la mission confiée au mandataire
+successoral.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 813-1 (V)
+  - Code civil - art. 814-1 (V)
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1380 (V)
 
 
 ###### Article 814
 
-Les dispositions de la section III du présent chapitre, sur les formes de l'inventaire, sur le mode d'administration et sur
-les comptes à rendre de la part de l'héritier bénéficiaire, sont, au surplus, communes aux curateurs à successions vacantes,
-en ce qu'elles ne sont pas contraires aux dispositions des articles 1000 et 1001 du code de procédure civile.
+Lorsque la succession a été acceptée par au moins un héritier, soit purement et simplement, soit à concurrence de l'actif
+net, le juge qui désigne le mandataire successoral en application des articles 813-1 et 814-1 peut l'autoriser à effectuer
+l'ensemble des actes d'administration de la succession. 
+
+Il peut également l'autoriser, à tout moment, à réaliser des actes de disposition nécessaires à la bonne administration de la
+succession et en déterminer les prix et stipulations.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code de procédure civile - art. 1000 (V)
-  - Code de procédure civile - art. 1001 (V)
+  - Code civil - art. 813-1 (V)
+  - Code civil - art. 814-1 (V)
 
 _Cité par_:
 
@@ -30501,72 +31845,45 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+###### Article 814-1
 
-
-### Chapitre VI : De l'administration de la succession par un mandataire.<a id=216></a>
-
-#### Section 1 : Du mandat à effet posthume.<a id=217></a>
-
-###### Article 815-5
-
-Un indivisaire peut être autorisé par justice à passer seul un acte pour lequel le consentement d'un coïndivisaire serait
-nécessaire, si le refus de celui-ci met en péril l'intérêt commun.
-
-Le juge ne peut, à la demande d'un nu-propriétaire, ordonner la vente de la pleine propriété d'un bien grevé d'usufruit
-contre la volonté de l'usufruitier.
-
-L'acte passé dans les conditions fixées par l'autorisation de justice est opposable à l'indivisaire dont le consentement a
-fait défaut.
+En toute circonstance, l'héritier acceptant à concurrence de l'actif net peut demander au juge de désigner toute personne
+qualifiée en qualité de mandataire successoral à l'effet de le substituer dans la charge d'administrer et de liquider la
+succession.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Créé par_:
 
-  - Loi n°87-498 du 6 juillet 1987 - art. 1 () JORF 7 juillet 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-498 du 6 juillet 1987 - art. 2 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
-  - Code civil - art. 818 (V)
-  - Code civil - art. 819 (V)
+  - Code civil - art. 813-9 (V)
+  - Code civil - art. 814 (V)
+  - Nouveau code de procédure civile - art. 1379 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
 
-### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)<a id=218></a>
-
-#### Section 1 : De l'indivision et de l'action en partage.<a id=219></a>
+### Chapitre VII : Du régime légal de l'indivision.<a id=226></a>
 
 ###### Article 815
 
-Nul ne peut être contraint à demeurer dans l'indivision et le partage peut être toujours provoqué, à moins qu'il n'y ait été
+Nul ne peut être contraint à demeurer dans l'indivision et le partage peut toujours être provoqué, à moins qu'il n'y ait été
 sursis par jugement ou convention.
-
-A la demande d'un indivisaire, le tribunal peut surseoir au partage pour deux années au plus si sa réalisation immédiate
-risque de porter atteinte à la valeur des biens indivis ou si l'un des indivisaires ne peut s'installer sur une exploitation
-agricole dépendant de la succession qu'à l'expiration de ce délai. Ce sursis peut s'appliquer à l'ensemble des biens indivis
-ou à certains d'entre eux seulement.
-
-En outre, si des indivisaires entendent demeurer dans l'indivision, le tribunal peut, à la demande de l'un ou plusieurs
-d'entre eux, en fonction des intérêts en présence, et sans préjudice de l'application des articles 832 à 832-3, attribuer sa
-part, après expertise, à celui qui a demandé le partage, soit en nature, si elle est aisément détachable du reste des biens
-indivis, soit en argent, si l'attribution en nature ne peut être commodément effectuée, ou si le demandeur en exprime la
-préférence ; s'il n'existe pas dans l'indivision une somme suffisante, le complément est versé par ceux des indivisaires qui
-ont concouru à la demande, sans préjudice de la possibilité pour les autres indivisaires d'y participer s'ils en expriment la
-volonté. La part de chacun dans l'indivision est augmentée en proportion de son versement.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 89 (V)
+  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (M)
+  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
+  - Loi n°68-1 du 2 janvier 1968 - art. 42 (Ab)
   - Arrêté du 23 avril 1982 - art. CHAPITRE 5 PARAGRAPHE 2 ART. 25 (V)
   - Arrêté du 20 décembre 1991 - art. Annexe, 25 (Ab)
   - Code civil - art. 1471 (M)
@@ -30581,10 +31898,10 @@ _Cité par_:
   - Code rural - art. L321-25 (M)
   - Code rural - art. L323-6 (M)
   - Code rural - art. L411-2 (M)
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 89 (V)
-  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (M)
-  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
-  - Loi n°68-1 du 2 janvier 1968 - art. 42 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -30594,57 +31911,17 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-  - SPEC_APPLI: Loi n°78-627 du 10 juin 1978 - art. 5 (V)
-
-_Modifié par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 2 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-  - Loi n°78-627 du 10 juin 1978 - art. 1 () JORF 11 juin 1978
-  - Loi n°80-502 du 4 juillet 1980 - art. 36 () JORF 5 juillet 1980 rectificatif JORF 3 août 1980
-
 
 ###### Article 815-1
 
-A défaut d'accord amiable, l'indivision de toute exploitation agricole constituant une unité économique et dont la mise en
-valeur était assurée par le défunt ou par son conjoint peut être maintenue, dans les conditions fixées par le tribunal, à la
-demande des personnes visées aux alinéas 3 et 4 ci-dessous. Le tribunal statue en fonction des intérêts en présence et des
-possibilités d'existence que la famille peut tirer des biens indivis. Le maintien de l'indivision demeure possible lorsque
-l'exploitation comprend des éléments dont l'héritier ou le conjoint était déjà propriétaire ou copropriétaire avant
-l'ouverture de la succession.
-
-L'indivision peut également être maintenue à la demande des mêmes personnes et dans les conditions fixées par le tribunal, en
-ce qui concerne la propriété du local d'habitation ou à usage professionnel qui, à l'époque du décès, était effectivement
-utilisé pour cette habitation ou à cet usage par le défunt ou son conjoint. Il en est de même des objets mobiliers servant à
-l'exercice de la profession.
-
-Si le défunt laisse un ou plusieurs descendants mineurs, le maintien de l'indivision peut être demandé, soit par le conjoint
-survivant, soit par tout héritier, soit par le représentant légal des mineurs.
-
-A défaut de descendants mineurs, le maintien de l'indivision ne peut être demandé que par le conjoint survivant et à la
-condition qu'il ait été avant le décès ou soit devenu du fait du décès, copropriétaire de l'exploitation agricole ou des
-locaux d'habitation ou à usage professionnel. S'il s'agit d'un local d'habitation, le conjoint doit avoir résidé dans les
-lieux à l'époque du décès.
-
-Le maintien dans l'indivision ne peut être prescrit pour une durée supérieure à cinq ans. Il peut être renouvelé, dans le cas
-prévu à l'alinéa 3, jusqu'à la majorité du plus jeune des descendants et, dans le cas prévu à l'alinéa 4, jusqu'au décès du
-conjoint survivant.
+Les indivisaires peuvent passer des conventions relatives à l'exercice de leurs droits indivis, conformément aux articles
+1873-1 à 1873-18.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30655,14 +31932,23 @@ _Cité par_:
   - Code rural - art. L321-25 (M)
   - Code rural - art. L411-2 (M)
 
+_Cite_:
+
+  - Code civil - art. 1873-1 (V)
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
 
+#### Section 1 : Des actes relatifs aux biens indivis.<a id=227></a>
+
+##### Paragraphe 1 : Des actes accomplis par les indivisaires.<a id=228></a>
+
 ###### Article 815-2
 
-Tout indivisaire peut prendre les mesures nécessaires à la conservation des biens indivis.
+Tout indivisaire peut prendre les mesures nécessaires à la conservation des biens indivis même si elles ne présentent pas un
+caractère d'urgence.
 
 Il peut employer à cet effet les fonds de l'indivision détenus par lui et il est réputé en avoir la libre disposition à
 l'égard des tiers.
@@ -30678,21 +31964,28 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 815-3
 
-Les actes d'administration et de disposition relatifs aux biens indivis requièrent le consentement de tous les indivisaires.
-Ceux-ci peuvent donner à l'un ou à plusieurs d'entre eux un mandat général d'administration. Un mandat spécial est nécessaire
-pour tout acte qui ne ressortit pas à l'exploitation normale des biens indivis, ainsi que pour la conclusion et le
-renouvellement des baux.
+Le ou les indivisaires titulaires d'au moins deux tiers des droits indivis peuvent, à cette majorité :
+
+1° Effectuer les actes d'administration relatifs aux biens indivis ;
+
+2° Donner à l'un ou plusieurs des indivisaires ou à un tiers un mandat général d'administration ;
+
+3° Vendre les meubles indivis pour payer les dettes et charges de l'indivision ;
+
+4° Conclure et renouveler les baux autres que ceux portant sur un immeuble à usage agricole, commercial, industriel ou
+artisanal.
+
+Ils sont tenus d'en informer les autres indivisaires. A défaut, les décisions prises sont inopposables à ces derniers.
+
+Toutefois, le consentement de tous les indivisaires est requis pour effectuer tout acte qui ne ressortit pas à l'exploitation
+normale des biens indivis et pour effectuer tout acte de disposition autre que ceux visés au 3°.
 
 Si un indivisaire prend en main la gestion des biens indivis, au su des autres et néanmoins sans opposition de leur part, il
 est censé avoir reçu un mandat tacite, couvrant les actes d'administration mais non les actes de disposition ni la conclusion
@@ -30711,18 +32004,16 @@ _Cité par_:
   - Code rural - art. L183-24 (VD)
   - Code rural et de la pêche maritime - art. L181-14-1 (Ab)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
+
+##### Paragraphe 2 : Des actes autorisés en justice.<a id=229></a>
 
 ###### Article 815-4
 
@@ -30735,14 +32026,6 @@ autre ont effet à l'égard de celui-ci, suivant les règles de la gestion d'aff
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
 _Cité par_:
 
   - Code civil - art. 1873-8 (V)
@@ -30751,21 +32034,28 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
+_Modifié par_:
 
-###### Article 815-6
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-Le président du tribunal de grande instance peut prescrire ou autoriser toutes les mesures urgentes que requiert l'intérêt
-commun.
 
-Il peut, notamment, autoriser un indivisaire à percevoir des débiteurs de l'indivision ou des dépositaires de fonds indivis
-une provision destinée à faire face aux besoins urgents, en prescrivant, au besoin, les conditions de l'emploi. Cette
-autorisation n'entraîne pas prise de qualité pour le conjoint survivant ou pour l'héritier.
+###### Article 815-5
 
-Il peut également soit désigner un indivisaire comme administrateur en l'obligeant s'il y a lieu à donner caution, soit
-nommer un séquestre. Les articles 1873-5 à 1873-9 du présent code s'appliquent en tant que de raison aux pouvoirs et aux
-obligations de l'administrateur, s'ils ne sont autrement définis par le juge.
+Un indivisaire peut être autorisé par justice à passer seul un acte pour lequel le consentement d'un coïndivisaire serait
+nécessaire, si le refus de celui-ci met en péril l'intérêt commun.
+
+Le juge ne peut, à la demande d'un nu-propriétaire, ordonner la vente de la pleine propriété d'un bien grevé d'usufruit
+contre la volonté de l'usufruitier.
+
+L'acte passé dans les conditions fixées par l'autorisation de justice est opposable à l'indivisaire dont le consentement a
+fait défaut.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 818 (V)
+  - Code civil - art. 819 (V)
 
 _Codifié par_:
 
@@ -30773,19 +32063,43 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+  - SPEC_APPLI: Loi n°87-498 du 6 juillet 1987 - art. 2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 815-6
+
+Le président du tribunal de grande instance peut prescrire ou autoriser toutes les mesures urgentes que requiert l'intérêt
+commun. 
+
+Il peut, notamment, autoriser un indivisaire à percevoir des débiteurs de l'indivision ou des dépositaires de fonds indivis
+une provision destinée à faire face aux besoins urgents, en prescrivant, au besoin, les conditions de l'emploi. Cette
+autorisation n'entraîne pas prise de qualité pour le conjoint survivant ou pour l'héritier. 
+
+Il peut également soit désigner un indivisaire comme administrateur en l'obligeant s'il y a lieu à donner caution, soit
+nommer un séquestre. Les articles 1873-5 à 1873-9 du présent code s'appliquent en tant que de raison aux pouvoirs et aux
+obligations de l'administrateur, s'ils ne sont autrement définis par le juge.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1873-5 (V)
 
 _Cité par_:
 
   - Code civil - art. 813-2 (V)
 
-_Cite_:
+_Codifié par_:
 
-  - Code civil 1873-5 à 1873-9
+  - Loi n°1803-04-19
 
 
 ###### Article 815-7
@@ -30799,19 +32113,17 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-###### Article 816
+#### Section 2 : Des droits et des obligations des indivisaires.<a id=230></a>
 
-Le partage peut être demandé même quand l'un des cohéritiers aurait joui séparément de partie des biens de la succession,
-s'il n'y a eu un acte de partage, ou possession suffisante pour acquérir la prescription.
+###### Article 815-8
+
+Quiconque perçoit des revenus ou expose des frais pour le compte de l'indivision doit en tenir un état qui est à la
+disposition des indivisaires.
 
 **Liens relatifs à cet article**
 
@@ -30819,17 +32131,310 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 815-9
+
+Chaque indivisaire peut user et jouir des biens indivis conformément à leur destination, dans la mesure compatible avec le
+droit des autres indivisaires et avec l'effet des actes régulièrement passés au cours de l'indivision. A défaut d'accord
+entre les intéressés, l'exercice de ce droit est réglé, à titre provisoire, par le président du tribunal.
+
+L'indivisaire qui use ou jouit privativement de la chose indivise est, sauf convention contraire, redevable d'une indemnité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 1873-11 (V)
+
+
+###### Article 815-10
+
+Sont de plein droit indivis, par l'effet d'une subrogation réelle, les créances et indemnités qui remplacent des biens
+indivis, ainsi que les biens acquis, avec le consentement de l'ensemble des indivisaires, en emploi ou remploi des biens
+indivis.
+
+Les fruits et les revenus des biens indivis accroissent à l'indivision, à défaut de partage provisionnel ou de tout autre
+accord établissant la jouissance divise.
+
+Aucune recherche relative aux fruits et revenus ne sera, toutefois, recevable plus de cinq ans après la date à laquelle ils
+ont été perçus ou auraient pu l'être.
+
+Chaque indivisaire a droit aux bénéfices provenant des biens indivis et supporte les pertes proportionnellement à ses droits
+dans l'indivision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 815-11
+
+Tout indivisaire peut demander sa part annuelle dans les bénéfices, déduction faite des dépenses entraînées par les actes
+auxquels il a consenti ou qui lui sont opposables.
+
+A défaut d'autre titre, l'étendue des droits de chacun dans l'indivision résulte de l'acte de notoriété ou de l'intitulé
+d'inventaire établi par le notaire.
+
+En cas de contestation, le président du tribunal de grande instance peut ordonner une répartition provisionnelle des
+bénéfices sous réserve d'un compte à établir lors de la liquidation définitive.
+
+A concurrence des fonds disponibles, il peut semblablement ordonner une avance en capital sur les droits de l'indivisaire
+dans le partage à intervenir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 815-12
+
+L'indivisaire qui gère un ou plusieurs biens indivis est redevable des produits nets de sa gestion. Il a droit à la
+rémunération de son activité dans les conditions fixées à l'amiable ou, à défaut, par décision de justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 815-13
+
+Lorsqu'un indivisaire a amélioré à ses frais l'état d'un bien indivis, il doit lui en être tenu compte selon l'équité, eu
+égard à ce dont la valeur du bien se trouve augmentée au temps du partage ou de l'aliénation. Il doit lui être pareillement
+tenu compte des impenses nécessaires qu'il a faites de ses deniers personnels pour la conservation desdits biens, encore
+qu'elles ne les aient point améliorés.
+
+Inversement, l'indivisaire répond des dégradations et détériorations qui ont diminué la valeur des biens indivis par son fait
+ou par sa faute.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 815-14
+
+L'indivisaire qui entend céder, à titre onéreux, à une personne étrangère à l'indivision, tout ou partie de ses droits dans
+les biens indivis ou dans un ou plusieurs de ces biens est tenu de notifier par acte extrajudiciaire aux autres indivisaires
+le prix et les conditions de la cession projetée ainsi que les nom, domicile et profession de la personne qui se propose
+d'acquérir. 
+
+Tout indivisaire peut, dans le délai d'un mois qui suit cette notification, faire connaître au cédant, par acte
+extrajudiciaire, qu'il exerce un droit de préemption aux prix et conditions qui lui ont été notifiés. 
+
+En cas de préemption, celui qui l'exerce dispose pour la réalisation de l'acte de vente d'un délai de deux mois à compter de
+la date d'envoi de sa réponse au vendeur. Passé ce délai, sa déclaration de préemption est nulle de plein droit, quinze jours
+après une mise en demeure restée sans effet, et sans préjudice des dommages-intérêts qui peuvent lui être demandés par le
+vendeur. 
+
+Si plusieurs indivisaires exercent leur droit de préemption, ils sont réputés, sauf convention contraire, acquérir ensemble
+la portion mise en vente en proportion de leur part respective dans l'indivision. 
+
+Lorsque des délais de paiement ont été consentis par le cédant, l'article 828 est applicable.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+  - Code civil - art. 1873-12 (V)
+  - Code civil - art. 815-16 (V)
+  - Code civil - art. 815-18 (V)
+  - Code rural et de la pêche maritime - art. L143-4 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 828 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 815-15
+
+S'il y a lieu à l'adjudication de tout ou partie des droits d'un indivisaire dans les biens indivis ou dans un ou plusieurs
+de ces biens, l'avocat ou le notaire doit en informer les indivisaires par notification un mois avant la date prévue pour la
+vente. Chaque indivisaire peut se substituer à l'acquéreur dans un délai d'un mois à compter de l'adjudication, par
+déclaration au greffe ou auprès du notaire.
+
+Le cahier des conditions de vente établi en vue de la vente doit faire mention des droits de substitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Cité par_:
+
+  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+  - Code civil - art. 815-16 (V)
+  - Code civil - art. 815-18 (V)
+  - Code rural - art. L143-4 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+
+###### Article 815-16
+
+Est nulle toute cession ou toute licitation opérée au mépris des dispositions des articles 815-14 et 815-15. L'action en
+nullité se prescrit par cinq ans. Elle ne peut être exercée que par ceux à qui les notifications devaient être faites ou par
+leurs héritiers.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 815-14 (V)
+  - Code civil - art. 815-15 (V)
+
+_Cité par_:
+
+  - Code civil - art. 815-18 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+#### Section 3 : Du droit de poursuite des créanciers.<a id=231></a>
+
+###### Article 815-17
+
+Les créanciers qui auraient pu agir sur les biens indivis avant qu'il y eût indivision, et ceux dont la créance résulte de la
+conservation ou de la gestion des biens indivis, seront payés par prélèvement sur l'actif avant le partage. Ils peuvent en
+outre poursuivre la saisie et la vente des biens indivis.
+
+Les créanciers personnels d'un indivisaire ne peuvent saisir sa part dans les biens indivis, meubles ou immeubles.
+
+Ils ont toutefois la faculté de provoquer le partage au nom de leur débiteur ou d'intervenir dans le partage provoqué par
+lui. Les coïndivisaires peuvent arrêter le cours de l'action en partage en acquittant l'obligation au nom et en l'acquit du
+débiteur. Ceux qui exerceront cette faculté se rembourseront par prélèvement sur les biens indivis.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1873-15 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+#### Section 4 : De l'indivision en usufruit.<a id=232></a>
+
+###### Article 815-18
+
+Les dispositions des articles 815 à 815-17 sont applicables aux indivisions en usufruit en tant qu'elles sont compatibles
+avec les règles de l'usufruit. 
+
+Les notifications prévues par les articles 815-14, 815-15  et 815-16 doivent être adressées à tout nu-propriétaire et à tout
+usufruitier. Mais un usufruitier ne peut acquérir une part en nue-propriété que si aucun nu-propriétaire ne s'en porte
+acquéreur ; un nu-propriétaire ne peut acquérir une part en usufruit que si aucun usufruitier ne s'en porte acquéreur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 1873-12 (V)
+
+_Cite_:
+
+  - Code civil - art. 815 (V)
+  - Code civil - art. 815-14 (V)
+  - Code civil - art. 815-15 (V)
+  - Code civil - art. 815-16 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+### Chapitre VIII : Du partage.<a id=233></a>
+
+#### Section 1 : Des opérations de partage.<a id=234></a>
+
+##### Sous-section 1 : Dispositions communes.<a id=235></a>
+
+##### Paragraphe 1 : Des demandes en partage.<a id=236></a>
+
+###### Article 816
+
+Le partage peut être demandé, même quand l'un des indivisaires a joui séparément de tout ou partie des biens indivis, s'il
+n'y a pas eu d'acte de partage ou une possession suffisante pour acquérir la prescription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 817
 
-L'action en partage, à l'égard des cohéritiers mineurs ou majeurs en tutelle, peut être exercée par leurs tuteurs
-spécialement autorisés par un conseil de famille.
-
-A l'égard des cohéritiers absents, l'action appartient aux parents envoyés en possession.
+Celui qui est en indivision pour la jouissance peut demander le partage de l'usufruit indivis par voie de cantonnement sur un
+bien ou, en cas d'impossibilité, par voie de licitation de l'usufruit. Lorsqu'elle apparaît seule protectrice de l'intérêt de
+tous les titulaires de droits sur le bien indivis, la licitation peut porter sur la pleine propriété.
 
 **Liens relatifs à cet article**
 
@@ -30842,36 +32447,71 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-###### Article 819
+###### Article 818
 
-Si tous les héritiers sont présents et capables, le partage peut être fait dans la forme et par tel acte que les parties
-jugent convenables.
+La même faculté appartient à l'indivisaire en nue-propriété pour la nue-propriété indivise. En cas de licitation de la pleine
+propriété, le deuxième alinéa de l'article 815-5 est applicable.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 46 (V)
+  - Code civil - art. 819 (V)
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 815-5 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
+
+###### Article 819
+
+Celui qui est pour partie plein propriétaire et qui se trouve en indivision avec des usufruitiers et des nus-propriétaires
+peut user des facultés prévues aux articles 817 et 818. 
+
+Le deuxième alinéa de l'article 815-5 n'est pas applicable en cas de licitation en pleine propriété.
+
+**Liens relatifs à cet article**
+
 _Modifié par_:
 
-  - Loi n°85-1372 du 23 décembre 1985 - art. 47 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+  - Code civil - art. 815-5 (V)
+  - Code civil - art. 817 (V)
+  - Code civil - art. 818 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 820
 
-Les biens successoraux peuvent, en tout ou partie, faire l'objet de mesures conservatoires, telles que l'apposition de
-scellés, à la requête d'un intéressé ou du ministère public, dans les conditions et suivant les formes déterminées par le
-code de procédure civile.
+A la demande d'un indivisaire, le tribunal peut surseoir au partage pour deux années au plus si sa réalisation immédiate
+risque de porter atteinte à la valeur des biens indivis ou si l'un des indivisaires ne peut reprendre l'entreprise agricole,
+commerciale, industrielle, artisanale ou libérale dépendant de la succession qu'à l'expiration de ce délai. Ce sursis peut
+s'appliquer à l'ensemble des biens indivis ou à certains d'entre eux seulement.
+
+S'il y a lieu, la demande de sursis au partage peut porter sur des droits sociaux.
 
 **Liens relatifs à cet article**
 
@@ -30887,35 +32527,91 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-1372 du 23 décembre 1985 - art. 47 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-**Liens**:
 
-  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+###### Article 821
+
+A défaut d'accord amiable, l'indivision de toute entreprise agricole, commerciale, industrielle, artisanale ou libérale, dont
+l'exploitation était assurée par le défunt ou par son conjoint, peut être maintenue dans les conditions fixées par le
+tribunal à la demande des personnes mentionnées à l'article 822.
+
+S'il y a lieu, la demande de maintien de l'indivision peut porter sur des droits sociaux. 
+
+Le tribunal statue en fonction des intérêts en présence et des moyens d'existence que la famille peut tirer des biens
+indivis. 
+
+Le maintien de l'indivision demeure possible lors même que l'entreprise comprend des éléments dont l'héritier ou le conjoint
+était déjà propriétaire ou copropriétaire avant l'ouverture de la succession.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 822 (V)
+
+_Cité par_:
+
+  - Code rural - art. L323-6 (V)
+  - Code rural - art. L411-2 (V)
+  - Nouveau code de procédure civile - art. 1381 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 821-1
+
+L'indivision peut également être maintenue, à la demande des mêmes personnes et dans les conditions fixées par le tribunal,
+en ce qui concerne la propriété du local d'habitation ou à usage professionnel qui, à l'époque du décès, était effectivement
+utilisé pour cette habitation ou à cet usage par le défunt ou son conjoint. Il en est de même des objets mobiliers garnissant
+le local d'habitation ou servant à l'exercice de la profession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Cité par_:
+
+  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (V)
+  - Nouveau code de procédure civile - art. 1381 (V)
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 822
 
-L'action en partage et les contestations qui s'élèvent soit à l'occasion du maintien de l'indivision, soit au cours des
-opérations de partage sont, à peine de nullité, soumises au seul tribunal du lieu de l'ouverture de la succession ; c'est
-devant ce tribunal qu'il est procédé aux licitations et que doivent être portées les demandes relatives à la garantie des
-lots entre copartageants et celles en rescision du partage. Dans le cas où il y aurait lieu à la tentative de conciliation
-prévue par l'article 48 du code de procédure civile, le juge du tribunal d'instance du lieu de l'ouverture de la succession
-sera seul compétent à peine de nullité.
+Si le défunt laisse un ou plusieurs descendants mineurs, le maintien de l'indivision peut être demandé soit par le conjoint
+survivant, soit par tout héritier, soit par le représentant légal des mineurs.
 
-Si toutes les parties sont d'accord, le tribunal peut être saisi de la demande en partage par une requête collective signée
-par tous les avocats. S'il y a lieu à licitation, la requête contiendra une mise à prix qui servira d'estimation. Dans ce
-cas, le jugement est rendu en chambre du conseil et n'est pas susceptible d'appel si les conclusions de la requête sont
-admises par le tribunal sans modification.
+A défaut de descendants mineurs, le maintien de l'indivision ne peut être demandé que par le conjoint survivant et à la
+condition qu'il ait été, avant le décès, ou soit devenu du fait du décès, copropriétaire de l'entreprise ou des locaux
+d'habitation ou à usage professionnel.
 
-Les dispositions des paragraphes précédents sont applicables sans qu'il soit besoin d'une autorisation préalable, quelle que
-soit la capacité de l'intéressé et même s'il est représenté par un mandataire de justice.
+S'il s'agit d'un local d'habitation, le conjoint doit avoir résidé dans les lieux à l'époque du décès.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Code de procédure civile 48
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -30923,64 +32619,73 @@ _Cité par_:
   - Code civil - art. 821 (V)
   - Code civil - art. 823 (V)
 
+
+###### Article 823
+
+Le maintien dans l'indivision ne peut être prescrit pour une durée supérieure à cinq ans. Il peut être renouvelé, dans le cas
+prévu au premier alinéa de l'article 822, jusqu'à la majorité du plus jeune des descendants et, dans le cas prévu au deuxième
+alinéa du même article, jusqu'au décès du conjoint survivant.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+_Cite_:
 
-###### Article 823
-
-Si l'un des cohéritiers refuse de consentir au partage ou s'il s'élève des contestations soit sur le mode d'y procéder, soit
-sur la manière de le terminer, le tribunal prononce comme en matière sommaire ou commet, s'il y a lieu, pour les opérations
-du partage, un des juges, sur le rapport duquel il décide les contestations.
-
-**Liens relatifs à cet article**
+  - Code civil - art. 822 (V)
 
 _Cité par_:
 
   - Code de procédure civile - art. 966 (V)
   - Code de procédure civile - art. 969 (V)
 
+
+###### Article 824
+
+Si des indivisaires entendent demeurer dans l'indivision, le tribunal peut, à la demande de l'un ou de plusieurs d'entre eux,
+en fonction des intérêts en présence et sans préjudice de l'application des articles 831 à 832-3, attribuer sa part à celui
+qui a demandé le partage. 
+
+S'il n'existe pas dans l'indivision une somme suffisante, le complément est versé par ceux des indivisaires qui ont concouru
+à la demande, sans préjudice de la possibilité pour les autres indivisaires d'y participer, s'ils en expriment la volonté. La
+part de chacun dans l'indivision est augmentée à proportion de son versement.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+_Cite_:
 
-###### Article 824
-
-L'estimation des immeubles est faite par experts choisis par les parties intéressées ou, à leur refus, nommés d'office.
-
-Le procès-verbal des experts doit présenter les bases de l'estimation ; il doit indiquer si l'objet estimé peut être
-commodément partagé ; de quelle manière ; fixer enfin, en cas de division, chacune des parts qu'on peut en former, et leur
-valeur.
-
-**Liens relatifs à cet article**
+  - Code civil - art. 831 (V)
 
 _Cité par_:
 
   - Code de procédure civile - art. 1381 (VD)
 
-_Codifié par_:
 
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
+##### Paragraphe 2 : Des parts et des lots.<a id=237></a>
 
 ###### Article 825
 
-L'estimation des meubles, s'il n'y a pas eu de prisée faite dans un inventaire régulier, doit être faite par gens à ce
-connaissant, à juste prix et sans crue.
+La masse partageable comprend les biens existant à l'ouverture de la succession, ou ceux qui leur ont été subrogés, et dont
+le défunt n'a pas disposé à cause de mort, ainsi que les fruits y afférents.
+
+Elle est augmentée des valeurs soumises à rapport ou à réduction, ainsi que des dettes des copartageants envers le défunt ou
+envers l'indivision.
 
 **Liens relatifs à cet article**
 
@@ -30992,18 +32697,27 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 826
 
-Chacun des cohéritiers peut demander sa part en nature des meubles et immeubles de la succession : néanmoins, s'il y a des
-créanciers saisissants ou opposants, ou si la majorité des cohéritiers juge la vente nécessaire pour l'acquit des dettes et
-charges de la succession, les meubles sont vendus publiquement en la forme ordinaire.
+L'égalité dans le partage est une égalité en valeur.
+
+Chaque copartageant reçoit des biens pour une valeur égale à celle de ses droits dans l'indivision.
+
+S'il y a lieu à tirage au sort, il est constitué autant de lots qu'il est nécessaire.
+
+Si la consistance de la masse ne permet pas de former des lots d'égale valeur, leur inégalité se compense par une soulte.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 _Cité par_:
 
@@ -31011,22 +32725,16 @@ _Cité par_:
   - Code de procédure civile - art. 945 (Ab)
   - Code du domaine de l'Etat - art. R34 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 827
 
-Si les immeubles ne peuvent être commodément partagés ou attribués dans les conditions prévues par le présent code, il doit
-être procédé à la vente par licitation devant le tribunal.
-
-Cependant les parties, si elles sont toutes majeures, peuvent consentir que la licitation soit faite devant un notaire, sur
-le choix duquel elles s'accordent.
+Le partage de la masse s'opère par tête. Toutefois, il se fait par souche quand il y a lieu à représentation. Une fois opéré
+le partage par souche, une répartition distincte est opérée, le cas échéant, entre les héritiers de chaque souche.
 
 **Liens relatifs à cet article**
 
@@ -31038,20 +32746,24 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 828
 
-Après que les meubles et immeubles ont été estimés et vendus, s'il y a lieu, le juge-commissaire renvoie les parties devant
-un notaire dont elles conviennent, ou nommé d'office, si les parties ne s'accordent pas sur le choix.
-
-On procède, devant cet officier, aux comptes que les copartageants peuvent se devoir, à la formation de la masse générale, à
-la composition des lots, et aux fournissements à faire à chacun des copartageants.
+Lorsque le débiteur d'une soulte a obtenu des délais de paiement et que, par suite des circonstances économiques, la valeur
+des biens qui lui sont échus a augmenté ou diminué de plus du quart depuis le partage, les sommes restant dues augmentent ou
+diminuent dans la même proportion, sauf exclusion de cette variation par les parties.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31064,17 +32776,23 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 829
 
-Chaque cohéritier fait rapport à la masse, suivant les règles qui seront ci-après établies, des dons qui lui ont été faits,
-et des sommes dont il est débiteur.
+En vue de leur répartition, les biens sont estimés à leur valeur à la date de la jouissance divise telle qu'elle est fixée
+par l'acte de partage, en tenant compte, s'il y a lieu, des charges les grevant.
+
+Cette date est la plus proche possible du partage.
+
+Cependant, le juge peut fixer la jouissance divise à une date plus ancienne si le choix de cette date apparaît plus favorable
+à la réalisation de l'égalité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31088,40 +32806,48 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 830
 
-Si le rapport n'est pas fait en nature, les cohéritiers à qui il est dû prélèvent une portion égale sur la masse de la
-succession.
-
-Les prélèvements se font, autant que possible, en objets de même nature, qualité et bonté que les objets non rapportés en
-nature.
+Dans la formation et la composition des lots, on s'efforce d'éviter de diviser les unités économiques et autres ensembles de
+biens dont le fractionnement entraînerait la dépréciation.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de procédure civile - art. 978 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+_Cité par_:
+
+  - Code de procédure civile - art. 978 (V)
+
+
+##### Paragraphe 3 : Des attributions préférentielles.<a id=238></a>
 
 ###### Article 831
 
-Après ces prélèvements, il est procédé, sur ce qui reste dans la masse, à la composition d'autant de lots égaux qu'il y a
-d'héritiers copartageants, ou de souches copartageantes.
+Le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle par voie de partage, à
+charge de soulte s'il y a lieu, de toute entreprise, ou partie d'entreprise agricole, commerciale, industrielle, artisanale
+ou libérale ou quote-part indivise d'une telle entreprise, même formée pour une part de biens dont il était déjà propriétaire
+ou copropriétaire avant le décès, à l'exploitation de laquelle il participe ou a participé effectivement. Dans le cas de
+l'héritier, la condition de participation peut être ou avoir été remplie par son conjoint ou ses descendants.
+
+S'il y a lieu, la demande d'attribution préférentielle peut porter sur des droits sociaux, sans préjudice de l'application
+des dispositions légales ou des clauses statutaires sur la continuation d'une société avec le conjoint survivant ou un ou
+plusieurs héritiers.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31143,70 +32869,105 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
+
+###### Article 831-1
+
+Au cas où ni le conjoint survivant, ni aucun héritier copropriétaire ne demande l'application des dispositions prévues à
+l'article 831 ou de celles des articles 832 ou 832-1, l'attribution préférentielle prévue en matière agricole peut être
+accordée à tout copartageant sous la condition qu'il s'oblige à donner à bail dans un délai de six mois le bien considéré
+dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural à un ou plusieurs des cohéritiers
+remplissant les conditions personnelles prévues à l'article 831 ou à un ou plusieurs descendants de ces cohéritiers
+remplissant ces mêmes conditions.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V)
+  - Code civil - art. 2504 (Ab)
+
+_Cite_:
+
+  - Code civil - art. 831 (V)
+  - Code civil - art. 832 (V)
+  - Code civil - art. 832-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
-###### Article 832
-
-Dans la formation et la composition des lots, on doit éviter de morceler les héritages et de diviser les exploitations.
-
-Dans la mesure où le morcellement des héritages et la division des exploitations peuvent être évités, chaque lot doit, autant
-que possible, être composé, soit en totalité, soit en partie, de meubles ou d'immeubles, de droits ou de créances de valeur
-équivalente.
-
-Le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle par voie de partage, à
-charge de soulte s'il y a lieu, de toute exploitation agricole, ou partie d'exploitation agricole, constituant une unité
-économique, ou quote-part indivise d'exploitation agricole, même formée pour une part de biens dont il était déjà
-propriétaire ou copropriétaire avant le décès, à la mise en valeur de laquelle il participe ou a participé effectivement ;
-dans le cas de l'héritier, la condition de participation peut avoir été remplie par son conjoint. S'il y a lieu, la demande
-d'attribution préférentielle peut porter sur des parts sociales, sans préjudice de l'application des dispositions légales ou
-des clauses statutaires sur la continuation d'une société avec le conjoint survivant ou un ou plusieurs héritiers.
-
-Les mêmes règles sont applicables en ce qui concerne toute entreprise commerciale, industrielle ou artisanale, dont
-l'importance n'exclut pas un caractère familial.
-
-Au cas où ni le conjoint survivant, ni aucun héritier copropriétaire ne demande l'application des dispositions prévues au
-troisième alinéa ci-dessus ou celles des articles 832-1 ou 832-2, l'attribution préférentielle peut être accordée à tout
-copartageant sous la condition qu'il s'oblige à donner à bail dans un délai de six mois le bien considéré dans les conditions
-fixées au chapitre VII du titre I du livre VI du Code rural à un ou plusieurs des cohéritiers remplissant les conditions
-personnelles prévues au troisième alinéa ci-dessus ou à un ou plusieurs descendants de ces cohéritiers remplissant ces mêmes
-conditions.
+###### Article 831-2
 
 Le conjoint survivant ou tout héritier copropriétaire peut également demander l'attribution préférentielle :
 
-De la propriété ou du droit au bail du local qui lui sert effectivement d'habitation, s'il y avait sa résidence à l'époque du
-décès, et du mobilier le garnissant ;
+1° De la propriété ou du droit au bail du local qui lui sert effectivement d'habitation, s'il y avait sa résidence à l'époque
+du décès, et du mobilier le garnissant ;
 
-De la propriété ou du droit au bail du local à usage professionnel servant effectivement à l'exercice de sa profession et des
-objets mobiliers à usage professionnel garnissant ce local ;
+2° De la propriété ou du droit au bail du local à usage professionnel servant effectivement à l'exercice de sa profession et
+des objets mobiliers à usage professionnel garnissant ce local ;
 
-De l'ensemble des éléments mobiliers nécessaires à l'exploitation d'un bien rural cultivé par le défunt à titre de fermier ou
-de métayer lorsque le bail continue au profit du demandeur, ou lorsqu'un nouveau bail est consenti à ce dernier.
+3° De l'ensemble des éléments mobiliers nécessaires à l'exploitation d'un bien rural cultivé par le défunt à titre de fermier
+ou de métayer lorsque le bail continue au profit du demandeur ou lorsqu'un nouveau bail est consenti à ce dernier.
 
-L'attribution préférentielle peut être demandée conjointement par plusieurs successibles. L'attribution préférentielle de la
-propriété du local et du mobilier le garnissant visée au septième alinéa est de droit pour le conjoint survivant.
+**Liens relatifs à cet article**
 
-Dans l'hypothèse prévue à l'alinéa précédent, le conjoint survivant attributaire peut exiger de ses copartageants pour le
-paiement d'une fraction de la soulte, égale au plus à la moitié, des délais ne pouvant excéder dix ans. Sauf convention
-contraire, les sommes restant dues portent intérêt au taux légal.
+_Cité par_:
 
-En cas de vente du local ou du mobilier le garnissant, la fraction de la soulte y afférente devient immédiatement exigible ;
-en cas de ventes partielles, le produit de ces ventes est versé aux copartageants et imputé sur la fraction de la soulte
-encore due.
+  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (V)
+  - Code civil - art. 515-6 (V)
+  - Code civil - art. 831-3 (M)
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 831-3
+
+L'attribution préférentielle de la propriété du local et du mobilier le garnissant visée au 1° de l'article 831-2 est de
+droit pour le conjoint survivant. 
 
 Les droits résultant de l'attribution préférentielle ne préjudicient pas aux droits viagers d'habitation et d'usage que le
 conjoint peut exercer en vertu de l'article 764.
 
-A défaut d'accord amiable, la demande d'attribution préférentielle est portée devant le tribunal, qui se prononce en fonction
-des intérêts en présence. En cas de pluralité de demandes concernant une exploitation ou une entreprise, le tribunal tient
-compte de l'aptitude des différents postulants à gérer cette exploitation ou cette entreprise et à s'y maintenir et en
-particulier de la durée de leur participation personnelle à l'activité de l'exploitation ou de l'entreprise.
+**Liens relatifs à cet article**
 
-Les biens faisant l'objet de l'attribution sont estimés à leur valeur au jour du partage.
+_Codifié par_:
 
-Sauf accord amiable entre les copartageants, la soulte éventuellement due est payable comptant.
+  - Loi n°1803-04-19
+
+_Cité par_:
+
+  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (V)
+  - Code civil - art. 515-6 (V)
+  - Code civil - art. 832-4 (V)
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 764 (V)
+  - Code civil - art. 831-2 (V)
+
+
+###### Article 832
+
+L'attribution préférentielle visée à l'article 831 est de droit pour toute exploitation agricole qui ne dépasse pas les
+limites de superficie fixées par décret en Conseil d'Etat, si le maintien dans l'indivision n'a pas été ordonné.
 
 **Liens relatifs à cet article**
 
@@ -31242,11 +33003,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 10 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code civil - art. 764 (M)
+  - Code civil - art. 831 (V)
 
 _Codifié par_:
 
@@ -31255,19 +33017,33 @@ _Codifié par_:
 
 ###### Article 832-1
 
-Par dérogation aux dispositions des alinéas quatorzième et seizième de l'article 832 et à moins que le maintien de
-l'indivision ne soit demandé en application des articles 815 (deuxième alinéa) et 815-1, l'attribution préférentielle visée
-au troisième alinéa de l'article 832 est de droit pour toute exploitation agricole qui ne dépasse pas les limites de
-superficies fixées par décret en Conseil d'Etat. En cas de pluralité de demandes, le tribunal désigne l'attributaire ou les
-attributaires conjoints en fonction des intérêts en présence et de l'aptitude des différents postulants à gérer
-l'exploitation et à s'y maintenir.
+Si le maintien dans l'indivision n'a pas été ordonné et à défaut d'attribution préférentielle en propriété dans les
+conditions prévues à l'article 831 ou à l'article 832, le conjoint survivant ou tout héritier copropriétaire peut demander
+l'attribution préférentielle de tout ou partie des biens et droits immobiliers à destination agricole dépendant de la
+succession en vue de constituer avec un ou plusieurs cohéritiers et, le cas échéant, un ou plusieurs tiers, un groupement
+foncier agricole. 
 
-Dans l'hypothèse prévue à l'alinéa précédent, même si l'attribution préférentielle a été accordée judiciairement,
-l'attributaire peut exiger de ses copartageants pour le paiement d'une fraction de la soulte, égale au plus à la moitié, des
-délais ne pouvant excéder dix ans. Sauf convention contraire, les sommes restant dues portent intérêt au taux légal.
+Cette attribution est de droit si le conjoint survivant ou un ou plusieurs des cohéritiers remplissant les conditions
+personnelles prévues à l'article 831, ou leurs descendants participant effectivement à l'exploitation, exigent que leur soit
+donné à bail, dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural, tout ou partie des biens du
+groupement. 
 
-En cas de vente de la totalité du bien attribué, la fraction de soulte restant due devient immédiatement exigible ; en cas de
-ventes partielles, le produit de ces ventes est versé aux copartageants et imputé sur la fraction de soulte encore due.
+En cas de pluralité de demandes, les biens du groupement peuvent, si leur consistance le permet, faire l'objet de plusieurs
+baux bénéficiant à des cohéritiers différents. 
+
+Si les clauses et conditions de ce bail ou de ces baux n'ont pas fait l'objet d'un accord, elles sont fixées par le
+tribunal. 
+
+Les biens et droits immobiliers que les demandeurs n'envisagent pas d'apporter au groupement foncier agricole, ainsi que les
+autres biens de la succession, sont attribués par priorité, dans les limites de leurs droits successoraux respectifs, aux
+indivisaires qui n'ont pas consenti à la formation du groupement. Si ces indivisaires ne sont pas remplis de leurs droits par
+l'attribution ainsi faite, une soulte doit leur être versée. Sauf accord amiable entre les copartageants, la soulte
+éventuellement due est payable dans l'année suivant le partage. Elle peut faire l'objet d'une dation en paiement sous la
+forme de parts du groupement foncier agricole, à moins que les intéressés, dans le mois suivant la proposition qui leur en
+est faite, n'aient fait connaître leur opposition à ce mode de règlement. 
+
+Le partage n'est parfait qu'après la signature de l'acte constitutif du groupement foncier agricole et, s'il y a lieu, du ou
+des baux à long terme.
 
 **Liens relatifs à cet article**
 
@@ -31298,20 +33074,105 @@ _Cité par_:
 
   - TXT_SOURCE: Arrêté du 22 août 1975
   - TXT_SOURCE: Arrêté du 22 août 1975 - art. Annexe (V)
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-  - SPEC_APPLI: Loi n°80-502 1980-07-04 art. 32
-  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 II (ouverture des successions)
   - SPEC_APPLI: Code civil - art. 832 (M)
-  - TXT_ASSOCIE: Code civil - art. 832-4 (M)
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 12 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code civil - art. 815 (M)
-  - Code civil - art. 815-1 (M)
+  - Code civil - art. 831 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 832-2
+
+Si une exploitation agricole constituant une unité économique et non exploitée sous forme sociale n'est pas maintenue dans
+l'indivision et n'a pas fait l'objet d'une attribution préférentielle dans les conditions prévues aux articles 831, 832 ou
+832-1, le conjoint survivant ou tout héritier copropriétaire qui désire poursuivre l'exploitation à laquelle il participe ou
+a participé effectivement peut exiger, nonobstant toute demande de licitation, que le partage soit conclu sous la condition
+que ses copartageants lui consentent un bail à long terme dans les conditions fixées au chapitre VI du titre Ier du livre IV
+du code rural, sur les terres de l'exploitation qui leur échoient. Dans le cas de l'héritier, la condition de participation
+peut avoir été remplie par son conjoint ou ses descendants. Sauf accord amiable entre les parties, celui qui demande à
+bénéficier de ces dispositions reçoit par priorité dans sa part les bâtiments d'exploitation et d'habitation. 
+
+Les dispositions qui précèdent sont applicables à une partie de l'exploitation agricole pouvant constituer une unité
+économique. Cette unité économique peut être formée, pour une part, de biens dont le conjoint survivant ou l'héritier était
+déjà propriétaire ou copropriétaire avant le décès. 
+
+Il est tenu compte, s'il y a lieu, de la dépréciation due à l'existence du bail dans l'évaluation des terres incluses dans
+les différents lots. 
+
+Les articles L. 412-14 et L. 412-15 du code rural déterminent les règles spécifiques au bail mentionné au premier alinéa du
+présent article. 
+
+Si, en raison de l'inaptitude manifeste du ou des demandeurs à gérer tout ou partie de l'exploitation, les intérêts des
+cohéritiers risquent d'être compromis, le tribunal peut décider qu'il n'y a pas lieu d'appliquer les trois premiers alinéas
+du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Cité par_:
+
+  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+  - Décret n°65-577 du 15 juillet 1965 - art. 2 (Ab)
+  - Loi n°70-1265 du 23 décembre 1970 - art. 2 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V)
+  - Code civil - art. 1471 (M)
+  - Code civil - art. 832 (M)
+  - Code civil - art. 832-3 (M)
+  - Code civil - art. 832-4 (M)
+  - Code rural - art. L143-6 (M)
+  - Code rural - art. L412-14 (V)
+  - Nouveau code de procédure civile - art. 1381 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 831 (V)
+  - Code civil - art. 832-1 (V)
+  - Code rural - art. L412-15 (V)
+
+
+###### Article 832-3
+
+L'attribution préférentielle peut être demandée conjointement par plusieurs successibles afin de conserver ensemble le bien
+indivis.
+
+A défaut d'accord amiable, la demande d'attribution préférentielle est portée devant le tribunal qui se prononce en fonction
+des intérêts en présence.
+
+En cas de demandes concurrentes, le tribunal tient compte de l'aptitude des différents postulants à gérer les biens en cause
+et à s'y maintenir. Pour l'entreprise, le tribunal tient compte en particulier de la durée de la participation personnelle à
+l'activité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 515-6 (VT)
+  - Code civil - art. 832-4 (M)
+  - Code rural - art. L322-14 (V)
+  - Code rural - art. L412-14 (M)
+  - Nouveau code de procédure civile - art. 1381 (V)
 
 _Codifié par_:
 
@@ -31320,17 +33181,23 @@ _Codifié par_:
 
 ###### Article 832-4
 
-Les dispositions des articles 832, 832-1, 832-2 et 832-3 profitent au conjoint ou à tout héritier, qu'il soit copropriétaire
-en pleine propriété ou en nue-propriété.
+Les biens faisant l'objet de l'attribution sont estimés à leur valeur à la date fixée conformément à l'article 829. 
 
-Les dispositions des articles 832, 832-2 et 832-3 profitent aussi au gratifié ayant vocation universelle ou à titre universel
-à la succession en vertu d'un testament ou d'une institution contractuelle.
+Sauf accord amiable entre les copartageants, la soulte éventuellement due est payable comptant. Toutefois, dans les cas
+prévus aux articles 831-3 et 832, l'attributaire peut exiger de ses copartageants, pour le paiement d'une fraction de la
+soulte, égale au plus à la moitié, des délais ne pouvant excéder dix ans. Sauf convention contraire, les sommes restant dues
+portent intérêt au taux légal. 
+
+En cas de vente de la totalité des biens attribués, la fraction de la soulte y afférente devient immédiatement exigible ; en
+cas de ventes partielles, le produit de ces ventes est versé aux copartageants et imputé sur la fraction de la soulte encore
+due.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°80-502 du 4 juillet 1980 - art. 31 () JORF 5 juillet 1980
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31339,18 +33206,17 @@ _Cité par_:
   - Code civil - art. 2505 (M)
   - Code civil - art. 515-6 (VT)
 
+_Cite_:
+
+  - Code civil - art. 829 (V)
+  - Code civil - art. 831-3 (V)
+  - Code civil - art. 832 (V)
+
 **Liens**:
 
   - TXT_ASSOCIE: Code civil - art. 832 (M)
   - TXT_ASSOCIE: Code civil - art. 832-1 (M)
   - TXT_ASSOCIE: Code civil - art. 832-3 (M)
-
-_Cite_:
-
-  - Code civil - art. 832 (M)
-  - Code civil - art. 832-1 (M)
-  - Code civil - art. 832-2 (M)
-  - Code civil - art. 832-3 (M)
 
 _Codifié par_:
 
@@ -31359,55 +33225,41 @@ _Codifié par_:
 
 ###### Article 833
 
-L'inégalité des lots en nature se compense par un retour soit en rente, soit en argent.
+Les dispositions des articles 831 à 832-4 profitent au conjoint ou à tout héritier appelé à succéder en vertu de la loi,
+qu'il soit copropriétaire en pleine propriété ou en nue-propriété. 
+
+Ces dispositions, à l'exception de celles de l'article 832, profitent aussi à l'héritier ayant une vocation universelle ou à
+titre universel à la succession en vertu d'un testament ou d'une institution contractuelle.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 2505 (V)
   - Code rural - art. L322-14 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 833-1
-
-Lorsque le débiteur d'une soulte a obtenu des délais de paiement, et que, par suite de circonstances économiques, la valeur
-des biens mis dans son lot a augmenté ou diminué de plus du quart depuis le partage, les sommes restant dues augmentent ou
-diminuent dans la même proportion.
-
-Les parties peuvent toutefois convenir que le montant de la soulte ne variera pas.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°71-523 du 3 juillet 1971 - art. 2 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-_Cité par_:
-
-  - Code civil - art. 1075-2 (T)
-  - Code civil - art. 815-14 (M)
-  - Code civil - art. 868 (T)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
+  - Code civil - art. 831 (V)
+  - Code civil - art. 832 (V)
 
 
 ###### Article 834
 
-Les lots sont faits par l'un des cohéritiers s'ils peuvent convenir entre eux sur le choix, et si celui qu'ils avaient choisi
-accepte la commission : dans le cas contraire, les lots sont faits par un expert que le juge-commissaire désigne.
+Le bénéficiaire de l'attribution préférentielle ne devient propriétaire exclusif du bien attribué qu'au jour du partage
+définitif.
 
-Ils sont ensuite tirés au sort.
+Jusqu'à cette date, il ne peut renoncer à l'attribution que lorsque la valeur du bien, telle que déterminée au jour de cette
+attribution, a augmenté de plus du quart au jour du partage indépendamment de son fait personnel.
 
 **Liens relatifs à cet article**
 
@@ -31415,14 +33267,20 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+
+##### Sous-section 2 : Du partage amiable.<a id=239></a>
 
 ###### Article 835
 
-Avant de procéder au tirage des lots, chaque copartageant est admis à proposer ses réclamations contre leur formation.
+Si tous les indivisaires sont présents et capables, le partage peut intervenir dans la forme et selon les modalités choisies
+par les parties.
+
+Lorsque l'indivision porte sur des biens soumis à la publicité foncière, l'acte de partage est passé par acte notarié.
 
 **Liens relatifs à cet article**
 
@@ -31430,17 +33288,30 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 836
 
-Les règles établies pour la division des masses à partager sont également observées dans la subdivision à faire entre les
-souches copartageantes.
+Si un indivisaire est présumé absent ou, par suite d'éloignement, se trouve hors d'état de manifester sa volonté, un partage
+amiable peut intervenir dans les conditions prévues à l'article 116. 
+
+De même, si un indivisaire fait l'objet d'un régime de protection, un partage amiable peut intervenir dans les conditions
+prévues aux titres X et XI du livre Ier.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 116 (V)
 
 _Cité par_:
 
@@ -31452,54 +33323,50 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 837
 
-Si, dans les opérations renvoyées devant un notaire, il s'élève des contestations, le notaire dressera procès-verbal des
-difficultés et des dires respectifs des parties, les renverra devant le commissaire nommé pour le partage ; et, au surplus,
-il sera procédé suivant les formes prescrites par les lois sur la procédure.
+Si un indivisaire est défaillant, sans qu'il soit néanmoins dans l'un des cas prévus à l'article 836, il peut, à la diligence
+d'un copartageant, être mis en demeure, par acte extrajudiciaire, de se faire représenter au partage amiable. 
+
+Faute pour cet indivisaire d'avoir constitué mandataire dans les trois mois de la mise en demeure, un copartageant peut
+demander au juge de désigner toute personne qualifiée qui représentera le défaillant jusqu'à la réalisation complète du
+partage. Cette personne ne peut consentir au partage qu'avec l'autorisation du juge.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
   - Code civil - art. 840 (V)
-  - Code de procédure civile - art. 977 (V)
+  - Code de procédure civile - art. 977 (Ab)
   - Nouveau code de procédure civile - art. 1358 (V)
   - Nouveau code de procédure civile - art. 1379 (V)
+
+_Cite_:
+
+  - Code civil - art. 836 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 838
 
-Si tous les cohéritiers ne sont pas présents, le partage doit être fait en justice, suivant les règles des articles 819 à
-837.
-
-Il en est de même s'il y a parmi eux des mineurs non émancipés ou des majeurs en tutelle, sous réserve de l'article 466.
-
-S'il y a plusieurs mineurs, il peut leur être donné à chacun un tuteur spécial et particulier.
+Le partage amiable peut être total ou partiel. Il est partiel lorsqu'il laisse subsister l'indivision à l'égard de certains
+biens ou de certaines personnes.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 _Cité par_:
 
@@ -31515,18 +33382,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
-
-_Cite_:
-
-  - Code civil - art. 466 (M)
-  - Code civil 466, 819 à 837
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 839
 
-S'il y a lieu à licitation, dans le cas prévu par l'alinéa 1er de l'article précédent, elle ne peut être faite qu'en justice
-avec les formalités prescrites pour l'aliénation des biens des mineurs. Les étrangers y sont toujours admis.
+Lorsque plusieurs indivisions existent exclusivement entre les mêmes personnes, qu'elles portent sur les mêmes biens ou sur
+des biens différents, un partage amiable unique peut intervenir.
 
 **Liens relatifs à cet article**
 
@@ -31534,34 +33397,30 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 _Cité par_:
 
   - Ordonnance n°45-1483 du 30 juin 1945 - art. 53 (Ab)
 
 _Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-_Cite_:
 
-  - Code civil - art. 838 (M)
-
+##### Sous-section 3 : Du partage judiciaire.<a id=240></a>
 
 ###### Article 840
 
-Les partages faits conformément aux règles ci-dessus prescrites au nom des présumés absents et non présents sont définitifs ;
-ils ne sont que provisionnels si les règles prescrites n'ont pas été observées.
+Le partage est fait en justice lorsque l'un des indivisaires refuse de consentir au partage amiable ou s'il s'élève des
+contestations sur la manière d'y procéder ou de le terminer ou lorsque le partage amiable n'a pas été autorisé ou approuvé
+dans l'un des cas prévus aux articles 836 et 837.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
-  - Loi n°77-1447 du 28 décembre 1977 - art. 4 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31571,51 +33430,109 @@ _Cité par_:
   - Code civil - art. 507 (V)
   - Code de l'organisation judiciaire - art. Tableau IV bis (V)
 
+_Cite_:
+
+  - Code civil - art. 836 (V)
+  - Code civil - art. 837 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 840-1
+
+Lorsque plusieurs indivisions existent exclusivement entre les mêmes personnes, qu'elles portent sur les mêmes biens ou sur
+des biens différents, un partage unique peut intervenir.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-04-19
 
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 841
+
+Le tribunal du lieu d'ouverture de la succession est exclusivement compétent pour connaître de l'action en partage et des
+contestations qui s'élèvent soit à l'occasion du maintien de l'indivision soit au cours des opérations de partage. Il ordonne
+les licitations et statue sur les demandes relatives à la garantie des lots entre les copartageants et sur celles en nullité
+de partage ou en complément de part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 841-1
+
+Si le notaire commis pour établir l'état liquidatif se heurte à l'inertie d'un indivisaire, il peut le mettre en demeure, par
+acte extrajudiciaire, de se faire représenter.
+
+Faute pour l'indivisaire d'avoir constitué mandataire dans les trois mois de la mise en demeure, le notaire peut demander au
+juge de désigner toute personne qualifiée qui représentera le défaillant jusqu'à la réalisation complète des opérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Nouveau code de procédure civile - art. 1367 (V)
+  - Nouveau code de procédure civile - art. 1369 (V)
+  - Nouveau code de procédure civile - art. 1379 (V)
 
 
 ###### Article 842
 
-Après le partage, remise doit être faite, à chacun des copartageants, des titres particuliers aux objets qui lui seront
-échus.
-
-Les titres d'une propriété divisée restent à celui qui a la plus grande part, à la charge d'en aider ceux de ses
-copartageants qui y auront intérêt, quand il en sera requis.
-
-Les titres communs à toute l'hérédité sont remis à celui que tous les héritiers ont choisi pour en être le dépositaire, à la
-charge d'en aider les copartageants, à toute réquisition. S'il y a difficulté sur ce choix, il est réglé par le juge.
+A tout moment, les copartageants peuvent abandonner les voies judiciaires et poursuivre le partage à l'amiable si les
+conditions prévues pour un partage de cette nature sont réunies.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 507 (V)
   - Nouveau code de procédure civile - art. 1372 (V)
 
-_Codifié par_:
 
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-#### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.<a id=220></a>
+#### Section 2 : Du rapport des libéralités.<a id=241></a>
 
 ###### Article 843
 
-Tout héritier, même bénéficiaire, venant à une succession, doit rapporter à ses cohéritiers tout ce qu'il a reçu du défunt,
-par donations entre vifs, directement ou indirectement ; il ne peut retenir les dons à lui faits par le défunt, à moins
-qu'ils ne lui aient été faits expressément par préciput et hors part, ou avec dispense de rapport.
+Tout héritier, même ayant accepté à concurrence de l'actif, venant à une succession, doit rapporter à ses cohéritiers tout ce
+qu'il a reçu du défunt, par donations entre vifs, directement ou indirectement ; il ne peut retenir les dons à lui faits par
+le défunt, à moins qu'ils ne lui aient été faits expressément hors part successorale.
 
-Les legs faits à un héritier sont réputés faits par préciput et hors part, à moins que le testateur n'ait exprimé la volonté
+Les legs faits à un héritier sont réputés faits hors part successorale, à moins que le testateur n'ait exprimé la volonté
 contraire, auquel cas le légataire ne peut réclamer son legs qu'en moins prenant.
 
 **Liens relatifs à cet article**
@@ -31624,15 +33541,16 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 844
 
-Les dons faits par préciput ou avec dispense de rapport ne peuvent être retenus ni les legs réclamés par l'héritier venant à
-partage que jusqu'à concurrence de la quotité disponible : l'excédent est sujet à réduction.
+Les dons faits hors part successorale ne peuvent être retenus ni les legs réclamés par l'héritier venant à partage que
+jusqu'à concurrence de la quotité disponible : l'excédent est sujet à réduction.
 
 **Liens relatifs à cet article**
 
@@ -31640,26 +33558,26 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 4 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 845
 
 L'héritier qui renonce à la succession peut cependant retenir le don entre vifs ou réclamer le legs à lui fait jusqu'à
-concurrence de la portion disponible.
+concurrence de la portion disponible à moins que le disposant ait expressément exigé le rapport en cas de renonciation.
+
+Dans ce cas, le rapport se fait en valeur. Lorsque la valeur rapportée excède les droits qu'il aurait dû avoir dans le
+partage s'il y avait participé, l'héritier renonçant indemnise les héritiers acceptants à concurrence de cet excédent.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31672,15 +33590,11 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ###### Article 846
 
 Le donataire qui n'était pas héritier présomptif lors de la donation, mais qui se trouve successible au jour de l'ouverture
-de la succession, doit également le rapport, à moins que le donateur ne l'en ait dispensé.
+de la succession, ne doit pas le rapport, à moins que le donateur ne l'ait expressément exigé.
 
 **Liens relatifs à cet article**
 
@@ -31688,9 +33602,10 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 847
@@ -31706,9 +33621,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 848
@@ -31723,9 +33638,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 849
@@ -31741,9 +33656,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 850
@@ -31756,30 +33671,36 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 851
 
 Le rapport est dû de ce qui a été employé pour l'établissement d'un des cohéritiers ou pour le paiement de ses dettes.
 
+Il est également dû en cas de donation de fruits ou de revenus, à moins que la libéralité n'ait été faite expressément hors
+part successorale.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 852
 
-Les frais de nourriture, d'entretien, d'éducation, d'apprentissage, les frais ordinaires d'équipement, ceux de noces et
-présents d'usage, ne doivent pas être rapportés.
+Les frais de nourriture, d'entretien, d'éducation, d'apprentissage, les frais ordinaires d'équipement, ceux de noces et les
+présents d'usage ne doivent pas être rapportés, sauf volonté contraire du disposant.
+
+Le caractère de présent d'usage s'apprécie à la date où il est consenti et compte tenu de la fortune du disposant.
 
 **Liens relatifs à cet article**
 
@@ -31787,9 +33708,10 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 853
@@ -31803,9 +33725,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 854
@@ -31819,9 +33741,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 855
@@ -31839,22 +33761,16 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 5 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 856
 
-Les fruits et les intérêts des choses sujettes à rapport ne sont dus qu'à compter du jour de l'ouverture de la succession.
+Les fruits des choses sujettes à rapport sont dus à compter du jour de l'ouverture de la succession.
+
+Les intérêts ne sont dus qu'à compter du jour où le montant du rapport est déterminé.
 
 **Liens relatifs à cet article**
 
@@ -31862,9 +33778,10 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 857
@@ -31878,39 +33795,38 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 858
 
-Le rapport se fait en moins prenant. Il ne peut être exigé en nature sauf stipulation contraire de l'acte de donation.
+Le rapport se fait en moins prenant, sauf dans le cas du deuxième alinéa de l'article 845.
+
+Il ne peut être exigé en nature, sauf stipulation contraire de l'acte de donation.
 
 Dans le cas d'une telle stipulation, les aliénations et constitutions de droits réels consenties par le donataire
 s'éteindront par l'effet du rapport à moins que le donateur n'y ait consenti.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Décret n°2009-1193 du 7 octobre 2009 - art. 4 (VD)
+
+_Cite_:
+
+  - Code civil - art. 845 (M)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 859
@@ -31922,57 +33838,40 @@ libre de toute charge ou occupation dont il n'aurait pas déjà été grevé à 
 
 _Cité par_:
 
+  - Loi du 1er juin 1924 - art. 38 (V)
   - Décret du 18 novembre 1924 - art. 25 (Ab)
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-  - Loi du 1er juin 1924 - art. 38 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 860
 
-Le rapport est dû de la valeur du bien donné à l'époque du partage, d'après son état à l'époque de la donation.
+Le rapport est dû de la valeur du bien donné à l'époque du partage, d'après son état à l'époque de la donation. 
 
-Si le bien a été aliéné avant le partage, on tiendra compte de la valeur qu'il avait à l'époque de l'aliénation et, si un
-nouveau bien a été subrogé au bien aliéné, de la valeur de ce nouveau bien à l'époque du partage.
+Si le bien a été aliéné avant le partage, on tient compte de la valeur qu'il avait à l'époque de l'aliénation. Si un nouveau
+bien a été subrogé au bien aliéné, on tient compte de la valeur de ce nouveau bien à l'époque du partage, d'après son état à
+l'époque de l'acquisition. Toutefois, si la dépréciation du nouveau bien était, en raison de sa nature, inéluctable au jour
+de son acquisition, il n'est pas tenu compte de la subrogation. 
 
 Le tout sauf stipulation contraire dans l'acte de donation.
 
 S'il résulte d'une telle stipulation que la valeur sujette à rapport est inférieure à la valeur du bien déterminé selon les
-règles d'évaluation prévues par l'article 922 ci-dessous, cette différence forme un avantage indirect acquis au donataire par
-préciput et hors part.
+règles d'évaluation prévues par l'article 922 ci-dessous, cette différence forme un avantage indirect acquis au donataire
+hors part successorale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31983,7 +33882,35 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 922 (M)
+  - Code civil - art. 922 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 860-1
+
+Le rapport d'une somme d'argent est égal à son montant. Toutefois, si elle a servi à acquérir un bien, le rapport est dû de
+la valeur de ce bien, dans les conditions prévues à l'article 860.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 860 (V)
+
+_Anciens textes_:
+
+  - Code civil - art. 869 (T)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 861
@@ -32000,17 +33927,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 862
@@ -32024,17 +33943,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 863
@@ -32048,28 +33959,22 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+
+#### Section 3 : Du paiement des dettes<a id=242></a>
+
+##### Paragraphe 1 : Des dettes des copartageants<a id=243></a>
 
 ###### Article 864
 
-La donation faite en avancement d'hoirie à un héritier réservataire qui accepte la succession s'impute sur sa part de réserve
-et, subsidiairement, sur la quotité disponible, s'il n'en a pas été autrement convenu dans l'acte de donation.
+Lorsque la masse partageable comprend une créance à l'encontre de l'un des copartageants, exigible ou non, ce dernier en est
+alloti dans le partage à concurrence de ses droits dans la masse.
 
-L'excédent est sujet à réduction.
-
-La donation faite en avancement d'hoirie à un héritier réservataire qui renonce à la succession est traitée comme une
-donation préciputaire.
+A due concurrence, la dette s'éteint par confusion. Si son montant excède les droits du débiteur dans cette masse, il doit le
+paiement du solde sous les conditions et délais qui affectaient l'obligation.
 
 **Liens relatifs à cet article**
 
@@ -32077,49 +33982,42 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 865
 
-La libéralité faite par préciput et hors part s'impute sur la quotité disponible. L'excédent est sujet à réduction.
+Sauf lorsqu'elle est relative aux biens indivis, la créance n'est pas exigible avant la clôture des opérations de partage.
+Toutefois, l'héritier débiteur peut décider à tout moment de s'en acquitter volontairement.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Décret du 18 novembre 1924 - art. 25 (Ab)
   - Loi du 1er juin 1924 - art. 38 (V)
+  - Décret du 18 novembre 1924 - art. 25 (Ab)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 866
 
-Les dons faits à un successible, ou à des successibles conjointement, qui excèdent la portion disponible, peuvent être
-retenus en totalité par les gratifiés, quel que soit l'excédent, sauf à récompenser les cohéritiers en argent.
+Les sommes rapportables produisent intérêt au taux légal, sauf stipulation contraire.
+
+Ces intérêts courent depuis l'ouverture de la succession lorsque l'héritier en était débiteur envers le défunt et à compter
+du jour où la dette est exigible, lorsque celle-ci est survenue durant l'indivision.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 _Cité par_:
 
@@ -32133,13 +34031,10 @@ _Cité par_:
   - Code civil - art. 924 (M)
   - Code rural - art. L323-6 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
@@ -32148,10 +34043,8 @@ _Codifié par_:
 
 ###### Article 867
 
-Lorsque le legs fait à un successible, ou à des successibles conjointement, porte sur un bien ou sur plusieurs biens
-composant un ensemble, dont la valeur excède la portion disponible, le ou les légataires peuvent, quel que soit cet excédent,
-réclamer en totalité l'objet de la libéralité, sauf à récompenser les cohéritiers en argent. Il en est de même si la
-libéralité porte sur des objets mobiliers ayant été à l'usage commun du défunt et du légataire.
+Lorsque le copartageant a lui-même une créance à faire valoir, il n'est alloti de sa dette que si, balance faite, le compte
+présente un solde en faveur de la masse indivise.
 
 **Liens relatifs à cet article**
 
@@ -32159,111 +34052,13 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-###### Article 868
-
-Lorsque la réduction n'est pas exigible en nature, le donataire ou légataire est débiteur d'une indemnité équivalente à la
-portion excessive de la libéralité réductible. Cette indemnité se calcule d'après la valeur des objets donnés ou légués à
-l'époque du partage et leur état au jour où la libéralité a pris effet.
-
-Elle est payable au moment du partage, sauf accord entre les cohéritiers. Toutefois, lorsque la libéralité a pour objet un
-des biens pouvant faire l'objet d'une attribution préférentielle, des délais peuvent être accordés par le tribunal, compte
-tenu des intérêts en présence, s'ils ne l'ont pas été par le disposant. L'octroi de ces délais ne peut, en aucun cas, avoir
-pour effet de différer le paiement de l'indemnité au-delà de dix années à compter de l'ouverture de la succession. Les
-dispositions de l'article 833-1 sont alors applicables au paiement des sommes dues.
-
-A défaut de convention ou de stipulation contraire, ces sommes sont productives d'intérêt au taux légal en matière civile.
-Les avantages résultant des délais et modalités de paiement accordés ne constituent pas une libéralité.
-
-En cas de vente de la totalité du bien donné ou légué, les sommes restant dues deviennent immédiatement exigibles ; en cas de
-ventes partielles, le produit de ces ventes est versé aux cohéritiers et imputé sur les sommes encore dues.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
-_Modifié par_:
-
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-_Transféré par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 397 (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1722 bis (M)
-  - Code rural - art. L321-17 (M)
-
-_Cite_:
-
-  - Code civil - art. 833-1 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 924-3 (V)
-
-
-###### Article 869
-
-Le rapport d'une somme d'argent est égal à son montant. Toutefois, si elle a servi à acquérir un bien, le rapport est dû de
-la valeur de ce bien, dans les conditions prévues à l'article 860.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
-_Modifié par_:
-
-  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-_Transféré par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-_Cite_:
-
-  - Code civil - art. 860 (M)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 860-1 (V)
-
-
-#### Section 3 : Du paiement des dettes.<a id=221></a>
+##### Paragraphe 2 : Des autres dettes<a id=244></a>
 
 ###### Article 870
 
@@ -32276,9 +34071,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 871
@@ -32292,9 +34087,9 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 872
@@ -32311,14 +34106,14 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 873
 
-Les héritiers sont tenus des dettes et charges de la succession, personnellement pour leur part et portion virile, et
+Les héritiers sont tenus des dettes et charges de la succession, personnellement pour leur part successorale, et
 hypothécairement pour le tout ; sauf leur recours soit contre leurs cohéritiers, soit contre les légataires universels, à
 raison de la part pour laquelle ils doivent y contribuer.
 
@@ -32328,15 +34123,16 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 874
 
 Le légataire particulier qui a acquitté la dette dont l'immeuble légué était grevé demeure subrogé aux droits du créancier
-contre les héritiers et successeurs à titre universel.
+contre les héritiers.
 
 **Liens relatifs à cet article**
 
@@ -32344,18 +34140,19 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 875
 
-Le cohéritier ou successeur à titre universel qui, par l'effet de l'hypothèque, a payé au-delà de sa part de la dette
-commune, n'a de recours contre les autres cohéritiers ou successeurs à titre universel, que pour la part que chacun d'eux
-doit personnellement en supporter, même dans le cas où le cohéritier qui a payé la dette se serait fait subroger aux droits
-des créanciers ; sans préjudice néanmoins des droits d'un cohéritier qui, par l'effet du bénéfice d'inventaire, aurait
-conservé la faculté de réclamer le paiement de sa créance personnelle, comme tout autre créancier.
+Le cohéritier qui, par l'effet de l'hypothèque, a payé au-delà de sa part de la dette commune, n'a de recours contre les
+autres cohéritiers, que pour la part que chacun d'eux doit personnellement en supporter, même dans le cas où le cohéritier
+qui a payé la dette se serait fait subroger aux droits des créanciers ; sans préjudice néanmoins des droits d'un cohéritier
+qui, par l'effet de l'acceptation à concurrence de l'actif net, aurait conservé la faculté de réclamer le paiement de sa
+créance personnelle, comme tout autre créancier.
 
 **Liens relatifs à cet article**
 
@@ -32363,15 +34160,16 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 876
 
-En cas d'insolvabilité d'un des cohéritiers ou successeurs à titre universel, sa part dans la dette hypothécaire est répartie
-sur tous les autres, au marc le franc.
+En cas d'insolvabilité d'un des cohéritiers, sa part dans la dette hypothécaire est répartie sur tous les autres, au marc le
+franc.
 
 **Liens relatifs à cet article**
 
@@ -32379,58 +34177,69 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 877
 
-Les titres exécutoires contre le défunt sont pareillement exécutoires contre l'héritier personnellement ; et, néanmoins, les
-créanciers ne pourront en poursuivre l'exécution que huit jours après la signification de ces titres à la personne ou au
-domicile de l'héritier.
+Le titre exécutoire contre le défunt l'est aussi contre l'héritier, huit jours après que la signification lui en a été faite.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code civil - art. 792-1 (V)
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 90 (Ab)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Cité par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 90 (Ab)
+  - Code civil - art. 792-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 878
 
-Ils peuvent demander, dans tous les cas, et contre tout créancier, la séparation du patrimoine du défunt d'avec le patrimoine
-de l'héritier.
+Les créanciers du défunt et les légataires de sommes d'argent peuvent demander à être préférés sur l'actif successoral à tout
+créancier personnel de l'héritier. 
+
+Réciproquement, les créanciers personnels de l'héritier peuvent demander à être préférés à tout créancier du défunt sur les
+biens de l'héritier non recueillis au titre de la succession. 
+
+Le droit de préférence donne lieu au privilège sur les immeubles prévu au 6° de l'article 2374 et il est sujet à inscription
+conformément à l'article 2383.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 2103 (T)
   - Code civil - art. 2374 (V)
 
+_Cite_:
+
+  - Code civil - art. 2383 (V)
+
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 879
 
-Ce droit ne peut cependant plus être exercé lorsqu'il y a novation dans la créance contre le défunt par l'acceptation de
-l'héritier pour débiteur.
+Ce droit peut s'exercer par tout acte par lequel un créancier manifeste au créancier concurrent son intention d'être préféré
+sur un bien déterminé.
 
 **Liens relatifs à cet article**
 
@@ -32438,16 +34247,15 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 880
 
-Il se prescrit, relativement aux meubles, par le laps de trois ans.
-
-A l'égard des immeubles, l'action peut être exercée tant qu'ils existent dans la main de l'héritier.
+Il ne peut pas être exercé lorsque le créancier demandeur y a renoncé.
 
 **Liens relatifs à cet article**
 
@@ -32455,15 +34263,17 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 881
 
-Les créanciers de l'héritier ne sont point admis à demander la séparation des patrimoines contre les créanciers de la
-succession.
+Il se prescrit, relativement aux meubles, par deux ans à compter de l'ouverture de la succession.
+
+A l'égard des immeubles, l'action peut être exercée tant qu'ils demeurent entre les mains de l'héritier.
 
 **Liens relatifs à cet article**
 
@@ -32471,9 +34281,10 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 6 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 882
@@ -32496,12 +34307,12 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-#### Section 4 : Des effets du partage et de la garantie des lots.<a id=222></a>
+#### Section 4 : Des effets du partage et de la garantie des lots<a id=245></a>
 
 ###### Article 883
 
@@ -32529,23 +34340,16 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 _Modifié par_:
 
-  - Loi n°76-1286 du 31 décembre 1976 - art. 18 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 884
 
 Les cohéritiers demeurent respectivement garants, les uns envers les autres, des troubles et évictions seulement qui
-procèdent d'une cause antérieure au partage.
+procèdent d'une cause antérieure au partage. Ils sont également garants de l'insolvabilité du débiteur d'une dette mise dans
+le lot d'un copartageant, révélée avant le partage.
 
 La garantie n'a pas lieu si l'espèce d'éviction soufferte a été exceptée par une clause particulière et expresse de l'acte de
 partage ; elle cesse si c'est par sa faute que le cohéritier souffre l'éviction.
@@ -32556,15 +34360,16 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 7 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 885
 
-Chacun des cohéritiers est personnellement obligé, en proportion de sa part héréditaire, d'indemniser son cohéritier de la
-perte que lui a causée l'éviction.
+Chacun des cohéritiers est personnellement obligé, à proportion de son émolument, d'indemniser le cohéritier évincé de la
+perte qu'il a subie, évaluée au jour de l'éviction.
 
 Si l'un des cohéritiers se trouve insolvable, la portion dont il est tenu doit être également répartie entre le garanti et
 tous les cohéritiers solvables.
@@ -32575,15 +34380,15 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 7 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 886
 
-La garantie de solvabilité du débiteur d'une rente ne peut être exercée que dans les cinq ans qui suivent le partage. Il n'y
-a pas lieu à garantie à raison de l'insolvabilité du débiteur quand elle n'est survenue que depuis le partage consommé.
+L'action en garantie se prescrit par deux ans à compter de l'éviction ou de la découverte du trouble.
 
 **Liens relatifs à cet article**
 
@@ -32591,22 +34396,32 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 7 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-#### Section 5 : De la rescision en matière de partage.<a id=223></a>
+#### Section 5 : Des actions en nullité du partage ou en complément de part<a id=246></a>
+
+##### Paragraphe 1 : Des actions en nullité du partage<a id=247></a>
 
 ###### Article 887
 
-Les partages peuvent être rescindés pour cause de violence ou de dol.
+Le partage peut être annulé pour cause de violence ou de dol.
 
-Il peut aussi y avoir lieu à rescision lorsqu'un des cohéritiers établit, à son préjudice, une lésion de plus du quart. La
-simple omission d'un objet de la succession ne donne pas ouverture à l'action en rescision, mais seulement à un supplément à
-l'acte de partage.
+Il peut aussi être annulé pour cause d'erreur, si celle-ci a porté sur l'existence ou la quotité des droits des copartageants
+ou sur la propriété des biens compris dans la masse partageable.
+
+S'il apparaît que les conséquences de la violence, du dol ou de l'erreur peuvent être réparées autrement que par l'annulation
+du partage, le tribunal peut, à la demande de l'une des parties, ordonner un partage complémentaire ou rectificatif.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 8 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -32616,18 +34431,33 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
+
+###### Article 887-1
+
+Le partage peut être également annulé si un des cohéritiers y a été omis.
+
+L'héritier omis peut toutefois demander de recevoir sa part, soit en nature, soit en valeur, sans annulation du partage.
+
+Pour déterminer cette part, les biens et droits sur lesquels a porté le partage déjà réalisé sont réévalués de la même
+manière que s'il s'agissait d'un nouveau partage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
 _Créé par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 8 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 888
 
-L'action en rescision est admise contre tout acte qui a pour objet de faire cesser l'indivision entre cohéritiers, encore
-qu'il fût qualifié de vente, d'échange et de transaction, ou de toute autre manière.
-
-Mais après le partage, ou l'acte qui en tient lieu, l'action en rescision n'est plus admissible contre la transaction faite
-sur les difficultés réelles que présentait le premier acte, même quand il n'y aurait pas eu à ce sujet de procès commencé.
+Le copartageant qui a aliéné son lot en tout ou partie n'est plus recevable à intenter une action fondée sur le dol, l'erreur
+ou la violence, si l'aliénation qu'il a faite est postérieure à la découverte du dol ou de l'erreur ou à la cessation de la
+violence.
 
 **Liens relatifs à cet article**
 
@@ -32635,15 +34465,21 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 8 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+
+##### Paragraphe 2 : De l'action en complément de part<a id=248></a>
 
 ###### Article 889
 
-L'action n'est pas admise contre une vente de droits successifs faite sans fraude à l'un des cohéritiers, à ses risques et
-périls, par ses autres cohéritiers ou par l'un deux.
+Lorsque l'un des copartageants établit avoir subi une lésion de plus du quart, le complément de sa part lui est fourni, au
+choix du défendeur, soit en numéraire, soit en nature. Pour apprécier s'il y a eu lésion, on estime les objets suivant leur
+valeur à l'époque du partage.
+
+L'action en complément de part se prescrit par deux ans à compter du partage.
 
 **Liens relatifs à cet article**
 
@@ -32651,14 +34487,22 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 8 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 890
 
-Pour juger s'il y a eu lésion, on estime les objets suivant leur valeur à l'époque du partage.
+L'action en complément de part est admise contre tout acte, quelle que soit sa dénomination, dont l'objet est de faire cesser
+l'indivision entre copartageants.
+
+L'action n'est plus admise lorsqu'une transaction est intervenue à la suite du partage ou de l'acte qui en tient lieu sur les
+difficultés que présentait ce partage ou cet acte.
+
+En cas de partages partiels successifs, la lésion s'apprécie sans tenir compte ni du partage partiel déjà intervenu lorsque
+celui-ci a rempli les parties de leurs droits par parts égales ni des biens non encore partagés.
 
 **Liens relatifs à cet article**
 
@@ -32666,15 +34510,17 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 8 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 891
 
-Le défendeur à la demande en rescision peut en arrêter le cours et empêcher un nouveau partage en offrant et en fournissant
-au demandeur le supplément de sa portion héréditaire soit en numéraire, soit en nature.
+L'action en complément de part n'est pas admise contre une vente de droits indivis faite sans fraude à un indivisaire par ses
+co-indivisaires ou par l'un d'eux, lorsque la cession comporte un aléa défini dans l'acte et expressément accepté par le
+cessionnaire.
 
 **Liens relatifs à cet article**
 
@@ -32682,506 +34528,38 @@ _Codifié par_:
 
   - Loi n°1803-04-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 8 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 892
 
-Le cohéritier qui a aliéné son lot en tout ou partie, n'est plus recevable à intenter l'action en rescision pour dol ou
-violence si l'aliénation qu'il a faite est postérieure à la découverte du dol ou à la cessation de la violence.
+La simple omission d'un bien indivis donne lieu à un partage complémentaire portant sur ce bien.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-### Chapitre VII : Du régime légal de l'indivision.<a id=224></a>
-
-#### Section 1 : Des actes relatifs aux biens indivis.<a id=225></a>
-
-###### Article 815-8
-
-Quiconque perçoit des revenus ou expose des frais pour le compte de l'indivision doit en tenir un état qui est à la
-disposition des indivisaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-
-###### Article 815-9
-
-Chaque indivisaire peut user et jouir des biens indivis conformément à leur destination, dans la mesure compatible avec le
-droit des autres indivisaires et avec l'effet des actes régulièrement passés au cours de l'indivision. A défaut d'accord
-entre les intéressés, l'exercice de ce droit est réglé, à titre provisoire, par le président du tribunal.
-
-L'indivisaire qui use ou jouit privativement de la chose indivise est, sauf convention contraire, redevable d'une indemnité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-_Cité par_:
-
-  - Code civil - art. 1873-11 (V)
-
-
-###### Article 815-10
-
-Les fruits et les revenus des biens indivis accroissent à l'indivision, à défaut de partage provisionnel ou de tout autre
-accord établissant la jouissance divise.
-
-Aucune recherche relative aux fruits et revenus ne sera, toutefois, recevable plus de cinq ans après la date à laquelle ils
-ont été perçus ou auraient pu l'être.
-
-Chaque indivisaire a droit aux bénéfices provenant des biens indivis et supporte les pertes proportionnellement à ses droits
-dans l'indivision.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-
-###### Article 815-11
-
-Tout indivisaire peut demander sa part annuelle dans les bénéfices, déduction faite des dépenses entraînées par les actes
-auxquels il a consenti ou qui lui sont opposables.
-
-A défaut d'autre titre, l'étendue des droits de chacun dans l'indivision résulte de l'acte de notoriété ou de l'intitulé
-d'inventaire établi par le notaire.
-
-En cas de contestation, le président du tribunal de grande instance peut ordonner une répartition provisionnelle des
-bénéfices sous réserve d'un compte à établir lors de la liquidation définitive.
-
-A concurrence des fonds disponibles, il peut semblablement ordonner une avance en capital sur les droits de l'indivisaire
-dans le partage à intervenir.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-
-###### Article 815-12
-
-L'indivisaire qui gère un ou plusieurs biens indivis est redevable des produits nets de sa gestion. Il a droit à la
-rémunération de son activité dans les conditions fixées à l'amiable ou, à défaut, par décision de justice.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-
-###### Article 815-13
-
-Lorsqu'un indivisaire a amélioré à ses frais l'état d'un bien indivis, il doit lui en être tenu compte selon l'équité, eu
-égard à ce dont la valeur du bien se trouve augmentée au temps du partage ou de l'aliénation. Il doit lui être pareillement
-tenu compte des impenses nécessaires qu'il a faites de ses deniers personnels pour la conservation desdits biens, encore
-qu'elles ne les aient point améliorés.
-
-Inversement, l'indivisaire répond des dégradations et détériorations qui ont diminué la valeur des biens indivis par son fait
-ou par sa faute.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-
-###### Article 815-14
-
-L'indivisaire qui entend céder, à titre onéreux, à une personne étrangère à l'indivision, tout ou partie de ses droits dans
-les biens indivis ou dans un ou plusieurs de ces biens est tenu de notifier par acte extrajudiciaire aux autres indivisaires
-le prix et les conditions de la cession projetée ainsi que les nom, domicile et profession de la personne qui se propose
-d'acquérir.
-
-Tout indivisaire peut, dans le délai d'un mois qui suit cette notification, faire connaître au cédant, par acte
-extrajudiciaire, qu'il exerce un droit de préemption aux prix et conditions qui lui ont été notifiés.
-
-En cas de préemption, celui qui l'exerce dispose pour la réalisation de l'acte de vente d'un délai de deux mois à compter de
-la date d'envoi de sa réponse au vendeur. Passé ce délai, sa déclaration de préemption est nulle de plein droit, quinze jours
-après une mise en demeure restée sans effet, et sans préjudice des dommages-intérêts qui peuvent lui être demandés par le
-vendeur.
-
-Si plusieurs indivisaires exercent leur droit de préemption, ils sont réputés, sauf convention contraire, acquérir ensemble
-la portion mise en vente en proportion de leur part respective dans l'indivision.
-
-Lorsque des délais de paiement ont été consentis par le cédant, l'article 833-1 est applicable.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
-  - Code civil - art. 1873-12 (V)
-  - Code civil - art. 815-16 (V)
-  - Code civil - art. 815-18 (V)
-  - Code rural et de la pêche maritime - art. L143-4 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-  - TXT_ASSOCIE: Code civil 815-16 *sanctions*
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-_Cite_:
-
-  - Code civil - art. 833-1 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-
-###### Article 815-15
-
-S'il y a lieu à l'adjudication de tout ou partie des droits d'un indivisaire dans les biens indivis ou dans un ou plusieurs
-de ces biens, l'avocat ou le notaire doit en informer les indivisaires par notification un mois avant la date prévue pour la
-vente. Chaque indivisaire peut se substituer à l'acquéreur dans un délai d'un mois à compter de l'adjudication, par
-déclaration au secrétariat-greffe ou auprès du notaire.
-
-Le cahier des charges établi en vue de la vente doit faire mention des droits de substitution.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code civil - art. 815-16 (V)
-  - Code civil - art. 815-18 (V)
-  - Code rural - art. L143-4 (V)
-  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil 815-16 *sanctions*
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
 
 _Modifié par_:
 
-  - Loi n°78-627 du 10 juin 1978 - art. 2 () JORF 11 juin 1978
+  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 8 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-###### Article 815-16
+## Titre II : Des libéralités<a id=249></a>
 
-Est nulle toute cession ou toute licitation opérée au mépris des dispositions des articles 815-14 et 815-15. L'action en
-nullité se prescrit par cinq ans. Elle ne peut être exercée que par ceux à qui les notifications devaient être faites ou par
-leurs héritiers.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-_Cite_:
-
-  - Code civil - art. 815-14 (M)
-  - Code civil - art. 815-15 (M)
-
-_Cité par_:
-
-  - Code civil - art. 815-18 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-
-###### Article 815-17
-
-Les créanciers qui auraient pu agir sur les biens indivis avant qu'il y eût indivision, et ceux dont la créance résulte de la
-conservation ou de la gestion des biens indivis, seront payés par prélèvement sur l'actif avant le partage. Ils peuvent en
-outre poursuivre la saisie et la vente des biens indivis.
-
-Les créanciers personnels d'un indivisaire ne peuvent saisir sa part dans les biens indivis, meubles ou immeubles.
-
-Ils ont toutefois la faculté de provoquer le partage au nom de leur débiteur ou d'intervenir dans le partage provoqué par
-lui. Les coïndivisaires peuvent arrêter le cours de l'action en partage en acquittant l'obligation au nom et en l'acquit du
-débiteur. Ceux qui exerceront cette faculté se rembourseront par prélèvement sur les biens indivis.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-_Cité par_:
-
-  - Code civil - art. 1873-15 (V)
-
-
-###### Article 815-18
-
-Les dispositions des articles 815 à 815-17 sont applicables aux indivisions en usufruit en tant qu'elles sont compatibles
-avec les règles de l'usufruit.
-
-Les notifications prévues par les articles 815-14, 815-15 et 815-16 doivent être adressées à tout nu-propriétaire et à tout
-usufruitier. Mais un usufruitier ne peut acquérir une part en nue-propriété que si aucun nu-propriétaire ne s'en porte
-acquéreur ; un nu-propriétaire ne peut acquérir une part en usufruit que si aucun usufruitier ne s'en porte acquéreur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-_Cité par_:
-
-  - Code civil - art. 1873-12 (V)
-
-_Cite_:
-
-  - Code civil - art. 814 (M)
-  - Code civil 814, 815 à 815-17
-
-
-### Chapitre VIII : Du partage.<a id=226></a>
-
-#### Section 1 : Des opérations de partage.<a id=227></a>
-
-##### Sous-section 1 : Dispositions communes.<a id=228></a>
-
-##### Paragraphe 3 : Des attributions préférentielles.<a id=229></a>
-
-###### Article 832-2
-
-Si le maintien dans l'indivision n'a pas été ordonné en application des articles 815, deuxième alinéa, et 815-1, et à défaut
-d'attribution préférentielle en propriété, prévue aux articles 832, troisième alinéa, ou 832-1, le conjoint survivant ou tout
-héritier copropriétaire peut demander l'attribution préférentielle de tout ou partie des biens et droits immobiliers à
-destination agricole dépendant de la succession en vue de constituer, avec un ou plusieurs cohéritiers et, le cas échéant, un
-ou plusieurs tiers, un groupement foncier agricole.
-
-Cette attribution est de droit si le conjoint survivant ou un ou plusieurs des cohéritiers remplissant les conditions
-personnelles prévues à l'article 832, troisième alinéa, exigent que leur soit donné à bail, dans les conditions fixées au
-chapitre VII du titre I du livre VI du code rural, tout ou partie des biens du groupement.
-
-En cas de pluralité de demandes, les biens du groupement peuvent, si leur consistance le permet, faire l'objet de plusieurs
-baux bénéficiant à des cohéritiers différents ; dans le cas contraire, et à défaut d'accord amiable le tribunal désigne le
-preneur en tenant compte de l'aptitude des différents postulants à gérer les biens concernés et à s'y maintenir. Si les
-clauses et conditions de ce bail ou de ces baux n'ont pas fait l'objet d'un accord, elles sont fixées par le tribunal.
-
-Les biens et droits immobiliers que les demandeurs n'envisagent pas d'apporter au groupement foncier agricole, ainsi que les
-autres biens de la succession, sont attribués par priorité, dans les limites de leurs droits successoraux respectifs, aux
-indivisaires qui n'ont pas consenti à la formation du groupement. Si ces indivisaires ne sont pas remplis de leurs droits par
-l'attribution ainsi faite, une soulte doit leur être versée. Sauf accord amiable entre les copartageants, la soulte
-éventuellement due est payable dans l'année suivant le partage. Elle peut faire l'objet d'une dation en paiement sous la
-forme de parts du groupement foncier agricole, à moins que les intéressés, dans le mois suivant la proposition qui leur en
-est faite, n'aient fait connaître leur opposition à ce mode de règlement.
-
-Le partage n'est parfait qu'après la signature de l'acte constitutif du groupement foncier agricole et, s'il y a lieu, du ou
-des baux à long terme.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°61-1378 du 19 décembre 1961 - art. 4 () JORF 20 décembre 1961
-
-_Cité par_:
-
-  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
-  - Décret n°65-577 du 15 juillet 1965 - art. 2 (Ab)
-  - Loi n°70-1265 du 23 décembre 1970 - art. 2 (V)
-  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V)
-  - Code civil - art. 1471 (M)
-  - Code civil - art. 832 (M)
-  - Code civil - art. 832-3 (M)
-  - Code civil - art. 832-4 (M)
-  - Code rural - art. L143-6 (M)
-  - Code rural - art. L412-14 (V)
-  - Nouveau code de procédure civile - art. 1381 (V)
-
-_Modifié par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 16 () JORF 1er juillet 1977
-  - Loi n°80-502 du 4 juillet 1980 - art. 30 () JORF 5 juillet 1980
-
-_Cite_:
-
-  - Code civil - art. 815 (M)
-  - Code civil - art. 832-1 (M)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-
-###### Article 832-3
-
-Si une exploitation agricole constituant une unité économique et non exploitée sous forme sociale n'est pas maintenue dans
-l'indivision en application des articles 815, 2e alinéa, et 815-1, et n'a pas fait l'objet d'une attribution préférentielle
-dans les conditions prévues aux articles 832, 832-1 ou 832-2, le conjoint survivant ou tout héritier copropriétaire qui
-désire poursuivre l'exploitation à laquelle il participe ou a participé effectivement peut exiger, nonobstant toute demande
-de licitation, que le partage soit conclu sous la condition que ses copartageants lui consentent un bail à long terme dans
-les conditions fixées au chapitre VII du titre Ier du livre VI du code rural, sur les terres de l'exploitation qui leur
-échoient. Sauf accord amiable entre les parties, celui qui demande à bénéficier de ces dispositions reçoit par priorité dans
-sa part les bâtiments d'exploitation et d'habitation.
-
-Les dispositions qui précèdent sont applicables à une partie de l'exploitation agricole pouvant constituer une unité
-économique.
-
-Il est tenu compte, s'il y a lieu, de la dépréciation due à l'existence du bail dans l'évaluation des terres incluses dans
-les différents lots.
-
-Les articles 807 et 808 du code rural déterminent les règles spécifiques au bail visé au premier alinéa du présent article.
-
-S'il y a pluralité de demandes, le tribunal de grande instance désigne le ou les bénéficiaires en fonction des intérêts en
-présence et de l'aptitude des différents postulants à gérer tout ou partie de l'exploitation ou à s'y maintenir.
-
-Si, en raison de l'inaptitude manifeste du ou des demandeurs à gérer tout ou partie de l'exploitation, les intérêts des
-cohéritiers risquent d'être compromis, le tribunal peut décider qu'il n'y a pas lieu d'appliquer les trois premiers alinéas
-du présent article.
-
-L'unité économique prévue au premier alinéa peut être formée, pour une part, de biens dont le conjoint survivant ou
-l'héritier était déjà propriétaire ou copropriétaire avant le décès. Dans le cas de l'héritier, la condition de participation
-peut avoir été remplie par son conjoint.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°70-1265 du 23 décembre 1970 - art. 1 () JORF 29 décembre 1970
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°80-502 1980-07-04 art. 32
-  - TXT_ASSOCIE: Code civil - art. 832-4 (M)
-
-_Modifié par_:
-
-  - Loi n°80-502 du 4 juillet 1980 - art. 33 () JORF 5 juillet 1980
-
-_Cité par_:
-
-  - Code civil - art. 515-6 (VT)
-  - Code civil - art. 832-4 (M)
-  - Code rural - art. L322-14 (V)
-  - Code rural - art. L412-14 (M)
-  - Nouveau code de procédure civile - art. 1381 (V)
-
-_Cite_:
-
-  - Code civil - art. 815 (M)
-  - Code civil - art. 815-1 (M)
-  - Code civil - art. 832 (M)
-  - Code civil - art. 832-1 (M)
-  - Code civil - art. 832-2 (M)
-  - Code rural 807, 808
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
-
-## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)<a id=230></a>
-
-### Chapitre Ier : Dispositions générales.<a id=231></a>
+### Chapitre Ier : Dispositions générales.<a id=250></a>
 
 ###### Article 893
 
-On ne pourra disposer de ses biens, à titre gratuit, que par donation entre vifs ou par testament, dans les formes ci-après
-établies.
+La libéralité est l'acte par lequel une personne dispose à titre gratuit de tout ou partie de ses biens ou de ses droits au
+profit d'une autre personne.
+
+Il ne peut être fait de libéralité que par donation entre vifs ou par testament.
 
 **Liens relatifs à cet article**
 
@@ -33189,9 +34567,10 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 894
@@ -33205,15 +34584,15 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 895
 
 Le testament est un acte par lequel le testateur dispose, pour le temps où il n'existera plus, de tout ou partie de ses biens
-et qu'il peut révoquer.
+ou de ses droits et qu'il peut révoquer.
 
 **Liens relatifs à cet article**
 
@@ -33221,17 +34600,16 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 896
 
-Les substitutions sont prohibées.
-
-Toute disposition par laquelle le donataire, l'héritier institué ou le légataire sera chargé de conserver et de rendre à un
-tiers sera nulle, même à l'égard du donataire, de l'héritier institué, ou du légataire.
+La disposition par laquelle une personne est chargée de conserver et de rendre à un tiers ne produit d'effet que dans le cas
+où elle est autorisée par la loi.
 
 **Liens relatifs à cet article**
 
@@ -33239,29 +34617,10 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-###### Article 897
-
-Sont exceptées des deux premiers paragraphes de l'article précédent les dispositions permises aux pères et mères et aux
-frères et soeurs, au chapitre VI du présent titre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 898
@@ -33275,9 +34634,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 899
@@ -33291,9 +34650,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 900
@@ -33307,9 +34666,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 900-1
@@ -33327,18 +34686,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°71-526 du 3 juillet 1971 - art. 1 () JORF 6 juillet 1971
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-526 du 3 juillet 1971 - art. 2 (V)
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
-
 _Modifié par_:
 
-  - Loi n°84-562 1984-07-04 art. 8 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 900-2
@@ -33355,23 +34705,21 @@ soit sérieusement dommageable.
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
-  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
 
 _Cité par_:
 
-  - Code général des collectivités territoriales - art. L1311-17 (V)
-  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
   - Code de la santé publique - art. L696 (T)
+  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
   - Code général de la propriété des personnes publ... - art. L2222-13 (V)
+  - Code général des collectivités territoriales - art. L1311-17 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 900-3
@@ -33392,20 +34740,18 @@ Celui-ci doit, dans tous les cas, avoir communication de l'affaire.
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
-  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L696 (T)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code de la santé publique - art. L696 (T)
 
 
 ###### Article 900-4
@@ -33422,18 +34768,16 @@ sa libéralité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -33455,18 +34799,16 @@ La personne gratifiée doit justifier des diligences qu'elle a faites, dans l'in
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
   - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -33486,22 +34828,17 @@ La rétractation ou la réformation du jugement attaqué n'ouvre droit à aucune
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code de la santé publique - art. L696 (T)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
 
 
 ###### Article 900-7
@@ -33511,22 +34848,17 @@ redevient possible, elle pourra être demandée par les héritiers.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code de la santé publique - art. L696 (T)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
 
 
 ###### Article 900-8
@@ -33544,23 +34876,24 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
-  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=232></a>
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.<a id=251></a>
 
 ###### Article 901
 
-Pour faire une donation entre vifs ou un testament, il faut être sain d'esprit.
+Pour faire une libéralité, il faut être sain d'esprit. La libéralité est nulle lorsque le consentement a été vicié par
+l'erreur, le dol ou la violence.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -33570,10 +34903,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 902
@@ -33587,9 +34916,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 903
@@ -33602,9 +34931,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 904
@@ -33624,13 +34953,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 906
@@ -33647,9 +34972,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 907
@@ -33667,13 +34992,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Modifié par_:
 
-  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 908-2
@@ -33696,9 +35017,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
   - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 
 ###### Article 909
@@ -33717,6 +35042,10 @@ même du nombre de ces héritiers.
 
 Les mêmes règles seront observées à l'égard du ministre du culte.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -33729,33 +35058,28 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
   - Code de la santé publique - art. R4321-97 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 910
 
-Les dispositions entre vifs ou par testament, au profit des hospices, des pauvres d'une commune, ou d'établissements
-d'utilité publique, n'auront leur effet qu'autant qu'elles seront autorisées par une ordonnance royale (un décret).
+Les dispositions entre vifs ou par testament, au profit des établissements de santé, des établissements sociaux et médico-
+sociaux, des pauvres d'une commune, ou d'établissements d'utilité publique, n'auront leur effet qu'autant qu'elles seront
+autorisées par un décret. 
 
 Toutefois les dispositions entre vifs ou par testament, au profit des fondations, des congrégations et des associations ayant
 la capacité à recevoir des libéralités, à l'exception des associations ou fondations dont les activités ou celles de leurs
 dirigeants sont visées à l'article 1er de la loi du 12 juin 2001 tendant à renforcer la prévention et la répression des
 mouvements sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales, sont acceptées librement par
 celles-ci, sauf opposition motivée par l'inaptitude de l'organisme légataire ou donataire à utiliser la libéralité
-conformément à son objet statutaire. L'opposition est formée par l'autorité administrative à laquelle la libéralité est
-déclarée, dans des conditions fixées par décret en Conseil d'Etat. L'opposition prive d'effet cette acceptation.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-856 du 28 juillet 2005 art. 9 : les dispositions de l'article 1er ne sont pas applicables aux
-libéralités pour lesquelles des demandes d'autorisation de leur acceptation ont été formées avant l'entrée en vigueur de la
-présente ordonnance.
+conformément à son objet statutaire.L'opposition est formée par l'autorité administrative à laquelle la libéralité est
+déclarée, dans des conditions fixées par décret en Conseil d'Etat.L'opposition prive d'effet cette acceptation.
 
 **Liens relatifs à cet article**
 
@@ -33785,11 +35109,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2001-504 du 12 juin 2001 - art. 1 (M)
+  - Loi n°2001-504 du 12 juin 2001 - art. 1 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2005-856 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
@@ -33807,10 +35132,11 @@ _Codifié par_:
 
 ###### Article 911
 
-Toute disposition au profit d'un incapable sera nulle, soit qu'on la déguise sous la forme d'un contrat onéreux, soit qu'on
-la fasse sous le nom de personnes interposées.
+Toute libéralité au profit d'une personne physique, frappée d'une incapacité de recevoir à titre gratuit, est nulle, qu'elle
+soit déguisée sous la forme d'un contrat onéreux ou faite sous le nom de personnes interposées, physiques ou morales.
 
-Seront réputées personnes interposées les père et mère, les enfants et descendants, et l'époux de la personne incapable.
+Sont présumés personnes interposées, jusqu'à preuve contraire, les père et mère, les enfants et descendants, ainsi que
+l'époux de la personne incapable.
 
 **Liens relatifs à cet article**
 
@@ -33825,18 +35151,40 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 752 (V)
   - Code général des impôts, CGI. - art. 773 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+
+### Chapitre III : De la réserve héréditaire, de la quotité disponible et de la réduction.<a id=252></a>
+
+#### Section 1 : De la réserve héréditaire et de la quotité disponible<a id=253></a>
+
+###### Article 912
+
+La réserve héréditaire est la part des biens et droits successoraux dont la loi assure la dévolution libre de charges à
+certains héritiers dits réservataires, s'ils sont appelés à la succession et s'ils l'acceptent.
+
+La quotité disponible est la part des biens et droits successoraux qui n'est pas réservée par la loi et dont le défunt a pu
+disposer librement par des libéralités.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-05-03
 
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 12 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-
-### Chapitre III : De la portion de biens disponible, et de la réduction<a id=233></a>
-
-#### Section 1 : De la portion de biens disponible.<a id=234></a>
 
 ###### Article 913
 
@@ -33844,11 +35192,10 @@ Les libéralités, soit par actes entre vifs, soit par testament, ne pourront ex
 laisse à son décès qu'un enfant ; le tiers, s'il laisse deux enfants ; le quart, s'il en laisse trois ou un plus grand
 nombre.
 
+L'enfant qui renonce à la succession n'est compris dans le nombre d'enfants laissés par le défunt que s'il est représenté ou
+s'il est tenu au rapport d'une libéralité en application des dispositions de l'article 845.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
 
 _Cité par_:
 
@@ -33857,13 +35204,19 @@ _Cité par_:
   - Code civil - art. 915-1 (Ab)
   - Code de la propriété intellectuelle - art. L123-6 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 12 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 845 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
 
 
 ###### Article 913-1
@@ -33873,94 +35226,29 @@ doivent être comptés que pour l'enfant dont ils tiennent la place dans la succ
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1975 en vigueur le 1er août 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code civil - art. 913 (M)
-
-
-###### Article 914
-
-Les libéralités, par actes entre vifs ou par testament, ne pourront excéder la moitié des biens, si, à défaut d'enfant, le
-défunt laisse un ou plusieurs ascendants dans chacune des lignes, paternelle et maternelle, et les trois quarts s'il ne
-laisse d'ascendants que dans une ligne.
-
-Les biens ainsi réservés au profit des ascendants seront par eux recueillis dans l'ordre où la loi les appelle à succéder :
-ils auront seuls droit à cette réserve dans tous les cas où un partage en concurrence avec des collatéraux ne leur donnerait
-pas la quotité de biens à laquelle elle est fixée.
-
-**Liens relatifs à cet article**
+  - Code civil - art. 913 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
-_Modifié par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 12 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-_Cité par_:
-
-  - Code civil - art. 1094 (M)
-  - Code de la propriété intellectuelle - art. L123-6 (M)
 
 
 ###### Article 914-1
 
 Les libéralités, par actes entre vifs ou par testament, ne pourront excéder les trois quarts des biens si, à défaut de
-descendant et d'ascendant, le défunt laisse un conjoint survivant, non divorcé, contre lequel n'existe pas de jugement de
-séparation de corps passé en force de chose jugée et qui n'est pas engagé dans une instance en divorce ou séparation de
-corps.
+descendant, le défunt laisse un conjoint survivant, non divorcé.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 13 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-
-###### Article 916
-
-A défaut de descendant, d'ascendant et de conjoint survivant non divorcé, contre lequel n'existe pas de jugement de
-séparation de corps passé en force de chose jugée et qui n'est pas engagé dans une instance en divorce ou séparation de
-corps, les libéralités par actes entre vifs ou testamentaires pourront épuiser la totalité des biens.
+Loi n° 2006-728 du 23 juin 2006 article 29 : Une anomalie s'est glissée lors de la rédaction de l'article 29 26°. Il faut
+lire article 914-1 au lieu de 914-4.
 
 **Liens relatifs à cet article**
 
@@ -33970,7 +35258,29 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 13 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 12 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 916
+
+A défaut de descendant et de conjoint survivant non divorcé, les libéralités par actes entre vifs ou testamentaires pourront
+épuiser la totalité des biens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 12 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 917
@@ -33985,37 +35295,87 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
+
+#### Section 2 : De la réduction des libéralités excessives<a id=254></a>
+
+##### Paragraphe 1 : Des opérations préliminaires à la réduction<a id=255></a>
 
 ###### Article 918
 
-La valeur en pleine propriété des biens aliénés, soit à charge de rente viagère, soit à fonds perdu, ou avec réserve
-d'usufruit à l'un des successibles en ligne directe, sera imputée sur la portion disponible ; et l'excédent, s'il y en a,
-sera rapporté à la masse. Cette imputation et ce rapport ne pourront être demandés par ceux des autres successibles en ligne
-directe qui auraient consenti à ces aliénations, ni, dans aucun cas, par les successibles en ligne collatérale.
+La valeur en pleine propriété des biens aliénés, soit à charge de rente viagère, soit à fonds perdus, ou avec réserve
+d'usufruit à l'un des successibles en ligne directe, est imputée sur la quotité disponible. L'éventuel excédent est sujet à
+réduction. Cette imputation et cette réduction ne peuvent être demandées que par ceux des autres successibles en ligne
+directe qui n'ont pas consenti à ces aliénations.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 919
 
 La quotité disponible pourra être donnée en tout ou en partie soit par acte entre vifs, soit par testament, aux enfants ou
 autres successibles du donateur, sans être sujette au rapport par le donataire ou le légataire venant à la succession, pourvu
-qu'en ce qui touche les dons la disposition ait été faite expressément à titre de préciput et hors part.
+qu'en ce qui touche les dons la disposition ait été faite expressément et hors part successorale.
 
-La déclaration que le don est à titre de préciput et hors part pourra être faite, soit par l'acte qui contiendra la
-disposition, soit postérieurement, dans la forme des dispositions entre vifs ou testamentaires.
+La déclaration que la donation est hors part successorale pourra être faite, soit par l'acte qui contiendra la disposition,
+soit postérieurement, dans la forme des dispositions entre vifs ou testamentaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 919-1
+
+La donation faite en avancement de part successorale à un héritier réservataire qui accepte la succession s'impute sur sa
+part de réserve et, subsidiairement, sur la quotité disponible, s'il n'en a pas été autrement convenu dans l'acte de
+donation.L'excédent est sujet à réduction. 
+
+La donation faite en avancement de part successorale à un héritier réservataire qui renonce à la succession est traitée comme
+une donation faite hors part successorale. Toutefois, lorsqu'il est astreint au rapport en application des dispositions de
+l'article 845, l'héritier qui renonce est traité comme un héritier acceptant pour la réunion fictive l'imputation et, le cas
+échéant, la réduction de la libéralité qui lui a été consentie.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 845 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 919-2
+
+La libéralité faite hors part successorale s'impute sur la quotité disponible. L'excédent est sujet à réduction.
 
 **Liens relatifs à cet article**
 
@@ -34025,30 +35385,32 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-
-#### Section 2 : De la réduction des donations et legs.<a id=235></a>
 
 ###### Article 920
 
-Les dispositions soit entre vifs, soit à cause de mort, qui excéderont la quotité disponible, seront réductibles à cette
-quotité lors de l'ouverture de la succession.
+Les libéralités, directes ou indirectes, qui portent atteinte à la réserve d'un ou plusieurs héritiers, sont réductibles à la
+quotité disponible lors de l'ouverture de la succession.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
-_Codifié par_:
 
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
+##### Paragraphe 2 : De l'exercice de la réduction<a id=256></a>
 
 ###### Article 921
 
@@ -34056,53 +35418,54 @@ La réduction des dispositions entre vifs ne pourra être demandée que par ceux
 leurs héritiers ou ayants cause : les donataires, les légataires, ni les créanciers du défunt ne pourront demander cette
 réduction, ni en profiter.
 
+Le délai de prescription de l'action en réduction est fixé à cinq ans à compter de l'ouverture de la succession, ou à deux
+ans à compter du jour où les héritiers ont eu connaissance de l'atteinte portée à leur réserve, sans jamais pouvoir excéder
+dix ans à compter du décès.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 922
 
 La réduction se détermine en formant une masse de tous les biens existant au décès du donateur ou testateur.
 
-On y réunit fictivement, après en avoir déduit les dettes, ceux dont il a été disposé par donation entre vifs d'après leur
-état à l'époque de la donation et leur valeur à l'ouverture de la succession. Si les biens ont été aliénés, il est tenu
-compte de leur valeur à l'époque de l'aliénation et, s'il y a eu subrogation, de la valeur des nouveaux biens au jour de
-l'ouverture de la succession.
+Les biens dont il a été disposé par donation entre vifs sont fictivement réunis à cette masse, d'après leur état à l'époque
+de la donation et leur valeur à l'ouverture de la succession, après qu'en ont été déduites les dettes ou les charges les
+grevant. Si les biens ont été aliénés, il est tenu compte de leur valeur à l'époque de l'aliénation. S'il y a eu subrogation,
+il est tenu compte de la valeur des nouveaux biens au jour de l'ouverture de la succession, d'après leur état à l'époque de
+l'acquisition. Toutefois, si la dépréciation des nouveaux biens était, en raison de leur nature, inéluctable au jour de leur
+acquisition, il n'est pas tenu compte de la subrogation.
 
 On calcule sur tous ces biens, eu égard à la qualité des héritiers qu'il laisse, quelle est la quotité dont le défunt a pu
 disposer.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Codifié par_:
 
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Loi n°1803-05-03
 
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 7 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 860 (V)
   - Code du patrimoine - art. L621-28 (MMN)
   - Code du patrimoine - art. L621-29-7 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 923
@@ -34117,28 +35480,25 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 924
 
-L'héritier réservataire gratifié par préciput au-delà de la quotité disponible et qui accepte la succession supporte la
-réduction en valeur, comme il est dit à l'article 866 ; à concurrence de ses droits dans la réserve, cette réduction se fera
-en moins prenant.
+Lorsque la libéralité excède la quotité disponible, le gratifié, successible ou non successible, doit indemniser les
+héritiers réservataires à concurrence de la portion excessive de la libéralité, quel que soit cet excédent.
 
-Il peut réclamer la totalité des objets légués, lorsque la portion réductible n'excède pas sa part de réserve.
+Le paiement de l'indemnité par l'héritier réservataire se fait en moins prenant et en priorité par voie d'imputation sur ses
+droits dans la réserve.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 _Cité par_:
 
@@ -34148,24 +35508,21 @@ _Cité par_:
   - Code civil - art. 924-1 (V)
   - Code rural - art. L323-6 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 8 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-_Cite_:
-
-  - Code civil - art. 866 (M)
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-###### Article 925
+###### Article 924-1
 
-Lorsque la valeur des donations entre vifs excédera ou égalera la quotité disponible, toutes les dispositions testamentaires
-seront caduques.
+Le gratifié peut exécuter la réduction en nature, par dérogation à l'article 924, lorsque le bien donné ou légué lui
+appartient encore et qu'il est libre de toute charge dont il n'aurait pas déjà été grevé à la date de la libéralité, ainsi
+que de toute occupation dont il n'aurait pas déjà fait l'objet à cette même date. 
+
+Cette faculté s'éteint s'il n'exprime pas son choix pour cette modalité de réduction dans un délai de trois mois à compter de
+la date à laquelle un héritier réservataire l'a mis en demeure de prendre parti.
 
 **Liens relatifs à cet article**
 
@@ -34175,9 +35532,92 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-_Abrogé par_:
+_Cite_:
+
+  - Code civil - art. 924 (V)
+
+
+###### Article 924-2
+
+Le montant de l'indemnité de réduction se calcule d'après la valeur des biens donnés ou légués à l'époque du partage ou de
+leur aliénation par le gratifié et en fonction de leur état au jour où la libéralité a pris effet. S'il y a eu subrogation,
+le calcul de l'indemnité de réduction tient compte de la valeur des nouveaux biens à l'époque du partage, d'après leur état à
+l'époque de l'acquisition. Toutefois, si la dépréciation des nouveaux biens était, en raison de leur nature, inéluctable au
+jour de leur acquisition, il n'est pas tenu compte de la subrogation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 924-3
+
+L'indemnité de réduction est payable au moment du partage, sauf accord entre les cohéritiers. Toutefois, lorsque la
+libéralité a pour objet un des biens pouvant faire l'objet d'une attribution préférentielle, des délais peuvent être accordés
+par le tribunal, compte tenu des intérêts en présence, s'ils ne l'ont pas été par le disposant. L'octroi de ces délais ne
+peut, en aucun cas, avoir pour effet de différer le paiement de l'indemnité au-delà de dix années à compter de l'ouverture de
+la succession. Les dispositions de l'article 828 sont alors applicables au paiement des sommes dues.
+
+A défaut de convention ou de stipulation contraire, ces sommes sont productives d'intérêt au taux légal à compter de la date
+à laquelle le montant de l'indemnité de réduction a été fixé. Les avantages résultant des délais et modalités de paiement
+accordés ne constituent pas une libéralité. 
+
+En cas de vente de la totalité du bien donné ou légué, les sommes restant dues deviennent immédiatement exigibles ; en cas de
+ventes partielles, le produit de ces ventes est versé aux cohéritiers et imputé sur les sommes encore dues.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 828 (V)
+
+_Anciens textes_:
+
+  - Code civil - art. 868 (T)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1722 bis (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 397 (V)
+  - Code rural - art. L321-17 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
+
+
+###### Article 924-4
+
+Après discussion préalable des biens du débiteur de l'indemnité en réduction et en cas d'insolvabilité de ce dernier, les
+héritiers réservataires peuvent exercer l'action en réduction ou revendication contre les tiers détenteurs des immeubles
+faisant partie des libéralités et aliénés par le gratifié. L'action est exercée de la même manière que contre les gratifiés
+eux-mêmes et suivant l'ordre des dates des aliénations, en commençant par la plus récente. Elle peut être exercée contre les
+tiers détenteurs de meubles lorsque l'article 2279 ne peut être invoqué.
+
+Lorsque, au jour de la donation ou postérieurement, le donateur et tous les héritiers réservataires présomptifs ont consenti
+à l'aliénation du bien donné, aucun héritier réservataire, même né après que le consentement de tous les héritiers intéressés
+a été recueilli, ne peut exercer l'action contre les tiers détenteurs. S'agissant des biens légués, cette action ne peut plus
+être exercée lorsque les héritiers réservataires ont consenti à l'aliénation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
 
   - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
@@ -34190,17 +35630,18 @@ entre les legs universels et les legs particuliers.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code civil - art. 1009 (V)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 1009 (V)
 
 
 ###### Article 927
@@ -34210,6 +35651,11 @@ aux autres, cette préférence aura lieu ; et le legs qui en sera l'objet ne ser
 remplirait pas la réserve légale.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -34223,51 +35669,50 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 928
 
-Le donataire restituera les fruits de ce qui excédera la portion disponible, à compter du jour du décès du donateur, si la
-demande en réduction a été faite dans l'année ; sinon, du jour de la demande.
+Lorsque la réduction s'exécute en nature, le donataire restitue les fruits de ce qui excède la portion disponible, à compter
+du jour du décès du donateur, si la demande en réduction est faite dans l'année ; sinon, du jour de la demande.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-###### Article 929
-
-Les droits réels créés par le donataire s'éteindront par l'effet de la réduction. Ces droits conserveront néanmoins leurs
-effets lorsque le donateur y aura consenti dans l'acte même de constitution ou dans un acte postérieur. Le donataire répondra
-alors de la dépréciation en résultant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 11 ()
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
 
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 9 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+##### Paragraphe 3 : De la renonciation anticipée à l'action en réduction<a id=257></a>
+
+###### Article 929
+
+Tout héritier réservataire présomptif peut renoncer à exercer une action en réduction dans une succession non ouverte. Cette
+renonciation doit être faite au profit d'une ou de plusieurs personnes déterminées. La renonciation n'engage le renonçant que
+du jour où elle a été acceptée par celui dont il a vocation à hériter.
+
+La renonciation peut viser une atteinte portant sur la totalité de la réserve ou sur une fraction seulement. Elle peut
+également ne viser que la réduction d'une libéralité portant sur un bien déterminé.
+
+L'acte de renonciation ne peut créer d'obligations à la charge de celui dont on a vocation à hériter ou être conditionné à un
+acte émanant de ce dernier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 14 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -34279,13 +35724,39 @@ _Cité par_:
 
 ###### Article 930
 
-L'action en réduction ou revendication pourra être exercée par les héritiers contre les tiers détenteurs des immeubles
-faisant partie des donations et aliénés par les donataires, de la même manière et dans le même ordre que contre les
-donataires eux-mêmes, et discussion préalablement faite de leurs biens. Cette action devra être exercée suivant l'ordre des
-dates des aliénations, en commençant par la plus récente.
+La renonciation est établie par acte authentique spécifique reçu par deux notaires. Elle est signée séparément par chaque
+renonçant en présence des seuls notaires. Elle mentionne précisément ses conséquences juridiques futures pour chaque
+renonçant.
 
-Lorsque le donateur aura consenti à l'aliénation avec l'accord de tous les réservataires nés et vivants au moment de celle-
-ci, l'action ne pourra plus être exercée contre les tiers détenteurs.
+La renonciation est nulle lorsqu'elle n'a pas été établie dans les conditions fixées au précédent alinéa, ou lorsque le
+consentement du renonçant a été vicié par l'erreur, le dol ou la violence.
+
+La renonciation peut être faite dans le même acte par plusieurs héritiers réservataires.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code civil - art. 1054 (V)
+  - Loi n°1803-03-16 du 16 mars 1803 - art. 11 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 11 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 14 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 930-1
+
+La capacité requise du renonçant est celle exigée pour consentir une donation entre vifs. Toutefois, le mineur émancipé ne
+peut renoncer par anticipation à l'action en réduction.
+
+La renonciation, quelles que soient ses modalités, ne constitue pas une libéralité.
 
 **Liens relatifs à cet article**
 
@@ -34295,26 +35766,102 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 14 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-_Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 10 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+###### Article 930-2
 
-**Liens**:
+La renonciation ne produit aucun effet s'il n'a pas été porté atteinte à la réserve héréditaire du renonçant. Si l'atteinte à
+la réserve héréditaire n'a été exercée que partiellement, la renonciation ne produit d'effets qu'à hauteur de l'atteinte à la
+réserve du renonçant résultant de la libéralité consentie. Si l'atteinte à la réserve porte sur une fraction supérieure à
+celle prévue dans la renonciation, l'excédent est sujet à réduction.
 
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+La renonciation relative à la réduction d'une libéralité portant sur un bien déterminé est caduque si la libéralité
+attentatoire à la réserve ne porte pas sur ce bien. Il en va de même si la libéralité n'a pas été faite au profit de la ou
+des personnes déterminées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 14 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 930-3
+
+Le renonçant ne peut demander la révocation de sa renonciation que si :
+
+1° Celui dont il a vocation à hériter ne remplit pas ses obligations alimentaires envers lui ;
+
+2° Au jour de l'ouverture de la succession, il est dans un état de besoin qui disparaîtrait s'il n'avait pas renoncé à ses
+droits réservataires ;
+
+3° Le bénéficiaire de la renonciation s'est rendu coupable d'un crime ou d'un délit contre sa personne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 14 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
-  - Code civil - art. 1054 (V)
-  - Loi n°1803-03-16 du 16 mars 1803 - art. 11 (V)
+  - Code civil - art. 930-4 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
 
 
-### Chapitre IV : Des donations entre vifs<a id=236></a>
+###### Article 930-4
 
-#### Section 1 : De la forme des donations entre vifs.<a id=237></a>
+La révocation n'a jamais lieu de plein droit. 
+
+La demande en révocation est formée dans l'année, à compter du jour de l'ouverture de la succession, si elle est fondée sur
+l'état de besoin. Elle est formée dans l'année, à compter du jour du fait imputé par le renonçant ou du jour où le fait a pu
+être connu par ses héritiers, si elle est fondée sur le manquement aux obligations alimentaires ou sur l'un des faits visés
+au 3° de l'article 930-3. 
+
+La révocation en application du 2° de l'article 930-3 n'est prononcée qu'à concurrence des besoins de celui qui avait
+renoncé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 14 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 930-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+
+###### Article 930-5
+
+La renonciation est opposable aux représentants du renonçant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 14 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+### Chapitre IV : Des donations entre vifs.<a id=258></a>
+
+#### Section 1 : De la forme des donations entre vifs.<a id=259></a>
 
 ###### Article 931
 
@@ -34322,6 +35869,10 @@ Tous actes portant donation entre vifs seront passés devant notaires dans la fo
 minute, sous peine de nullité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -34331,10 +35882,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 932
@@ -34348,6 +35895,10 @@ notifié.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Arrêté du 31 janvier 2018 - art. (V)
@@ -34356,10 +35907,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 933
@@ -34382,36 +35929,32 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 935
 
 La donation faite à un mineur non émancipé ou à un majeur en tutelle devra être acceptée par son tuteur, conformément à
-l'article 463, au titre De la minorité, de la tutelle et de l'émancipation.
+l'article 463, au titre " De la minorité, de la tutelle et de l'émancipation ". 
 
 Néanmoins, les père et mère du mineur non émancipé, ou les autres ascendants, même du vivant des père et mère, quoiqu'ils ne
 soient pas tuteurs du mineur, pourront accepter pour lui.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 463 (AbD)
+  - Code civil - art. 463 (VT)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Modifié par_:
-
-  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
 
 
 ###### Article 936
@@ -34419,7 +35962,7 @@ _Modifié par_:
 Le sourd-muet qui saura écrire pourra accepter lui-même ou par un fondé de pouvoir.
 
 S'il ne sait pas écrire, l'acceptation doit être faite par un curateur nommé à cet effet, suivant les règles établies au
-titre De la minorité, de la tutelle et de l'émancipation.
+titre " De la minorité, de la tutelle et de l'émancipation ".
 
 **Liens relatifs à cet article**
 
@@ -34427,28 +35970,27 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 937
 
-Les donations faites au profit d'hospices, des pauvres d'une commune ou, sous réserve du deuxième alinéa de l'article 910,
-d'établissements d'utilité publique, seront acceptées par les administrateurs de ces communes ou établissements, après y
-avoir été dûment autorisés.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-856 du 28 juillet 2005 art. 9 : les dispositions de l'article 1er ne sont pas applicables aux
-libéralités pour lesquelles des demandes d'autorisation de leur acceptation ont été formées avant l'entrée en vigueur de la
-présente ordonnance.
+Les donations faites au profit d'établissements de santé, d'établissements sociaux et médico-sociaux, des pauvres d'une
+commune ou, sous réserve du deuxième alinéa de l'article 910, d'établissements d'utilité publique, seront acceptées par les
+administrateurs de ces communes ou établissements, après y avoir été dûment autorisés.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
 _Modifié par_:
 
-  - Ordonnance n°2005-856 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -34456,11 +35998,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 910 (M)
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
+  - Code civil - art. 910 (V)
 
 
 ###### Article 938
@@ -34474,9 +36012,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 939
@@ -34496,13 +36034,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Modifié par_:
 
-  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 940
@@ -34518,7 +36052,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°85-1372 du 23 décembre 1985 - art. 48 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 941
@@ -34528,19 +36062,19 @@ faire faire la publication, ou leurs ayants cause, et le donateur.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 30 (VD)
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 38-2 (V)
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 40 (M)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Cité par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 38-2 (V)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 40 (M)
+  - Décret n°55-22 du 4 janvier 1955 - art. 30 (VD)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 942
@@ -34555,13 +36089,13 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Modifié par_:
-
-  - Loi n°85-1372 du 23 décembre 1985 - art. 49 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 943
@@ -34575,9 +36109,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 944
@@ -34586,17 +36120,17 @@ Toute donation entre vifs, faite sous des conditions dont l'exécution dépend d
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code civil - art. 947 (M)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+**Liens**:
+
+  - SPEC_APPLI: Code civil - art. 947 (M)
 
 
 ###### Article 945
@@ -34607,6 +36141,10 @@ existaient à l'époque de la donation ou qui seraient exprimées soit dans l'ac
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 **Liens**:
 
   - SPEC_APPLI: Code civil - art. 947 (M)
@@ -34614,10 +36152,6 @@ existaient à l'époque de la donation ou qui seraient exprimées soit dans l'ac
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 946
@@ -34628,6 +36162,10 @@ nonobstant toutes clauses et stipulations à ce contraires.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 **Liens**:
 
   - SPEC_APPLI: Code civil - art. 947 (M)
@@ -34636,10 +36174,6 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 947
 
@@ -34647,6 +36181,10 @@ Les quatre articles précédents ne s'appliquent point aux donations dont est me
 titre.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 **Liens**:
 
@@ -34658,10 +36196,6 @@ titre.
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 948
@@ -34675,9 +36209,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 949
@@ -34691,9 +36225,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 950
@@ -34709,9 +36243,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 951
@@ -34729,6 +36263,10 @@ _Cité par_:
   - Décret n°2009-1193 du 7 octobre 2009 - art. 4 (VD)
   - Code général des impôts, CGI. - art. 791 ter (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 **Liens**:
 
   - SPEC_APPLI: Code civil - art. 947 (M)
@@ -34737,17 +36275,13 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 952
 
-L'effet du droit de retour sera de résoudre toutes les aliénations des biens donnés et de faire revenir ces biens au
-donateur, francs et quittes de toutes charges et hypothèques, sauf néanmoins l'hypothèque de la dot et des conventions
-matrimoniales, si les autres biens de l'époux donataire ne suffisent pas, et dans le cas seulement ou la donation lui aura
-été faite par le même contrat de mariage duquel résultent ces droits et hypothèques.
+L'effet du droit de retour est de résoudre toutes les aliénations des biens et des droits donnés, et de faire revenir ces
+biens et droits au donateur, libres de toutes charges et hypothèques, exceptée l'hypothèque légale des époux si les autres
+biens de l'époux donataire ne suffisent pas à l'accomplissement de ce retour et que la donation lui a été faite par le
+contrat de mariage dont résultent ces charges et hypothèques.
 
 **Liens relatifs à cet article**
 
@@ -34755,16 +36289,17 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Cité par_:
 
   - Loi du 1er juin 1924 - art. 38 (V)
 
+_Modifié par_:
 
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=238></a>
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.<a id=260></a>
 
 ###### Article 953
 
@@ -34772,6 +36307,10 @@ La donation entre vifs ne pourra être révoquée que pour cause d'inexécution 
 faite, pour cause d'ingratitude, et pour cause de survenance d'enfants.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -34782,10 +36321,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 954
@@ -34805,9 +36340,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 955
@@ -34831,9 +36366,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 956
@@ -34846,9 +36381,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 957
@@ -34866,9 +36401,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 958
@@ -34891,13 +36426,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Modifié par_:
 
-  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 959
@@ -34910,9 +36441,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 960
@@ -34920,8 +36451,9 @@ _Créé par_:
 Toutes donations entre vifs faites par personnes qui n'avaient point d'enfants ou de descendants actuellement vivants dans le
 temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et
 encore qu'elles fussent mutuelles ou rémunératoires, même celles qui auraient été faites en faveur de mariage par autres que
-par les ascendants aux conjoints, ou par les conjoints l'un à l'autre, demeureront révoquées de plein droit par la survenance
-d'un enfant du donateur, même posthume.
+par les conjoints l'un à l'autre, peuvent être révoquées, si l'acte de donation le prévoit, par la survenance d'un enfant
+issu du donateur, même après son décès, ou adopté par lui dans les formes et conditions prévues au chapitre Ier du titre VIII
+du livre Ier.
 
 **Liens relatifs à cet article**
 
@@ -34938,18 +36470,15 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 961
 
-Cette révocation aura lieu, encore que l'enfant du donateur ou de la donatrice fût conçu au temps de la donation.
+Cette révocation peut avoir lieu, encore que l'enfant du donateur ou de la donatrice fût conçu au temps de la donation.
 
 **Liens relatifs à cet article**
 
@@ -34957,45 +36486,42 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 962
 
-La donation demeurera pareillement révoquée lors même que le donataire serait entré en possession des biens donnés, et qu'il
-y aurait été laissé par le donateur depuis la survenance de l'enfant ; sans néanmoins que le donataire soit tenu de restituer
-les fruits par lui perçus, de quelque nature qu'ils soient, si ce n'est du jour que la naissance de l'enfant lui aura été
-notifiée par exploit ou autre acte en bonne forme ; et ce, quand même la demande pour rentrer dans les biens donnés n'aurait
-été formée que postérieurement à cette notification.
+La donation peut pareillement être révoquée, même si le donataire est entré en possession des biens donnés et qu'il y a été
+laissé par le donateur depuis la survenance de l'enfant. Toutefois, le donataire n'est pas tenu de restituer les fruits qu'il
+a perçus, de quelque nature qu'ils soient, si ce n'est du jour auquel la naissance de l'enfant ou son adoption en la forme
+plénière lui a été notifiée par exploit ou autre acte en bonne forme, même si la demande pour rentrer dans les biens donnés a
+été formée après cette notification.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-_Modifié par_:
-
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
   - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article 963
 
-Les biens compris dans la donation révoquée de plein droit rentreront dans le patrimoine du donateur, libres de toutes
-charges et hypothèques du chef du donataire, sans qu'ils puissent demeurer affectés, même subsidiairement, à la restitution
-de la dot de la femme de ce donataire, de ses reprises ou autres conventions matrimoniales ; ce qui aura lieu quand même la
-donation aurait été faite en faveur du mariage du donataire et insérée dans le contrat, et que le donateur se serait obligé
-comme caution, par la donation, à l'exécution du contrat de mariage.
+Les biens et droits compris dans la donation révoquée rentrent dans le patrimoine du donateur, libres de toutes charges et
+hypothèques du chef du donataire, sans qu'ils puissent demeurer affectés, même subsidiairement, à l'hypothèque légale des
+époux ; il en est ainsi même si la donation a été faite en faveur du mariage du donataire et insérée dans le contrat de
+mariage.
 
 **Liens relatifs à cet article**
 
@@ -35003,16 +36529,15 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 964
 
-Les donations ainsi révoquées ne pourront revivre ou avoir de nouveau leur effet, ni par la mort de l'enfant du donateur, ni
-par aucun acte confirmatif ; et si le donateur veut donner les mêmes biens au même donataire, soit avant ou après la mort de
-l'enfant par la naissance duquel la donation avait été révoquée, il ne le pourra faire que par une nouvelle disposition.
+La mort de l'enfant du donateur est sans effet sur la révocation des donations prévue à l'article 960.
 
 **Liens relatifs à cet article**
 
@@ -35020,15 +36545,19 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 960 (V)
 
 
 ###### Article 965
 
-Toute clause ou convention par laquelle le donateur aurait renoncé à la révocation de la donation pour survenance d'enfant
-sera regardée comme nulle et ne pourra produire aucun effet.
+Le donateur peut, à tout moment, renoncer à exercer la révocation pour survenance d'enfant.
 
 **Liens relatifs à cet article**
 
@@ -35036,17 +36565,16 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 966
 
-Le donataire, ses héritiers ou ayants cause, ou autres détenteurs des choses données, ne pourront opposer la prescription
-pour faire valoir la donation révoquée par la survenance d'enfant qu'après une possession de trente années, qui ne pourront
-commencer à courir que du jour de la naissance du dernier enfant du donateur, même posthume ; et ce sans préjudice des
-interruptions, telles que de droit.
+L'action en révocation se prescrit par cinq ans à compter de la naissance ou de l'adoption du dernier enfant. Elle ne peut
+être exercée que par le donateur.
 
 **Liens relatifs à cet article**
 
@@ -35054,14 +36582,15 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 15 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre V : Des dispositions testamentaires<a id=239></a>
+### Chapitre V : Des dispositions testamentaires.<a id=261></a>
 
-#### Section 1 : Des règles générales sur la forme des testaments<a id=240></a>
+#### Section 1 : Des règles générales sur la forme des testaments.<a id=262></a>
 
 ###### Article 967
 
@@ -35074,9 +36603,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 968
@@ -35090,9 +36619,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 969
@@ -35105,9 +36634,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 970
@@ -35116,6 +36645,10 @@ Le testament olographe ne sera point valable s'il n'est écrit en entier, daté 
 assujetti à aucune autre forme.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -35126,16 +36659,16 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 971
 
 Le testament par acte public est reçu par deux notaires ou par un notaire assisté de deux témoins.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -35144,10 +36677,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 972
@@ -35164,17 +36693,17 @@ Il est fait du tout mention expresse.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Loi n°2004-193 du 27 février 2004 - art. 34 (V)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Cité par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2004-193 du 27 février 2004 - art. 34 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 973
@@ -35189,9 +36718,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 974
@@ -35204,9 +36733,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 975
@@ -35220,9 +36749,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 976
@@ -35247,19 +36776,19 @@ il sera fait mention de la déclaration qu'il en aura faite et du motif qu'il en
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Arrêté du 31 janvier 2018 - art. (V)
   - Code civil - art. 977 (V)
   - Code civil - art. 979 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 977
@@ -35270,17 +36799,17 @@ signer ou n'avoir pu le faire lorsqu'il a fait écrire ses dispositions.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code civil - art. 976 (M)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 976 (M)
 
 
 ###### Article 978
@@ -35293,9 +36822,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 979
@@ -35305,7 +36834,7 @@ expresse que le testament sera signé de lui et écrit par lui ou par un autre, 
 et qu'en haut de l'acte de suscription il écrira, en leur présence, que le papier qu'il présente est son testament et
 signera. Il sera fait mention dans l'acte de suscription que le testateur a écrit et signé ces mots en présence du notaire et
 des témoins et sera, au surplus, observé tout ce qui est prescrit par l'article 976 et n'est pas contraire au présent
-article.
+article. 
 
 Dans tous les cas prévus au présent article ou aux articles précédents, le testament mystique dans lequel n'auront point été
 observées les formalités légales, et qui sera nul comme tel, vaudra cependant comme testament olographe si toutes les
@@ -35315,22 +36844,22 @@ conditions requises pour sa validité comme testament olographe sont remplies, m
 
 _Cite_:
 
-  - Code civil - art. 976 (M)
+  - Code civil - art. 976 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 980
 
-Les témoins appelés pour être présents aux testaments devront être Français et majeurs, savoir signer et avoir la jouissance
-de leurs droits civils. Ils pourront être de l'un ou de l'autre sexe, mais le mari et la femme ne pourront être témoins dans
-le même acte.
+Les témoins appelés pour être présents aux testaments devront comprendre la langue française et être majeurs, savoir signer
+et avoir la jouissance de leurs droits civils. Ils pourront être de l'un ou de l'autre sexe, mais le mari et la femme ne
+pourront être témoins dans le même acte.
 
 **Liens relatifs à cet article**
 
@@ -35338,12 +36867,13 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 16 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=241></a>
+#### Section 2 : Des règles particulières sur la forme de certains testaments.<a id=263></a>
 
 ###### Article 981
 
@@ -35352,18 +36882,22 @@ les cas et conditions prévus à l'article 93, soit par un officier supérieur o
 présence de deux témoins ; soit par deux fonctionnaires de l'intendance ou officiers du commissariat ; soit par un de ces
 fonctionnaires ou officiers en présence de deux témoins ; soit enfin, dans un détachement isolé, par l'officier commandant ce
 détachement, assisté de deux témoins, s'il n'existe pas dans le détachement d'officier supérieur ou médecin militaire d'un
-grade correspondant, de fonctionnaire de l'intendance ou d'officier du commissariat.
+grade correspondant, de fonctionnaire de l'intendance ou d'officier du commissariat. 
 
 Le testament de l'officier commandant un détachement isolé pourra être reçu par l'officier qui vient après lui dans l'ordre
-du service.
+du service. 
 
 La faculté de tester dans les conditions prévues au présent article s'étendra aux prisonniers chez l'ennemi.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 93 (M)
+  - Code civil - art. 93 (V)
 
 _Cité par_:
 
@@ -35373,10 +36907,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 982
@@ -35389,6 +36919,10 @@ A défaut de cet officier d'administration, la présence de deux témoins sera n
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Code civil - art. 983 (V)
@@ -35397,25 +36931,31 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 983
 
-Dans tous les cas, il sera fait un double original des testaments mentionnés aux deux articles précédents.
+Dans tous les cas, il est fait un double original des testaments mentionnés aux articles 981 et 982. 
 
-Si cette formalité n'a pu être remplie à raison de l'état de santé du testateur, il sera dressé une expédition du testament
-pour tenir lieu du second original ; cette expédition sera signée par les témoins et par les officiers instrumentaires. Il y
-sera fait mention des causes qui ont empêché de dresser le second original.
+Si cette formalité n'a pu être accomplie en raison de l'état de santé du testateur, il est dressé une expédition du
+testament, signée par les témoins et par les officiers instrumentaires, pour tenir lieu du second original. Il y est fait
+mention des causes qui ont empêché de dresser le second original. 
 
-Dès que la communication sera possible, et dans le plus bref délai, les deux originaux ou l'original et l'expédition du
-testament seront adressés, séparément et par courriers différents, sous pli clos et cacheté, au ministre de la guerre ou de
-la marine, pour être déposés chez le notaire indiqué par le testateur ou, à défaut d'indication, chez le président de la
-chambre des notaires de l'arrondissement du dernier domicile.
+Dès que leur communication est possible, et dans le plus bref délai, les deux originaux, ou l'original et l'expédition du
+testament, sont adressés par courriers distincts, sous pli clos et cacheté, au ministre chargé de la défense nationale ou de
+la mer, pour être déposés chez le notaire indiqué par le testateur ou, à défaut d'indication, chez le président de la chambre
+des notaires de l'arrondissement du dernier domicile du testateur.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 981 (V)
+  - Code civil - art. 982 (V)
 
 _Cité par_:
 
@@ -35425,10 +36965,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 984
@@ -35442,7 +36978,7 @@ spéciale et pendant un nouveau délai de six mois après son expiration.
 
 _Cite_:
 
-  - Code civil - art. 93 (M)
+  - Code civil - art. 93 (V)
 
 _Cité par_:
 
@@ -35452,41 +36988,39 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 985
 
-Les testaments faits dans un lieu avec lequel toute communication sera interceptée à cause de la peste ou autre maladie
-contagieuse, pourront être faits devant le juge du tribunal d'instance ou devant l'un des officiers municipaux de la commune,
-en présence des deux témoins.
-
-Cette disposition aura lieu tant à l'égard de ceux qui seraient attaqués de ces maladies que de ceux qui seraient dans les
-lieux qui en sont infectés, encore qu'ils ne fussent pas actuellement malades.
+Les testaments faits dans un lieu avec lequel toute communication est impossible à cause d'une maladie contagieuse peuvent
+être faits par toute personne atteinte de cette maladie ou située dans des lieux qui en sont infectés, devant le juge
+d'instance ou devant l'un des officiers municipaux de la commune, en présence de deux témoins.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 986 (V)
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 986
 
-Les testaments faits dans une île du territoire européen de la France où il n'existe pas d'office notarial, quand il y aura
-impossibilité de communiquer avec le continent, pourront être reçus ainsi qu'il est dit à l'article précédent.
-L'impossibilité des communications sera attestée dans l'acte par le juge du tribunal d'instance ou l'officier municipal qui
-aura reçu le testament.
+Les testaments faits dans une île du territoire métropolitain ou d'un département d'outre-mer, où il n'existe pas d'office
+notarial, peuvent, lorsque toute communication avec le territoire auquel cette île est rattachée est impossible, être reçus
+dans les formes prévues à l'article 985. L'impossibilité des communications est attestée dans l'acte par le juge d'instance
+ou l'officier municipal qui reçoit le testament.
 
 **Liens relatifs à cet article**
 
@@ -35494,13 +37028,14 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Loi n°68-1092 1968-12-04 art. 3
+  - Code civil - art. 985 (V)
 
 
 ###### Article 987
@@ -35511,17 +37046,17 @@ interrompues.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code civil - art. 996 (V)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 996 (V)
 
 
 ###### Article 988
@@ -35537,6 +37072,10 @@ L'acte indiquera celle des circonstances ci-dessus prévues dans laquelle il aur
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Code civil - art. 994 (V)
@@ -35546,10 +37085,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 989
@@ -35563,17 +37098,17 @@ circonstances, reçus par les personnes qui viennent après eux dans l'ordre du 
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
 
 
 ###### Article 990
@@ -35590,60 +37125,61 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 991
 
-Au premier arrêt dans un port étranger où se trouve un agent diplomatique ou consulaire français, il sera fait remise, sous
-pli clos et cacheté, de l'un des originaux ou de l'expédition du testament entre les mains de ce fonctionnaire, qui
-l'adressera au ministre de la marine afin que le dépôt puisse en être effectué comme il est dit à l'article 983.
+Au premier arrêt dans un port étranger où se trouve un agent diplomatique ou consulaire français, l'un des originaux ou
+l'expédition du testament est remis, sous pli clos et cacheté, à celui-ci. Cet agent adresse ce pli au ministre chargé de la
+mer, afin que le dépôt prévu à l'article 983 soit effectué.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code civil - art. 983 (M)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 983 (V)
 
 
 ###### Article 992
 
-A l'arrivée du bâtiment dans un port de France, les deux originaux du testament ou l'original et son expédition, ou
-l'original qui reste, en cas de transmission ou de remise effectuée pendant le cours du voyage, seront déposés, sous pli clos
-et cacheté, pour les bâtiments de l'Etat, au bureau des armements, et pour les autres bâtiments au bureau de l'inscription
-maritime. Chacune de ces pièces sera adressée, séparément et par courriers différents, au ministre de la marine qui en
-opérera la transmission comme il est dit à l'article 983.
+A l'arrivée du bâtiment dans un port du territoire national, les deux originaux du testament, ou l'original et son
+expédition, ou l'original qui reste, en cas de transmission ou de remise effectuée pendant le cours du voyage, sont déposés,
+sous pli clos et cacheté, pour les bâtiments de l'Etat au ministre chargé de la défense nationale et, pour les autres
+bâtiments, au ministre chargé de la mer. Chacune de ces pièces est adressée, séparément et par courriers différents, au
+ministre chargé de la mer, qui les transmet conformément à l'article 983.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code civil - art. 983 (M)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 983 (V)
 
 
 ###### Article 993
 
-Il sera fait mention, sur le rôle du bâtiment, en regard du nom du testateur, de la remise des originaux ou expédition du
-testament faite, conformément aux prescriptions des articles précédents, au consulat, au bureau des armements ou au bureau de
-l'inscription maritime.
+Le rôle du bâtiment mentionne, en regard du nom du testateur, la remise des originaux ou l'expédition du testament faite,
+selon le cas, au consulat, au ministre chargé de la défense nationale ou au ministre chargé de la mer.
 
 **Liens relatifs à cet article**
 
@@ -35651,9 +37187,10 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 994
@@ -35667,6 +37204,10 @@ pendant la durée de ce voyage et pendant un nouveau délai de six mois après q
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
   - Code civil - art. 988 (M)
@@ -35679,32 +37220,28 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 995
 
 Les dispositions insérées dans un testament fait, au cours d'un voyage maritime, au profit des officiers du bâtiment autres
-que ceux qui seraient parents ou alliés du testateur, seront nulles et non avenues.
+que ceux qui seraient parents ou alliés du testateur, seront nulles et non avenues. 
 
 Il en sera ainsi, que le testament soit fait en la forme olographe ou qu'il soit reçu conformément aux articles 988 et
 suivants.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 988 (M)
+  - Code civil - art. 988 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 996
@@ -35714,19 +37251,19 @@ et mention de cette lecture sera faite dans le testament.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 984 (M)
-  - Code civil - art. 987 (M)
-  - Code civil - art. 994 (M)
+  - Code civil - art. 984 (V)
+  - Code civil - art. 987 (V)
+  - Code civil - art. 994 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 997
@@ -35740,9 +37277,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 998
@@ -35755,17 +37292,17 @@ mention de la cause pour laquelle l'autre n'aura pas signé.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil - art. 1001 (M)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1001 (M)
 
 
 ###### Article 999
@@ -35776,21 +37313,21 @@ passé.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 **Liens**:
 
   - TXT_ASSOCIE: Code civil - art. 1001 (M)
 
 _Cite_:
 
-  - Code civil - art. 970 (M)
+  - Code civil - art. 970 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1000
@@ -35802,17 +37339,17 @@ au bureau de la situation de ces immeubles, sans qu'il puisse être exigé un do
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil - art. 1001 (M)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code civil - art. 1001 (M)
 
 
 ###### Article 1001
@@ -35821,6 +37358,10 @@ Les formalités auxquelles les divers testaments sont assujettis par les disposi
 précédente doivent être observées à peine de nullité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 **Liens**:
 
@@ -35832,12 +37373,8 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=242></a>
+#### Section 3 : Des institutions d'héritiers et des legs en général.<a id=264></a>
 
 ###### Article 1002
 
@@ -35853,12 +37390,33 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1002-1
+
+Sauf volonté contraire du disposant, lorsque la succession a été acceptée par au moins un héritier désigné par la loi, le
+légataire peut cantonner son émolument sur une partie des biens dont il a été disposé en sa faveur. Ce cantonnement ne
+constitue pas une libéralité faite par le légataire aux autres successibles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 18 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 788 bis (V)
 
 
-#### Section 4 : Du legs universel.<a id=243></a>
+#### Section 4 : Du legs universel.<a id=265></a>
 
 ###### Article 1003
 
@@ -35871,9 +37429,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1004
@@ -35884,6 +37442,10 @@ demander la délivrance des biens compris dans le testament.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Arrêté du 31 janvier 2018 - art. (V)
@@ -35891,10 +37453,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1005
@@ -35909,9 +37467,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1006
@@ -35928,13 +37486,13 @@ _Cité par_:
   - Arrêté du 31 janvier 2018 - art. (V)
   - Code civil - art. 1008 (VT)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1007
@@ -35950,10 +37508,6 @@ documents et les conservera au rang de ses minutes.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°66-1012 1966-12-28 art. 1 JORF 29 décembre 1966
-
 _Cité par_:
 
   - Décret n°2016-1907 du 28 décembre 2016 (V)
@@ -35963,9 +37517,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1008
@@ -35981,17 +37535,21 @@ _Cité par_:
   - Décret n°60-323  du 2 avril 1960  - art. 58 (VT)
   - Code civil - art. 1030-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 44
+
 _Cite_:
 
-  - Code civil - art. 1006 (M)
+  - Code civil - art. 1006
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1009
@@ -36002,21 +37560,21 @@ et il sera tenu d'acquitter tous les legs, sauf le cas de réduction, ainsi qu'i
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code civil - art. 926 (M)
-  - Code civil - art. 927 (M)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 926 (V)
+  - Code civil - art. 927 (V)
 
 
-#### Section 5 : Du legs à titre universel.<a id=244></a>
+#### Section 5 : Du legs à titre universel.<a id=266></a>
 
 ###### Article 1010
 
@@ -36036,9 +37594,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1011
@@ -36057,9 +37615,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1012
@@ -36073,9 +37631,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1013
@@ -36089,17 +37647,17 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-#### Section 6 : Des legs particuliers.<a id=245></a>
+#### Section 6 : Des legs particuliers.<a id=267></a>
 
 ###### Article 1014
 
 Tout legs pur et simple donnera au légataire, du jour du décès du testateur, un droit à la chose léguée, droit transmissible
-à ses héritiers ou ayants cause.
+à ses héritiers ou ayants cause. 
 
 Néanmoins le légataire particulier ne pourra se mettre en possession de la chose léguée, ni en prétendre les fruits ou
 intérêts, qu'à compter du jour de sa demande en délivrance, formée suivant l'ordre établi par l'article 1011, ou du jour
@@ -36109,15 +37667,15 @@ auquel cette délivrance lui aurait été volontairement consentie.
 
 _Cite_:
 
-  - Code civil - art. 1011 (M)
+  - Code civil - art. 1011 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1015
@@ -36135,9 +37693,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1016
@@ -36158,9 +37716,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1017
@@ -36173,18 +37731,18 @@ seront détenteurs.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code civil - art. 2121 (T)
-  - Code civil - art. 2400 (V)
-
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 2121 (T)
+  - Code civil - art. 2400 (V)
 
 
 ###### Article 1018
@@ -36198,9 +37756,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1019
@@ -36217,9 +37775,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1020
@@ -36230,6 +37788,10 @@ qu'il n'ait été chargé de le faire par une disposition expresse du testateur.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Code civil - art. 611 (V)
@@ -36237,10 +37799,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1021
@@ -36254,9 +37812,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1022
@@ -36270,9 +37828,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1023
@@ -36286,9 +37844,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1024
@@ -36302,58 +37860,62 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-#### Section 7 : Des exécuteurs testamentaires.<a id=246></a>
+#### Section 7 : Des exécuteurs testamentaires.<a id=268></a>
 
 ###### Article 1025
 
-Le testateur pourra nommer un ou plusieurs exécuteurs testamentaires.
+Le testateur peut nommer un ou plusieurs exécuteurs testamentaires jouissant de la pleine capacité civile pour veiller ou
+procéder à l'exécution de ses volontés.
+
+L'exécuteur testamentaire qui a accepté sa mission est tenu de l'accomplir.
+
+Les pouvoirs de l'exécuteur testamentaire ne sont pas transmissibles à cause de mort.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code civil - art. 813-2 (V)
 
+
+###### Article 1026
+
+L'exécuteur testamentaire peut être relevé de sa mission pour motifs graves par le tribunal.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-###### Article 1026
-
-Il pourra leur donner la saisine du tout ou seulement d'une partie de son mobilier ; mais elle ne pourra durer au-delà de
-l'an et jour à compter de son décès.
-
-S'il ne la leur a pas donnée, ils ne pourront l'exiger.
-
-**Liens relatifs à cet article**
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Code de procédure civile - art. 1381 (VD)
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 1027
 
-L'héritier pourra faire cesser la saisine en offrant de remettre aux exécuteurs testamentaires somme suffisante pour le
-paiement des legs mobiliers ou en justifiant de ce paiement.
+S'il y a plusieurs exécuteurs testamentaires acceptant, l'un d'eux peut agir à défaut des autres, à moins que le testateur en
+ait disposé autrement ou qu'il ait divisé leur fonction.
 
 **Liens relatifs à cet article**
 
@@ -36361,14 +37923,17 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1028
 
-Celui qui ne peut s'obliger, ne peut pas être exécuteur testamentaire.
+L'exécuteur testamentaire est mis en cause en cas de contestation sur la validité ou l'exécution d'un testament ou d'un legs.
+
+Dans tous les cas, il intervient pour soutenir la validité ou exiger l'exécution des dispositions litigieuses.
 
 **Liens relatifs à cet article**
 
@@ -36376,16 +37941,73 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1029
+
+L'exécuteur testamentaire prend les mesures conservatoires utiles à la bonne exécution du testament. 
+
+Il peut faire procéder, dans les formes prévues à l'article 789, à l'inventaire de la succession en présence ou non des
+héritiers, après les avoir dûment appelés. 
+
+Il peut provoquer la vente du mobilier à défaut de liquidités suffisantes pour acquitter les dettes urgentes de la
+succession.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 789 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
 
 
 ###### Article 1030
 
-Le mineur ne pourra être exécuteur testamentaire même avec l'autorisation de son tuteur ou curateur.
+Le testateur peut habiliter l'exécuteur testamentaire à prendre possession en tout ou partie du mobilier de la succession et
+à le vendre s'il est nécessaire pour acquitter les legs particuliers dans la limite de la quotité disponible.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 1030-2 (VD)
+  - Code civil - art. 1031 (V)
+
+
+###### Article 1030-1
+
+En l'absence d'héritier réservataire acceptant, le testateur peut habiliter l'exécuteur testamentaire à disposer en tout ou
+partie des immeubles de la succession, recevoir et placer les capitaux, payer les dettes et les charges et procéder à
+l'attribution ou au partage des biens subsistants entre les héritiers et les légataires.
+
+A peine d'inopposabilité, la vente d'un immeuble de la succession ne peut intervenir qu'après information des héritiers par
+l'exécuteur testamentaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -36396,33 +38018,53 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+###### Article 1030-2
 
-
-###### Article 1031
-
-Les exécuteurs testamentaires feront apposer les scellés s'il y a des héritiers mineurs, majeurs en tutelle ou absents.
-
-Ils feront faire, en présence de l'héritier présomptif, ou lui dûment appelé, l'inventaire des biens de la succession.
-
-Ils provoqueront la vente du mobilier, à défaut de deniers suffisants pour acquitter les legs.
-
-Ils veilleront à ce que le testament soit exécuté ; et ils pourront, en cas de contestation sur son exécution, intervenir
-pour en soutenir la validité.
-
-Ils devront, à l'expiration de l'année du décès du testateur, rendre compte de leur gestion.
+Lorsque le testament a revêtu la forme authentique, l'envoi en possession prévu à l'article 1008 n'est pas requis pour
+l'exécution des pouvoirs mentionnés aux articles 1030 et 1030-1.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Arrêté du 31 janvier 2018 - art. (V)
+
+_Cite_:
+
+  - Code civil - art. 1008 (V)
+  - Code civil - art. 1030 (V)
+  - Code civil - art. 1030-1 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+###### Article 1031
+
+Les habilitations mentionnées aux articles 1030 et 1030-1 sont données par le testateur pour une durée qui ne peut excéder
+deux années à compter de l'ouverture du testament. Une prorogation d'une année au plus peut être accordée par le juge.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code civil - art. 1030 (V)
+  - Code civil - art. 1030-1 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -36431,7 +38073,8 @@ _Cité par_:
 
 ###### Article 1032
 
-Les pouvoirs de l'exécuteur testamentaire ne passeront point à ses héritiers.
+La mission de l'exécuteur testamentaire prend fin au plus tard deux ans après l'ouverture du testament sauf prorogation par
+le juge.
 
 **Liens relatifs à cet article**
 
@@ -36439,16 +38082,37 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1033
 
-S'il y a plusieurs exécuteurs testamentaires qui aient accepté, un seul pourra agir au défaut des autres ; et ils seront
-solidairement responsables du compte du mobilier qui leur a été confié, à moins que le testateur n'ait divisé leurs
-fonctions, et que chacun d'eux ne se soit renfermé dans celle qui lui était attribuée.
+L'exécuteur testamentaire rend compte dans les six mois suivant la fin de sa mission.
+
+Si l'exécution testamentaire prend fin par le décès de l'exécuteur, l'obligation de rendre des comptes incombe à ses
+héritiers.
+
+Il assume la responsabilité d'un mandataire à titre gratuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1033-1
+
+La mission d'exécuteur testamentaire est gratuite, sauf libéralité faite à titre particulier eu égard aux facultés du
+disposant et aux services rendus.
 
 **Liens relatifs à cet article**
 
@@ -36458,13 +38122,12 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1034
 
-Les frais faits par l'exécuteur testamentaire pour l'apposition des scellés, l'inventaire, le compte et les autres frais
-relatifs à ses fonctions seront à la charge de la succession.
+Les frais supportés par l'exécuteur testamentaire dans l'exercice de sa mission sont à la charge de la succession.
 
 **Liens relatifs à cet article**
 
@@ -36472,12 +38135,13 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-#### Section 8 : De la révocation des testaments et de leur caducité.<a id=247></a>
+#### Section 8 : De la révocation des testaments et de leur caducité.<a id=269></a>
 
 ###### Article 1035
 
@@ -36495,9 +38159,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1036
@@ -36511,9 +38175,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1037
@@ -36527,9 +38191,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1038
@@ -36544,9 +38208,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1039
@@ -36559,9 +38223,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1040
@@ -36576,9 +38240,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1041
@@ -36592,9 +38256,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1042
@@ -36610,9 +38274,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1043
@@ -36626,9 +38290,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1044
@@ -36644,9 +38308,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1045
@@ -36660,9 +38324,9 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1046
@@ -36672,18 +38336,18 @@ révocation de la donation entre vifs, seront admises pour la demande en révoca
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 954 (M)
-  - Code civil - art. 955 (M)
+  - Code civil - art. 954 (V)
+  - Code civil - art. 955 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1047
@@ -36697,18 +38361,19 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.<a id=248></a>
+### Chapitre VI : Des libéralités graduelles et résiduelles.<a id=270></a>
+
+#### Section 1 : Des libéralités graduelles.<a id=271></a>
 
 ###### Article 1048
 
-Les biens dont les père et mère ont la faculté de disposer pourront être par eux donnés, en tout ou en partie, à un ou
-plusieurs de leurs enfants, par actes entre vifs ou testamentaires, avec la charge de rendre ces biens aux enfants nés et à
-naître, au premier degré seulement, desdits donataires.
+Une libéralité peut être grevée d'une charge comportant l'obligation pour le donataire ou le légataire de conserver les biens
+ou droits qui en sont l'objet et de les transmettre, à son décès, à un second gratifié, désigné dans l'acte.
 
 **Liens relatifs à cet article**
 
@@ -36720,42 +38385,51 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 784 C (V)
   - Code général des impôts, CGI. - art. 791 bis (T)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1049
 
-Sera valable, en cas de mort sans enfants, la disposition que le défunt aura faite par acte entre vifs ou testamentaire, au
-profit d'un ou plusieurs de ses frères ou soeurs, de tout ou partie des biens qui ne sont point réservés par la loi dans sa
-succession, avec la charge de rendre ces biens aux enfants nés et à naître, au premier degré seulement, desdits frères ou
-soeurs donataires.
+La libéralité ainsi consentie ne peut produire son effet que sur des biens ou des droits identifiables à la date de la
+transmission et subsistant en nature au décès du grevé.
+
+Lorsqu'elle porte sur des valeurs mobilières, la libéralité produit également son effet, en cas d'aliénation, sur les valeurs
+mobilières qui y ont été subrogées.
+
+Lorsqu'elle concerne un immeuble, la charge grevant la libéralité est soumise à publicité.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code civil - art. 1061 (V)
-  - Loi du 1er juin 1924 - art. 38 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Cité par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi du 1er juin 1924 - art. 38 (V)
+  - Code civil - art. 1061 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1050
 
-Les dispositions permises par les deux articles précédents ne seront valables qu'autant que la charge de restitution sera au
-profit de tous les enfants nés et à naître du grevé, sans exception ni préférence d'âge ou de sexe.
+Les droits du second gratifié s'ouvrent à la mort du grevé.
+
+Toutefois, le grevé peut abandonner, au profit du second gratifié, la jouissance du bien ou du droit objet de la libéralité.
+
+Cet abandon anticipé ne peut préjudicier aux créanciers du grevé antérieurs à l'abandon, ni aux tiers ayant acquis, de ce
+dernier, un droit sur le bien ou le droit abandonné.
 
 **Liens relatifs à cet article**
 
@@ -36763,17 +38437,27 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1051
 
-Si, dans les cas ci-dessus, le grevé de restitution au profit de ses enfants meurt, laissant des enfants au premier degré et
-des descendants d'un enfant prédécédé, ces derniers recueilleront, par représentation, la portion de l'enfant prédécédé.
+Le second gratifié est réputé tenir ses droits de l'auteur de la libéralité. Il en va de même de ses héritiers lorsque ceux-
+ci recueillent la libéralité dans les conditions prévues à l'article 1056.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1056 (V)
 
 _Cité par_:
 
@@ -36782,19 +38466,11 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1052
 
-Si l'enfant, le frère ou la soeur auxquels des biens auraient été donnés par acte entre vifs, sans charge de restitution,
-acceptent une nouvelle libéralité faite par acte entre vifs ou testamentaire, sous la condition que les biens précédemment
-donnés demeureront grevés de cette charge, il ne leur est plus permis de diviser les deux dispositions faites à leur profit,
-et de renoncer à la seconde pour s'en tenir à la première, quand même ils offriraient de rendre les biens compris dans la
-seconde disposition.
+Il appartient au disposant de prescrire des garanties et des sûretés pour la bonne exécution de la charge.
 
 **Liens relatifs à cet article**
 
@@ -36806,16 +38482,17 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1053
 
-Les droits des appelés seront ouverts à l'époque où, par quelque cause que ce soit, la jouissance de l'enfant, du frère ou de
-la soeur, grevés de restitution, cessera : l'abandon anticipé de la jouissance au profit des appelés ne pourra préjudicier
-aux créanciers du grevé antérieurs à l'abandon.
+Le second gratifié ne peut être soumis à l'obligation de conserver et de transmettre.
+
+Si la charge a été stipulée au-delà du premier degré, elle demeure valable mais pour le premier degré seulement.
 
 **Liens relatifs à cet article**
 
@@ -36823,15 +38500,24 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1054
 
-Les femmes des grevés ne pourront avoir, sur les biens à rendre, de recours subsidiaire, en cas d'insuffisance des biens
-libres, que pour le capital des deniers dotaux, et dans le cas seulement où le testateur l'aurait expressément ordonné.
+Si le grevé est héritier réservataire du disposant, la charge ne peut être imposée que sur la quotité disponible. 
+
+Le donataire peut toutefois accepter, dans l'acte de donation ou postérieurement dans un acte établi dans les conditions
+prévues à l'article 930, que la charge grève tout ou partie de sa réserve. 
+
+Le légataire peut, dans un délai d'un an à compter du jour où il a eu connaissance du testament, demander que sa part de
+réserve soit, en tout ou partie, libérée de la charge. A défaut, il doit en assumer l'exécution. 
+
+La charge portant sur la part de réserve du grevé, avec son consentement, bénéficie de plein droit, dans cette mesure, à
+l'ensemble de ses enfants nés et à naître.
 
 **Liens relatifs à cet article**
 
@@ -36839,18 +38525,33 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 930 (V)
 
 
 ###### Article 1055
 
-Celui qui fera les dispositions autorisées par les articles précédents pourra, par le même acte, ou par un acte postérieur,
-en forme authentique, nommer un tuteur chargé de l'exécution de ces dispositions : ce tuteur ne pourra être dispensé que pour
-une des causes exprimées aux articles 428 et suivants.
+L'auteur d'une donation graduelle peut la révoquer à l'égard du second gratifié tant que celui-ci n'a pas notifié, dans les
+formes requises en matière de donation, son acceptation au donateur. 
+
+Par dérogation à l'article 932, la donation graduelle peut être acceptée par le second gratifié après le décès du donateur.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -36858,28 +38559,21 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 428 (AbD)
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Modifié par_:
-
-  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+  - Code civil - art. 932 (V)
 
 
 ###### Article 1056
 
-A défaut de ce tuteur, il en sera nommé un, à la diligence du grevé ou de son tuteur s'il est mineur, dans le délai d'un mois
-à compter du jour du décès du donateur ou testateur, ou du jour que, depuis cette mort, l'acte contenant la disposition aura
-été connu.
+Lorsque le second gratifié prédécède au grevé ou renonce au bénéfice de la libéralité graduelle, les biens ou droits qui en
+faisaient l'objet dépendent de la succession du grevé, à moins que l'acte prévoit expressément que ses héritiers pourront la
+recueillir ou désigne un autre second gratifié.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -36887,55 +38581,45 @@ _Cité par_:
   - Code civil - art. 1057 (M)
   - Code civil - art. 1061 (V)
 
-**Liens**:
+_Codifié par_:
 
-  - TXT_ASSOCIE: Code civil - art. 1057 (M)
+  - Loi n°1803-05-03
+
+
+#### Section 2 : Des libéralités résiduelles.<a id=272></a>
+
+###### Article 1057
+
+Il peut être prévu dans une libéralité qu'une personne sera appelée à recueillir ce qui subsistera du don ou legs fait à un
+premier gratifié à la mort de celui-ci.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-###### Article 1057
-
-Le grevé qui n'aura pas satisfait à l'article précédent sera déchu du bénéfice de la disposition ; et, dans ce cas, le droit
-pourra être déclaré ouvert au profit des appelés, à la diligence soit des appelés s'ils sont majeurs, soit de leur tuteur ou
-curateur, s'ils sont mineurs ou majeurs en tutelle, soit de tout parent des appelés majeurs, mineurs ou majeurs en tutelle,
-ou même d'office, à la diligence du procureur de la République près le tribunal de grande instance du lieu où la succession
-est ouverte.
-
-**Liens relatifs à cet article**
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 **Liens**:
 
   - TXT_ASSOCIE: Code civil - art. 1056 (M)
 
-_Cite_:
-
-  - Code civil - art. 1056 (M)
-
 _Cité par_:
 
   - Code civil - art. 1061 (M)
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 ###### Article 1058
 
-Après le décès de celui qui aura disposé à la charge de restitution, il sera procédé, dans les formes ordinaires, à
-l'inventaire de tous les biens et effets qui composeront sa succession, excepté néanmoins le cas où il ne s'agirait que d'un
-legs particulier. Cet inventaire contiendra la prisée à juste prix des meubles et effets mobiliers.
+La libéralité résiduelle n'oblige pas le premier gratifié à conserver les biens reçus. Elle l'oblige à transmettre les biens
+subsistants.
+
+Lorsque les biens, objets de la libéralité résiduelle, ont été aliénés par le premier gratifié, les droits du second
+bénéficiaire ne se reportent ni sur le produit de ces aliénations ni sur les nouveaux biens acquis.
 
 **Liens relatifs à cet article**
 
@@ -36943,15 +38627,20 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1059
 
-Il sera fait à la requête du grevé de restitution, et dans le délai fixé au titre Des successions, en présence du tuteur
-nommé pour l'exécution. Les frais seront pris sur les biens compris dans la disposition.
+Le premier gratifié ne peut disposer par testament des biens donnés ou légués à titre résiduel.
+
+La libéralité résiduelle peut interdire au premier gratifié de disposer des biens par donation entre vifs.
+
+Toutefois, lorsqu'il est héritier réservataire, le premier gratifié conserve la possibilité de disposer entre vifs ou à cause
+de mort des biens qui ont été donnés en avancement de part successorale.
 
 **Liens relatifs à cet article**
 
@@ -36959,15 +38648,15 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1060
 
-Si l'inventaire n'a pas été fait à la requête du grevé dans le délai ci-dessus, il y sera procédé dans le mois suivant, à la
-diligence du tuteur nommé pour l'exécution, en présence du grevé ou de son tuteur.
+Le premier gratifié n'est pas tenu de rendre compte de sa gestion au disposant ou à ses héritiers.
 
 **Liens relatifs à cet article**
 
@@ -36975,355 +38664,54 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1061
 
-S'il n'a point été satisfait aux deux articles précédents, il sera procédé au même inventaire, à la diligence des personnes
-désignées en l'article 1057, en y appelant le grevé ou son tuteur, et le tuteur nommé pour l'exécution.
+Les dispositions prévues aux articles 1049, 1051, 1052, 1055 et 1056 sont applicables aux libéralités résiduelles.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code civil - art. 1057 (M)
+  - Code civil - art. 1049 (V)
+  - Code civil - art. 1051 (V)
+  - Code civil - art. 1052 (V)
+  - Code civil - art. 1055 (V)
+  - Code civil - art. 1056 (V)
 
 _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+### Chapitre VII : Des libéralités-partages.<a id=273></a>
 
-
-###### Article 1062
-
-Le grevé de restitution sera tenu de faire procéder à la vente, par affiches et enchères, de tous les meubles et effets
-compris dans la disposition, à l'exception néanmoins de ceux dont il est mention dans les deux articles suivants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1063
-
-Les meubles meublants et autres choses mobilières qui auraient été compris dans la disposition, à la condition expresse de
-les conserver en nature, seront rendus dans l'état où il se trouveront lors de la restitution.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1064
-
-Les bestiaux et ustensiles servant à faire valoir les terres, seront censés compris dans les donations entre vifs ou
-testamentaires desdites terres ; et le grevé sera seulement tenu de les faire priser et estimer pour en rendre une valeur
-égale lors de la restitution.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1065
-
-Il sera fait par le grevé, dans le délai de six mois à compter du jour de la clôture de l'inventaire, un emploi des deniers
-comptants, de ceux provenant du prix des meubles et effets qui auront été vendus, et de ce qui aura été reçu des effets
-actifs.
-
-Ce délai pourra être prolongé, s'il y a lieu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1066
-
-Le grevé sera pareillement tenu de faire emploi des deniers provenant des effets actifs qui seront recouvrés et des
-remboursements de rentes ; et ce, dans trois mois au plus tard après qu'il aura reçu ces deniers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1067
-
-Cet emploi sera fait conformément à ce qui aura été ordonné par l'auteur de la disposition, s'il a désigné la nature des
-effets dans lesquels l'emploi doit être fait ; sinon, il ne pourra l'être qu'en immeubles, ou avec privilège sur des
-immeubles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1068
-
-L'emploi ordonné par les articles précédents sera fait en présence et à la diligence du tuteur nommé pour l'exécution.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1069
-
-Les dispositions par actes entre vifs ou testamentaires, à charge de restitution, seront, à la diligence soit du grevé, soit
-du tuteur nommé pour l'exécution, rendues publiques, quant aux immeubles, conformément aux lois et règlements concernant la
-publicité foncière, et quant aux créances privilégiées ou hypothécaires, suivant les prescriptions des articles 2428 et 2430,
-2e alinéa, du présent code.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-_Cité par_:
-
-  - Code civil - art. 2300 (T)
-  - Code civil - art. 2506 (Ab)
-
-_Cite_:
-
-  - Code civil - art. 2428 (M)
-  - Code civil - art. 2430 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-
-###### Article 1070
-
-Le défaut de publication de l'acte contenant la disposition pourra être opposé par les créanciers et tiers acquéreurs, même
-aux mineurs ou majeurs en tutelle, sauf le recours contre le grevé et contre le tuteur à l'exécution, et sans que les mineurs
-ou majeurs en tutelle puissent être restitués contre ce défaut de publication, quand même le grevé et le tuteur se
-trouveraient insolvables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Cité par_:
-
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 38-2 (M)
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 40 (M)
-
-_Modifié par_:
-
-  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1071
-
-Le défaut de publication ne pourra être suppléé ni regardé comme couvert par la connaissance que les créanciers ou les tiers
-acquéreurs pourraient avoir eue de la disposition par d'autres voies que celle de la publication.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Modifié par_:
-
-  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1072
-
-Les donataires, les légataires, ni même les héritiers de celui qui aura fait la disposition, ni pareillement leurs
-donataires, légataires ou héritiers ne pourront, en aucun cas, opposer aux appelés le défaut de publication ou inscription.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Modifié par_:
-
-  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1073
-
-Le tuteur nommé pour l'exécution sera personnellement responsable, s'il ne s'est pas, en tout point, conformé aux règles ci-
-dessus établies pour constater les biens, pour la vente du mobilier, pour l'emploi des deniers pour la publication et
-l'inscription et, en général, s'il n'a pas fait toutes les diligences nécessaires pour que la charge de restitution soit bien
-et fidèlement acquittée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Modifié par_:
-
-  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1074
-
-Si le grevé est mineur, il ne pourra, dans le cas même de l'insolvabilité de son tuteur, être restitué contre l'inexécution
-des règles qui lui sont prescrites par les articles du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-### Chapitre VII : Des partages faits par les ascendants.<a id=249></a>
+#### Section 1 : Dispositions générales.<a id=274></a>
 
 ###### Article 1075
 
-Les père et mère et autres ascendants peuvent faire, entre leurs enfants et descendants, la distribution et le partage de
-leurs biens.
+Toute personne peut faire, entre ses héritiers présomptifs, la distribution et le partage de ses biens et de ses droits.
 
 Cet acte peut se faire sous forme de donation-partage ou de testament-partage. Il est soumis aux formalités, conditions et
-règles prescrites pour les donations entre vifs dans le premier cas et des testaments dans le second, sous réserve de
-l'application des dispositions qui suivent.
-
-Si leurs biens comprennent une entreprise individuelle à caractère industriel, commercial, artisanal, agricole ou libéral,
-les père et mère et autres ascendants peuvent, dans les mêmes conditions et avec les mêmes effets, en faire sous forme de
-donation-partage, la distribution et le partage entre leurs enfants et descendants et d'autres personnes, sous réserve que
-les biens corporels et incorporels affectés à l'exploitation de l'entreprise entrent dans cette distribution et ce partage et
-que cette distribution et ce partage aient pour effet de n'attribuer à ces autres personnes que la propriété de tout ou
-partie de ces biens ou leur jouissance.
+règles prescrites pour les donations entre vifs dans le premier cas et pour les testaments dans le second.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-15 1988-01-05 art. 52 III *champ d'application*
-
 _Modifié par_:
 
-  - Loi n°88-15 du 5 janvier 1988 - art. 42 () JORF 6 janvier 1988 rectificatif JORF 12 mars 1988
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37339,7 +38727,8 @@ _Codifié par_:
 
 ###### Article 1075-1
 
-Le partage fait par un ascendant ne peut être attaqué pour cause de lésion.
+Toute personne peut également faire la distribution et le partage de ses biens et de ses droits entre des descendants de
+degrés différents, qu'ils soient ou non ses héritiers présomptifs.
 
 **Liens relatifs à cet article**
 
@@ -37347,13 +38736,11 @@ _Codifié par_:
 
   - Loi n°1803-05-03
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-_Transféré par_:
-
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
   - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37367,31 +38754,33 @@ _Nouveaux textes_:
 
 ###### Article 1075-2
 
-Les dispositions de l'article 833-1, premier alinéa, sont applicables aux soultes mises à la charge des donataires,
-nonobstant toute convention contraire.
+Si ses biens comprennent une entreprise individuelle à caractère industriel, commercial, artisanal, agricole ou libéral ou
+des droits sociaux d'une société exerçant une activité à caractère industriel, commercial, artisanal, agricole ou libéral et
+dans laquelle il exerce une fonction dirigeante, le disposant peut en faire, sous forme de donation-partage et dans les
+conditions prévues aux articles 1075 et 1075-1, la distribution et le partage entre le ou les donataires visés auxdits
+articles et une ou plusieurs autres personnes, sous réserve des conditions propres à chaque forme de société ou stipulées
+dans les statuts. 
+
+Cette libéralité est faite sous réserve que les biens corporels et incorporels affectés à l'exploitation de l'entreprise ou
+les droits sociaux entrent dans cette distribution et ce partage, et que cette distribution et ce partage aient pour effet de
+n'attribuer à ces autres personnes que la propriété ou la jouissance de tout ou partie de ces biens ou droits.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
-_Transféré par_:
-
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
   - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1075 (V)
+  - Code civil - art. 1075-1 (V)
 
 _Nouveaux textes_:
 
   - Code civil - art. 1075-4 (V)
-
-_Cite_:
-
-  - Code civil - art. 833-1 (V)
 
 _Codifié par_:
 
@@ -37400,25 +38789,12 @@ _Codifié par_:
 
 ###### Article 1075-3
 
-Si tous les biens que l'ascendant laisse au jour de son décès n'ont pas été compris dans le partage, ceux de ses biens qui
-n'y auront pas été compris seront attribués ou partagés conformément à la loi.
+L'action en complément de part pour cause de lésion ne peut être exercée contre les donations-partages et les testaments-
+partages.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Créé par_:
-
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
@@ -37430,68 +38806,117 @@ _Nouveaux textes_:
 
   - Code civil - art. 1075-5 (V)
 
+_Codifié par_:
 
-#### Section 1 : Des donations-partages.<a id=250></a>
+  - Loi n°1803-05-03
+
+
+###### Article 1075-4
+
+Les dispositions de l'article 828, sont applicables aux soultes mises à la charge des donataires, nonobstant toute convention
+contraire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Anciens textes_:
+
+  - Code civil - art. 1075-2 (T)
+
+_Cite_:
+
+  - Code civil - art. 828 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+
+###### Article 1075-5
+
+Si tous les biens ou droits que le disposant laisse au jour de son décès n'ont pas été compris dans le partage, ceux de ses
+biens ou droits qui n'y ont pas été compris sont attribués ou partagés conformément à la loi.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code civil - art. 1075-3 (T)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+#### Section 2 : Des donations-partages.<a id=275></a>
+
+##### Paragraphe 1 : Des donations-partages faites aux héritiers présomptifs.<a id=276></a>
 
 ###### Article 1076
 
 La donation-partage ne peut avoir pour objet que des biens présents.
 
-La donation et le partage peuvent être faits par actes séparés pourvu que l'ascendant intervienne aux deux actes.
+La donation et le partage peuvent être faits par actes séparés pourvu que le disposant intervienne aux deux actes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1076-1
+
+En cas de donation-partage faite conjointement par deux époux, l'enfant non commun peut être alloti du chef de son auteur en
+biens propres de celui-ci ou en biens communs, sans que le conjoint puisse toutefois être codonateur des biens communs.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-_Modifié par_:
+_Cité par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Code général des impôts, CGI. - art. 778 bis (V)
 
 
 ###### Article 1077
 
-Les biens reçus par les descendants à titre de partage anticipé constituent un avancement d'hoirie imputable sur leur part de
-réserve, à moins qu'ils n'aient été donnés expressément par préciput et hors part.
+Les biens reçus à titre de partage anticipé par un héritier réservataire présomptif s'imputent sur sa part de réserve, à
+moins qu'ils n'aient été donnés expressément hors part.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er juillet 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1077-1
 
-Le descendant qui n'a pas concouru à la donation-partage, ou qui a reçu un lot inférieur à sa part de réserve, peut exercer
-l'action en réduction, s'il n'existe pas à l'ouverture de la succession des biens non compris dans le partage et suffisants
-pour composer ou compléter sa réserve, compte tenu des libéralités dont il a pu bénéficier.
+L'héritier réservataire, qui n'a pas concouru à la donation-partage, ou qui a reçu un lot inférieur à sa part de réserve,
+peut exercer l'action en réduction, s'il n'existe pas à l'ouverture de la succession des biens non compris dans le partage et
+suffisants pour composer ou compléter sa réserve, compte tenu des libéralités dont il a pu bénéficier.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37503,22 +38928,21 @@ _Cité par_:
 Les donations-partages suivent les règles des donations entre vifs pour tout ce qui concerne l'imputation, le calcul de la
 réserve et la réduction.
 
-L'action en réduction ne peut être introduite qu'après le décès de l'ascendant qui a fait le partage ou du survivant des
-ascendants en cas de partage conjonctif. Elle se prescrit par cinq ans à compter dudit décès.
+L'action en réduction ne peut être introduite qu'après le décès du disposant qui a fait le partage. En cas de donation-
+partage faite conjointement par les deux époux, l'action en réduction ne peut être introduite qu'après le décès du survivant
+des disposants, sauf pour l'enfant non commun qui peut agir dès le décès de son auteur. L'action se prescrit par cinq ans à
+compter de ce décès.
 
-L'enfant non encore conçu au moment de la donation-partage dispose d'une semblable action pour composer ou compléter sa part
-héréditaire.
+L'héritier présomptif non encore conçu au moment de la donation-partage dispose d'une semblable action pour composer ou
+compléter sa part héréditaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37529,24 +38953,17 @@ _Cité par_:
 ###### Article 1078
 
 Nonobstant les règles applicables aux donations entre vifs, les biens donnés seront, sauf convention contraire, évalués au
-jour de la donation-partage pour l'imputation et le calcul de la réserve, à condition que tous les enfants vivants ou
-représentés au décès de l'ascendant aient reçu un lot dans le partage anticipé et l'aient expressément accepté, et qu'il
-n'ait pas été prévu de réserve d'usufruit portant sur une somme d'argent.
+jour de la donation-partage pour l'imputation et le calcul de la réserve, à condition que tous les héritiers réservataires
+vivants ou représentés au décès de l'ascendant aient reçu un lot dans le partage anticipé et l'aient expressément accepté, et
+qu'il n'ait pas été prévu de réserve d'usufruit portant sur une somme d'argent.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37555,22 +38972,20 @@ _Cité par_:
 
 ###### Article 1078-1
 
-Le lot de certains gratifiés pourra être formé, en totalité ou en partie, des donations, soit rapportables, soit
-préciputaires, déjà reçues par eux de l'ascendant, eu égard éventuellement aux emplois et remplois qu'ils auront pu faire
-dans l'intervalle.
+Le lot de certains gratifiés pourra être formé, en totalité ou en partie, des donations, soit rapportables, soit faites hors
+part, déjà reçues par eux du disposant, eu égard éventuellement aux emplois et remplois qu'ils auront pu faire dans
+l'intervalle.
 
 La date d'évaluation applicable au partage anticipé sera également applicable aux donations antérieures qui lui auront été
 ainsi incorporées. Toute stipulation contraire sera réputée non écrite.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-15 1988-01-05 art. 52 III *champ d'application*
-
 _Modifié par_:
 
-  - Loi n°88-15 du 5 janvier 1988 - art. 42 () JORF 6 janvier 1988
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37581,20 +38996,16 @@ _Cité par_:
 
 ###### Article 1078-2
 
-Les parties peuvent aussi convenir qu'une donation préciputaire antérieure sera incorporée au partage et imputée sur la part
-de réserve du donataire à titre d'avancement d'hoirie.
+Les parties peuvent aussi convenir qu'une donation antérieure faite hors part sera incorporée au partage et imputée sur la
+part de réserve du donataire à titre d'avancement de part successorale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-  - TXT_ASSOCIE: Code civil - art. 1078-3 (M)
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37604,20 +39015,20 @@ _Cité par_:
 
 ###### Article 1078-3
 
-Les conventions dont il est parlé aux deux articles précédents peuvent avoir lieu même en l'absence de nouvelles donations de
-l'ascendant. Elles ne sont pas regardées comme des libéralités entre les descendants, mais comme un partage fait par
-l'ascendant.
+Les conventions dont il est parlé aux deux articles précédents peuvent avoir lieu même en l'absence de nouvelles donations du
+disposant. Elles ne sont pas regardées comme des libéralités entre les héritiers présomptifs, mais comme un partage fait par
+le disposant.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
   - TXT_ASSOCIE: Code civil - art. 1078-1 (M)
   - TXT_ASSOCIE: Code civil - art. 1078-2 (M)
 
@@ -37626,55 +39037,184 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 776 A (V)
 
 
-#### Section 2 : Des testaments-partages.<a id=251></a>
+##### Paragraphe 2 : Des donations-partages faites à des descendants de degrés différents.<a id=277></a>
 
-###### Article 1079
+###### Article 1078-4
 
-Le testament-partage ne produit que les effets d'un partage. Ses bénéficiaires ont qualité d'héritiers et ne peuvent renoncer
-à se prévaloir du testament pour réclamer un nouveau partage de la succession.
+Lorsque l'ascendant procède à une donation-partage, ses enfants peuvent consentir à ce que leurs propres descendants y soient
+allotis en leur lieu et place, en tout ou partie.
+
+Les descendants d'un degré subséquent peuvent, dans le partage anticipé, être allotis séparément ou conjointement entre eux.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 1078-10 (V)
+  - Code général des impôts, CGI. - art. 776 ter (V)
+
+
+###### Article 1078-5
+
+Cette libéralité constitue une donation-partage alors même que l'ascendant donateur n'aurait qu'un enfant, que le partage se
+fasse entre celui-ci et ses descendants ou entre ses descendants seulement.
+
+Elle requiert le consentement, dans l'acte, de l'enfant qui renonce à tout ou partie de ses droits, ainsi que de ses
+descendants qui en bénéficient. La libéralité est nulle lorsque le consentement du renonçant a été vicié par l'erreur, le dol
+ou la violence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1078-6
+
+Lorsque des descendants de degrés différents concourent à la même donation-partage, le partage s'opère par souche.
+
+Des attributions peuvent être faites à des descendants de degrés différents dans certaines souches et non dans d'autres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1078-7
+
+Les donations-partages faites à des descendants de degrés différents peuvent comporter les conventions prévues par les
+articles 1078-1 à 1078-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1078-1 (V)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 776 A (V)
+
+
+###### Article 1078-8
+
+Dans la succession de l'ascendant donateur, les biens reçus par les enfants ou leurs descendants à titre de partage anticipé
+s'imputent sur la part de réserve revenant à leur souche et subsidiairement sur la quotité disponible. 
+
+Toutes les donations faites aux membres d'une même souche sont imputées ensemble, quel que soit le degré de parenté avec le
+défunt. 
+
+Lorsque tous les enfants de l'ascendant donateur ont donné leur consentement au partage anticipé et qu'il n'a pas été prévu
+de réserve d'usufruit portant sur une somme d'argent, les biens dont les gratifiés ont été allotis sont évalués selon la
+règle prévue à l'article 1078. 
+
+Si les descendants d'une souche n'ont pas reçu de lot dans la donation-partage ou n'y ont reçu qu'un lot inférieur à leur
+part de réserve, ils sont remplis de leurs droits selon les règles prévues par les articles 1077-1 et 1077-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1077-1 (V)
+  - Code civil - art. 1077-2 (V)
+  - Code civil - art. 1078 (V)
+
+
+###### Article 1078-9
+
+Dans la succession de l'enfant qui a consenti à ce que ses propres descendants soient allotis en son lieu et place, les biens
+reçus par eux de l'ascendant sont traités comme s'ils les tenaient de leur auteur direct.
+
+Ces biens sont soumis aux règles dont relèvent les donations entre vifs pour la réunion fictive, l'imputation, le rapport et,
+le cas échéant, la réduction.
+
+Toutefois, lorsque tous les descendants ont reçu et accepté un lot dans le partage anticipé et qu'il n'a pas été prévu
+d'usufruit portant sur une somme d'argent, les biens dont ont été allotis les gratifiés sont traités comme s'ils les avaient
+reçus de leur auteur par donation-partage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Code civil - art. 1078-10 (V)
+
+
+###### Article 1078-10
+
+Les règles édictées à l'article 1078-9 ne s'appliquent pas lorsque l'enfant qui a consenti à ce que ses propres descendants
+soient allotis en son lieu et place procède ensuite lui-même, avec ces derniers, à une donation-partage à laquelle sont
+incorporés les biens antérieurement reçus dans les conditions prévues à l'article 1078-4. 
+
+Cette nouvelle donation-partage peut comporter les conventions prévues par les articles 1078-1 et 1078-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1078-1 (V)
+  - Code civil - art. 1078-2 (V)
+  - Code civil - art. 1078-4 (V)
+  - Code civil - art. 1078-9 (V)
+
+
+#### Section 3 : Des testaments-partages.<a id=278></a>
+
+###### Article 1079
+
+Le testament-partage produit les effets d'un partage. Ses bénéficiaires ne peuvent renoncer à se prévaloir du testament pour
+réclamer un nouveau partage de la succession.
+
+**Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1080
 
-L'enfant ou le descendant qui n'a pas reçu un lot égal à sa part de réserve peut exercer l'action en réduction conformément à
-l'article 1077-2.
+Le bénéficiaire qui n'a pas reçu un lot égal à sa part de réserve peut exercer l'action en réduction conformément à l'article
+1077-2.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 _Modifié par_:
 
-  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 21 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 23 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code civil - art. 1077-2 (M)
+  - Code civil - art. 1077-2 (V)
 
 
-### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=252></a>
+### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.<a id=279></a>
 
 ###### Article 1081
 
@@ -37685,9 +39225,9 @@ Elle ne pourra avoir lieu au profit des enfants à naître, si ce n'est dans les
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1082
@@ -37701,6 +39241,10 @@ donateur, présumée faite au profit des enfants et descendants à naître du ma
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Code civil - art. 1083 (V)
@@ -37709,10 +39253,6 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Code civil - art. 1089 (M)
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1083
@@ -37723,13 +39263,13 @@ autrement.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
   - Code civil - art. 1082 (M)
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1084
@@ -37741,6 +39281,10 @@ donateur.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cité par_:
 
   - Code civil - art. 1085 (V)
@@ -37749,10 +39293,6 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Code civil - art. 1089 (M)
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1085
@@ -37764,13 +39304,13 @@ dettes et charges de la succession.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
   - Code civil - art. 1084 (M)
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1086
@@ -37785,6 +39325,10 @@ appartiendront au donataire ou à ses héritiers.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 **Liens**:
 
   - TXT_ASSOCIE: Code civil - art. 1089 (M)
@@ -37792,10 +39336,6 @@ appartiendront au donataire ou à ses héritiers.
 _Cité par_:
 
   - Code civil - art. 1089 (V)
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ###### Article 1087
@@ -37805,9 +39345,9 @@ d'acceptation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1088
@@ -37816,9 +39356,9 @@ Toute donation faite en faveur du mariage sera caduque si le mariage ne s'ensuit
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1089
@@ -37828,11 +39368,9 @@ donateur survit à l'époux donataire et à sa postérité.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Code civil - art. 1082 (M)
-  - Code civil - art. 1084 (M)
-  - Code civil - art. 1086 (M)
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 **Liens**:
 
@@ -37840,9 +39378,11 @@ _Cite_:
   - TXT_ASSOCIE: Code civil - art. 1084 (V)
   - TXT_ASSOCIE: Code civil - art. 1086 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Code civil - art. 1082 (V)
+  - Code civil - art. 1084 (V)
+  - Code civil - art. 1086 (V)
 
 
 ###### Article 1090
@@ -37852,12 +39392,12 @@ réductibles à la portion dont la loi lui permettait de disposer.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=253></a>
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.<a id=280></a>
 
 ###### Article 1091
 
@@ -37866,9 +39406,9 @@ jugeront à propos, sous les modifications ci-après exprimées.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1092
@@ -37879,9 +39419,9 @@ et formes ci-dessus prescrites pour ces sortes de donations.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1093
@@ -37893,16 +39433,15 @@ donataire avant l'époux donateur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1094
 
 L'époux, soit par contrat de mariage, soit pendant le mariage, pourra, pour le cas où il ne laisserait point d'enfant ni de
-descendant, disposer en faveur de l'autre époux en propriété, de tout ce dont il pourrait disposer en faveur d'un étranger
-et, en outre, de la nue-propriété de la portion réservée aux ascendants par l'article 914 du présent code.
+descendant, disposer en faveur de l'autre époux en propriété, de tout ce dont il pourrait disposer en faveur d'un étranger.
 
 **Liens relatifs à cet article**
 
@@ -37912,17 +39451,10 @@ _Cité par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 5 (V)
   - Code général des impôts, CGI. - art. 885 G (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code civil - art. 914 (Ab)
+  - Loi n°2006-728 du 23 juin 2006 - art. 24 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1094-1
@@ -37931,15 +39463,15 @@ Pour le cas où l'époux laisserait des enfants ou descendants, issus ou non du 
 l'autre époux, soit de la propriété de ce dont il pourrait disposer en faveur d'un étranger, soit d'un quart de ses biens en
 propriété et des trois autres quarts en usufruit, soit encore de la totalité de ses biens en usufruit seulement.
 
+Sauf stipulation contraire du disposant, le conjoint survivant peut cantonner son émolument sur une partie des biens dont il
+a été disposé en sa faveur. Cette limitation ne peut être considérée comme une libéralité faite aux autres successibles.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 25 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37959,16 +39491,9 @@ les titres au porteur soient, au choix de l'usufruitier, convertis en titres nom
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
-_Créé par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -37983,34 +39508,30 @@ consentement, il pourra donner tout ce que la loi permet à l'époux majeur de d
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1096
 
-La donation de biens à venir faite entre époux pendant le mariage sera toujours révocable.
+La donation de biens à venir faite entre époux pendant le mariage est toujours révocable. 
 
-La donation de biens présents faite entre époux ne sera révocable que dans les conditions prévues par les articles 953 à 958.
+La donation de biens présents qui prend effet au cours du mariage faite entre époux n'est révocable que dans les conditions
+prévues par les articles 953 à 958. 
 
 Les donations faites entre époux de biens présents ou de biens à venir ne sont pas révoquées par la survenance d'enfants.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
   - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 _Modifié par_:
 
-  - Loi n°2004-439 du 26 mai 2004 - art. 21 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2006-728 du 23 juin 2006 - art. 25 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -38019,34 +39540,19 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil 953 à 958
+  - Code civil - art. 953 (V)
 
 
 ###### Article 1098
 
-Si un époux remarié a fait à son second conjoint, dans les limites de l'article 1094-1, une libéralité en propriété, chacun
-des enfants du premier lit aura, en ce qui le concerne, sauf volonté contraire et non équivoque du disposant, la faculté de
-substituer à l'exécution de cette libéralité l'abandon de l'usufruit de la part de succession qu'il eût recueillie en
-l'absence de conjoint survivant.
+Si un époux a fait à son conjoint, dans les limites de l'article 1094-1, une libéralité en propriété, chacun des enfants qui
+ne sont pas issus des deux époux aura, en ce qui le concerne, sauf volonté contraire et non équivoque du disposant, la
+faculté de substituer à l'exécution de cette libéralité l'abandon de l'usufruit de la part de succession qu'il eût recueillie
+en l'absence de conjoint survivant. 
 
 Ceux qui auront exercé cette faculté pourront exiger que soient appliquées les dispositions de l'article 1094-3.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
-_Modifié par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 _Cité par_:
 
@@ -38054,30 +39560,26 @@ _Cité par_:
   - Code civil - art. 1527 (M)
   - Code général des impôts, CGI. - art. 885 G (Ab)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 25 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 1094-1 (M)
-  - Code civil - art. 1094-3 (M)
+  - Code civil - art. 1094-1 (V)
+  - Code civil - art. 1094-3 (V)
 
 
 ###### Article 1099
 
 Les époux ne pourront se donner indirectement au-delà de ce qui leur est permis par les dispositions ci-dessus.
 
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 _Modifié par_:
 
-  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1099-1
@@ -38091,22 +39593,18 @@ subrogé au bien aliéné, la valeur de ce nouveau bien.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°67-1179 du 28 décembre 1967 - art. 1 () JORF 29 décembre 1967
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
-
 _Cité par_:
 
   - Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
 
+_Modifié par_:
 
-## Titre III : Des contrats ou des obligations conventionnelles en général<a id=254></a>
+  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
-### Chapitre Ier : Dispositions préliminaires.<a id=255></a>
+
+## Titre III : Des contrats ou des obligations conventionnelles en général<a id=281></a>
+
+### Chapitre Ier : Dispositions préliminaires.<a id=282></a>
 
 ###### Article 1101
 
@@ -38239,7 +39737,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre II : Des conditions essentielles pour la validité des conventions.<a id=256></a>
+### Chapitre II : Des conditions essentielles pour la validité des conventions.<a id=283></a>
 
 ###### Article 1108
 
@@ -38336,7 +39834,7 @@ _Codifié par_:
   - Loi n°1804-02-07
 
 
-#### Section 1 : Du consentement.<a id=257></a>
+#### Section 1 : Du consentement.<a id=284></a>
 
 ###### Article 1109
 
@@ -38573,7 +40071,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 2 : De la capacité des parties contractantes.<a id=258></a>
+#### Section 2 : De la capacité des parties contractantes.<a id=285></a>
 
 ###### Article 1123
 
@@ -38671,7 +40169,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 3 : De l'objet et de la matière des contrats.<a id=259></a>
+#### Section 3 : De l'objet et de la matière des contrats.<a id=286></a>
 
 ###### Article 1126
 
@@ -38748,7 +40246,7 @@ _Créé par_:
 Les choses futures peuvent être l'objet d'une obligation.
 
 On ne peut cependant renoncer à une succession non ouverte, ni faire aucune stipulation sur une pareille succession, même
-avec le consentement de celui de la succession duquel il s'agit.
+avec le consentement de celui de la succession duquel il s'agit, que dans les conditions prévues par la loi.
 
 **Liens relatifs à cet article**
 
@@ -38760,12 +40258,12 @@ _Codifié par_:
 
   - Loi n°1804-02-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-02-07 promulguée le 17 février 1804
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-#### Section 4 : De la cause.<a id=260></a>
+#### Section 4 : De la cause.<a id=287></a>
 
 ###### Article 1131
 
@@ -38812,9 +40310,9 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre III : De l'effet des obligations.<a id=261></a>
+### Chapitre III : De l'effet des obligations.<a id=288></a>
 
-#### Section 1 : Dispositions générales.<a id=262></a>
+#### Section 1 : Dispositions générales.<a id=289></a>
 
 ###### Article 1134
 
@@ -38857,7 +40355,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 2 : De l'obligation de donner.<a id=263></a>
+#### Section 2 : De l'obligation de donner.<a id=290></a>
 
 ###### Article 1136
 
@@ -38981,7 +40479,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 3 : De l'obligation de faire ou de ne pas faire.<a id=264></a>
+#### Section 3 : De l'obligation de faire ou de ne pas faire.<a id=291></a>
 
 ###### Article 1142
 
@@ -39050,7 +40548,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation.<a id=265></a>
+#### Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation.<a id=292></a>
 
 ###### Article 1146
 
@@ -39319,7 +40817,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 5 : De l'interprétation des conventions.<a id=266></a>
+#### Section 5 : De l'interprétation des conventions.<a id=293></a>
 
 ###### Article 1156
 
@@ -39480,7 +40978,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 6 : De l'effet des conventions à l'égard des tiers.<a id=267></a>
+#### Section 6 : De l'effet des conventions à l'égard des tiers.<a id=294></a>
 
 ###### Article 1165
 
@@ -39551,11 +41049,11 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre IV : Des diverses espèces d'obligations.<a id=268></a>
+### Chapitre IV : Des diverses espèces d'obligations.<a id=295></a>
 
-#### Section 1 : Des obligations conditionnelles.<a id=269></a>
+#### Section 1 : Des obligations conditionnelles.<a id=296></a>
 
-##### Paragraphe 1 : De la condition en général, et de ses diverses espèces.<a id=270></a>
+##### Paragraphe 1 : De la condition en général, et de ses diverses espèces.<a id=297></a>
 
 ###### Article 1168
 
@@ -39777,7 +41275,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : De la condition suspensive.<a id=271></a>
+##### Paragraphe 2 : De la condition suspensive.<a id=298></a>
 
 ###### Article 1181
 
@@ -39831,7 +41329,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 3 : De la condition résolutoire.<a id=272></a>
+##### Paragraphe 3 : De la condition résolutoire.<a id=299></a>
 
 ###### Article 1183
 
@@ -39885,7 +41383,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 2 : Des obligations à terme.<a id=273></a>
+#### Section 2 : Des obligations à terme.<a id=300></a>
 
 ###### Article 1185
 
@@ -39956,7 +41454,7 @@ _Codifié par_:
   - Loi n°1804-02-07
 
 
-#### Section 3 : Des obligations alternatives.<a id=274></a>
+#### Section 3 : Des obligations alternatives.<a id=301></a>
 
 ###### Article 1189
 
@@ -40118,9 +41616,9 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 4 : Des obligations solidaires.<a id=275></a>
+#### Section 4 : Des obligations solidaires.<a id=302></a>
 
-##### Paragraphe 1 : De la solidarité entre les créanciers.<a id=276></a>
+##### Paragraphe 1 : De la solidarité entre les créanciers.<a id=303></a>
 
 ###### Article 1197
 
@@ -40177,7 +41675,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : De la solidarité de la part des débiteurs.<a id=277></a>
+##### Paragraphe 2 : De la solidarité de la part des débiteurs.<a id=304></a>
 
 ###### Article 1200
 
@@ -40480,7 +41978,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 5 : Des obligations divisibles et indivisibles.<a id=278></a>
+#### Section 5 : Des obligations divisibles et indivisibles.<a id=305></a>
 
 ###### Article 1217
 
@@ -40529,7 +42027,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 1 : Des effets de l'obligation divisible.<a id=279></a>
+##### Paragraphe 1 : Des effets de l'obligation divisible.<a id=306></a>
 
 ###### Article 1220
 
@@ -40588,7 +42086,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : Des effets de l'obligation indivisible.<a id=280></a>
+##### Paragraphe 2 : Des effets de l'obligation indivisible.<a id=307></a>
 
 ###### Article 1222
 
@@ -40670,7 +42168,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 6 : Des obligations avec clauses pénales.<a id=281></a>
+#### Section 6 : Des obligations avec clauses pénales.<a id=308></a>
 
 ###### Article 1226
 
@@ -40845,7 +42343,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-### Chapitre V : De l'extinction des obligations.<a id=282></a>
+### Chapitre V : De l'extinction des obligations.<a id=309></a>
 
 ###### Article 1234
 
@@ -40884,9 +42382,9 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 1 : Du paiement<a id=283></a>
+#### Section 1 : Du paiement<a id=310></a>
 
-##### Paragraphe 1 : Du paiement en général.<a id=284></a>
+##### Paragraphe 1 : Du paiement en général.<a id=311></a>
 
 ###### Article 1235
 
@@ -41369,7 +42867,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-##### Paragraphe 2 : Du paiement avec subrogation.<a id=285></a>
+##### Paragraphe 2 : Du paiement avec subrogation.<a id=312></a>
 
 ###### Article 1249
 
@@ -41437,25 +42935,31 @@ héritage était hypothéqué ;
 
 3° Au profit de celui qui, étant tenu avec d'autres ou pour d'autres au paiement de la dette, avait intérêt de l'acquitter ;
 
-4° Au profit de l'héritier bénéficiaire qui a payé de ses deniers les dettes de la succession.
+4° Au profit de l'héritier acceptant à concurrence de l'actif net qui a payé de ses deniers les dettes de la succession ;
+
+5° Au profit de celui qui a payé de ses deniers les frais funéraires pour le compte de la succession.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Loi n°65-557 du 10 juillet 1965 - art. 28 (V)
   - Arrêté du 26 février 2016 - art. 2
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code des assurances - art. L443-1 (VD)
   - Code monétaire et financier - art. L313-22-1 (VD)
+  - Loi n°65-557 du 10 juillet 1965 - art. 28 (V)
 
 _Codifié par_:
 
   - Loi n°1804-02-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-02-07 promulguée le 17 février 1804
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1252
@@ -41486,7 +42990,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-##### Paragraphe 3 : De l'imputation des paiements.<a id=286></a>
+##### Paragraphe 3 : De l'imputation des paiements.<a id=313></a>
 
 ###### Article 1253
 
@@ -41583,7 +43087,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-##### Paragraphe 4 : Des offres de paiement, et de la consignation.<a id=287></a>
+##### Paragraphe 4 : Des offres de paiement, et de la consignation.<a id=314></a>
 
 ###### Article 1257
 
@@ -41754,7 +43258,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 2 : De la novation.<a id=288></a>
+#### Section 2 : De la novation.<a id=315></a>
 
 ###### Article 1271
 
@@ -41996,7 +43500,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 3 : De la remise de la dette.<a id=289></a>
+#### Section 3 : De la remise de la dette.<a id=316></a>
 
 ###### Article 1282
 
@@ -42141,7 +43645,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 4 : De la compensation.<a id=290></a>
+#### Section 4 : De la compensation.<a id=317></a>
 
 ###### Article 1289
 
@@ -42378,7 +43882,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 5 : De la confusion.<a id=291></a>
+#### Section 5 : De la confusion.<a id=318></a>
 
 ###### Article 1300
 
@@ -42421,7 +43925,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 6 : De la perte de la chose due.<a id=292></a>
+#### Section 6 : De la perte de la chose due.<a id=319></a>
 
 ###### Article 1302
 
@@ -42469,7 +43973,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 7 : De l'action en nullité ou en rescision des conventions.<a id=293></a>
+#### Section 7 : De l'action en nullité ou en rescision des conventions.<a id=320></a>
 
 ###### Article 1304
 
@@ -42686,7 +44190,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre VI : De la preuve des obligations et de celle du paiement.<a id=294></a>
+### Chapitre VI : De la preuve des obligations et de celle du paiement.<a id=321></a>
 
 ###### Article 1315
 
@@ -42731,9 +44235,9 @@ _Anciens textes_:
   - Code civil 1316 (ancienne version)
 
 
-#### Section 1 : De la preuve littérale.<a id=295></a>
+#### Section 1 : De la preuve littérale.<a id=322></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=296></a>
+##### Paragraphe 1 : Dispositions générales.<a id=323></a>
 
 ###### Article 1316
 
@@ -42989,7 +44493,7 @@ _Codifié par_:
   - Loi n°1804-02-07
 
 
-##### Paragraphe 2 : Du titre authentique.<a id=297></a>
+##### Paragraphe 2 : Du titre authentique.<a id=324></a>
 
 ###### Article 1317
 
@@ -43125,7 +44629,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 864 (V)
 
 
-##### Paragraphe 3 : De l'acte sous seing privé.<a id=298></a>
+##### Paragraphe 3 : De l'acte sous seing privé.<a id=325></a>
 
 ###### Article 1322
 
@@ -43342,7 +44846,7 @@ _Modifié par_:
   - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-##### Paragraphe 4 : Des tailles.<a id=299></a>
+##### Paragraphe 4 : Des tailles.<a id=326></a>
 
 ###### Article 1333
 
@@ -43360,7 +44864,7 @@ _Modifié par_:
   - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-##### Paragraphe 5 : Des copies des titres.<a id=300></a>
+##### Paragraphe 5 : Des copies des titres.<a id=327></a>
 
 ###### Article 1334
 
@@ -43436,7 +44940,7 @@ _Modifié par_:
   - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-##### Paragraphe 6 : Des actes récognitifs et confirmatifs.<a id=301></a>
+##### Paragraphe 6 : Des actes récognitifs et confirmatifs.<a id=328></a>
 
 ###### Article 1337
 
@@ -43524,7 +45028,7 @@ _Modifié par_:
   - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-#### Section 2 : De la preuve testimoniale.<a id=302></a>
+#### Section 2 : De la preuve testimoniale.<a id=329></a>
 
 ###### Article 1341
 
@@ -43767,7 +45271,7 @@ _Modifié par_:
   - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 
 
-#### Section 3 : Des présomptions.<a id=303></a>
+#### Section 3 : Des présomptions.<a id=330></a>
 
 ###### Article 1349
 
@@ -43790,7 +45294,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 1 : Des présomptions établies par la loi.<a id=304></a>
+##### Paragraphe 1 : Des présomptions établies par la loi.<a id=331></a>
 
 ###### Article 1350
 
@@ -43862,7 +45366,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : Des présomptions qui ne sont point établies par la loi.<a id=305></a>
+##### Paragraphe 2 : Des présomptions qui ne sont point établies par la loi.<a id=332></a>
 
 ###### Article 1353
 
@@ -43886,7 +45390,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 4 : De l'aveu de la partie.<a id=306></a>
+#### Section 4 : De l'aveu de la partie.<a id=333></a>
 
 ###### Article 1354
 
@@ -43941,7 +45445,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-#### Section 5 : Du serment.<a id=307></a>
+#### Section 5 : Du serment.<a id=334></a>
 
 ###### Article 1357
 
@@ -43962,7 +45466,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 1 : Du serment décisoire.<a id=308></a>
+##### Paragraphe 1 : Du serment décisoire.<a id=335></a>
 
 ###### Article 1358
 
@@ -44118,7 +45622,7 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-##### Paragraphe 2 : Du serment déféré d'office.<a id=309></a>
+##### Paragraphe 2 : Du serment déféré d'office.<a id=336></a>
 
 ###### Article 1366
 
@@ -44260,9 +45764,9 @@ _Créé par_:
   - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-### Chapitre VII : Des contrats sous forme électronique.<a id=310></a>
+### Chapitre VII : Des contrats sous forme électronique.<a id=337></a>
 
-#### Section 1 : De l'échange d'informations en cas de contrat sous forme électronique.<a id=311></a>
+#### Section 1 : De l'échange d'informations en cas de contrat sous forme électronique.<a id=338></a>
 
 ###### Article 1369-1
 
@@ -44359,7 +45863,7 @@ _Cité par_:
   - Code du tourisme. - art. L211-1 (V)
 
 
-#### Section 2 : De la conclusion d'un contrat sous forme électronique.<a id=312></a>
+#### Section 2 : De la conclusion d'un contrat sous forme électronique.<a id=339></a>
 
 ###### Article 1369-4
 
@@ -44480,7 +45984,7 @@ _Codifié par_:
   - Loi n°1804-02-07
 
 
-#### Section 3 : De l'envoi ou de la remise d'un écrit par voie électronique.<a id=313></a>
+#### Section 3 : De l'envoi ou de la remise d'un écrit par voie électronique.<a id=340></a>
 
 ###### Article 1369-7
 
@@ -44570,7 +46074,7 @@ _Cite_:
   - Code civil - art. 1369-2 (V)
 
 
-#### Section 4 : De certaines exigences de forme.<a id=314></a>
+#### Section 4 : De certaines exigences de forme.<a id=341></a>
 
 ###### Article 1369-10
 
@@ -44615,7 +46119,7 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
-## Titre IV : Des engagements qui se forment sans convention<a id=315></a>
+## Titre IV : Des engagements qui se forment sans convention<a id=342></a>
 
 ###### Article 1370
 
@@ -44641,7 +46145,7 @@ _Créé par_:
   - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
-### Chapitre Ier : Des quasi-contrats.<a id=316></a>
+### Chapitre Ier : Des quasi-contrats.<a id=343></a>
 
 ###### Article 1371
 
@@ -44856,7 +46360,7 @@ _Créé par_:
   - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
-### Chapitre II : Des délits et des quasi-délits.<a id=317></a>
+### Chapitre II : Des délits et des quasi-délits.<a id=344></a>
 
 ###### Article 1382
 
@@ -45082,7 +46586,7 @@ _Créé par_:
   - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
-## Titre IV bis : De la responsabilité du fait des produits défectueux<a id=318></a>
+## Titre IV bis : De la responsabilité du fait des produits défectueux<a id=345></a>
 
 ###### Article 1386-1
 
@@ -45572,9 +47076,9 @@ _Abrogé par_:
   - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
-## Titre V : Du contrat de mariage et des régimes matrimoniaux<a id=319></a>
+## Titre V : Du contrat de mariage et des régimes matrimoniaux<a id=346></a>
 
-### Chapitre Ier : Dispositions générales.<a id=320></a>
+### Chapitre Ier : Dispositions générales.<a id=347></a>
 
 ###### Article 1387
 
@@ -45637,9 +47141,12 @@ _Codifié par_:
 
 ###### Article 1390
 
-Ils peuvent, toutefois, stipuler qu'à la dissolution du mariage par la mort de l'un d'eux, le survivant aura la faculté
-d'acquérir ou, le cas échéant, de se faire attribuer dans le partage certains biens personnels du prémourant, à charge d'en
-tenir compte à la succession, d'après la valeur qu'ils auront au jour où cette faculté sera exercée.
+Ils peuvent, toutefois, stipuler qu'à la dissolution du mariage par la mort de l'un d'eux, le survivant a la faculté
+d'acquérir ou, le cas échéant, de se faire attribuer dans le partage certains biens personnels du prédécédé, à charge d'en
+tenir compte à la succession, d'après la valeur qu'ils ont au jour où cette faculté sera exercée.
+
+La stipulation peut prévoir que l'époux survivant qui exerce cette faculté peut exiger des héritiers que lui soit consenti un
+bail portant sur l'immeuble dans lequel l'entreprise attribuée ou acquise est exploitée.
 
 **Liens relatifs à cet article**
 
@@ -45652,6 +47159,10 @@ _Cité par_:
   - Loi n°65-570 du 13 juillet 1965 - art. 20 (V)
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code de commerce - art. Annexe 4-7 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1391
@@ -45678,7 +47189,7 @@ _Cité par_:
 
 La faculté ouverte au survivant est caduque s'il ne l'a pas exercée, par une notification faite aux héritiers du prédécédé,
 dans le délai d'un mois à compter du jour où ceux-ci l'auront mis en demeure de prendre parti. Cette mise en demeure ne peut
-avoir lieu avant l'expiration du délai prévu au titre "Des successions" pour faire inventaire et délibérer.
+avoir lieu avant l'expiration du délai prévu à l'article 792. 
 
 Lorsqu'elle est faite dans ce délai, la notification forme vente au jour où la faculté est exercée ou, le cas échéant,
 constitue une opération de partage.
@@ -45692,6 +47203,14 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°65-570 du 13 juillet 1965 - art. 20 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 792 (V)
 
 
 ###### Article 1393
@@ -45759,9 +47278,9 @@ Tous changements et contre-lettres, même revêtus des formes prescrites par l'a
 des tiers, s'ils n'ont été rédigés à la suite de la minute du contrat de mariage ; et le notaire ne pourra délivrer ni
 grosses ni expéditions du contrat de mariage sans transcrire à la suite le changement ou la contre-lettre.
 
-Le mariage célébré, il ne peut être apporté de changement au régime matrimonial que par l'effet d'un jugement, soit à la
-demande de l'un des époux, dans le cas de la séparation de biens ou des autres mesures judiciaires de protection, soit à la
-requête conjointe des deux époux, dans le cas de l'article suivant.
+Le mariage célébré, il ne peut être apporté de changement au régime matrimonial que par l'effet d'un jugement à la demande de
+l'un des époux dans le cas de la séparation de biens ou des autres mesures judiciaires de protection ou par l'effet d'un acte
+notarié, le cas échéant homologué, dans le cas de l'article suivant.
 
 **Liens relatifs à cet article**
 
@@ -45769,28 +47288,42 @@ _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 44 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article 1397
 
-Après deux années d'application du régime matrimonial, conventionnel ou légal, les époux pourront convenir dans l'intérêt de
-la famille de le modifier, ou même d'en changer entièrement, par un acte notarié qui sera soumis à l'homologation du tribunal
-de leur domicile.
+Après deux années d'application du régime matrimonial, les époux peuvent convenir, dans l'intérêt de la famille, de le
+modifier, ou même d'en changer entièrement, par un acte notarié. A peine de nullité, l'acte notarié contient la liquidation
+du régime matrimonial modifié.
 
-Toutes les personnes qui avaient été parties dans le contrat modifié doivent être appelées à l'instance d'homologation ; mais
-non leurs héritiers, si elles sont décédées.
+Les personnes qui avaient été parties dans le contrat modifié et les enfants majeurs de chaque époux sont informés
+personnellement de la modification envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois mois.
 
-Le changement homologué a effet entre les parties à dater du jugement et, à l'égard des tiers, trois mois après que mention
-en aura été portée en marge de l'un et de l'autre exemplaire de l'acte de mariage. Toutefois, en l'absence même de cette
-mention, le changement n'en est pas moins opposable aux tiers si, dans les actes passés avec eux, les époux ont déclaré avoir
-modifié leur régime matrimonial.
+Les créanciers sont informés de la modification envisagée par la publication d'un avis dans un journal habilité à recevoir
+les annonces légales dans l'arrondissement ou le département du domicile des époux. Chacun d'eux peut s'opposer à la
+modification dans les trois mois suivant la publication.
 
-Il sera fait mention du jugement d'homologation sur la minute du contrat de mariage modifié.
+En cas d'opposition, l'acte notarié est soumis à l'homologation du tribunal du domicile des époux. La demande et la décision
+d'homologation sont publiées dans les conditions et sous les sanctions prévues au code de procédure civile.
 
-La demande et la décision d'homologation doivent être publiées dans les conditions et sous les sanctions prévues au code de
-procédure civile.
+Lorsque l'un ou l'autre des époux a des enfants mineurs, l'acte notarié est obligatoirement soumis à l'homologation du
+tribunal du domicile des époux.
 
-Les créanciers, s'il a été fait fraude à leurs droits, pourront former tierce opposition contre le jugement d'homologation
-dans les conditions du code de procédure civile.
+Le changement a effet entre les parties à la date de l'acte ou du jugement qui le prévoit et, à l'égard des tiers, trois mois
+après que mention en a été portée en marge de l'acte de mariage. Toutefois, en l'absence même de cette mention, le changement
+n'en est pas moins opposable aux tiers si, dans les actes passés avec eux, les époux ont déclaré avoir modifié leur régime
+matrimonial.
+
+Il est fait mention de la modification sur la minute du contrat de mariage modifié et, si l'un des époux est commerçant, au
+registre du commerce et des sociétés.
+
+Les créanciers non opposants, s'il a été fait fraude à leurs droits, peuvent attaquer le changement de régime matrimonial
+dans les conditions de l'article 1167.
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -45811,7 +47344,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-428 du 6 mai 2005 - art. 8 () JORF 7 mai 2005
+  - Loi n°2006-728 du 23 juin 2006 - art. 44 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1167 (V)
 
 
 ###### Article 1397-1
@@ -46025,9 +47562,9 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-### Chapitre II : Du régime en communauté<a id=321></a>
+### Chapitre II : Du régime en communauté<a id=348></a>
 
-#### Première partie : De la communauté légale<a id=322></a>
+#### Première partie : De la communauté légale<a id=349></a>
 
 ###### Article 1400
 
@@ -46046,9 +47583,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Tableau IV bis (V)
 
 
-##### Section 1 : De ce qui compose la communauté activement et passivement<a id=323></a>
+##### Section 1 : De ce qui compose la communauté activement et passivement<a id=350></a>
 
-##### Paragraphe 1 : De l'actif de la communauté<a id=324></a>
+##### Paragraphe 1 : De l'actif de la communauté<a id=351></a>
 
 ###### Article 1401
 
@@ -46205,7 +47742,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Paragraphe 2 : Du passif de la communauté<a id=325></a>
+##### Paragraphe 2 : Du passif de la communauté<a id=352></a>
 
 ###### Article 1409
 
@@ -46422,7 +47959,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
-##### Section 2 : De l'administration de la communauté et des biens propres.<a id=326></a>
+##### Section 2 : De l'administration de la communauté et des biens propres.<a id=353></a>
 
 ###### Article 1421
 
@@ -46871,9 +48408,9 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section 3 : De la dissolution de la communauté<a id=327></a>
+##### Section 3 : De la dissolution de la communauté<a id=354></a>
 
-##### Paragraphe 1 : Des causes de dissolution et de la séparation de biens.<a id=328></a>
+##### Paragraphe 1 : Des causes de dissolution et de la séparation de biens.<a id=355></a>
 
 ###### Article 1441
 
@@ -47099,7 +48636,7 @@ _Cite_:
   - Code civil - art. 265-2 (V)
 
 
-##### Paragraphe 2 : De la liquidation et du partage de la communauté.<a id=329></a>
+##### Paragraphe 2 : De la liquidation et du partage de la communauté.<a id=356></a>
 
 ###### Article 1467
 
@@ -47370,7 +48907,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution.<a id=330></a>
+##### Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution.<a id=357></a>
 
 ###### Article 1482
 
@@ -47592,7 +49129,7 @@ _Modifié par_:
   - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001
 
 
-#### Deuxième partie : De la communauté conventionnelle.<a id=331></a>
+#### Deuxième partie : De la communauté conventionnelle.<a id=358></a>
 
 ###### Article 1497
 
@@ -47627,7 +49164,7 @@ _Cite_:
   - Code civil - art. 1387 (V)
 
 
-##### Section 1 : De la communauté de meubles et acquêts.<a id=332></a>
+##### Section 1 : De la communauté de meubles et acquêts.<a id=359></a>
 
 ###### Article 1498
 
@@ -47715,7 +49252,7 @@ _Cite_:
   - Code civil - art. 1402 (V)
 
 
-##### Section 2 : De la clause d'administration conjointe.<a id=333></a>
+##### Section 2 : De la clause d'administration conjointe.<a id=360></a>
 
 ###### Article 1503
 
@@ -47745,7 +49282,7 @@ _Cité par_:
   - Code civil - art. 224 (Ab)
 
 
-##### Section 3 : De la clause de prélèvement moyennant indemnité.<a id=334></a>
+##### Section 3 : De la clause de prélèvement moyennant indemnité.<a id=361></a>
 
 ###### Article 1511
 
@@ -47809,7 +49346,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section 4 : Du préciput.<a id=335></a>
+##### Section 4 : Du préciput.<a id=362></a>
 
 ###### Article 1515
 
@@ -47878,7 +49415,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section 5 : De la stipulation de parts inégales.<a id=336></a>
+##### Section 5 : De la stipulation de parts inégales.<a id=363></a>
 
 ###### Article 1520
 
@@ -47949,7 +49486,7 @@ _Codifié par_:
   - Loi n°65-570 1965-07-13
 
 
-##### Section 6 : De la communauté universelle.<a id=337></a>
+##### Section 6 : De la communauté universelle.<a id=364></a>
 
 ###### Article 1526
 
@@ -47970,18 +49507,23 @@ _Cite_:
   - Code civil - art. 1404 (V)
 
 
-#### Dispositions communes aux deux parties du chapitre II.<a id=338></a>
+#### Dispositions communes aux deux parties du chapitre II.<a id=365></a>
 
 ###### Article 1527
 
 Les avantages que l'un ou l'autre des époux peut retirer des clauses d'une communauté conventionnelle, ainsi que ceux qui
-peuvent résulter de la confusion du mobilier ou des dettes, ne sont point regardés comme des donations.
+peuvent résulter de la confusion du mobilier ou des dettes, ne sont point regardés comme des donations. 
 
 Néanmoins, au cas où il y aurait des enfants qui ne seraient pas issus des deux époux, toute convention qui aurait pour
-conséquence de donner à l'un des époux au-delà de la portion réglée par l'article 1094-1, au titre "Des donations entre vifs
-et des testaments", sera sans effet pour tout l'excédent ; mais les simples bénéfices résultant des travaux communs et des
+conséquence de donner à l'un des époux au-delà de la portion réglée par l'article 1094-1, au titre " Des donations entre vifs
+et des testaments ", sera sans effet pour tout l'excédent ; mais les simples bénéfices résultant des travaux communs et des
 économies faites sur les revenus respectifs quoique inégaux, des deux époux, ne sont pas considérés comme un avantage fait au
-préjudice des enfants d'un autre lit.
+préjudice des enfants d'un autre lit. 
+
+Toutefois, ces derniers peuvent, dans les formes prévues aux articles 929 à 930-1, renoncer à demander la réduction de
+l'avantage matrimonial excessif avant le décès de l'époux survivant. Dans ce cas, ils bénéficient de plein droit du privilège
+sur les meubles prévu au 3° de l'article 2374 et peuvent demander, nonobstant toute stipulation contraire, qu'il soit dressé
+inventaire des meubles ainsi qu'état des immeubles.
 
 **Liens relatifs à cet article**
 
@@ -47989,24 +49531,22 @@ _Codifié par_:
 
   - Loi n°65-570 1965-07-13
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-_Modifié par_:
-
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 17 () JORF 4 décembre 2001
-
 _Cité par_:
 
   - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
 
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 45 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 1094-1 (M)
+  - Code civil - art. 1094-1 (V)
+  - Code civil - art. 2374 (V)
+  - Code civil - art. 929 (V)
 
 
-### Chapitre III : Du régime de séparation de biens.<a id=339></a>
+### Chapitre III : Du régime de séparation de biens.<a id=366></a>
 
 ###### Article 1536
 
@@ -48165,7 +49705,7 @@ _Cite_:
   - Code civil - art. 1479 (V)
 
 
-### Chapitre IV : Du régime de participation aux acquêts.<a id=340></a>
+### Chapitre IV : Du régime de participation aux acquêts.<a id=367></a>
 
 ###### Article 1569
 
@@ -48525,9 +50065,9 @@ _Cite_:
   - Code civil - art. 1387 (V)
 
 
-## Titre VI : De la vente<a id=341></a>
+## Titre VI : De la vente<a id=368></a>
 
-### Chapitre Ier : De la nature et de la forme de la vente.<a id=342></a>
+### Chapitre Ier : De la nature et de la forme de la vente.<a id=369></a>
 
 ###### Article 1582
 
@@ -48800,7 +50340,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre II : Qui peut acheter ou vendre.<a id=343></a>
+### Chapitre II : Qui peut acheter ou vendre.<a id=370></a>
 
 ###### Article 1594
 
@@ -48861,7 +50401,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre III : Des choses qui peuvent être vendues.<a id=344></a>
+### Chapitre III : Des choses qui peuvent être vendues.<a id=371></a>
 
 ###### Article 1598
 
@@ -48916,7 +50456,7 @@ _Cité par_:
   - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
 
 
-### Chapitre III-1 : De la vente d'immeubles à construire.<a id=345></a>
+### Chapitre III-1 : De la vente d'immeubles à construire.<a id=372></a>
 
 ###### Article 1601-1
 
@@ -49048,9 +50588,9 @@ _Codifié par_:
   - Loi n°1804-03-06
 
 
-### Chapitre IV : Des obligations du vendeur<a id=346></a>
+### Chapitre IV : Des obligations du vendeur<a id=373></a>
 
-#### Section 1 : Dispositions générales.<a id=347></a>
+#### Section 1 : Dispositions générales.<a id=374></a>
 
 ###### Article 1602
 
@@ -49084,7 +50624,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 2 : De la délivrance.<a id=348></a>
+#### Section 2 : De la délivrance.<a id=375></a>
 
 ###### Article 1604
 
@@ -49459,7 +50999,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 3 : De la garantie.<a id=349></a>
+#### Section 3 : De la garantie.<a id=376></a>
 
 ###### Article 1625
 
@@ -49477,7 +51017,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-##### Paragraphe 1 : De la garantie en cas d'éviction.<a id=350></a>
+##### Paragraphe 1 : De la garantie en cas d'éviction.<a id=377></a>
 
 ###### Article 1626
 
@@ -49750,7 +51290,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-##### Paragraphe 2 : De la garantie des défauts de la chose vendue.<a id=351></a>
+##### Paragraphe 2 : De la garantie des défauts de la chose vendue.<a id=378></a>
 
 ###### Article 1641
 
@@ -50099,7 +51639,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre V : Des obligations de l'acheteur.<a id=352></a>
+### Chapitre V : Des obligations de l'acheteur.<a id=379></a>
 
 ###### Article 1650
 
@@ -50249,7 +51789,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VI : De la nullité et de la résolution de la vente.<a id=353></a>
+### Chapitre VI : De la nullité et de la résolution de la vente.<a id=380></a>
 
 ###### Article 1658
 
@@ -50267,7 +51807,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 1 : De la faculté de rachat.<a id=354></a>
+#### Section 1 : De la faculté de rachat.<a id=381></a>
 
 ###### Article 1659
 
@@ -50547,7 +52087,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-#### Section 2 : De la rescision de la vente pour cause de lésion.<a id=355></a>
+#### Section 2 : De la rescision de la vente pour cause de lésion.<a id=382></a>
 
 ###### Article 1674
 
@@ -50754,7 +52294,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VII : De la licitation.<a id=356></a>
+### Chapitre VII : De la licitation.<a id=383></a>
 
 ###### Article 1686
 
@@ -50807,7 +52347,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-### Chapitre VIII : Du transport des créances et autres droits incorporels.<a id=357></a>
+### Chapitre VIII : Du transport des créances et autres droits incorporels.<a id=384></a>
 
 ###### Article 1689
 
@@ -51111,7 +52651,7 @@ _Créé par_:
   - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-## Titre VII : De l'échange<a id=358></a>
+## Titre VII : De l'échange<a id=385></a>
 
 ###### Article 1702
 
@@ -51222,9 +52762,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-## Titre VIII : Du contrat de louage<a id=359></a>
+## Titre VIII : Du contrat de louage<a id=386></a>
 
-### Chapitre Ier : Dispositions générales.<a id=360></a>
+### Chapitre Ier : Dispositions générales.<a id=387></a>
 
 ###### Article 1708
 
@@ -51328,7 +52868,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre II : Du louage des choses.<a id=361></a>
+### Chapitre II : Du louage des choses.<a id=388></a>
 
 ###### Article 1713
 
@@ -51345,7 +52885,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.<a id=362></a>
+#### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.<a id=389></a>
 
 ###### Article 1714
 
@@ -52191,7 +53731,7 @@ _Modifié par_:
   - Loi n°2001-1135 du 3 décembre 2001 - art. 14 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
-#### Section 2 : Des règles particulières aux baux à loyer.<a id=363></a>
+#### Section 2 : Des règles particulières aux baux à loyer.<a id=390></a>
 
 ###### Article 1752
 
@@ -52418,7 +53958,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Des règles particulières aux baux à ferme.<a id=364></a>
+#### Section 3 : Des règles particulières aux baux à ferme.<a id=391></a>
 
 ###### Article 1764
 
@@ -52760,7 +54300,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-### Chapitre III : Du louage d'ouvrage et d'industrie.<a id=365></a>
+### Chapitre III : Du louage d'ouvrage et d'industrie.<a id=392></a>
 
 ###### Article 1779
 
@@ -52803,7 +54343,7 @@ _Cité par_:
   - Code monétaire et financier - art. D313-26 (VD)
 
 
-#### Section 1 : Du louage des domestiques et ouvriers.<a id=366></a>
+#### Section 1 : Du louage des domestiques et ouvriers.<a id=393></a>
 
 ###### Article 1780
 
@@ -52840,7 +54380,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 2 : Des voituriers par terre et par eau.<a id=367></a>
+#### Section 2 : Des voituriers par terre et par eau.<a id=394></a>
 
 ###### Article 1782
 
@@ -52922,7 +54462,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Des devis et des marchés.<a id=368></a>
+#### Section 3 : Des devis et des marchés.<a id=395></a>
 
 ###### Article 1787
 
@@ -53565,9 +55105,9 @@ _Codifié par_:
   - Loi n°1804-03-07
 
 
-### Chapitre IV : Du bail à cheptel<a id=369></a>
+### Chapitre IV : Du bail à cheptel<a id=396></a>
 
-#### Section 1 : Dispositions générales.<a id=370></a>
+#### Section 1 : Dispositions générales.<a id=397></a>
 
 ###### Article 1800
 
@@ -53643,7 +55183,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 2 : Du cheptel simple.<a id=371></a>
+#### Section 2 : Du cheptel simple.<a id=398></a>
 
 ###### Article 1804
 
@@ -53884,7 +55424,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 3 : Du cheptel à moitié.<a id=372></a>
+#### Section 3 : Du cheptel à moitié.<a id=399></a>
 
 ###### Article 1818
 
@@ -53937,9 +55477,9 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire<a id=373></a>
+#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire<a id=400></a>
 
-##### Paragraphe 1 : Du cheptel donné au fermier.<a id=374></a>
+##### Paragraphe 1 : Du cheptel donné au fermier.<a id=401></a>
 
 ###### Article 1821
 
@@ -54043,7 +55583,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-##### Paragraphe 2 : Du cheptel donné au colon partiaire.<a id=375></a>
+##### Paragraphe 2 : Du cheptel donné au colon partiaire.<a id=402></a>
 
 ###### Article 1827
 
@@ -54111,7 +55651,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 5 : Du contrat improprement appelé cheptel.<a id=376></a>
+#### Section 5 : Du contrat improprement appelé cheptel.<a id=403></a>
 
 ###### Article 1831
 
@@ -54129,7 +55669,7 @@ _Créé par_:
   - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-## Titre VIII bis : Du contrat de promotion immobilière<a id=377></a>
+## Titre VIII bis : Du contrat de promotion immobilière<a id=404></a>
 
 ###### Article 1831-1
 
@@ -54277,9 +55817,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-5 (V)
 
 
-## Titre IX : De la société<a id=378></a>
+## Titre IX : De la société<a id=405></a>
 
-### Chapitre Ier : Dispositions générales.<a id=379></a>
+### Chapitre Ier : Dispositions générales.<a id=406></a>
 
 ###### Article 1832
 
@@ -55469,9 +57009,9 @@ _Cité par_:
   - Code de commerce. - art. L251-5 (M)
 
 
-### Chapitre II : De la société civile<a id=380></a>
+### Chapitre II : De la société civile<a id=407></a>
 
-#### Section 1 : Dispositions générales.<a id=381></a>
+#### Section 1 : Dispositions générales.<a id=408></a>
 
 ###### Article 1845
 
@@ -55527,7 +57067,7 @@ _Cite_:
   - Code de commerce -  Chapitre Ier : Du capital variable (V)
 
 
-#### Section 2 : Gérance.<a id=382></a>
+#### Section 2 : Gérance.<a id=409></a>
 
 ###### Article 1846
 
@@ -55719,7 +57259,7 @@ _Cite_:
   - Code civil - art. 1869 (V)
 
 
-#### Section 3 : Décisions collectives.<a id=383></a>
+#### Section 3 : Décisions collectives.<a id=410></a>
 
 ###### Article 1852
 
@@ -55772,7 +57312,7 @@ _Créé par_:
   - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
 
 
-#### Section 4 : Information des associés.<a id=384></a>
+#### Section 4 : Information des associés.<a id=411></a>
 
 ###### Article 1855
 
@@ -55829,7 +57369,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R241-50 (V)
 
 
-#### Section 5 : Engagement des associés à l'égard des tiers.<a id=385></a>
+#### Section 5 : Engagement des associés à l'égard des tiers.<a id=412></a>
 
 ###### Article 1857
 
@@ -55917,7 +57457,7 @@ _Cite_:
   - Code civil - art. 1843-4 (V)
 
 
-#### Section 6 : Cession des parts sociales.<a id=386></a>
+#### Section 6 : Cession des parts sociales.<a id=413></a>
 
 ###### Article 1861
 
@@ -56190,7 +57730,7 @@ _Cite_:
   - Code civil - art. 1867 (V)
 
 
-#### Section 7 : Retrait ou décès d'un associé.<a id=387></a>
+#### Section 7 : Retrait ou décès d'un associé.<a id=414></a>
 
 ###### Article 1869
 
@@ -56285,7 +57825,7 @@ _Cite_:
   - Code civil - art. 1843-4 (V)
 
 
-### Chapitre III : De la société en participation.<a id=388></a>
+### Chapitre III : De la société en participation.<a id=415></a>
 
 ###### Article 1871
 
@@ -56463,7 +58003,7 @@ _Cité par_:
   - Loi n°88-1201 du 23 décembre 1988 - art. 7 (Ab)
 
 
-## Titre IX bis : Des conventions relatives à l'exercice des droits indivis<a id=389></a>
+## Titre IX bis : Des conventions relatives à l'exercice des droits indivis<a id=416></a>
 
 ###### Article 1873-1
 
@@ -56493,7 +58033,7 @@ _Créé par_:
   - Loi n°76-1286 du 31 décembre 1976 - art. 5 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
 
 
-### Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.<a id=390></a>
+### Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.<a id=417></a>
 
 ###### Article 1873-2
 
@@ -56828,13 +58368,13 @@ _Cite_:
 
 Les indivisaires peuvent convenir qu'au décès de l'un d'eux, chacun des survivants pourra acquérir la quote-part du défunt,
 ou que le conjoint survivant, ou tout autre héritier désigné, pourra se la faire attribuer à charge d'en tenir compte à la
-succession d'après sa valeur à l'époque de l'acquisition ou de l'attribution.
+succession d'après sa valeur à l'époque de l'acquisition ou de l'attribution. 
 
 Si plusieurs indivisaires ou plusieurs héritiers exercent simultanément leur faculté d'acquisition ou d'attribution, ils sont
 réputés, sauf convention contraire, acquérir ensemble la part du défunt à proportion de leurs droits respectifs dans
-l'indivision ou la succession.
+l'indivision ou la succession. 
 
-Les dispositions du présent article ne peuvent préjudicier à l'application des dispositions des articles 832 à 832-3.
+Les dispositions du présent article ne peuvent préjudicier à l'application des dispositions des articles 831 à 832-2.
 
 **Liens relatifs à cet article**
 
@@ -56842,17 +58382,9 @@ _Codifié par_:
 
   - Loi n°76-1286 1976-12-31
 
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 13 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
-
 _Modifié par_:
 
-  - Loi n°78-627 du 10 juin 1978 - art. 4 () JORF 11 juin 1978
+  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -56861,15 +58393,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil 832 à 832-3
+  - Code civil - art. 831 (V)
 
 
 ###### Article 1873-14
 
 La faculté d'acquisition ou d'attribution est caduque si son bénéficiaire ne l'a pas exercée par une notification faite aux
-indivisaires survivants et aux héritiers du prémourant dans le délai d'un mois à compter du jour où il aura été mis en
-demeure de prendre parti. Cette mise en demeure ne peut elle-même avoir lieu avant l'expiration du délai prévu au titre "Des
-successions" pour faire inventaire et délibérer.
+indivisaires survivants et aux héritiers du prédécédé dans le délai d'un mois à compter du jour où il aura été mis en demeure
+de prendre parti. Cette mise en demeure ne peut elle-même avoir lieu avant l'expiration du délai prévu au titre " Des
+successions " pour faire inventaire et délibérer.
 
 Lorsqu'il n'a pas été prévu de faculté d'acquisition ou d'attribution, ou que celle-ci est caduque, la quote-part du défunt
 échoit à ses héritiers ou légataires. En pareil cas, la convention d'indivision sera réputée conclue pour une durée
@@ -56881,13 +58413,9 @@ _Codifié par_:
 
   - Loi n°76-1286 1976-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°76-1286 du 31 décembre 1976 - art. 13 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1873-15
@@ -56918,7 +58446,7 @@ _Cite_:
   - Code civil - art. 815-17 (V)
 
 
-### Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.<a id=391></a>
+### Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.<a id=418></a>
 
 ###### Article 1873-16
 
@@ -56993,7 +58521,7 @@ _Cite_:
   - Code civil - art. 582 (V)
 
 
-## Titre X : Du prêt<a id=392></a>
+## Titre X : Du prêt<a id=419></a>
 
 ###### Article 1874
 
@@ -57014,9 +58542,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre Ier : Du prêt à usage, ou commodat<a id=393></a>
+### Chapitre Ier : Du prêt à usage, ou commodat<a id=420></a>
 
-#### Section 1 : De la nature du prêt à usage.<a id=394></a>
+#### Section 1 : De la nature du prêt à usage.<a id=421></a>
 
 ###### Article 1875
 
@@ -57083,7 +58611,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des engagements de l'emprunteur.<a id=395></a>
+#### Section 2 : Des engagements de l'emprunteur.<a id=422></a>
 
 ###### Article 1880
 
@@ -57178,7 +58706,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de celui qui prête à usage.<a id=396></a>
+#### Section 3 : Des engagements de celui qui prête à usage.<a id=423></a>
 
 ###### Article 1888
 
@@ -57232,9 +58760,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre II : Du prêt de consommation, ou simple prêt<a id=397></a>
+### Chapitre II : Du prêt de consommation, ou simple prêt<a id=424></a>
 
-#### Section 1 : De la nature du prêt de consommation.<a id=398></a>
+#### Section 1 : De la nature du prêt de consommation.<a id=425></a>
 
 ###### Article 1892
 
@@ -57313,7 +58841,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 2 : Des obligations du prêteur.<a id=399></a>
+#### Section 2 : Des obligations du prêteur.<a id=426></a>
 
 ###### Article 1898
 
@@ -57364,7 +58892,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-#### Section 3 : Des engagements de l'emprunteur.<a id=400></a>
+#### Section 3 : Des engagements de l'emprunteur.<a id=427></a>
 
 ###### Article 1902
 
@@ -57403,7 +58931,7 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-### Chapitre III : Du prêt à intérêt.<a id=401></a>
+### Chapitre III : Du prêt à intérêt.<a id=428></a>
 
 ###### Article 1905
 
@@ -57527,9 +59055,9 @@ _Créé par_:
   - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
-## Titre XI : Du dépôt et du séquestre<a id=402></a>
+## Titre XI : Du dépôt et du séquestre<a id=429></a>
 
-### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=403></a>
+### Chapitre Ier : Du dépôt en général et de ses diverses espèces.<a id=430></a>
 
 ###### Article 1915
 
@@ -57562,9 +59090,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre II : Du dépôt proprement dit<a id=404></a>
+### Chapitre II : Du dépôt proprement dit<a id=431></a>
 
-#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=405></a>
+#### Section 1 : De la nature et de l'essence du contrat de dépôt.<a id=432></a>
 
 ###### Article 1917
 
@@ -57629,7 +59157,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du dépôt volontaire.<a id=406></a>
+#### Section 2 : Du dépôt volontaire.<a id=433></a>
 
 ###### Article 1921
 
@@ -57715,7 +59243,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Des obligations du dépositaire.<a id=407></a>
+#### Section 3 : Des obligations du dépositaire.<a id=434></a>
 
 ###### Article 1927
 
@@ -58077,7 +59605,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=408></a>
+#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.<a id=435></a>
 
 ###### Article 1947
 
@@ -58110,7 +59638,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 5 : Du dépôt nécessaire.<a id=409></a>
+#### Section 5 : Du dépôt nécessaire.<a id=436></a>
 
 ###### Article 1949
 
@@ -58241,9 +59769,9 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-### Chapitre III : Du séquestre<a id=410></a>
+### Chapitre III : Du séquestre<a id=437></a>
 
-#### Section 1 : Des différentes espèces de séquestre.<a id=411></a>
+#### Section 1 : Des différentes espèces de séquestre.<a id=438></a>
 
 ###### Article 1955
 
@@ -58260,7 +59788,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 2 : Du séquestre conventionnel.<a id=412></a>
+#### Section 2 : Du séquestre conventionnel.<a id=439></a>
 
 ###### Article 1956
 
@@ -58343,7 +59871,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=413></a>
+#### Section 3 : Du séquestre ou dépôt judiciaire.<a id=440></a>
 
 ###### Article 1961
 
@@ -58407,7 +59935,7 @@ _Créé par_:
   - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-## Titre XII : Des contrats aléatoires.<a id=414></a>
+## Titre XII : Des contrats aléatoires.<a id=441></a>
 
 ###### Article 1964
 
@@ -58437,7 +59965,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre Ier : Du jeu et du pari.<a id=415></a>
+### Chapitre Ier : Du jeu et du pari.<a id=442></a>
 
 ###### Article 1965
 
@@ -58507,9 +60035,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre II : Du contrat de rente viagère<a id=416></a>
+### Chapitre II : Du contrat de rente viagère<a id=443></a>
 
-#### Section 1 : Des conditions requises pour la validité du contrat.<a id=417></a>
+#### Section 1 : Des conditions requises pour la validité du contrat.<a id=444></a>
 
 ###### Article 1968
 
@@ -58600,30 +60128,30 @@ _Créé par_:
 
 ###### Article 1973
 
-Elle peut être constituée au profit d'un tiers, quoique le prix en soit fourni par une autre personne.
+Elle peut être constituée au profit d'un tiers, quoique le prix en soit fourni par une autre personne. 
 
 Dans ce dernier cas, quoiqu'elle ait les caractères d'une libéralité, elle n'est point assujettie aux formes requises pour
-les donations ; sauf les cas de réduction et de nullité énoncés dans l'article 1970.
+les donations ; sauf les cas de réduction et de nullité énoncés dans l'article 1970. 
 
 Lorsque, constituée par des époux ou l'un d'eux, la rente est stipulée réversible au profit du conjoint survivant, la clause
 de réversibilité peut avoir les caractères d'une libéralité ou ceux d'un acte à titre onéreux. Dans ce dernier cas, la
-récompense ou l'indemnité due par le bénéficiaire de la réversion à la communauté ou à la succession du prémourant est égale
-à la valeur de la réversion de la rente. Sauf volonté contraire des époux, la réversion est présumée avoir été consentie à
+récompense ou l'indemnité due par le bénéficiaire de la réversion à la communauté ou à la succession du prédécédé est égale à
+la valeur de la réversion de la rente. Sauf volonté contraire des époux, la réversion est présumée avoir été consentie à
 titre gratuit.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code civil - art. 1970 (V)
 
 _Codifié par_:
 
   - Loi n°1804-03-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-10 promulguée le 20 mars 1804
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 1970 (V)
 
 
 ###### Article 1974
@@ -58672,7 +60200,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=418></a>
+#### Section 2 : Des effets du contrat entre les parties contractantes.<a id=445></a>
 
 ###### Article 1977
 
@@ -58804,9 +60332,9 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIII : Du mandat<a id=419></a>
+## Titre XIII : Du mandat<a id=446></a>
 
-### Chapitre Ier : De la nature et de la forme du mandat.<a id=420></a>
+### Chapitre Ier : De la nature et de la forme du mandat.<a id=447></a>
 
 ###### Article 1984
 
@@ -58938,7 +60466,7 @@ _Cité par_:
   - Loi du 1er juillet 1901 - art. 2 bis (V)
 
 
-### Chapitre II : Des obligations du mandataire.<a id=421></a>
+### Chapitre II : Des obligations du mandataire.<a id=448></a>
 
 ###### Article 1991
 
@@ -59075,7 +60603,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre III : Des obligations du mandant.<a id=422></a>
+### Chapitre III : Des obligations du mandant.<a id=449></a>
 
 ###### Article 1998
 
@@ -59166,7 +60694,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-### Chapitre IV : Des différentes manières dont le mandat finit.<a id=423></a>
+### Chapitre IV : Des différentes manières dont le mandat finit.<a id=450></a>
 
 ###### Article 2003
 
@@ -59315,7 +60843,7 @@ _Créé par_:
   - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XV : Des transactions<a id=424></a>
+## Titre XV : Des transactions<a id=451></a>
 
 ###### Article 2044
 
@@ -59685,7 +61213,7 @@ _Créé par_:
   - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
-## Titre XVI : Du compromis<a id=425></a>
+## Titre XVI : Du compromis<a id=452></a>
 
 ###### Article 2059
 
@@ -59893,23 +61421,585 @@ _Codifié par_:
   - Loi n°72-626 1972-07-05
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=426></a>
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=453></a>
 
-### Chapitre Ier : De la saisie.<a id=427></a>
+###### Article 2190
 
-#### Section 5 : De la vente.<a id=428></a>
+La saisie immobilière tend à la vente forcée de l'immeuble du débiteur ou, le cas échéant, du tiers détenteur en vue de la
+distribution de son prix.
 
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=429></a>
+**Nota:**
 
-###### Article 2205
 
-Les baux consentis par le saisi sont, quelle que soit leur durée, inopposables aux créanciers poursuivants.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
 _Créé par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 50 () JORF 24 mars 2006
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2485 (M)
+  - Code civil - art. 2485 (V)
+  - Code des procédures civiles d'exécution - art. L311-1 (VD)
+
+
+### Chapitre Ier : De la saisie.<a id=454></a>
+
+#### Section 1 : Du créancier.<a id=455></a>
+
+###### Article 2191
+
+Tout créancier muni d'un titre exécutoire constatant une créance liquide et exigible peut procéder à une saisie immobilière
+dans les conditions fixées par le présent chapitre et par les dispositions qui ne lui sont pas contraires de la loi du 9
+juillet 1991 portant réforme des procédures civiles d'exécution. 
+
+Lorsque la poursuite est engagée en vertu d'une décision de justice exécutoire par provision, la vente forcée ne peut
+intervenir qu'après une décision définitive passée en force de chose jugée. 
+
+Toutefois, pendant le délai de l'opposition, aucune poursuite ne peut être engagée en vertu d'un jugement rendu par défaut.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 du 5 juillet 1972
+
+_Cite_:
+
+  - Loi n°91-650 du 9 juillet 1991
+
+_Cité par_:
+
+  - Loi n°91-650 du 9 juillet 1991 - art. 31 (VT)
+  - Décret n°2006-936 du 27 juillet 2006 - art. 49 (Ab)
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2486 (M)
+  - Code civil - art. 2486 (V)
+  - Code des procédures civiles d'exécution - art. L311-2 (VD)
+  - Code des procédures civiles d'exécution - art. L311-4 (VD)
+
+
+###### Article 2192
+
+Le créancier qui a procédé à la saisie d'un immeuble de son débiteur ne peut engager une nouvelle procédure de saisie sur un
+autre bien immobilier de celui-ci que dans le cas d'insuffisance du bien déjà saisi.
+
+Le créancier ne peut saisir les immeubles qui ne sont pas hypothéqués en sa faveur que dans le cas où l'hypothèque dont il
+bénéficie ne lui permet pas d'être rempli de ses droits.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 du 5 juillet 1972
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2487 (M)
+  - Code civil - art. 2487 (V)
+  - Code des procédures civiles d'exécution - art. L311-5 (VD)
+
+
+#### Section 2 : Des biens et droits saisissables.<a id=456></a>
+
+###### Article 2193
+
+Sauf dispositions législatives particulières, la saisie immobilière peut porter sur tous les droits réels afférents aux
+immeubles, y compris leurs accessoires réputés immeubles, susceptibles de faire l'objet d'une cession.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 du 5 juillet 1972
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Cité par_:
+
+  - Décret n°2006-936 du 27 juillet 2006 - art. 49 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L311-6 (VD)
+
+
+###### Article 2194
+
+La saisie d'un immeuble emporte saisie de ses fruits, sauf l'effet d'une saisie antérieure.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-323  du 2 avril 1960  - art. 65 (VT)
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L321-3 (VD)
+
+
+###### Article 2195
+
+La saisie des immeubles communs est poursuivie contre les deux époux.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 du 5 juillet 1972
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L311-7 (VD)
+
+
+#### Section 3 : Du débiteur.<a id=457></a>
+
+###### Article 2196
+
+En cas de saisies simultanées de plusieurs de ses immeubles, le débiteur peut demander au juge le cantonnement de celles-ci.
+
+Il peut également solliciter du juge une conversion partielle des saisies en hypothèque sur certains de ses immeubles qui
+prendra rang au jour de la publication de la saisie, sous réserve de l'inscription de la sûreté dans le mois de la
+notification de la décision.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 43 (V)
+  - Décret n°55-22 du 4 janvier 1955 - art. 9 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 13 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 41 (VD)
+  - Décret n°63-1123 du 9 novembre 1963 - art. 4 (M)
+  - Loi n°78-753 du 17 juillet 1978 - art. 21 (M)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 141 (Ab)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 291 (M)
+
+_Codifié par_:
+
+  - Loi n°72-626 du 5 juillet 1972
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2449 (V)
+  - Code des procédures civiles d'exécution - art. L321-6 (VD)
+
+
+###### Article 2197
+
+Les immeubles d'un mineur, même émancipé, ou d'un majeur en curatelle ou en tutelle ne peuvent être saisis avant la
+discussion de leurs meubles.
+
+Toutefois, la discussion des meubles n'est pas requise avant la saisie des immeubles indivis entre un majeur et un mineur ou
+un majeur en curatelle ou en tutelle, si la dette leur est commune. Elle ne l'est pas non plus dans le cas où les poursuites
+ont été commencées alors que le majeur n'était pas encore placé sous curatelle ou sous tutelle.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 41 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 85-2 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 85-4 (M)
+
+_Codifié par_:
+
+  - Loi n°72-626 du 5 juillet 1972
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2450 (V)
+  - Code des procédures civiles d'exécution - art. L311-8 (VD)
+
+
+#### Section 4 : Des effets de l'acte de saisie.<a id=458></a>
+
+###### Article 2198
+
+La saisie rend l'immeuble indisponible et restreint les droits de jouissance et d'administration du débiteur. 
+
+Le bien ne peut être aliéné ni grevé de droits réels par le débiteur sous réserve des dispositions de l'article 2201.
+
+A moins que le bien soit loué, le débiteur en est constitué séquestre sauf à ce que les circonstances justifient la
+désignation d'un tiers ou l'expulsion du débiteur pour cause grave.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Cite_:
+
+  - Code civil - art. 2201
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2451 (V)
+  - Code des procédures civiles d'exécution - art. L321-2 (VD)
+
+_Cité par_:
+
+  - Code de la consommation - art. L331-3-2 (VT)
+  - Code de la consommation - art. L332-6 (VT)
+  - Code de la consommation - art. L722-8 (VD)
+  - Code de la consommation - art. L742-7 (VD)
+
+
+###### Article 2199
+
+Les baux consentis par le débiteur après la saisie sont, quelle que soit leur durée, inopposables au créancier poursuivant
+comme à l'acquéreur.
+
+La preuve de l'antériorité du bail peut être faite par tout moyen.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2452 (V)
+  - Code des procédures civiles d'exécution - art. L321-4 (VD)
+
+
+###### Article 2200
+
+La saisie immobilière est opposable aux tiers à partir de sa publication au fichier immobilier. 
+
+Les aliénations non publiées ou publiées postérieurement sont inopposables au créancier poursuivant comme à l'acquéreur dans
+les conditions prévues à l'article 2201, sauf consignation d'une somme suffisante pour acquitter en principal, intérêts et
+frais, ce qui est dû aux créanciers inscrits ainsi qu'au créancier poursuivant ; la somme ainsi consignée leur est affectée
+spécialement. 
+
+Sont pareillement inopposables les inscriptions du chef du débiteur qui n'ont pas été prises antérieurement à la publication
+de la saisie, sous réserve du droit pour le vendeur, le prêteur de deniers pour l'acquisition et le copartageant d'inscrire,
+dans les délais prévus par les articles 2379 à 2381, le privilège qui leur est conféré par l'article 2374.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 31 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 23 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 28 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 51 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 52 (Ab)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 77 (M)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 77-2 (M)
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+  - Décret n°2006-936 du 27 juillet 2006 - art. 26 (Ab)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 970 (Ab)
+  - Code civil - art. 2134 (T)
+  - Code civil - art. 2150 (T)
+  - Code civil - art. 2203 (T)
+  - Code de procédure civile - art. 674 (M)
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Cite_:
+
+  - Code civil - art. 2201
+  - Code civil - art. 2374
+  - Code civil - art. 2379
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2453 (V)
+  - Code des procédures civiles d'exécution - art. L321-5 (VD)
+
+
+#### Section 5 : De la vente.<a id=459></a>
+
+###### Article 2201
+
+Les biens sont vendus soit à l'amiable sur autorisation judiciaire, soit par adjudication.
+
+Est nulle toute convention portant qu'à défaut d'exécution des engagements pris envers lui, le créancier peut faire vendre
+les immeubles de son débiteur en dehors des formes prescrites pour la saisie immobilière.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 8-1 (M)
+  - Code civil - art. 2198 (VT)
+  - Code civil - art. 2200 (VT)
+  - Code civil - art. 2203-1 (T)
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2454 (V)
+  - Code des procédures civiles d'exécution - art. L311-3 (VD)
+  - Code des procédures civiles d'exécution - art. L322-1 (VD)
+
+
+##### Paragraphe 1 : Dispositions relatives à la vente amiable.<a id=460></a>
+
+###### Article 2202
+
+La vente amiable sur autorisation judiciaire produit les effets d'une vente volontaire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 1972-07-05
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2455 (V)
+
+_Cité par_:
+
+  - Code de l'industrie cinématographique - art. 37 (M)
+
+
+###### Article 2203
+
+L'acte notarié de vente n'est établi que sur consignation du prix et des frais de la vente et justification du paiement des
+frais taxés.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°72-626 du 5 juillet 1972
+
+_Créé par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code civil - art. 2456 (V)
+  - Code des procédures civiles d'exécution - art. L322-4 (VD)
+
+
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=461></a>
+
+###### Article 2204
+
+L'adjudication de l'immeuble a lieu aux enchères publiques à l'audience du juge.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Cité par_:
+
+  - Code de commerce. - art. L642-18 (VD)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-5 (VD)
+
+
+###### Article 2205
+
+Sous réserve des incapacités tenant aux fonctions qu'elle exerce, toute personne peut se porter enchérisseur si elle justifie
+de garanties de paiement.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
 
 _Anciens textes_:
 
@@ -59920,75 +62010,25 @@ _Cité par_:
 
   - Code de commerce. - art. L642-18 (VD)
 
+_Nouveaux textes_:
 
-## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers<a id=430></a>
-
-### Chapitre Ier : De l'expropriation forcée<a id=431></a>
-
-###### Article 2204
-
-Le créancier peut poursuivre l'expropriation :
-
-1° des biens immobiliers et de leurs accessoires réputés immeubles appartenant en propriété à son débiteur ;
-
-2° de l'usufruit appartenant au débiteur sur les biens de même nature.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de commerce. - art. L642-18 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2204-1
-
-Les poursuites et la vente forcée produisent à l'égard des parties et des tiers les effets déterminés par le code de
-procédure civile.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°72-626 du 5 juillet 1972 - art. 3 () JORF 9 juillet 1972
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+  - Code des procédures civiles d'exécution - art. L322-7 (VD)
 
 
 ###### Article 2206
 
-Les immeubles d'un mineur, même émancipé, ou d'un majeur en tutelle, ne peuvent être mis en vente avant la discussion du
-mobilier.
+Le montant de la mise à prix est fixé par le créancier poursuivant. A défaut d'enchère, celui-ci est déclaré adjudicataire
+d'office à ce montant.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+Le débiteur peut, en cas d'insuffisance manifeste du montant de la mise à prix, saisir le juge afin de voir fixer une mise à
+prix en rapport avec la valeur vénale de l'immeuble et les conditions du marché. Toutefois, à défaut d'enchère, le
+poursuivant ne peut être déclaré adjudicataire que pour la mise à prix initiale.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Cité par_:
 
@@ -59998,25 +62038,56 @@ _Cité par_:
   - Code de commerce. - art. L642-18 (VD)
   - Code de procédure civile - art. 1281-17 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-6 (VD)
+
 _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
 
 ###### Article 2207
 
-La discussion du mobilier n'est pas requise avant l'expropriation des immeubles possédés par indivis entre un majeur et un
-mineur ou majeur en tutelle, si la dette leur est commune, ni dans le cas où les poursuites ont été commencées contre un
-majeur, ou avant la tutelle des majeurs.
+L'adjudication ne peut donner lieu à déclaration de commande.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-8 (VD)
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+
+###### Article 2208
+
+L'adjudication emporte vente forcée du bien saisi et en transmet la propriété à l'adjudicataire.
+
+Elle ne confère à celui-ci d'autres droits que ceux appartenant au saisi. Ce dernier est tenu, à l'égard de l'adjudicataire,
+à la délivrance du bien et à la garantie d'éviction.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -60024,20 +62095,30 @@ _Codifié par_:
 
   - Loi n°1804-03-19
 
+_Cité par_:
+
+  - Loi n°85-1372 du 23 décembre 1985 - art. 53 (V)
+
 _Créé par_:
 
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-10 (VD)
 
 
 ###### Article 2209
 
-Le créancier ne peut poursuivre la vente des immeubles qui ne lui sont pas hypothéqués que dans le cas d'insuffisance des
-biens qui lui sont hypothéqués.
+Le titre de vente n'est délivré à l'adjudicataire que sur justification du paiement des frais taxés.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
 
@@ -60048,27 +62129,30 @@ _Cité par_:
   - Code de commerce - art. R622-19 (V)
   - Code de procédure civile - art. 675 (Ab)
 
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-11 (VD)
+
 _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
 
 
 ###### Article 2210
 
-La vente forcée des biens situés dans différents arrondissements ne peut être provoquée que successivement, à moins qu'ils ne
-fassent partie d'une seule et même exploitation.
-
-Elle est suivie dans le tribunal dans le ressort duquel se trouve le chef-lieu de l'exploitation ou, à défaut de chef-lieu,
-la partie de biens qui représente le plus grand revenu, d'après la matrice du rôle.
+Le jugement d'adjudication constitue un titre d'expulsion à l'encontre du saisi.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
 
@@ -60076,21 +62160,30 @@ _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-13 (VD)
 
 
 ###### Article 2211
 
-Si les biens hypothéqués au créancier et les biens non hypothéqués, ou les biens situés dans divers arrondissements, font
-partie d'une seule et même exploitation, la vente des uns et des autres est poursuivie ensemble, si le débiteur le requiert ;
-et ventilation se fait du prix de l'adjudication, s'il y a lieu.
+L'adjudicataire doit consigner le prix sur un compte séquestre ou à la Caisse des dépôts et consignations et payer les frais
+de la vente.
+
+Il ne peut, avant cette consignation et ce paiement, accomplir un acte de disposition sur le bien à l'exception de la
+constitution d'une hypothèque accessoire à un contrat de prêt destiné à financer l'acquisition de ce bien.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
 
@@ -60098,21 +62191,29 @@ _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-9 (VD)
 
 
 ###### Article 2212
 
-Si le débiteur justifie, par baux authentiques, que le revenu net et libre de ses immeubles pendant une année suffit pour le
-paiement de la dette en capital, intérêts et frais, et s'il en offre la délégation au créancier, la poursuite peut être
-suspendue par les juges, sauf à être reprise s'il survient quelque opposition ou obstacle au paiement.
+A défaut de consignation du prix et de paiement des frais, la vente est résolue de plein droit.
+
+L'adjudicataire défaillant est tenu au paiement de la différence entre son enchère et le prix de la revente, si celui-ci est
+moindre. Il ne peut prétendre à la répétition des sommes qu'il a acquittées.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
 
@@ -60125,21 +62226,29 @@ _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L322-12 (VD)
+
+
+##### Paragraphe 3 : Dispositions communes.<a id=462></a>
 
 ###### Article 2213
 
-La vente forcée des immeubles ne peut être poursuivie qu'en vertu d'un titre authentique et exécutoire, pour une dette
-certaine et liquide. Si la dette est en espèces non liquidées, la poursuite est valable mais l'adjudication ne pourra être
-faite qu'après la liquidation.
+La consignation du prix et le paiement des frais de la vente purgent de plein droit l'immeuble de toute hypothèque et de tout
+privilège du chef du débiteur.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
 
@@ -60147,30 +62256,29 @@ _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
+
+### Chapitre II : De la distribution du prix.<a id=463></a>
 
 ###### Article 2214
 
-Le cessionnaire d'un titre exécutoire ne peut poursuivre l'expropriation qu'après que la signification du transport a été
-faite au débiteur.
+Seuls sont admis à faire valoir leurs droits sur le prix de la vente le créancier poursuivant, les créanciers inscrits sur
+l'immeuble saisi à la date de la publication du commandement de payer valant saisie, les créanciers inscrits sur l'immeuble
+avant la publication du titre de vente et qui sont intervenus dans la procédure ainsi que les créanciers énumérés au 1° bis
+de l'article 2374 et à l'article 2375.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 _Cité par_:
 
@@ -60179,28 +62287,34 @@ _Cité par_:
   - Décret n°2006-936 du 27 juillet 2006 - art. 112 (Ab)
   - Décret n°2006-936 du 27 juillet 2006 - art. 113 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Cite_:
+
+  - Code civil - art. 2374
+  - Code civil - art. 2375
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L331-1 (VD)
+
 
 ###### Article 2215
 
-La poursuite peut avoir lieu en vertu d'un jugement provisoire ou définitif, exécutoire par provision, nonobstant appel ;
-mais l'adjudication ne peut se faire qu'après un jugement définitif en dernier ressort, ou passé en force de chose jugée.
-
-La poursuite ne peut s'exercer en vertu de jugements rendus par défaut durant le délai de l'opposition.
+Les créanciers sommés de déclarer leur créance et qui ont omis de le faire sont déchus du bénéfice de leur sûreté pour la
+distribution du prix de vente de l'immeuble.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 _Cité par_:
 
@@ -60210,110 +62324,55 @@ _Cité par_:
   - Décret n°2009-160 du 12 février 2009 - art. 138
   - Décret n°2009-160 du 12 février 2009 - art. 142
 
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
+_Codifié par_:
+
+  - Loi n°1804-03-19
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L331-2 (VD)
+
 
 ###### Article 2216
 
-La poursuite ne peut être annulée sous prétexte que le créancier l'aurait commencée pour une somme plus forte que celle qui
-lui est due.
+Si la distribution du prix n'est pas intervenue dans un délai fixé par décret en Conseil d'Etat, la consignation produit, à
+l'égard du débiteur, tous les effets d'un paiement à hauteur de la part du prix de vente qui sera remise aux créanciers après
+la distribution.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2217
-
-Toute poursuite en expropriation d'immeubles doit être précédée d'un commandement de payer fait, à la diligence et requête du
-créancier, à la personne du débiteur ou à son domicile, par le ministère d'un huissier.
-
-Pour les besoins de leur publication, les commandements portant sur des lots dépendant d'un immeuble soumis au statut de la
-copropriété sont réputés ne pas porter sur la quote-part de parties communes comprise dans ces lots.
-
-Néanmoins, les créanciers saisissants exercent leur droit sur ladite quote-part, prise dans sa consistance au moment de la
-mutation dont le prix forme l'objet de la distribution.
-
-Les formes du commandement et celles de la poursuite sur l'expropriation sont réglées par les lois sur la procédure.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°67-167 du 1 mars 1967 - art. 23 (M)
-  - SPEC_APPLI: Décret n°67-167 du 1 mars 1967 - art. 25 (Ab)
-  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 10 (V)
-  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 7 (V)
-  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 8 (V)
-  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 9 (V)
-
-_Cité par_:
-
-  - Décret n°67-1120 du 22 décembre 1967 - art. 82 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 126 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 269 (M)
-  - Code de la consommation - art. R*332-29 (M)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 _Modifié par_:
 
-  - Loi n°79-2 du 2 janvier 1979 - art. 4 () JORF 3 janvier 1979
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Abrogé par_:
 
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L334-1 (VD)
 
 
-### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers<a id=432></a>
+## Titre XX : De la prescription et de la possession.<a id=464></a>
 
-###### Article 2218
-
-L'ordre et la distribution du prix des immeubles et la manière d'y procéder sont réglés par les lois sur la procédure.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-
-## Titre XX : De la prescription et de la possession.<a id=433></a>
-
-### Chapitre Ier : Dispositions générales.<a id=434></a>
+### Chapitre Ier : Dispositions générales.<a id=465></a>
 
 ###### Article 2219
 
@@ -60500,7 +62559,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre II : De la possession.<a id=435></a>
+### Chapitre II : De la possession.<a id=466></a>
 
 ###### Article 2228
 
@@ -60723,7 +62782,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre III : Des causes qui empêchent la prescription.<a id=436></a>
+### Chapitre III : Des causes qui empêchent la prescription.<a id=467></a>
 
 ###### Article 2236
 
@@ -60894,9 +62953,9 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=437></a>
+### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.<a id=468></a>
 
-#### Section 1 : Des causes qui interrompent la prescription.<a id=438></a>
+#### Section 1 : Des causes qui interrompent la prescription.<a id=469></a>
 
 ###### Article 2242
 
@@ -61068,7 +63127,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=439></a>
+#### Section 2 : Des causes qui suspendent le cours de la prescription.<a id=470></a>
 
 ###### Article 2251
 
@@ -61172,7 +63231,8 @@ _Créé par_:
 
 ###### Article 2258
 
-La prescription ne court pas contre l'héritier bénéficiaire, à l'égard des créances qu'il a contre la succession.
+La prescription ne court pas contre l'héritier acceptant à concurrence de l'actif net, à l'égard des créances qu'il a contre
+la succession.
 
 Elle court contre une succession vacante, quoique non pourvue de curateur.
 
@@ -61182,14 +63242,14 @@ _Codifié par_:
 
   - Loi n°1804-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-15 promulguée le 25 mars 1804
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 2259
 
-Elle court encore pendant les trois mois pour faire inventaire, et les quarante jours pour délibérer.
+La prescription court pendant les délais mentionnés aux articles 771, 772 et 790.
 
 **Liens relatifs à cet article**
 
@@ -61197,14 +63257,14 @@ _Codifié par_:
 
   - Loi n°1804-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-15 promulguée le 25 mars 1804
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre V : Du temps requis pour prescrire.<a id=440></a>
+### Chapitre V : Du temps requis pour prescrire.<a id=471></a>
 
-#### Section 1 : Dispositions générales.<a id=441></a>
+#### Section 1 : Dispositions générales.<a id=472></a>
 
 ###### Article 2260
 
@@ -61245,7 +63305,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 2 : De la prescription trentenaire.<a id=442></a>
+#### Section 2 : De la prescription trentenaire.<a id=473></a>
 
 ###### Article 2262
 
@@ -61320,7 +63380,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-#### Section 3 : De la prescription par dix et vingt ans.<a id=443></a>
+#### Section 3 : De la prescription par dix et vingt ans.<a id=474></a>
 
 ###### Article 2265
 
@@ -61568,7 +63628,7 @@ _Créé par_:
   - Ordonnance n°2005-658 du 8 juin 2005 - art. 2 () JORF 9 juin 2005
 
 
-#### Section 4 : De quelques prescriptions particulières.<a id=444></a>
+#### Section 4 : De quelques prescriptions particulières.<a id=475></a>
 
 ###### Article 2271
 
@@ -61915,7 +63975,7 @@ _Créé par_:
   - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
-### Chapitre VI : De la protection possessoire.<a id=445></a>
+### Chapitre VI : De la protection possessoire.<a id=476></a>
 
 ###### Article 2282
 
@@ -61958,7 +64018,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-# Livre IV : Des sûretés<a id=446></a>
+# Livre IV : Des sûretés<a id=477></a>
 
 ###### Article 2284
 
@@ -62084,7 +64144,7 @@ _Modifié par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 3 () JORF 24 mars 2006
 
 
-## Titre Ier : Des sûretés personnelles<a id=447></a>
+## Titre Ier : Des sûretés personnelles<a id=478></a>
 
 ###### Article 2287-1
 
@@ -62101,9 +64161,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 
-### Chapitre Ier : Du cautionnement<a id=448></a>
+### Chapitre Ier : Du cautionnement<a id=479></a>
 
-#### Section 1 : De la nature et de l'étendue du cautionnement<a id=449></a>
+#### Section 1 : De la nature et de l'étendue du cautionnement<a id=480></a>
 
 ###### Article 2288
 
@@ -62407,9 +64467,9 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-#### Section 2 : De l'effet du cautionnement<a id=450></a>
+#### Section 2 : De l'effet du cautionnement<a id=481></a>
 
-##### Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution<a id=451></a>
+##### Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution<a id=482></a>
 
 ###### Article 2298
 
@@ -62641,7 +64701,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-##### Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution<a id=452></a>
+##### Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution<a id=483></a>
 
 ###### Article 2305
 
@@ -62807,7 +64867,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-##### Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs<a id=453></a>
+##### Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs<a id=484></a>
 
 ###### Article 2310
 
@@ -62841,7 +64901,7 @@ _Nouveaux textes_:
   - Code civil - art. 2516 (V)
 
 
-#### Section 3 : De l'extinction du cautionnement<a id=454></a>
+#### Section 3 : De l'extinction du cautionnement<a id=485></a>
 
 ###### Article 2311
 
@@ -63016,7 +65076,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-#### Section 4 : De la caution légale et de la caution judiciaire<a id=455></a>
+#### Section 4 : De la caution légale et de la caution judiciaire<a id=486></a>
 
 ###### Article 2317
 
@@ -63133,7 +65193,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-### Chapitre II : De la garantie autonome<a id=456></a>
+### Chapitre II : De la garantie autonome<a id=487></a>
 
 ###### Article 2321
 
@@ -63183,7 +65243,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-### Chapitre III : De la lettre d'intention<a id=457></a>
+### Chapitre III : De la lettre d'intention<a id=488></a>
 
 ###### Article 2322
 
@@ -63212,9 +65272,9 @@ _Nouveaux textes_:
   - Code civil - art. 2528 (V)
 
 
-## Titre II : Des sûretés réelles<a id=458></a>
+## Titre II : Des sûretés réelles<a id=489></a>
 
-### Sous-titre Ier : Dispositions générales<a id=459></a>
+### Sous-titre Ier : Dispositions générales<a id=490></a>
 
 ###### Article 2323
 
@@ -63364,7 +65424,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-### Sous-titre II : Des sûretés sur les meubles<a id=460></a>
+### Sous-titre II : Des sûretés sur les meubles<a id=491></a>
 
 ###### Article 2329
 
@@ -63390,7 +65450,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
 
 
-#### Chapitre Ier : Des privilèges mobiliers<a id=461></a>
+#### Chapitre Ier : Des privilèges mobiliers<a id=492></a>
 
 ###### Article 2330
 
@@ -63411,7 +65471,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 1 : Des privilèges généraux<a id=462></a>
+##### Section 1 : Des privilèges généraux<a id=493></a>
 
 ###### Article 2331
 
@@ -63563,7 +65623,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 2 : Des privilèges spéciaux<a id=463></a>
+##### Section 2 : Des privilèges spéciaux<a id=494></a>
 
 ###### Article 2332
 
@@ -63664,7 +65724,7 @@ _Cite_:
   - Code du travail - art. L721-1 (Ab)
 
 
-##### Section 3 : Du classement des privilèges<a id=464></a>
+##### Section 3 : Du classement des privilèges<a id=495></a>
 
 ###### Article 2332-1
 
@@ -63737,9 +65797,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
 
 
-#### Chapitre II : Du gage de meubles corporels<a id=465></a>
+#### Chapitre II : Du gage de meubles corporels<a id=496></a>
 
-##### Section 1 : Du droit commun du gage<a id=466></a>
+##### Section 1 : Du droit commun du gage<a id=497></a>
 
 ###### Article 2333
 
@@ -64139,7 +66199,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L523-1 (VD)
 
 
-##### Section 3 : Dispositions communes.<a id=467></a>
+##### Section 3 : Dispositions communes.<a id=498></a>
 
 ###### Article 2354
 
@@ -64157,7 +66217,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 11 () JORF 24 mars 2006
 
 
-#### Chapitre III : Du nantissement de meubles incorporels.<a id=468></a>
+#### Chapitre III : Du nantissement de meubles incorporels.<a id=499></a>
 
 ###### Article 2355
 
@@ -64389,7 +66449,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 12 () JORF 24 mars 2006
 
 
-#### Chapitre IV : De la propriété retenue à titre de garantie<a id=469></a>
+#### Chapitre IV : De la propriété retenue à titre de garantie<a id=500></a>
 
 ###### Article 2367
 
@@ -64493,7 +66553,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
 
 
-### Sous-titre III : Des sûretés sur les immeubles<a id=470></a>
+### Sous-titre III : Des sûretés sur les immeubles<a id=501></a>
 
 ###### Article 2373
 
@@ -64517,9 +66577,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 15 () JORF 24 mars 2006
 
 
-#### Chapitre Ier : Des privilèges immobiliers<a id=471></a>
+#### Chapitre Ier : Des privilèges immobiliers<a id=502></a>
 
-##### Section 1 : Des privilèges spéciaux.<a id=472></a>
+##### Section 1 : Des privilèges spéciaux.<a id=503></a>
 
 ###### Article 2374
 
@@ -64543,7 +66603,7 @@ authentiquement constaté, par l'acte d'emprunt, que la somme était destinée �
 paiement a été fait des deniers empruntés ;
 
 3° Les cohéritiers, sur les immeubles de la succession, pour la garantie des partages faits entre eux, et des soultes ou
-retours de lots ; pour la garantie des indemnités dues en application de l'article 866, les immeubles donnés ou légués sont
+retours de lots ; pour la garantie des indemnités dues en application de l'article 924, les immeubles donnés ou légués sont
 assimilés aux immeubles de la succession ;
 
 4° Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments,
@@ -64559,8 +66619,8 @@ value existante à l'époque de l'aliénation de l'immeuble et résultant des tr
 soit authentiquement constaté par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit ci-dessus pour
 ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ;
 
-6° Les créanciers et légataires d'une personne défunte, sur les immeubles de la succession, pour la garantie des droits
-qu'ils tiennent de l'article 878.
+6° Les créanciers du défunt et les légataires de sommes d'argent sur les immeubles de la succession, ainsi que les créanciers
+personnels de l'héritier sur les immeubles de ce dernier, pour la garantie des droits qu'ils tiennent de l'article 878 ;
 
 7° Les accédants à la propriété titulaires d'un contrat de location-accession régi par la loi n° 84-595 du 12 juillet 1984
 définissant la location-accession à la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la garantie des
@@ -64615,11 +66675,11 @@ _Cite_:
   - Loi n°65-557 du 10 juillet 1965 - art. 10 (M)
   - Loi n°65-557 du 10 juillet 1965 - art. 30 (V)
   - Loi n°84-595 1984-07-12
-  - Code civil - art. 866 (M)
+  - Code civil - art. 924 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Anciens textes_:
 
@@ -64631,7 +66691,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 2 : Des privilèges généraux.<a id=473></a>
+##### Section 2 : Des privilèges généraux.<a id=504></a>
 
 ###### Article 2375
 
@@ -64770,7 +66830,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (V)
 
 
-##### Section 3 : Des cas où les privilèges doivent être inscrits<a id=474></a>
+##### Section 3 : Des cas où les privilèges doivent être inscrits<a id=505></a>
 
 ###### Article 2377
 
@@ -64938,12 +66998,8 @@ _Codifié par_:
 Le cohéritier ou copartageant conserve son privilège sur les biens de chaque lot ou sur le bien licité pour les soulte et
 retour de lots ou pour le prix de la licitation, par l'inscription faite à sa diligence sur chacun des immeubles en la forme
 prévue aux articles 2426 et 2428, et dans un délai de deux mois à dater de l'acte de partage ou de l'adjudication par
-licitation ou de l'acte fixant l'indemnité prévue par l'article 866 du présent code ; le privilège prend rang à la date dudit
+licitation ou de l'acte fixant l'indemnité prévue par l'article 924 du présent code ; le privilège prend rang à la date dudit
 acte ou adjudication.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -64955,9 +67011,9 @@ _Cité par_:
   - Code civil - art. 2427 (V)
   - Code de procédure civile - art. 686 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Anciens textes_:
 
@@ -64966,7 +67022,8 @@ _Anciens textes_:
 _Cite_:
 
   - Code civil - art. 2426 (V)
-  - Code civil - art. 2428 (M)
+  - Code civil - art. 2428 (V)
+  - Code civil - art. 924 (V)
 
 _Codifié par_:
 
@@ -65004,13 +67061,9 @@ _Codifié par_:
 
 ###### Article 2383
 
-Les créanciers et légataires d'une personne défunte conservent leur privilège par une inscription prise sur chacun des
-immeubles héréditaires, en la forme prévue aux articles 2426 et 2428, et dans les quatre mois de l'ouverture de la
-succession ; le privilège prend rang à la date de ladite ouverture.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+Les créanciers du défunt et les légataires de sommes d'argent, ainsi que les créanciers personnels de l'héritier, conservent
+leur privilège par une inscription sur chacun des immeubles visés au 6° de l'article 2374, en la forme prévue aux articles
+2426 et 2428 et dans les quatre mois de l'ouverture de la succession. Le privilège prend rang à la date de cette ouverture.
 
 **Liens relatifs à cet article**
 
@@ -65026,9 +67079,9 @@ _Cité par_:
   - Code civil - art. 2529 (V)
   - Code civil - art. 878 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Anciens textes_:
 
@@ -65036,6 +67089,7 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code civil - art. 2374 (V)
   - Code civil - art. 2426 (V)
 
 _Codifié par_:
@@ -65141,7 +67195,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre II : De l'antichrèse<a id=475></a>
+#### Chapitre II : De l'antichrèse<a id=506></a>
 
 ###### Article 2387
 
@@ -65264,9 +67318,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 16 () JORF 24 mars 2006
 
 
-#### Chapitre III : Des hypothèques<a id=476></a>
+#### Chapitre III : Des hypothèques<a id=507></a>
 
-##### Section 1 : Dispositions générales.<a id=477></a>
+##### Section 1 : Dispositions générales.<a id=508></a>
 
 ###### Article 2393
 
@@ -65449,9 +67503,9 @@ _Anciens textes_:
   - Code civil - art. 2120 (T)
 
 
-##### Section 2 : Des hypothèques légales<a id=478></a>
+##### Section 2 : Des hypothèques légales<a id=509></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=479></a>
+##### Sous-section 1 : Dispositions générales.<a id=510></a>
 
 ###### Article 2400
 
@@ -65545,7 +67599,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Sous-section 2 : Des règles particulières à l'hypothèque légale des époux.<a id=480></a>
+##### Sous-section 2 : Des règles particulières à l'hypothèque légale des époux.<a id=511></a>
 
 ###### Article 2402
 
@@ -65834,7 +67888,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=481></a>
+##### Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=512></a>
 
 ###### Article 2409
 
@@ -65946,7 +68000,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 3 : Des hypothèques judiciaires<a id=482></a>
+##### Section 3 : Des hypothèques judiciaires<a id=513></a>
 
 ###### Article 2412
 
@@ -65993,7 +68047,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 4 : Des hypothèques conventionnelles<a id=483></a>
+##### Section 4 : Des hypothèques conventionnelles<a id=514></a>
 
 ###### Article 2413
 
@@ -66371,36 +68425,35 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 20 () JORF 24 mars 2006
 
 
-##### Section 5 : Du classement des hypothèques<a id=484></a>
+##### Section 5 : Du classement des hypothèques<a id=515></a>
 
 ###### Article 2425
 
 Entre les créanciers, l'hypothèque, soit légale, soit judiciaire, soit conventionnelle, n'a rang que du jour de l'inscription
-prise par le créancier à la conservation des hypothèques, dans la forme et de la manière prescrites par la loi.
+prise par le créancier à la conservation des hypothèques, dans la forme et de la manière prescrites par la loi. 
 
 Lorsque plusieurs inscriptions sont requises le même jour relativement au même immeuble, celle qui est requise en vertu du
 titre portant la date la plus ancienne est réputée d'un rang antérieur, quel que soit l'ordre qui résulte du registre prévu à
-l'article 2453.
+l'article 2453. 
 
 Toutefois, les inscriptions de séparations de patrimoine prévues par l'article 2383, dans le cas visé au second alinéa de
 l'article 2386, ainsi que celles des hypothèques légales prévues à l'article 2400, 1°, 2° et 3°, sont réputées d'un rang
-antérieur à celui de toute inscription d'hypothèque judiciaire ou conventionnelle prise le même jour.
+antérieur à celui de toute inscription d'hypothèque judiciaire ou conventionnelle prise le même jour. 
 
 Si plusieurs inscriptions sont prises le même jour relativement au même immeuble, soit en vertu de titres prévus au deuxième
 alinéa mais portant la même date, soit au profit de requérants titulaires du privilège et des hypothèques visés par le
 troisième alinéa, les inscriptions viennent en concurrence quel que soit l'ordre du registre susvisé.
 
-L'inscription d'une hypothèque judiciaire conservatoire est réputée d'un rang antérieur à celui conféré à la convention de
-rechargement lorsque la publicité de cette convention est postérieure à l'inscription de l'hypothèque judiciaire
-conservatoire.
+L'inscription de l'hypothèque légale du Trésor ou d'une hypothèque judiciaire conservatoire est réputée d'un rang antérieur à
+celui conféré à la convention de rechargement lorsque la publicité de cette convention est postérieure à l'inscription de
+cette hypothèque. 
+
+Les dispositions du cinquième alinéa s'appliquent à l'inscription de l'hypothèque légale des organismes gestionnaires d'un
+régime obligatoire de protection sociale.
 
 L'ordre de préférence entre les créanciers privilégiés ou hypothécaires et les porteurs de warrants, dans la mesure où ces
 derniers sont gagés sur des biens réputés immeubles, est déterminé par les dates auxquelles les titres respectifs ont été
 publiés, la publicité des warrants demeurant soumise aux lois spéciales qui les régissent.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -66412,10 +68465,10 @@ _Cité par_:
   - Code civil - art. 2508 (VD)
   - Code de la sécurité sociale. - art. L243-5 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 21 () JORF 24 mars 2006
+  - Loi n°2006-1640 du 21 décembre 2006 - art. 39 () JORF 22 décembre 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 7 (V) JORF 27 décembre 2006
 
 _Anciens textes_:
 
@@ -66424,7 +68477,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2383 (M)
+  - Code civil - art. 2383 (V)
   - Code civil - art. 2386 (V)
   - Code civil - art. 2400 (V)
   - Code civil - art. 2453 (V)
@@ -66434,9 +68487,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre IV : De l'inscription des privilèges et des hypothèques<a id=485></a>
+#### Chapitre IV : De l'inscription des privilèges et des hypothèques<a id=516></a>
 
-##### Section 1 : Du mode d'inscription des privilèges et des hypothèques<a id=486></a>
+##### Section 1 : Du mode d'inscription des privilèges et des hypothèques<a id=517></a>
 
 ###### Article 2426
 
@@ -66496,52 +68549,52 @@ _Cite_:
 Les créanciers privilégiés ou hypothécaires ne peuvent prendre utilement inscription sur le précédent propriétaire, à partir
 de la publication de la mutation opérée au profit d'un tiers. Nonobstant cette publication, le vendeur, le prêteur de deniers
 pour l'acquisition et le copartageant peuvent utilement inscrire, dans les délais prévus aux articles 2379 et 2381, les
-privilèges qui leur sont conférés par l'article 2374.
+privilèges qui leur sont conférés par l'article 2374. 
 
 L'inscription ne produit aucun effet entre les créanciers d'une succession si elle n'a été faite par l'un d'eux que depuis le
-décès, dans le cas où la succession n'est acceptée que sous bénéfice d'inventaire ou est déclarée vacante. Toutefois, les
+décès, dans le cas où la succession n'est acceptée qu'à concurrence de l'actif net ou est déclarée vacante. Toutefois, les
 privilèges reconnus au vendeur, au prêteur de deniers pour l'acquisition, au copartageant, ainsi qu'aux créanciers et
 légataires du défunt, peuvent être inscrits dans les délais prévus aux articles 2379, 2381 et 2383, nonobstant l'acceptation
-bénéficiaire ou la vacance de la succession.
+à concurrence de l'actif net ou la vacance de la succession. 
 
 En cas de saisie immobilière ou de procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire ou encore
 en cas de procédure de traitement des situations de surendettement des particuliers, l'inscription des privilèges et
-hypothèques produit les effets réglés par les dispositions du code de procédure civile et par celles des titres II, III ou IV
-du livre sixième du code de commerce.
+hypothèques produit les effets réglés par les dispositions du titre XIX du livre III du présent code et par celles des titres
+II, III ou IV du livre VI du code de commerce. 
 
 Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, en cas d'exécution forcée immobilière, l'inscription des
 privilèges et hypothèques produit les effets réglés par les dispositions de la loi du 1er juin 1924.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 4 () JORF 22 avril 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Cité par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+_Cite_:
+
+  - Code civil - art. 2111 (T)
+  - Code civil - art. 2374 (V)
+  - Code civil - art. 2379 (V)
+  - Code civil - art. 2381 (V)
+  - Code civil - art. 2383 (V)
 
 _Anciens textes_:
 
   - Code civil - art. 2147 (T)
 
-_Cite_:
-
-  - Code civil - art. 2374 (M)
-  - Code civil - art. 2379 (V)
-  - Code civil - art. 2381 (M)
-  - Code civil - art. 2383 (M)
-  - Loi n°1924-06-01
-
 _Codifié par_:
 
   - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 22 () JORF 24 mars 2006
-
-_Cité par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
 
 
 ###### Article 2428
@@ -67102,9 +69155,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 2 : De la radiation et de la réduction des inscriptions<a id=487></a>
+##### Section 2 : De la radiation et de la réduction des inscriptions<a id=518></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=488></a>
+##### Sous-section 1 : Dispositions générales.<a id=519></a>
 
 ###### Article 2440
 
@@ -67319,7 +69372,7 @@ _Anciens textes_:
   - Code civil - art. 2162 (T)
 
 
-##### Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle<a id=489></a>
+##### Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle<a id=520></a>
 
 ###### Article 2446
 
@@ -67441,7 +69494,7 @@ _Anciens textes_:
   - Code civil - art. 2165 (T)
 
 
-##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs<a id=490></a>
+##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs<a id=521></a>
 
 ###### Article 2449
 
@@ -67742,9 +69795,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=491></a>
+#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=522></a>
 
-##### Section 1 : Dispositions particulières aux hypothèques conventionnelles<a id=492></a>
+##### Section 1 : Dispositions particulières aux hypothèques conventionnelles<a id=523></a>
 
 ###### Article 2458
 
@@ -67817,16 +69870,17 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 30 () JORF 24 mars 2006
 
 
-##### Section 2 : Dispositions générales<a id=493></a>
+##### Section 2 : Dispositions générales<a id=524></a>
 
 ###### Article 2461
 
 Les créanciers ayant privilège ou hypothèque inscrits sur un immeuble, le suivent en quelques mains qu'il passe, pour être
-colloqués et payés suivant l'ordre de leurs créances ou inscriptions.
+payés suivant l'ordre de leurs créances ou inscriptions.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -67834,9 +69888,9 @@ _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 5 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Cité par_:
 
@@ -67903,36 +69957,36 @@ _Créé par_:
 
 ###### Article 2464
 
-Faute par le tiers détenteur de satisfaire pleinement à l'une de ces obligations, chaque créancier hypothécaire a droit de
-faire vendre sur lui l'immeuble hypothéqué, trente jours après commandement fait au débiteur originaire et sommation faite au
-tiers détenteur de payer la dette exigible ou de délaisser l'héritage.
+Faute par le tiers détenteur de satisfaire à l'une de ces obligations, chaque créancier titulaire d'un droit de suite sur
+l'immeuble a le droit de poursuivre la saisie et la vente de l'immeuble dans les conditions du titre XIX du livre III.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Décret n°67-167 du 1 mars 1967 - art. 23 (Ab)
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 142 (V)
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
   - Décret n°2006-936 du 27 juillet 2006 - art. 17 (Ab)
   - Code de la consommation - art. L313-14-1 (VT)
   - Code des procédures civiles d'exécution - art. R321-5 (V)
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 142 (V)
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+_Anciens textes_:
+
+  - Code civil - art. 2169 (T)
 
 _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-_Anciens textes_:
-
-  - Code civil - art. 2169 (T)
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 6 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
 ###### Article 2465
@@ -68011,18 +70065,23 @@ _Créé par_:
 ###### Article 2468
 
 Il peut l'être même après que le tiers détenteur a reconnu l'obligation ou subi condamnation en cette qualité seulement : le
-délaissement n'empêche pas que jusqu'à l'adjudication, le tiers détenteur ne puisse reprendre l'immeuble en payant toute la
+délaissement n'empêche pas que jusqu'à la vente forcée, le tiers détenteur ne puisse reprendre l'immeuble en payant toute la
 dette et les frais.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Loi n°1804-03-19
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 7 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Cité par_:
 
@@ -68032,10 +70091,6 @@ _Anciens textes_:
 
   - Code civil - art. 2173 (T)
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
 
 ###### Article 2469
 
@@ -68043,11 +70098,12 @@ Le délaissement par hypothèque se fait au greffe du tribunal de la situation d
 tribunal. 
 
 Sur la pétition du plus diligent des intéressés, il est créé à l'immeuble délaissé un curateur sur lequel la vente de
-l'immeuble est poursuivie dans les formes prescrites pour les expropriations.
+l'immeuble est poursuivie dans les formes prescrites pour la saisie immobilière.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -68056,17 +70112,17 @@ _Cité par_:
   - Décret n°55-22 du 4 janvier 1955 - art. 28 (V)
   - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
 
+_Anciens textes_:
+
+  - Code civil - art. 2174 (T)
+
 _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-_Anciens textes_:
-
-  - Code civil - art. 2174 (T)
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 8 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
 ###### Article 2470
@@ -68122,20 +70178,21 @@ _Anciens textes_:
 ###### Article 2472
 
 Les servitudes et droits réels que le tiers détenteur avait sur l'immeuble avant sa possession, renaissent après le
-délaissement ou après l'adjudication faite sur lui.
+délaissement ou après la vente forcée de l'immeuble.
 
 Ses créanciers personnels, après tout ceux qui sont inscrits sur les précédents propriétaires, exercent leur hypothèque à
-leur rang, sur le bien délaissé ou adjugé.
+leur rang, sur le bien délaissé ou vendu.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 9 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Cité par_:
 
@@ -68152,18 +70209,23 @@ _Codifié par_:
 
 ###### Article 2473
 
-Le tiers détenteur qui a payé la dette hypothécaire, ou délaissé l'immeuble hypothéqué, ou subi l'expropriation de cet
+Le tiers détenteur qui a payé la dette hypothécaire, ou délaissé l'immeuble hypothéqué, ou subi la vente forcée de cet
 immeuble, a le recours en garantie, tel que de droit, contre le débiteur principal.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Loi n°1804-03-19
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 10 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Cité par_:
 
@@ -68172,10 +70234,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code civil - art. 2178 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ###### Article 2474
@@ -68202,9 +70260,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=494></a>
+#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=525></a>
 
-##### Section 1 : Dispositions particulières aux hypothèques conventionnelles<a id=495></a>
+##### Section 1 : Dispositions particulières aux hypothèques conventionnelles<a id=526></a>
 
 ###### Article 2475
 
@@ -68232,7 +70290,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 31 () JORF 24 mars 2006
 
 
-##### Section 2 : Dispositions générales<a id=496></a>
+##### Section 2 : Dispositions générales<a id=527></a>
 
 ###### Article 2476
 
@@ -68446,15 +70504,16 @@ _Codifié par_:
 
 ###### Article 2482
 
-En cas de revente sur enchères, elle aura lieu suivant les formes établies pour les expropriations forcées, à la diligence
-soit du créancier qui l'aura requise, soit du nouveau propriétaire.
+En cas de revente sur enchères, elle aura lieu suivant les formes établies pour les ventes forcées sur saisie immobilière, à
+la diligence soit du créancier qui l'aura requise, soit du nouveau propriétaire.
 
 Le poursuivant énoncera dans les affiches le prix stipulé dans le contrat, ou déclaré, et la somme en sus à laquelle le
 créancier s'est obligé de la porter ou faire porter.
 
 **Nota:**
 
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -68462,9 +70521,9 @@ _Codifié par_:
 
   - Loi n°1804-03-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 11 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Cité par_:
 
@@ -68613,7 +70672,7 @@ _Anciens textes_:
   - Code civil - art. 2192 (T)
 
 
-#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=497></a>
+#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=528></a>
 
 ###### Article 2488
 
@@ -68664,7 +70723,7 @@ _Cite_:
   - Code civil - art. 2423 (V)
 
 
-# Livre V : Dispositions applicables à Mayotte<a id=498></a>
+# Livre V : Dispositions applicables à Mayotte<a id=529></a>
 
 ###### Article 2489
 
@@ -68722,7 +70781,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=499></a>
+## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=530></a>
 
 ###### Article 2491
 
@@ -68747,7 +70806,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
-## Titre Ier : Dispositions relatives au livre Ier<a id=500></a>
+## Titre Ier : Dispositions relatives au livre Ier<a id=531></a>
 
 ###### Article 2492
 
@@ -68901,12 +70960,15 @@ _Codifié par_:
 
 ###### Article 2499
 
-Pour l'application à Mayotte des articles 515-3 et 515-7, les mots : "greffe du tribunal d'instance" sont remplacés par les
-mots :
-
-"greffe du tribunal de première instance".
+Pour l'application à Mayotte des articles 515-3 et 515-7, les mots : " greffe du tribunal d'instance " sont remplacés par les
+mots : " greffe du tribunal de première instance " et les mots : " greffiers du tribunal d'instance " sont remplacés par les
+mots : " greffiers du tribunal de première instance ".
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Anciens textes_:
 
@@ -68914,16 +70976,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 515-3 (M)
-  - Code civil - art. 515-7 (M)
+  - Code civil - art. 515-3 (VT)
+  - Code civil - art. 515-7 (VT)
 
 _Codifié par_:
 
   - Loi n°1804-03-15
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
 ###### Article 2499-1
@@ -69071,7 +71129,7 @@ _Abrogé par_:
   - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 
-## Titre II : Dispositions relatives au livre II<a id=501></a>
+## Titre II : Dispositions relatives au livre II<a id=532></a>
 
 ###### Article 2500
 
@@ -69161,12 +71219,16 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre III : Dispositions relatives au livre III<a id=502></a>
+## Titre III : Dispositions relatives au livre III<a id=533></a>
 
 ###### Article 2503
 
-Les articles 711 à 832-2, 832-4 à 2283 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2504 à
+Les articles 711 à 832-1 et 833 à 2283 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2504 à
 2508.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -69176,27 +71238,31 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil 711 à 832-2, 832-4 à 2283, 2504 à 2508
+  - Code civil 711 à 832-1, 833 à 2283, 2504 à 2508
 
 _Codifié par_:
 
   - Loi n°1804-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 2504
 
-Ne sont pas applicables à Mayotte les dispositions du cinquième alinéa de l'article 832 et celles des deuxième, troisième et
-cinquième alinéas de l'article 832-2.
+Ne sont pas applicables à Mayotte les dispositions de l'article 831-1 et celles des deuxième, troisième, quatrième et dernier
+alinéas de l'article 832-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-789 du 31 mai 2012 - art. 18
 
 _Anciens textes_:
 
@@ -69208,7 +71274,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil 832 al. 5, 832-2 al. 2, al. 3 et al. 5
+  - Code civil - art. 831-1
+  - Code civil - art. 832-1
 
 _Codifié par_:
 
@@ -69217,20 +71284,17 @@ _Codifié par_:
 
 ###### Article 2505
 
-Pour l'application à Mayotte du premier alinéa de l'article 832-4, les mots : "832, 832-1, 832-2 et 832-3" sont remplacés par
-les mots :
+Pour l'application à Mayotte du premier alinéa de l'article 833, les références : " 831 à 832-4 " sont remplacées par les
+références : " 831 à 832-1, 832-3 et 832-4 ". 
 
-"832, 832-1 et 832-2".
-
-Pour l'application du deuxième alinéa de cet article, les mots :
-
-"832, 832-2 et 832-3" sont remplacés par les mots : "832 et 832-2".
+Pour l'application du deuxième alinéa de l'article 833, les mots : " de l'article 832 " sont remplacés par les mots : " des
+articles 832 et 832-2 ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Anciens textes_:
 
@@ -69238,35 +71302,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 832-4 (M)
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-
-###### Article 2506
-
-A l'article 1069, les mots : "suivant les prescriptions des articles 2148 et 2149, deuxième alinéa, du présent code" sont
-remplacés par les mots : "suivant les règles applicables localement en matière d'inscription de privilèges et hypothèques".
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-_Abrogé par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-_Cite_:
-
-  - Code civil - art. 1069 (M)
-
-_Anciens textes_:
-
-  - Code civil - art. 2300 (T)
+  - Code civil - art. 833 (V)
 
 _Codifié par_:
 
@@ -69275,17 +71311,18 @@ _Codifié par_:
 
 ###### Article 2507
 
-Pour l'application à Mayotte de l'article 1873-13, les mots : "832 à 832-3" sont remplacés par les mots : "832 à 832-2".
+Pour l'application à Mayotte de l'article 1873-13, les mots : " 831 à 832-1, 832-3 et 832-4 " sont remplacés par les mots : "
+832 à 832-2 ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
-  - Code civil - art. 1873-13 (M)
+  - Code civil - art. 1873-13 (V)
 
 _Anciens textes_:
 
@@ -69329,7 +71366,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=503></a>
+## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=534></a>
 
 ###### Article 2509
 
@@ -69352,9 +71389,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=504></a>
+### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=535></a>
 
-#### Section 1 : Dispositions générales<a id=505></a>
+#### Section 1 : Dispositions générales<a id=536></a>
 
 ###### Article 2510
 
@@ -69530,7 +71567,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=506></a>
+#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=537></a>
 
 ###### Article 2516
 
@@ -69654,7 +71691,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 3 : De l'inscription des droits sur l'immeuble<a id=507></a>
+#### Section 3 : De l'inscription des droits sur l'immeuble<a id=538></a>
 
 ###### Article 2521
 
@@ -69997,9 +72034,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre II : Dispositions diverses<a id=508></a>
+### Chapitre II : Dispositions diverses<a id=539></a>
 
-#### Section 1 : Privilèges et hypothèques<a id=509></a>
+#### Section 1 : Privilèges et hypothèques<a id=540></a>
 
 ###### Article 2530
 
@@ -70079,7 +72116,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : Expropriation forcée<a id=510></a>
+#### Section 2 : Expropriation forcée<a id=541></a>
 
 ###### Article 2533
 
