@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-01-12
+Version Consolidée au 2007-01-26
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -35,7 +35,7 @@ Version Consolidée au 2007-01-12
         - [Section 2 : De la preuve de la nationalité devant les tribunaux judiciaires (art. 30 à 30-4)](#32)
         - [Section 3 : Des certificats de nationalité française (art. 31 à 31-3)](#33)
       - [Chapitre VII : Des effets sur la nationalité française des transferts de souveraineté relatifs à certains territoires (art. 32 à 32-5)](#34)
-      - [Chapitre VIII : Dispositions particulières concernant les territoires d'outre-mer. (art. 33 à 33-2)](#35)
+      - [Chapitre VIII : Dispositions particulières aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie (art. 33 à 33-2)](#35)
     - [Titre II : Des actes de l'état civil (art. 34 à 101)](#36)
       - [Chapitre Ier : Dispositions générales. (art. 34 à 54)](#37)
       - [Chapitre II : Des actes de naissance. (art. 55 à 62-1)](#38)
@@ -4749,28 +4749,40 @@ _Anciens textes_:
   - Code de la nationalité française. - art. 157 (Ab)
 
 
-### Chapitre VIII : Dispositions particulières concernant les territoires d'outre-mer.<a id=35></a>
+### Chapitre VIII : Dispositions particulières aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie<a id=35></a>
 
 ###### Article 33
 
-Pour l'application du présent code dans les territoires d'outre-mer :
+Pour l'application du présent titre : 
 
-Les termes "tribunal de grande instance" sont chaque fois remplacés par les termes "tribunal de première instance".
+1° Les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance " ; 
+
+2° Aux articles 21-28 et 21-29, les mots : " dans le département " sont remplacés par les mots : " dans la collectivité " ou
+" en Nouvelle-Calédonie ". 
+
+Les sanctions pécuniaires encourues en vertu de l'article 68 dans les îles Wallis et Futuna, en Polynésie française et en
+Nouvelle-Calédonie sont prononcées en monnaie locale, compte tenu de la contre-valeur dans cette monnaie de l'euro.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de la nationalité française 158
-
-_Créé par_:
-
-  - Loi n°1803-03-08 promulguée le 18 mars 1803
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
 
 _Codifié par_:
 
   - Loi n°93-933 1993-07-22
+
+_Modifié par_:
+
+  - Ordonnance n°2007-98 du 25 janvier 2007 - art. 130 () JORF 26 janvier 2007
+
+_Cite_:
+
+  - Code civil - art. 21-28 (V)
+  - Code civil - art. 21-29 (V)
+  - Code civil - art. 68 (V)
+  - Constitution 1958-10-04 art. 74
+
+_Anciens textes_:
+
+  - Code de la nationalité française 158
 
 
 ###### Article 33-1
@@ -4780,9 +4792,18 @@ chargé de la section détachée.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Loi n°93-933 1993-07-22
+
+_Modifié par_:
+
+  - Ordonnance n°2007-98 du 25 janvier 2007 - art. 130 () JORF 26 janvier 2007
+
 _Cite_:
 
-  - Code civil - art. 26 (M)
+  - Code civil - art. 26 (V)
+  - Constitution 1958-10-04 art. 74
 
 _Cité par_:
 
@@ -4792,14 +4813,6 @@ _Anciens textes_:
 
   - Code de la nationalité française 159
   - Code de la nationalité française. - art. 159 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-933 1993-07-22
-
-_Créé par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
 
 
 ###### Article 33-2
@@ -4811,7 +4824,8 @@ qualité pour délivrer un certificat de nationalité française à toute person
 
 _Cite_:
 
-  - Code civil - art. 31 (M)
+  - Code civil - art. 31 (V)
+  - Constitution 1958-10-04 art. 74
 
 _Anciens textes_:
 
@@ -4822,9 +4836,9 @@ _Codifié par_:
 
   - Loi n°93-933 1993-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+  - Ordonnance n°2007-98 du 25 janvier 2007 - art. 130 () JORF 26 janvier 2007
 
 
 ## Titre II : Des actes de l'état civil<a id=36></a>
