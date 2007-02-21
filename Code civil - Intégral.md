@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-02-22
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -72532,16 +72532,19 @@ _Codifié par_:
 ###### Article 2514
 
 L'immatriculation des immeubles et l'inscription des droits sur les immeubles mentionnés à l'article 2521 a lieu sur requête
-présentée dans des conditions fixées par décret en Conseil d'Etat.
+présentée dans des conditions fixées par décret en Conseil d'Etat. 
 
 Une pré-notation peut être inscrite sur décision judiciaire dans le but d'assurer à l'un des droits mentionnés à l'article
-2521 son rang d'inscription ou de garantir l'efficacité d'une rectification ultérieure.
+2521 son rang d'inscription ou de garantir l'efficacité d'une rectification ultérieure. 
+
+Une inscription provisoire conservatoire est opérée, sur demande du requérant, par le conservateur pendant le délai imparti
+pour lever un obstacle à l'inscription requise, dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cité par_:
 
