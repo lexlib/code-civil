@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -126,7 +126,7 @@ Version Consolidée au 2007-03-06
           - [Paragraphe 3 : De l'intervention du juge aux affaires familiales (art. 373-2-6 à 373-2-13)](#123)
           - [Paragraphe 4 : De l'intervention des tiers (art. 373-3 à 374-2)](#124)
         - [Section 2 : De l'assistance éducative (art. 375 à 375-9)](#125)
-        - [Section 2-1 : Mesure judiciaire d'aide à la gestion du budget familial (art. 375-9-1)](#126)
+        - [Section 2-1 : Mesure judiciaire d'aide à la gestion du budget familial (art. 375-9-1 à 375-9-2)](#126)
         - [Section 3 : De la délégation de l'autorité parentale (art. 376 à 377-3)](#127)
         - [Section 4 : Du retrait total ou partiel de l'autorité parentale (art. 378 à 381)](#128)
       - [Chapitre II : De l'autorité parentale relativement aux biens de l'enfant (art. 382 à 387)](#129)
@@ -17799,8 +17799,12 @@ ainsi que le juge des enfants et le président du conseil général. Le juge est
 hébergement.
 
 Le juge peut aussi subordonner le maintien de l'enfant dans son milieu à des obligations particulières, telles que celle de
-fréquenter régulièrement un établissement sanitaire ou d'éducation, ordinaire ou spécialisé, ou d'exercer une activité
-professionnelle.
+fréquenter régulièrement un établissement sanitaire ou d'éducation, ordinaire ou spécialisé, le cas échéant sous régime de
+l'internat ou d'exercer une activité professionnelle.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -17823,7 +17827,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+  - Loi n°2007-297 du 5 mars 2007 - art. 67 () JORF 7 mars 2007
 
 _Codifié par_:
 
@@ -18145,24 +18149,21 @@ _Codifié par_:
 Lorsque les prestations familiales ne sont pas employées pour les besoins liés au logement, à l'entretien, à la santé et à
 l'éducation des enfants et que l'accompagnement en économie sociale et familiale prévu à l'article L. 222-3 du code de
 l'action sociale et des familles n'apparaît pas suffisant, le juge des enfants peut ordonner qu'elles soient, en tout ou
-partie, versées à une personne physique ou morale qualifiée, dite "délégué aux prestations familiales".
+partie, versées à une personne physique ou morale qualifiée, dite " délégué aux prestations familiales ". 
 
 Ce délégué prend toutes décisions, en s'efforçant de recueillir l'adhésion des bénéficiaires des prestations familiales et de
 répondre aux besoins liés à l'entretien, à la santé et à l'éducation des enfants ; il exerce auprès de la famille une action
-éducative visant à rétablir les conditions d'une gestion autonome des prestations.
+éducative visant à rétablir les conditions d'une gestion autonome des prestations. 
 
-La liste des personnes habilitées à saisir le juge aux fins d'ordonner cette mesure d'aide est fixée par décret.
+La liste des personnes habilitées à saisir le juge aux fins d'ordonner cette mesure d'aide est fixée par décret. 
 
 La décision fixe la durée de la mesure. Celle-ci ne peut excéder deux ans. Elle peut être renouvelée par décision motivée.
 
-Les dispositions prévues au présent article ne sont pas applicables à la prime forfaitaire prévue au 8° de l'article L. 511-1
-du code de la sécurité sociale.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-293 du 5 mars 2007 - art. 20 () JORF 6 mars 2007
+  - Loi n°2007-308 du 5 mars 2007 - art. 31 () JORF 7 mars 2007
 
 _Cité par_:
 
@@ -18193,8 +18194,41 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L511-1 (M)
-  - Code de l'action sociale et des familles - art. L222-3 (M)
+  - Code de l'action sociale et des familles - art. L222-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 375-9-2
+
+Le maire ou son représentant au sein du conseil pour les droits et devoirs des familles peut saisir le juge des enfants,
+conjointement avec l'organisme débiteur des prestations familiales, pour lui signaler, en application de l'article 375-9-1,
+les difficultés d'une famille. Lorsque le maire a désigné un coordonnateur en application de l'article L. 121-6-2 du code de
+l'action sociale et des familles, il l'indique, après accord de l'autorité dont relève ce professionnel, au juge des enfants.
+Ce dernier peut désigner le coordonnateur pour exercer la fonction de délégué aux prestations familiales.
+
+L'exercice de la fonction de délégué aux prestations familiales par le coordonnateur obéit aux règles posées par l'article L.
+474-3 et les premier et deuxième alinéas de l'article L. 474-5 du code de l'action sociale et des familles ainsi que par
+l'article 375-9-1 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 10 () JORF 7 mars 2007
+
+_Cite_:
+
+  - Code civil - art. 375-9-1 (V)
+  - Code de l'action sociale et des familles - art. L121-6-2 (V)
+  - Code de l'action sociale et des familles - art. L474-3 (VD)
+  - Code de l'action sociale et des familles - art. L474-5 (VD)
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1200-3 (V)
 
 _Codifié par_:
 
@@ -47752,31 +47786,34 @@ _Modifié par_:
 
 Après deux années d'application du régime matrimonial, les époux peuvent convenir, dans l'intérêt de la famille, de le
 modifier, ou même d'en changer entièrement, par un acte notarié. A peine de nullité, l'acte notarié contient la liquidation
-du régime matrimonial modifié.
+du régime matrimonial modifié si elle est nécessaire. 
 
 Les personnes qui avaient été parties dans le contrat modifié et les enfants majeurs de chaque époux sont informés
-personnellement de la modification envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois mois.
+personnellement de la modification envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois mois. 
 
 Les créanciers sont informés de la modification envisagée par la publication d'un avis dans un journal habilité à recevoir
 les annonces légales dans l'arrondissement ou le département du domicile des époux. Chacun d'eux peut s'opposer à la
-modification dans les trois mois suivant la publication.
+modification dans les trois mois suivant la publication. 
 
 En cas d'opposition, l'acte notarié est soumis à l'homologation du tribunal du domicile des époux. La demande et la décision
-d'homologation sont publiées dans les conditions et sous les sanctions prévues au code de procédure civile.
+d'homologation sont publiées dans les conditions et sous les sanctions prévues au code de procédure civile. 
 
 Lorsque l'un ou l'autre des époux a des enfants mineurs, l'acte notarié est obligatoirement soumis à l'homologation du
-tribunal du domicile des époux.
+tribunal du domicile des époux. 
 
 Le changement a effet entre les parties à la date de l'acte ou du jugement qui le prévoit et, à l'égard des tiers, trois mois
 après que mention en a été portée en marge de l'acte de mariage. Toutefois, en l'absence même de cette mention, le changement
 n'en est pas moins opposable aux tiers si, dans les actes passés avec eux, les époux ont déclaré avoir modifié leur régime
-matrimonial.
+matrimonial. 
 
-Il est fait mention de la modification sur la minute du contrat de mariage modifié et, si l'un des époux est commerçant, au
-registre du commerce et des sociétés.
+Lorsque l'un ou l'autre des époux fait l'objet d'une mesure de protection juridique dans les conditions prévues au titre XI
+du livre Ier, le changement ou la modification du régime matrimonial est soumis à l'autorisation préalable du juge des
+tutelles ou du conseil de famille s'il a été constitué. 
+
+Il est fait mention de la modification sur la minute du contrat de mariage modifié. 
 
 Les créanciers non opposants, s'il a été fait fraude à leurs droits, peuvent attaquer le changement de régime matrimonial
-dans les conditions de l'article 1167.
+dans les conditions de l'article 1167. 
 
 Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -47799,7 +47836,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 44 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2007-308 du 5 mars 2007 - art. 11 () JORF 7 mars 2007
 
 _Cite_:
 
@@ -53715,8 +53752,9 @@ _Créé par_:
 
 ###### Article 1729
 
-Si le preneur emploie la chose louée à un autre usage que celui auquel elle a été destinée, ou dont il puisse résulter un
-dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire résilier le bail.
+Si le preneur n'use pas de la chose louée en bon père de famille ou emploie la chose louée à un autre usage que celui auquel
+elle a été destinée, ou dont il puisse résulter un dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire
+résilier le bail.
 
 **Liens relatifs à cet article**
 
@@ -53724,9 +53762,9 @@ _Codifié par_:
 
   - Loi n°1804-03-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
+  - Loi n°2007-297 du 5 mars 2007 - art. 18 () JORF 7 mars 2007
 
 
 ###### Article 1730
