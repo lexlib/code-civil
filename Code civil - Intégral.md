@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-07-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -1177,7 +1177,9 @@ _Codifié par_:
 ###### Article 16-11
 
 L'identification d'une personne par ses empreintes génétiques ne peut être recherchée que dans le cadre de mesures d'enquête
-ou d'instruction diligentées lors d'une procédure judiciaire ou à des fins médicales ou de recherche scientifique.
+ou d'instruction diligentée lors d'une procédure judiciaire ou à des fins médicales ou de recherche scientifique ou
+d'identification d'un militaire décédé à l'occasion d'une opération conduite par les forces armées ou les formations
+rattachées.
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le
 juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la
@@ -1211,8 +1213,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
-  - Loi n°2004-800 du 6 août 2004 - art. 5 () JORF 7 août 2004
+  - Loi n°2005-270 du 24 mars 2005 - art. 93 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
 
 _Codifié par_:
 
