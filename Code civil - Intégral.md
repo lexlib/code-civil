@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-11-21
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -1347,32 +1347,32 @@ seize ans.
 
 Le mineur âgé de moins de seize ans doit être représenté par celui ou ceux qui exercent à son égard l'autorité parentale.
 
-Doit être pareillement représenté le mineur de seize à dix-huit ans dont l'altération des facultés mentales ou corporelles
-empêche l'expression de la volonté. L'empêchement est constaté par le juge des tutelles d'office, à la requête d'un membre de
-la famille du mineur ou du ministère public, au vu d'un certificat délivré par un médecin spécialiste choisi sur une liste
-établie par le procureur de la République.
+Doit être pareillement représenté tout mineur dont l'altération des facultés mentales ou corporelles empêche l'expression de
+la volonté. L'empêchement est constaté par le juge des tutelles d'office, à la requête d'un membre de la famille du mineur ou
+du ministère public, au vu d'un certificat délivré par un médecin spécialiste choisi sur une liste établie par le procureur
+de la République.
 
 Lorsque le mineur mentionné à l'alinéa précédent est placé sous tutelle, sa représentation est assurée par le tuteur autorisé
 à cet effet par le conseil de famille.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Code civil - art. 21-11 (V)
+
 _Anciens textes_:
 
   - Code de la nationalité française 5
   - Code de la nationalité française. - art. 5 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2007-1631 du 20 novembre 2007 - art. 39 () JORF 21 novembre 2007
+
 _Codifié par_:
 
   - Loi n°1803-03-08
-
-_Modifié par_:
-
-  - Loi n°95-125 du 8 février 1995 - art. 34 () JORF 9 février 1995 en vigueur le 1er août 1995
-
-_Cité par_:
-
-  - Code civil - art. 21-11 (V)
 
 
 ###### Article 17-4
@@ -2344,11 +2344,12 @@ _Anciens textes_:
 L'enfant mineur né en France de parents étrangers peut à partir de l'âge de seize ans réclamer la nationalité française par
 déclaration, dans les conditions prévues aux articles 26 et suivants si, au moment de sa déclaration, il a en France sa
 résidence et s'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins cinq ans,
-depuis l'âge de onze ans.
+depuis l'âge de onze ans. 
 
 Dans les mêmes conditions, la nationalité française peut être réclamée, au nom de l'enfant mineur né en France de parents
-étrangers, à partir de l'âge de treize ans et avec son consentement personnel, la condition de résidence habituelle en France
-devant alors être remplie à partir de l'âge de huit ans.
+étrangers, à partir de l'âge de treize ans, la condition de résidence habituelle en France devant alors être remplie à partir
+de l'âge de huit ans. Le consentement du mineur est requis, sauf s'il est empêché d'exprimer sa volonté par une altération de
+ses facultés mentales ou corporelles constatée selon les modalités prévues au troisième alinéa de l'article 17-3.
 
 **Liens relatifs à cet article**
 
@@ -2372,11 +2373,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-170 du 16 mars 1998 - art. 6 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+  - Loi n°2007-1631 du 20 novembre 2007 - art. 39 () JORF 21 novembre 2007
 
 _Cite_:
 
-  - Code civil - art. 26 (M)
+  - Code civil - art. 17-3 (V)
+  - Code civil - art. 26 (V)
 
 _Anciens textes_:
 
@@ -9347,68 +9349,6 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-###### Article 185
-
-Néanmoins, le mariage contracté par des époux qui n'avaient point encore l'âge requis, ou dont l'un des deux n'avait point
-atteint cet âge, ne peut plus être attaqué :
-
-1° lorsqu'il s'est écoulé six mois depuis que cet époux ou les époux ont atteint l'âge compétent ;
-
-2° lorsque la femme, qui n'avait point cet âge, a conçu avant l'échéance de six mois.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil - art. 184 (V)
-  - TXT_ASSOCIE: Code civil - art. 186 (Ab)
-
-_Cité par_:
-
-  - Code civil - art. 186 (Ab)
-  - Code civil - art. 190 (M)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-_Abrogé par_:
-
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 37 () JORF 21 novembre 2007
-
-
-###### Article 186
-
-Le père, la mère, les ascendants et la famille qui ont consenti au mariage contracté dans le cas de l'article précédent ne
-sont point recevables à en demander la nullité.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil - art. 185 (Ab)
-
-_Cite_:
-
-  - Code civil - art. 185 (Ab)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-_Abrogé par_:
-
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 37 () JORF 21 novembre 2007
-
-
 ###### Article 187
 
 Dans tous les cas où, conformément à l'article 184, l'action en nullité peut être intentée par tous ceux qui y ont un
@@ -9464,23 +9404,22 @@ _Créé par_:
 
 ###### Article 190
 
-Le procureur de la République, dans tous les cas auxquels s'applique l'article 184 et sous les modifications portées en
-l'article 185, peut et doit demander la nullité du mariage, du vivant des deux époux, et les faire condamner à se séparer.
+Le procureur de la République, dans tous les cas auxquels s'applique l'article 184, peut et doit demander la nullité du
+mariage, du vivant des deux époux, et les faire condamner à se séparer.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code civil - art. 184 (M)
-  - Code civil - art. 185 (Ab)
+  - Code civil - art. 184 (V)
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
+  - Loi n°2007-1631 du 20 novembre 2007 - art. 37 () JORF 21 novembre 2007
 
 
 ###### Article 191
