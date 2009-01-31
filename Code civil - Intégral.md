@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-01-19
+Version Consolidée au 2009-02-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -138,7 +138,7 @@ Version Consolidée au 2009-01-19
           - [Sous-section 2 : De l'organisation et du fonctionnement de la tutelle (art. 394 à 413)](#135)
             - [Paragraphe 1 : Des charges tutélaires (art. 394 à 397)](#136)
             - [Paragraphe 2 : Du conseil de famille (art. 398 à 402)](#137)
-            - [Paragraphe 3 : Du tuteur (art. 403 à 408)](#138)
+            - [Paragraphe 3 : Du tuteur (art. 403 à 408-1)](#138)
             - [Paragraphe 4 : Du subrogé tuteur (art. 409 à 410)](#139)
             - [Paragraphe 5 : De la vacance de la tutelle (art. 411)](#140)
             - [Paragraphe 6 : De la responsabilité (art. 412 à 413)](#141)
@@ -472,7 +472,7 @@ Version Consolidée au 2009-01-19
       - [Chapitre II : Des obligations du mandataire. (art. 1991 à 1997)](#469)
       - [Chapitre III : Des obligations du mandant. (art. 1998 à 2002)](#470)
       - [Chapitre IV : Des différentes manières dont le mandat finit. (art. 2003 à 2010)](#471)
-    - [Titre XIV : De la fiducie (art. 2011 à 2031)](#472)
+    - [Titre XIV : De la fiducie (art. 2011 à 2030)](#472)
     - [Titre XV : Des transactions (art. 2044 à 2058)](#473)
     - [Titre XVI : Du compromis (art. 2059 à 2068)](#474)
     - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2190 à 2216)](#475)
@@ -506,7 +506,7 @@ Version Consolidée au 2009-01-19
         - [Section 2 : De la prescription acquisitive en matière immobilière. (art. 2272 à 2275)](#503)
         - [Section 3 : De la prescription acquisitive en matière mobilière. (art. 2276 à 2277)](#504)
       - [Chapitre III : De la protection possessoire. (art. 2278 à 2279)](#505)
-  - [Livre IV : Des sûretés (art. 2284 à 2488)](#506)
+  - [Livre IV : Des sûretés (art. 2284 à 2488-6)](#506)
     - [Titre Ier : Des sûretés personnelles (art. 2287-1 à 2322)](#507)
       - [Chapitre Ier : Du cautionnement (art. 2288 à 2320)](#508)
         - [Section 1 : De la nature et de l'étendue du cautionnement (art. 2288 à 2297)](#509)
@@ -518,9 +518,9 @@ Version Consolidée au 2009-01-19
         - [Section 4 : De la caution légale et de la caution judiciaire (art. 2317 à 2320)](#515)
       - [Chapitre II : De la garantie autonome (art. 2321)](#516)
       - [Chapitre III : De la lettre d'intention (art. 2322)](#517)
-    - [Titre II : Des sûretés réelles (art. 2323 à 2488)](#518)
+    - [Titre II : Des sûretés réelles (art. 2323 à 2488-6)](#518)
       - [Sous-titre Ier : Dispositions générales (art. 2323 à 2328-1)](#519)
-      - [Sous-titre II : Des sûretés sur les meubles (art. 2329 à 2372)](#520)
+      - [Sous-titre II : Des sûretés sur les meubles (art. 2329 à 2372-6)](#520)
         - [Chapitre Ier : Des privilèges mobiliers (art. 2330 à 2332-3)](#521)
           - [Section 1 : Des privilèges généraux (art. 2331)](#522)
           - [Section 2 : Des privilèges spéciaux (art. 2332)](#523)
@@ -530,44 +530,47 @@ Version Consolidée au 2009-01-19
           - [Section 2 : Du gage portant sur un véhicule automobile. (art. 2351 à 2353)](#527)
           - [Section 3 : Dispositions communes. (art. 2354)](#528)
         - [Chapitre III : Du nantissement de meubles incorporels. (art. 2355 à 2366)](#529)
-        - [Chapitre IV : De la propriété retenue à titre de garantie (art. 2367 à 2372)](#530)
-      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488)](#531)
-        - [Chapitre Ier : Des privilèges immobiliers (art. 2374 à 2386)](#532)
-          - [Section 1 : Des privilèges spéciaux. (art. 2374)](#533)
-          - [Section 2 : Des privilèges généraux. (art. 2375 à 2376)](#534)
-          - [Section 3 : Des cas où les privilèges doivent être inscrits (art. 2377 à 2386)](#535)
-        - [Chapitre II : De l'antichrèse (art. 2387 à 2392)](#536)
-        - [Chapitre III : Des hypothèques (art. 2393 à 2425)](#537)
-          - [Section 1 : Dispositions générales. (art. 2393 à 2399)](#538)
-          - [Section 2 : Des hypothèques légales (art. 2400 à 2411)](#539)
-            - [Sous-section 1 : Dispositions générales. (art. 2400 à 2401)](#540)
-            - [Sous-section 2 : Des règles particulières à l'hypothèque légale des époux. (art. 2402 à 2408)](#541)
-            - [Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2409 à 2411)](#542)
-          - [Section 3 : Des hypothèques judiciaires (art. 2412)](#543)
-          - [Section 4 : Des hypothèques conventionnelles (art. 2413 à 2424)](#544)
-          - [Section 5 : Du classement des hypothèques (art. 2425)](#545)
-        - [Chapitre IV : De l'inscription des privilèges et des hypothèques (art. 2426 à 2457)](#546)
-          - [Section 1 : Du mode d'inscription des privilèges et des hypothèques (art. 2426 à 2439)](#547)
-          - [Section 2 : De la radiation et de la réduction des inscriptions (art. 2440 à 2448)](#548)
-            - [Sous-section 1 : Dispositions générales. (art. 2440 à 2445)](#549)
-            - [Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle (art. 2446 à 2448)](#550)
-          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art. 2449 à 2457)](#551)
-        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#552)
-        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#553)
-        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#554)
-  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#555)
-    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#556)
-    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#557)
-    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#558)
-    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#559)
-    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#560)
-      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#561)
-        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#562)
-        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#563)
-        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#564)
-      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#565)
-        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#566)
-        - [Section 2 : Expropriation forcée (art. 2533 à 2534)](#567)
+        - [Chapitre IV : De la propriété retenue ou cédée à titre de garantie. (art. 2367 à 2372-6)](#530)
+          - [Section 1 : De la propriété retenue à titre de garantie. (art. 2367 à 2372)](#531)
+          - [Section 2 : De la propriété cédée à titre de garantie. (art. 2372-1 à 2372-6)](#532)
+      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488-6)](#533)
+        - [Chapitre Ier : Des privilèges immobiliers (art. 2374 à 2386)](#534)
+          - [Section 1 : Des privilèges spéciaux. (art. 2374)](#535)
+          - [Section 2 : Des privilèges généraux. (art. 2375 à 2376)](#536)
+          - [Section 3 : Des cas où les privilèges doivent être inscrits (art. 2377 à 2386)](#537)
+        - [Chapitre II : De l'antichrèse (art. 2387 à 2392)](#538)
+        - [Chapitre III : Des hypothèques (art. 2393 à 2425)](#539)
+          - [Section 1 : Dispositions générales. (art. 2393 à 2399)](#540)
+          - [Section 2 : Des hypothèques légales (art. 2400 à 2411)](#541)
+            - [Sous-section 1 : Dispositions générales. (art. 2400 à 2401)](#542)
+            - [Sous-section 2 : Des règles particulières à l'hypothèque légale des époux. (art. 2402 à 2408)](#543)
+            - [Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2409 à 2411)](#544)
+          - [Section 3 : Des hypothèques judiciaires (art. 2412)](#545)
+          - [Section 4 : Des hypothèques conventionnelles (art. 2413 à 2424)](#546)
+          - [Section 5 : Du classement des hypothèques (art. 2425)](#547)
+        - [Chapitre IV : De l'inscription des privilèges et des hypothèques (art. 2426 à 2457)](#548)
+          - [Section 1 : Du mode d'inscription des privilèges et des hypothèques (art. 2426 à 2439)](#549)
+          - [Section 2 : De la radiation et de la réduction des inscriptions (art. 2440 à 2448)](#550)
+            - [Sous-section 1 : Dispositions générales. (art. 2440 à 2445)](#551)
+            - [Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle (art. 2446 à 2448)](#552)
+          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art. 2449 à 2457)](#553)
+        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#554)
+        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#555)
+        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#556)
+        - [Chapitre VIII : De la propriété cédée à titre de garantie (art. 2488-1 à 2488-6)](#557)
+  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#558)
+    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#559)
+    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#560)
+    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#561)
+    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#562)
+    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#563)
+      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#564)
+        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#565)
+        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#566)
+        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#567)
+      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#568)
+        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#569)
+        - [Section 2 : Expropriation forcée (art. 2533 à 2534)](#570)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -19529,6 +19532,17 @@ _Modifié par_:
   - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
+###### Article 408-1
+
+Les biens ou droits d'un mineur ne peuvent être transférés dans un patrimoine fiduciaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+
 ##### Paragraphe 4 : Du subrogé tuteur<a id=139></a>
 
 ###### Article 409
@@ -20978,27 +20992,30 @@ _Modifié par_:
 
 ###### Article 445
 
-Ceux qui ont, ou dont les père et mère ont avec le mineur un litige mettant en cause l'état de celui-ci ou une partie notable
-de ses biens doivent se récuser, et peuvent être récusés, des différentes charges tutélaires.
+Les charges curatélaires et tutélaires sont soumises aux conditions prévues pour les charges tutélaires des mineurs par les
+articles 395 à 397. Toutefois, les pouvoirs dévolus par l'article 397 au conseil de famille sont exercés par le juge en
+l'absence de constitution de cet organe. 
 
-**Nota:**
+Les membres des professions médicales et de la pharmacie, ainsi que les auxiliaires médicaux ne peuvent exercer une charge
+curatélaire ou tutélaire à l'égard de leurs patients. 
 
-La présente version de cet article est en vigueur jusqu'au 1er février 2009.
+Le fiduciaire désigné par le contrat de fiducie ne peut exercer une charge curatélaire ou tutélaire à l'égard du constituant.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+_Cite_:
+
+  - Code civil - art. 395 (V)
+  - Code civil - art. 397 (V)
 
 _Cité par_:
 
   - Code civil - art. 437 (V)
   - Code civil - art. 480 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
 ##### Paragraphe 1 : Du curateur et du tuteur<a id=155></a>
@@ -21821,9 +21838,10 @@ _Codifié par_:
 ###### Article 468
 
 Les capitaux revenant à la personne en curatelle sont versés directement sur un compte ouvert à son seul nom et mentionnant
-son régime de protection, auprès d'un établissement habilité à recevoir des fonds du public.
+son régime de protection, auprès d'un établissement habilité à recevoir des fonds du public. 
 
-La personne en curatelle ne peut, sans l'assistance du curateur, faire emploi de ses capitaux.
+La personne en curatelle ne peut, sans l'assistance du curateur conclure un contrat de fiducie ni faire emploi de ses
+capitaux. 
 
 Cette assistance est également requise pour introduire une action en justice ou y défendre.
 
@@ -21841,13 +21859,9 @@ _Cité par_:
   - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
   - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 8 (V)
 
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 
 ###### Article 469
@@ -23373,36 +23387,36 @@ _Codifié par_:
 
 ###### Article 509
 
-La curatelle est ouverte et prend fin de la même manière que la tutelle des majeurs.
+Le tuteur ne peut, même avec une autorisation : 
 
-Elle est soumise à la même publicité.
+1° Accomplir des actes qui emportent une aliénation gratuite des biens ou des droits de la personne protégée sauf ce qui est
+dit à propos des donations, tels que la remise de dette, la renonciation gratuite à un droit acquis, la renonciation
+anticipée à l'action en réduction visée aux articles 929 à 930-5, la mainlevée d'hypothèque ou de sûreté sans paiement ou la
+constitution gratuite d'une servitude ou d'une sûreté pour garantir la dette d'un tiers ; 
 
-**Nota:**
+2° Acquérir d'un tiers un droit ou une créance que ce dernier détient contre la personne protégée ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er février 2009.
+3° Exercer le commerce ou une profession libérale au nom de la personne protégée ; 
+
+4° Acheter les biens de la personne protégée ainsi que les prendre à bail ou à ferme, sous réserve des dispositions de
+l'article 508 ; 
+
+5° Transférer dans un patrimoine fiduciaire les biens ou droits d'un majeur protégé.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+
+_Cite_:
+
+  - Code civil - art. 508 (V)
+  - Code civil - art. 929
 
 
 ### Chapitre II : De l'établissement, de la vérification et de l'approbation des comptes<a id=175></a>
@@ -48101,15 +48115,13 @@ Les époux ne peuvent, l'un sans l'autre, aliéner ou grever de droits réels le
 dépendant de la communauté, non plus que les droits sociaux non négociables et les meubles corporels dont l'aliénation est
 soumise à publicité. Ils ne peuvent, sans leur conjoint, percevoir les capitaux provenant de telles opérations.
 
+De même, ils ne peuvent, l'un sans l'autre, transférer un bien de la communauté dans un patrimoine fiduciaire.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
 
 _Modifié par_:
 
-  - Loi n°85-1372 du 23 décembre 1985 - art. 13 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 
 ###### Article 1425
@@ -61050,11 +61062,14 @@ _Codifié par_:
 
 La fiducie est établie par la loi ou par contrat. Elle doit être expresse.
 
+Si les biens, droits ou sûretés transférés dans le patrimoine fiduciaire dépendent de la communauté existant entre les époux
+ou d'une indivision, le contrat de fiducie est établi par acte notarié à peine de nullité.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 1
 
 _Cité par_:
 
@@ -61067,10 +61082,6 @@ _Nouveaux textes_:
 
   - Code civil - art. 2289 (T)
   - Code civil - art. 2289 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-10
 
 
 ###### Article 2013
@@ -61098,50 +61109,16 @@ _Codifié par_:
   - Loi n°1804-03-10
 
 
-###### Article 2014
-
-Seules peuvent être constituants les personnes morales soumises de plein droit ou sur option à l'impôt sur les sociétés. Les
-droits du constituant au titre de la fiducie ne sont ni transmissibles à titre gratuit, ni cessibles à titre onéreux à des
-personnes autres que des personnes morales soumises à l'impôt sur les sociétés.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
-
-_Abrogé par_:
-
-  - Loi n°2008-776  du 4 août 2008 - art. 18 (V)
-  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2291 (T)
-  - Code civil - art. 2291 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-10
-
-
 ###### Article 2015
 
 Seuls peuvent avoir la qualité de fiduciaires les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire
 et financier, les institutions et services énumérés à l'article L. 518-1 du même code, les entreprises d'investissement
 mentionnées à l'article L. 531-4 du même code ainsi que les entreprises d'assurance régies par l'article L. 310-1 du code des
-assurances.
+assurances. 
 
-**Nota:**
-
-Loi 2007-211 du 19 février 2007 art. 12 : les personnes morales mentionnées à l'article 2015 établissent des comptes annuels
-conformément aux dispositions des articles L123-12 à L123-15 du code de commerce.
+Les membres de la profession d'avocat peuvent également avoir la qualité de fiduciaire.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
 
 _Cité par_:
 
@@ -61150,14 +61127,21 @@ _Cité par_:
   - Code monétaire et financier - art. L561-25 (V)
   - Code monétaire et financier - art. R561-37-1 (VT)
 
+_Modifié par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
 _Nouveaux textes_:
 
   - Code civil - art. 2292 (T)
   - Code civil - art. 2292 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Loi n°1804-03-10
+  - Code monétaire et financier - art. L511-1
+  - Code monétaire et financier - art. L518-1
+  - Code monétaire et financier - art. L531-4
+  - Code des assurances - art. L310-1
 
 
 ###### Article 2016
@@ -61186,15 +61170,13 @@ Sauf stipulation contraire du contrat de fiducie, le constituant peut, à tout m
 de la préservation de ses intérêts dans le cadre de l'exécution du contrat et qui peut disposer des pouvoirs que la loi
 accorde au constituant.
 
+Lorsque le constituant est une personne physique, il ne peut renoncer à cette faculté.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1804-03-10
-
-_Créé par_:
-
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 2
 
 _Cité par_:
 
@@ -61385,15 +61367,25 @@ _Créé par_:
 
 ###### Article 2022
 
-Le contrat de fiducie définit les conditions dans lesquelles le fiduciaire rend compte de sa mission au constituant. Le
-fiduciaire rend compte de sa mission au bénéficiaire et au tiers désigné en application de l'article 2017, à leur demande,
-selon une périodicité fixée par le contrat.
+Le contrat de fiducie définit les conditions dans lesquelles le fiduciaire rend compte de sa mission au constituant.
+
+Toutefois, lorsque pendant l'exécution du contrat le constituant fait l'objet d'une mesure de tutelle, le fiduciaire rend
+compte de sa mission au tuteur à la demande de ce dernier au moins une fois par an, sans préjudice de la périodicité fixée
+par le contrat. Lorsque pendant l'exécution du contrat le constituant fait l'objet d'une mesure de curatelle, le fiduciaire
+rend compte de sa mission, dans les mêmes conditions, au constituant et à son curateur.
+
+Le fiduciaire rend compte de sa mission au bénéficiaire et au tiers désigné en application de l'article 2017, à leur demande,
+selon la périodicité fixée par le contrat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+_Cite_:
+
+  - Code civil - art. 2017
 
 _Nouveaux textes_:
 
@@ -61404,10 +61396,6 @@ _Cité par_:
 
   - Code des assurances - art. L311-43 (V)
   - Code du travail - art. R124-16 (M)
-
-_Codifié par_:
-
-  - Loi n°1804-03-10
 
 
 ###### Article 2023
@@ -61568,13 +61556,13 @@ _Codifié par_:
 
 ###### Article 2029
 
-Le contrat de fiducie prend fin par la survenance du terme, par la réalisation du but poursuivi quand celle-ci a lieu avant
-le terme ou en cas de révocation par le constituant de l'option pour l'impôt sur les sociétés.
+Le contrat de fiducie prend fin par le décès du constituant personne physique, par la survenance du terme ou par la
+réalisation du but poursuivi quand celle-ci a lieu avant le terme.
 
-Il prend également fin de plein droit si le contrat le prévoit ou, à défaut, par une décision de justice, si, en l'absence de
-stipulations prévoyant les conditions dans lesquelles le contrat se poursuit, la totalité des bénéficiaires renonce à la
-fiducie. Il en va de même si le fiduciaire fait l'objet d'une liquidation judiciaire ou d'une dissolution, ou disparaît par
-suite d'une cession ou d'une absorption.
+Lorsque la totalité des bénéficiaires renonce à la fiducie, il prend également fin de plein droit, sauf stipulations du
+contrat prévoyant les conditions dans lesquelles il se poursuit. Sous la même réserve, il prend fin lorsque le fiduciaire
+fait l'objet d'une liquidation judiciaire ou d'une dissolution ou disparaît par suite d'une cession ou d'une absorption et,
+s'il est avocat, en cas d'interdiction temporaire, de radiation ou d'omission du tableau.
 
 **Liens relatifs à cet article**
 
@@ -61586,18 +61574,14 @@ _Cité par_:
   - Code civil - art. 2372-1 (V)
   - Code civil - art. 2488-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 _Nouveaux textes_:
 
   - Code civil - art. 2306 (MMN)
   - Code civil - art. 2306 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-10
 
 
 ###### Article 2030
@@ -61605,52 +61589,17 @@ _Codifié par_:
 Lorsque le contrat de fiducie prend fin en l'absence de bénéficiaire, les droits, biens ou sûretés présents dans le
 patrimoine fiduciaire font de plein droit retour au constituant.
 
+Lorsqu'il prend fin par le décès du constituant, le patrimoine fiduciaire fait de plein droit retour à la succession.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 _Nouveaux textes_:
 
   - Code civil - art. 2307 (MMN)
-
-_Codifié par_:
-
-  - Loi n°1804-03-10
-
-
-###### Article 2031
-
-En cas de dissolution du constituant, lorsque les ayants droit ne sont pas des personnes morales soumises à l'impôt sur les
-sociétés, le patrimoine fiduciaire ne peut être attribué à ces ayants droit ès qualités avant la date à laquelle le contrat
-de fiducie prend fin. Dans cette situation, les droits des ayants droit au titre de la fiducie ne sont pas transmissibles à
-titre gratuit entre vifs ni cessibles à titre onéreux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-10
-
-_Créé par_:
-
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
-
-_Abrogé par_:
-
-  - Loi n°2008-776  du 4 août 2008 - art. 18 (V)
-  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VB (Ab)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 792 ter (Ab)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2308 (MMN)
-  - Code civil - art. 2308 (V)
 
 
 ## Titre XV : Des transactions<a id=473></a>
@@ -65835,26 +65784,21 @@ _Abrogé par_:
 
 ###### Article 2329
 
-Les sûretés sur les meubles sont :
+Les sûretés sur les meubles sont : 
 
-1° Les privilèges mobiliers ;
+1° Les privilèges mobiliers ; 
 
-2° Le gage de meubles corporels ;
+2° Le gage de meubles corporels ; 
 
-3° Le nantissement de meubles incorporels ;
+3° Le nantissement de meubles incorporels ; 
 
-4° La propriété retenue à titre de garantie.
+4° La propriété retenue ou cédée à titre de garantie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 3
 
 
 #### Chapitre Ier : Des privilèges mobiliers<a id=521></a>
@@ -66925,7 +66869,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 12 () JORF 24 mars 2006
 
 
-#### Chapitre IV : De la propriété retenue à titre de garantie<a id=530></a>
+#### Chapitre IV : De la propriété retenue ou cédée à titre de garantie.<a id=530></a>
+
+##### Section 1 : De la propriété retenue à titre de garantie.<a id=531></a>
 
 ###### Article 2367
 
@@ -66936,13 +66882,9 @@ La propriété ainsi réservée est l'accessoire de la créance dont elle garant
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2368
@@ -66951,13 +66893,9 @@ La réserve de propriété est convenue par écrit.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
+  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2369
@@ -66967,13 +66905,9 @@ nature et de même qualité détenus par le débiteur ou pour son compte.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2370
@@ -66983,13 +66917,9 @@ créancier lorsque ces biens peuvent être séparés sans subir de dommage.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2371
@@ -67004,13 +66934,9 @@ somme égale à la différence.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2372
@@ -67020,42 +66946,158 @@ subrogée au bien.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
-### Sous-titre III : Des sûretés sur les immeubles<a id=531></a>
+##### Section 2 : De la propriété cédée à titre de garantie.<a id=532></a>
 
-###### Article 2373
+###### Article 2372-1
 
-Les sûretés sur les immeubles sont les privilèges, l'antichrèse et les hypothèques.
-
-La propriété de l'immeuble peut également être retenue en garantie.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+La propriété d'un bien mobilier ou d'un droit peut être cédée à titre de garantie d'une obligation en vertu d'un contrat de
+fiducie conclu en application des articles 2011 à 2030 du code civil.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Loi n°1804-03-19
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+_Cite_:
+
+  - Code civil - art. 2011
+
+_Cité par_:
+
+  - Code civil - art. 2372-5 (V)
+
+
+###### Article 2372-2
+
+En cas de fiducie conclue à titre de garantie, le contrat mentionne à peine de nullité, outre les dispositions prévues à
+l'article 2018, la dette garantie et la valeur estimée du bien ou du droit transféré dans le patrimoine fiduciaire.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 15 () JORF 24 mars 2006
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+_Cite_:
+
+  - Code civil - art. 2018
+
+_Cité par_:
+
+  - Code civil - art. 2372-5 (V)
 
 
-#### Chapitre Ier : Des privilèges immobiliers<a id=532></a>
+###### Article 2372-3
 
-##### Section 1 : Des privilèges spéciaux.<a id=533></a>
+A défaut de paiement de la dette garantie et sauf stipulation contraire du contrat de fiducie, le fiduciaire, lorsqu'il est
+le créancier, acquiert la libre disposition du bien ou du droit cédé à titre de garantie.
+
+Lorsque le fiduciaire n'est pas le créancier, ce dernier peut exiger de lui la remise du bien, dont il peut alors librement
+disposer, ou, si le contrat de fiducie le prévoit, la vente du bien ou du droit cédé et la remise de tout ou partie du prix.
+
+La valeur du bien ou du droit cédé est déterminée par un expert désigné à l'amiable ou judiciairement, sauf si elle résulte
+d'une cotation officielle sur un marché organisé au sens du code monétaire et financier ou si le bien est une somme d'argent.
+Toute clause contraire est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+_Cité par_:
+
+  - Code civil - art. 2372-4 (V)
+
+
+###### Article 2372-4
+
+Si le bénéficiaire de la fiducie a acquis la libre disposition du bien ou du droit cédé en application de l'article 2372-3,
+il verse au constituant, lorsque la valeur mentionnée au dernier alinéa de cet article excède le montant de la dette
+garantie, une somme égale à la différence entre cette valeur et le montant de la dette, sous réserve du paiement préalable
+des dettes nées de la conservation ou de la gestion du patrimoine fiduciaire.
+
+Sous la même réserve, si le fiduciaire procède à la vente du bien ou du droit cédé en application du contrat de fiducie, il
+restitue au constituant la part du produit de cette vente excédant, le cas échéant, la valeur de la dette garantie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+_Cite_:
+
+  - Code civil - art. 2372-3
+
+
+###### Article 2372-5
+
+La propriété cédée en application de l'article 2372-1 peut être ultérieurement affectée à la garantie de dettes autres que
+celles mentionnées par l'acte constitutif pourvu que celui-ci le prévoie expressément. 
+
+Le constituant peut alors l'offrir en garantie, non seulement au créancier originaire, mais aussi à un nouveau créancier,
+encore que le premier n'ait pas été payé. Cette propriété ne peut être alors affectée en garantie d'une nouvelle dette que
+dans la limite de sa valeur estimée au jour de la recharge.
+
+A peine de nullité, la convention de rechargement établie selon les dispositions de l'article 2372-2 est enregistrée sous la
+forme prévue à l'article 2019. La date d'enregistrement détermine, entre eux, le rang des créanciers. 
+
+Les dispositions du présent article sont d'ordre public et toute clause contraire à celles-ci est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+_Cite_:
+
+  - Code civil - art. 2019
+  - Code civil - art. 2372-1
+  - Code civil - art. 2372-2
+
+
+###### Article 2372-6
+
+Les dispositions de la présente section ne sont pas applicables aux fiducies constituées à titre de garantie par les
+personnes morales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+_Abrogé par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+
+### Sous-titre III : Des sûretés sur les immeubles<a id=533></a>
+
+###### Article 2373
+
+Les sûretés sur les immeubles sont les privilèges, l'antichrèse et les hypothèques. 
+
+La propriété de l'immeuble peut également être retenue ou cédée en garantie.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 6
+
+
+#### Chapitre Ier : Des privilèges immobiliers<a id=534></a>
+
+##### Section 1 : Des privilèges spéciaux.<a id=535></a>
 
 ###### Article 2374
 
@@ -67174,7 +67216,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 2 : Des privilèges généraux.<a id=534></a>
+##### Section 2 : Des privilèges généraux.<a id=536></a>
 
 ###### Article 2375
 
@@ -67313,7 +67355,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (V)
 
 
-##### Section 3 : Des cas où les privilèges doivent être inscrits<a id=535></a>
+##### Section 3 : Des cas où les privilèges doivent être inscrits<a id=537></a>
 
 ###### Article 2377
 
@@ -67790,7 +67832,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre II : De l'antichrèse<a id=536></a>
+#### Chapitre II : De l'antichrèse<a id=538></a>
 
 ###### Article 2387
 
@@ -67913,9 +67955,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 16 () JORF 24 mars 2006
 
 
-#### Chapitre III : Des hypothèques<a id=537></a>
+#### Chapitre III : Des hypothèques<a id=539></a>
 
-##### Section 1 : Dispositions générales.<a id=538></a>
+##### Section 1 : Dispositions générales.<a id=540></a>
 
 ###### Article 2393
 
@@ -68098,9 +68140,9 @@ _Anciens textes_:
   - Code civil - art. 2120 (T)
 
 
-##### Section 2 : Des hypothèques légales<a id=539></a>
+##### Section 2 : Des hypothèques légales<a id=541></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=540></a>
+##### Sous-section 1 : Dispositions générales.<a id=542></a>
 
 ###### Article 2400
 
@@ -68194,7 +68236,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Sous-section 2 : Des règles particulières à l'hypothèque légale des époux.<a id=541></a>
+##### Sous-section 2 : Des règles particulières à l'hypothèque légale des époux.<a id=543></a>
 
 ###### Article 2402
 
@@ -68483,7 +68525,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=542></a>
+##### Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=544></a>
 
 ###### Article 2409
 
@@ -68577,7 +68619,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 3 : Des hypothèques judiciaires<a id=543></a>
+##### Section 3 : Des hypothèques judiciaires<a id=545></a>
 
 ###### Article 2412
 
@@ -68624,7 +68666,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 4 : Des hypothèques conventionnelles<a id=544></a>
+##### Section 4 : Des hypothèques conventionnelles<a id=546></a>
 
 ###### Article 2413
 
@@ -69002,7 +69044,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 20 () JORF 24 mars 2006
 
 
-##### Section 5 : Du classement des hypothèques<a id=545></a>
+##### Section 5 : Du classement des hypothèques<a id=547></a>
 
 ###### Article 2425
 
@@ -69064,9 +69106,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre IV : De l'inscription des privilèges et des hypothèques<a id=546></a>
+#### Chapitre IV : De l'inscription des privilèges et des hypothèques<a id=548></a>
 
-##### Section 1 : Du mode d'inscription des privilèges et des hypothèques<a id=547></a>
+##### Section 1 : Du mode d'inscription des privilèges et des hypothèques<a id=549></a>
 
 ###### Article 2426
 
@@ -69688,9 +69730,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 2 : De la radiation et de la réduction des inscriptions<a id=548></a>
+##### Section 2 : De la radiation et de la réduction des inscriptions<a id=550></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=549></a>
+##### Sous-section 1 : Dispositions générales.<a id=551></a>
 
 ###### Article 2440
 
@@ -69899,7 +69941,7 @@ _Anciens textes_:
   - Code civil - art. 2162 (T)
 
 
-##### Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle<a id=550></a>
+##### Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle<a id=552></a>
 
 ###### Article 2446
 
@@ -70021,7 +70063,7 @@ _Anciens textes_:
   - Code civil - art. 2165 (T)
 
 
-##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs<a id=551></a>
+##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs<a id=553></a>
 
 ###### Article 2449
 
@@ -70322,7 +70364,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=552></a>
+#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=554></a>
 
 ###### Article 2458
 
@@ -70712,7 +70754,7 @@ _Anciens textes_:
   - Code civil - art. 2179 (T)
 
 
-#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=553></a>
+#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=555></a>
 
 ###### Article 2475
 
@@ -71063,7 +71105,7 @@ _Anciens textes_:
   - Code civil - art. 2192 (T)
 
 
-#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=554></a>
+#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=556></a>
 
 ###### Article 2488
 
@@ -71114,7 +71156,134 @@ _Cite_:
   - Code civil - art. 2423 (V)
 
 
-# Livre V : Dispositions applicables à Mayotte<a id=555></a>
+#### Chapitre VIII : De la propriété cédée à titre de garantie<a id=557></a>
+
+###### Article 2488-1
+
+La propriété d'un bien immobilier peut être cédée à titre de garantie d'une obligation en vertu d'un contrat de fiducie
+conclu en application des articles 2011 à 2030 du code civil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+_Cite_:
+
+  - Code civil - art. 2011
+
+_Cité par_:
+
+  - Code civil - art. 2488-5 (V)
+
+
+###### Article 2488-2
+
+En cas de fiducie conclue à titre de garantie, le contrat mentionne à peine de nullité, outre les dispositions prévues à
+l'article 2018, la dette garantie et la valeur estimée de l'immeuble transféré dans le patrimoine fiduciaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+_Cite_:
+
+  - Code civil - art. 2018
+
+_Cité par_:
+
+  - Code civil - art. 2488-5 (V)
+
+
+###### Article 2488-3
+
+A défaut de paiement de la dette garantie et sauf stipulation contraire du contrat de fiducie, le fiduciaire, lorsqu'il est
+le créancier, acquiert la libre disposition du bien cédé à titre de garantie.
+
+Lorsque le fiduciaire n'est pas le créancier, ce dernier peut exiger de lui la remise du bien, dont il peut alors librement
+disposer, ou, si la convention le prévoit, la vente du bien et la remise de tout ou partie du prix.
+
+La valeur du bien est déterminée par un expert désigné à l'amiable ou judiciairement. Toute clause contraire est réputée non
+écrite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+_Cité par_:
+
+  - Code civil - art. 2488-4 (V)
+
+
+###### Article 2488-4
+
+Si le bénéficiaire de la fiducie a acquis la libre disposition du bien en application de l'article 2488-3, il verse au
+constituant, lorsque la valeur mentionnée au dernier alinéa de cet article excède le montant de la dette garantie, une somme
+égale à la différence entre cette valeur et le montant de la dette, sous réserve du paiement préalable des dettes nées de la
+conservation ou de la gestion du patrimoine fiduciaire.
+
+Sous la même réserve, si le fiduciaire procède à la vente du bien en application du contrat de fiducie, il restitue au
+constituant la part du produit de cette vente excédant, le cas échéant, la valeur de la dette garantie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+_Cite_:
+
+  - Code civil - art. 2488-3
+
+
+###### Article 2488-5
+
+La propriété cédée en application de l'article 2488-1 peut être ultérieurement affectée à la garantie de dettes autres que
+celles mentionnées par l'acte constitutif pourvu que celui-ci le prévoie expressément. 
+
+Le constituant peut alors l'offrir en garantie non seulement au créancier originaire, mais aussi à un nouveau créancier,
+encore que le premier n'ait pas été payé. Cette propriété ne peut être alors affectée en garantie d'une nouvelle dette que
+dans la limite de sa valeur estimée au jour de la recharge.
+
+A peine de nullité, la convention de rechargement établie selon les dispositions de l'article 2488-2 est publiée sous la
+forme prévue à l'article 2019. La date de publication détermine, entre eux, le rang des créanciers. 
+
+Les dispositions du présent article sont d'ordre public et toute clause contraire à celles-ci est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+_Cite_:
+
+  - Code civil - art. 2019
+  - Code civil - art. 2488-1
+
+
+###### Article 2488-6
+
+Les dispositions du présent chapitre ne sont pas applicables aux fiducies constituées à titre de garantie par les personnes
+morales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+_Abrogé par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+
+# Livre V : Dispositions applicables à Mayotte<a id=558></a>
 
 ###### Article 2489
 
@@ -71177,7 +71346,7 @@ _Anciens textes_:
   - Code civil - art. 2285 (T)
 
 
-## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=556></a>
+## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=559></a>
 
 ###### Article 2491
 
@@ -71202,7 +71371,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
-## Titre Ier : Dispositions relatives au livre Ier<a id=557></a>
+## Titre Ier : Dispositions relatives au livre Ier<a id=560></a>
 
 ###### Article 2492
 
@@ -71547,7 +71716,7 @@ _Abrogé par_:
   - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 
-## Titre II : Dispositions relatives au livre II<a id=558></a>
+## Titre II : Dispositions relatives au livre II<a id=561></a>
 
 ###### Article 2500
 
@@ -71638,7 +71807,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre III : Dispositions relatives au livre III<a id=559></a>
+## Titre III : Dispositions relatives au livre III<a id=562></a>
 
 ###### Article 2503
 
@@ -71828,7 +71997,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=560></a>
+## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=563></a>
 
 ###### Article 2509
 
@@ -71851,9 +72020,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=561></a>
+### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=564></a>
 
-#### Section 1 : Dispositions générales<a id=562></a>
+#### Section 1 : Dispositions générales<a id=565></a>
 
 ###### Article 2510
 
@@ -72032,7 +72201,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=563></a>
+#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=566></a>
 
 ###### Article 2516
 
@@ -72156,7 +72325,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 3 : De l'inscription des droits sur l'immeuble<a id=564></a>
+#### Section 3 : De l'inscription des droits sur l'immeuble<a id=567></a>
 
 ###### Article 2521
 
@@ -72499,9 +72668,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre II : Dispositions diverses<a id=565></a>
+### Chapitre II : Dispositions diverses<a id=568></a>
 
-#### Section 1 : Privilèges et hypothèques<a id=566></a>
+#### Section 1 : Privilèges et hypothèques<a id=569></a>
 
 ###### Article 2530
 
@@ -72581,7 +72750,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : Expropriation forcée<a id=567></a>
+#### Section 2 : Expropriation forcée<a id=570></a>
 
 ###### Article 2533
 
