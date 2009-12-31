@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-11-26
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -2052,10 +2052,7 @@ en mesure d'apporter la preuve que son conjoint français a été inscrit pendan
 l'étranger au registre des Français établis hors de France. En outre, le mariage célébré à l'étranger doit avoir fait l'objet
 d'une transcription préalable sur les registres de l'état civil français. 
 
-Le conjoint étranger doit en outre justifier d'une connaissance suffisante, selon sa condition, de la langue française. 
-
-La déclaration est faite dans les conditions prévues aux articles 26 et suivants. Par dérogation aux dispositions de
-l'article 26-1, elle est enregistrée par le ministre chargé des naturalisations.
+Le conjoint étranger doit en outre justifier d'une connaissance suffisante, selon sa condition, de la langue française.
 
 **Liens relatifs à cet article**
 
@@ -2085,18 +2082,9 @@ _Cité par_:
   - Code civil - art. 26-4 (V)
   - Code général des impôts, CGI. - art. 958 (V)
 
-_Codifié par_:
-
-  - Loi n°93-933 1993-07-22
-
-_Modifié par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 79 () JORF 25 juillet 2006
-  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
-
 _Cite_:
 
-  - Code civil - art. 26-1 (V)
+  - Code civil - art. 26-1
 
 
 ###### Article 21-3
@@ -3746,16 +3734,14 @@ _Anciens textes_:
 
 ###### Article 26
 
-Les déclarations de nationalité sont reçues par le juge d'instance ou par les consuls suivant les formes déterminées par
-décret en Conseil d'Etat.
+La déclaration de nationalité souscrite en raison du mariage avec un conjoint français est reçue par le représentant de
+l'État dans le département ou par le consul. Les autres déclarations de nationalité sont reçues par le greffier en chef du
+tribunal d'instance ou par le consul. Les formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret
+en Conseil d'Etat.
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-933 1993-07-22
 
 _Cité par_:
 
@@ -3784,7 +3770,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-170 du 16 mars 1998 - art. 12 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
 
 _Anciens textes_:
 
@@ -3794,19 +3780,16 @@ _Anciens textes_:
 
 ###### Article 26-1
 
-Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le juge d'instance, pour les
-déclarations souscrites en France, soit par le ministre de la justice, pour les déclarations souscrites à l'étranger.
+Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le greffier en chef du tribunal
+d'instance, pour les déclarations souscrites en France, soit par le ministre de la justice, pour les déclarations souscrites
+à l'étranger, à l'exception des déclarations souscrites en raison du mariage avec un conjoint français, qui sont enregistrées
+par le ministre chargé des naturalisations.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-933 1993-07-22
-
-_Créé par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er juillet 1994
-  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er juillet 1994
+  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
 
 _Cité par_:
 
@@ -3852,7 +3835,8 @@ _Anciens textes_:
 
 ###### Article 26-3
 
-Le ministre ou le juge refuse d'enregistrer les déclarations qui ne satisfont pas aux conditions légales. 
+Le ministre ou le greffier en chef du tribunal d'instance refuse d'enregistrer les déclarations qui ne satisfont pas aux
+conditions légales. 
 
 Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal de grande instance durant un délai de
 six mois.L'action peut être exercée personnellement par le mineur dès l'âge de seize ans. 
@@ -3869,10 +3853,6 @@ _Anciens textes_:
   - Code de la nationalité française 105
   - Code de la nationalité française. - art. 105 (Ab)
 
-_Codifié par_:
-
-  - Loi n°93-933 1993-07-22
-
 _Cité par_:
 
   - Décret n°93-1362 du 30 décembre 1993 - art. 31 (V)
@@ -3880,11 +3860,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-170 du 16 mars 1998 - art. 12 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
 
 _Cite_:
 
-  - Code civil - art. 21-2 (V)
+  - Code civil - art. 21-2
 
 
 ###### Article 26-4
@@ -4749,22 +4729,18 @@ _Anciens textes_:
 
 ###### Article 33-1
 
-Par dérogation à l'article 26, la déclaration est reçue par le président du tribunal de première instance ou par le juge
-chargé de la section détachée.
+Par dérogation à l'article 26, la déclaration qui doit être reçue par le greffier en chef du tribunal d'instance est reçue
+par le président du tribunal de première instance ou par le juge chargé de la section détachée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°93-933 1993-07-22
-
 _Modifié par_:
 
-  - Ordonnance n°2007-98 du 25 janvier 2007 - art. 130 () JORF 26 janvier 2007
+  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
 
 _Cite_:
 
-  - Code civil - art. 26 (V)
+  - Code civil - art. 26
   - Constitution 1958-10-04 art. 74
 
 _Cité par_:
@@ -19579,18 +19555,17 @@ _Codifié par_:
 ###### Article 412
 
 Tous les organes de la tutelle sont responsables du dommage résultant d'une faute quelconque qu'ils commettent dans
-l'exercice de leur fonction.
+l'exercice de leur fonction. 
 
 Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le fonctionnement de la tutelle par le juge des
-tutelles, le greffier en chef du tribunal d'instance ou le greffier, l'action en responsabilité est dirigée contre l'Etat qui
-dispose d'une action récursoire.
+tutelles, le greffier en chef du   tribunal de grande instance ou le greffier, l'action en responsabilité est dirigée contre
+l'Etat qui dispose d'une action récursoire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 _Cité par_:
 
@@ -19599,10 +19574,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R443-38 (Ab)
   - Décret du 26 mars 1910 - art. 12 (VD)
   - Nouveau code de procédure civile - art. 1230 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 413
@@ -23399,15 +23370,19 @@ _Codifié par_:
 
 ###### Article 511
 
-Le tuteur soumet chaque année le compte de gestion, accompagné des pièces justificatives, au greffier en chef du tribunal
-d'instance en vue de sa vérification. 
+Le tuteur soumet chaque année le compte de gestion, accompagné des pièces justificatives, en vue de sa vérification, au
+greffier en chef : 
+
+1° Du tribunal de grande instance, s'agissant des mesures de protection juridique des mineurs ; 
+
+2° Du tribunal d'instance, s'agissant des mesures de protection juridique des majeurs. 
 
 Lorsqu'un subrogé tuteur a été nommé, il vérifie le compte avant de le transmettre avec ses observations au greffier en
 chef. 
 
 Pour la vérification du compte, le greffier en chef peut faire usage du droit de communication prévu au deuxième alinéa de
 l'article 510. Il peut être assisté dans sa mission de contrôle des comptes dans les conditions fixées par le code de
-procédure civile.
+procédure civile. 
 
 S'il refuse d'approuver le compte, le greffier en chef dresse un rapport des difficultés rencontrées qu'il transmet au juge.
 Celui-ci statue sur la conformité du compte. 
@@ -23422,7 +23397,7 @@ comptes en lieu et place du greffier en chef.
 
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 _Cité par_:
 
@@ -23436,12 +23411,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 457 (V)
-  - Code civil - art. 510 (AbD)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Code civil - art. 473 (V)
+  - Code civil - art. 510 (V)
 
 
 ###### Article 512
