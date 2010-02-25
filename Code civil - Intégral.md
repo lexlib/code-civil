@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-02-26
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -34963,9 +34963,8 @@ _Codifié par_:
 
 ###### Article 910
 
-Les dispositions entre vifs ou par testament au profit des établissements de santé, des établissements sociaux et médico-
-sociaux ou d'établissements d'utilité publique n'ont leur effet qu'autant qu'elles sont autorisées par arrêté du représentant
-de l'Etat dans le département. 
+Les dispositions entre vifs ou par testament au profit             d'établissements d'utilité publique n'ont leur effet
+qu'autant qu'elles sont autorisées par arrêté du représentant de l'Etat dans le département. 
 
 Toutefois, les dispositions entre vifs ou par testament au profit des fondations, des congrégations et des associations ayant
 la capacité à recevoir des libéralités, à l'exception des associations ou fondations dont les activités ou celles de leurs
@@ -35010,7 +35009,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
+  - Ordonnance n°2010-177 du 23 février 2010 - art. 27
 
 **Liens**:
 
