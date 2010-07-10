@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-06-17
+Version Consolidée au 2010-07-11
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-8)](#2)
@@ -16878,34 +16878,37 @@ _Codifié par_:
 
 ###### Article 373-2-1
 
-Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'autorité parentale à l'un des deux parents.
+Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'autorité parentale à l'un des deux parents. 
 
-L'exercice du droit de visite et d'hébergement ne peut être refusé à l'autre parent que pour des motifs graves.
+L'exercice du droit de visite et d'hébergement ne peut être refusé à l'autre parent que pour des motifs graves. 
 
-Lorsque la continuité et l'effectivité des liens de l'enfant avec ce parent l'exigent, le juge aux affaires familiales peut
-organiser le droit de visite dans un espace de rencontre désigné à cet effet.
+Lorsque, conformément à l'intérêt de l'enfant, la continuité et l'effectivité des liens de l'enfant avec le parent qui n'a
+pas l'exercice de l'autorité parentale l'exigent, le juge aux affaires familiales peut organiser le droit de visite dans un
+espace de rencontre désigné à cet effet. 
 
-Ce parent conserve le droit et le devoir de surveiller l'entretien et l'éducation de l'enfant. Il doit être informé des choix
-importants relatifs à la vie de ce dernier. Il doit respecter l'obligation qui lui incombe en vertu de l'article 371-2.
+Lorsque l'intérêt de l'enfant le commande ou lorsque la remise directe de l'enfant à l'autre parent présente un danger pour
+l'un d'eux, le juge en organise les modalités pour qu'elle présente toutes les garanties nécessaires. Il peut prévoir qu'elle
+s'effectue dans un espace de rencontre qu'il désigne, ou avec l'assistance d'un tiers de confiance ou du représentant d'une
+personne morale qualifiée. 
+
+Le parent qui n'a pas l'exercice de l'autorité parentale conserve le droit et le devoir de surveiller l'entretien et
+l'éducation de l'enfant. Il doit être informé des choix importants relatifs à la vie de ce dernier. Il doit respecter
+l'obligation qui lui incombe en vertu de l'article 371-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+  - Loi n°2010-769 du 9 juillet 2010 - art. 7
 
 _Cite_:
 
-  - Code civil - art. 371-2 (M)
+  - Code civil - art. 371-2 (V)
 
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. D216-1 (V)
   - Code de procédure civile - art. 1180-5 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 373-2-2
@@ -17016,14 +17019,11 @@ cadre du présent chapitre en veillant spécialement à la sauvegarde des intér
 Le juge peut prendre les mesures permettant de garantir la continuité et l'effectivité du maintien des liens de l'enfant avec
 chacun de ses parents.
 
-Il peut notamment ordonner l'inscription sur le passeport des parents de l'interdiction de sortie de l'enfant du territoire
-français sans l'autorisation des deux parents.
+Il peut notamment ordonner l'interdiction de sortie de l'enfant du territoire français sans l'autorisation des deux parents.
+Cette interdiction de sortie du territoire sans l'autorisation des deux parents est inscrite au fichier des personnes
+recherchées par le procureur de la République.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
 
 _Cité par_:
 
@@ -17033,9 +17033,9 @@ _Cité par_:
   - Code de procédure civile - art. 1180-4 (VD)
   - Code de procédure pénale - art. 230-19 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-14
+  - Loi n°2010-769 du 9 juillet 2010 - art. 3
 
 
 ###### Article 373-2-7
@@ -17103,16 +17103,21 @@ Lorsque la résidence de l'enfant est fixée au domicile de l'un des parents, le
 modalités du droit de visite de l'autre parent. Ce droit de visite, lorsque l'intérêt de l'enfant le commande, peut être
 exercé dans un espace de rencontre désigné par le juge.
 
+Lorsque l'intérêt de l'enfant le commande ou lorsque la remise directe de l'enfant à l'autre parent présente un danger pour
+l'un d'eux, le juge en organise les modalités pour qu'elle présente toutes les garanties nécessaires. Il peut prévoir qu'elle
+s'effectue dans un espace de rencontre qu'il désigne, ou avec l'assistance d'un tiers de confiance ou du représentant d'une
+personne morale qualifiée.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+  - Loi n°2010-769 du 9 juillet 2010 - art. 7
 
 _Cite_:
 
-  - Code civil - art. 373-2-7 (V)
-  - Code civil - art. 373-2-8 (V)
+  - Code civil - art. 373-2-7
+  - Code civil - art. 373-2-8
 
 _Cité par_:
 
@@ -17124,10 +17129,6 @@ _Cité par_:
   - Code de procédure civile - art. 1180-2 (V)
   - Code de procédure civile - art. 1180-5 (V)
   - Code des pensions militaires d'invalidité et de... - art. L161-3 (VD)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 373-2-10
@@ -17170,27 +17171,26 @@ Lorsqu'il se prononce sur les modalités d'exercice de l'autorité parentale, le
 4° Le résultat des expertises éventuellement effectuées, tenant compte notamment de l'âge de l'enfant ; 
 
 5° Les renseignements qui ont été recueillis dans les éventuelles enquêtes et contre-enquêtes sociales prévues à l'article
-373-2-12.
+373-2-12 ;
+
+6° Les pressions ou violences, à caractère physique ou psychologique, exercées par l'un des parents sur la personne de
+l'autre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+  - Loi n°2010-769 du 9 juillet 2010 - art. 8
 
 _Cite_:
 
-  - Code civil - art. 373-2-12 (V)
-  - Code civil - art. 388-1 (VT)
+  - Code civil - art. 373-2-12
+  - Code civil - art. 388-1
 
 _Cité par_:
 
   - Code civil - art. 373-3 (V)
   - Code civil - art. 377-1 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 373-2-12
@@ -17794,7 +17794,11 @@ personne, le service ou l'établissement à qui l'enfant est confié, dans un do
 en cas de désaccord. 
 
 Le juge peut décider des modalités de l'accueil de l'enfant en considération de l'intérêt de celui-ci. Si l'intérêt de
-l'enfant le nécessite ou en cas de danger, le juge décide de l'anonymat du lieu d'accueil.
+l'enfant le nécessite ou en cas de danger, le juge décide de l'anonymat du lieu d'accueil. 
+
+Lorsqu'il fait application des articles 375-2, 375-3 ou 375-5, le juge peut également ordonner l'interdiction de sortie du
+territoire de l'enfant. La décision fixe la durée de cette interdiction qui ne saurait excéder deux ans. Cette interdiction
+de sortie du territoire est inscrite au fichier des personnes recherchées par le procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -17812,16 +17816,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+  - Loi n°2010-769 du 9 juillet 2010 - art. 3
 
 _Cite_:
 
-  - Code civil - art. 371-5 (V)
-  - Code civil - art. 373-4 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Code civil - art. 371-5
+  - Code civil - art. 373-4
+  - Code civil - art. 375-2
 
 
 ###### Article 375-8
@@ -18055,11 +18056,12 @@ _Modifié par_:
 
 Les père et mère, ensemble ou séparément, peuvent, lorsque les circonstances l'exigent, saisir le juge en vue de voir
 déléguer tout ou partie de l'exercice de leur autorité parentale à un tiers, membre de la famille, proche digne de confiance,
-établissement agréé pour le recueil des enfants ou service départemental de l'aide sociale à l'enfance.
+établissement agréé pour le recueil des enfants ou service départemental de l'aide sociale à l'enfance. 
 
 En cas de désintérêt manifeste ou si les parents sont dans l'impossibilité d'exercer tout ou partie de l'autorité parentale,
-le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant peut
-également saisir le juge aux fins de se faire déléguer totalement ou partiellement l'exercice de l'autorité parentale.
+le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance     qui a recueilli l'enfant ou un
+membre de la famille peut également saisir le juge aux fins de se faire déléguer totalement ou partiellement l'exercice de
+l'autorité parentale. 
 
 Dans tous les cas visés au présent article, les deux parents doivent être appelés à l'instance. Lorsque l'enfant concerné
 fait l'objet d'une mesure d'assistance éducative, la délégation ne peut intervenir qu'après avis du juge des enfants.
@@ -18083,17 +18085,9 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 57 (Ab)
   - Code de la famille et de l'aide sociale. - art. 85 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
 _Modifié par_:
 
-  - Loi n°2002-305 du 4 mars 2002 - art. 7 () JORF 5 mars 2002
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Loi n°2010-769 du 9 juillet 2010 - art. 10
 
 
 ###### Article 377-1
@@ -18188,9 +18182,10 @@ _Créé par_:
 
 ###### Article 378
 
-Peuvent se voir retirer totalement l'autorité parentale par une disposition expresse du jugement pénal les père et mère qui
-sont condamnés, soit comme auteurs, coauteurs ou complices d'un crime ou délit commis sur la personne de leur enfant, soit
-comme coauteurs ou complices d'un crime ou délit commis par leur enfant.
+Peuvent se voir retirer totalement l'autorité parentale par une décision expresse du jugement pénal les père et mère qui sont
+condamnés, soit comme auteurs, coauteurs ou complices d'un crime ou délit commis sur la personne de leur enfant, soit comme
+coauteurs ou complices d'un crime ou délit commis par leur enfant, soit comme auteurs, coauteurs ou complices d'un crime sur
+la personne de l'autre parent. 
 
 Ce retrait est applicable aux ascendants autres que les père et mère pour la part d'autorité parentale qui peut leur revenir
 sur leurs descendants.
@@ -18223,12 +18218,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
-  - Loi n°96-604 du 5 juillet 1996 - art. 18 () JORF 6 juillet 1996
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Loi n°2010-769 du 9 juillet 2010 - art. 9
 
 
 ###### Article 378-1
