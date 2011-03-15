@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-12-24
+Version Consolidée au 2011-03-16
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -1209,22 +1209,44 @@ _Codifié par_:
 
 ###### Article 16-11
 
-L'identification d'une personne par ses empreintes génétiques ne peut être recherchée que dans le cadre de mesures d'enquête
-ou d'instruction diligentée lors d'une procédure judiciaire ou à des fins médicales ou de recherche scientifique ou
-d'identification d'un militaire décédé à l'occasion d'une opération conduite par les forces armées ou les formations
-rattachées.
+L'identification d'une personne par ses empreintes génétiques ne peut être recherchée que : 
+
+1° Dans le cadre de mesures d'enquête ou d'instruction diligentées lors d'une procédure judiciaire ; 
+
+2° A des fins médicales ou de recherche scientifique ; 
+
+3° Aux fins d'établir, lorsqu'elle est inconnue, l'identité de personnes décédées. 
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le
 juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la
 suppression de subsides. Le consentement de l'intéressé doit être préalablement et expressément recueilli. Sauf accord exprès
-de la personne manifesté de son vivant, aucune identification par empreintes génétiques ne peut être réalisée après sa mort.
+de la personne manifesté de son vivant, aucune identification par empreintes génétiques ne peut être réalisée après sa mort. 
 
 Lorsque l'identification est effectuée à des fins médicales ou de recherche scientifique, le consentement exprès de la
 personne doit être recueilli par écrit préalablement à la réalisation de l'identification, après qu'elle a été dûment
 informée de sa nature et de sa finalité. Le consentement mentionne la finalité de l'identification. Il est révocable sans
-forme et à tout moment.
+forme et à tout moment. 
+
+Lorsque la recherche d'identité mentionnée au 3° concerne soit un militaire décédé à l'occasion d'une opération conduite par
+les forces armées ou les formations rattachées, soit une victime de catastrophe naturelle, soit une personne faisant l'objet
+de recherches au titre de l'article 26 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la
+sécurité et dont la mort est supposée, des prélèvements destinés à recueillir les traces biologiques de cette personne
+peuvent être réalisés dans des lieux qu'elle est susceptible d'avoir habituellement fréquentés, avec l'accord du responsable
+des lieux ou, en cas de refus de celui-ci ou d'impossibilité de recueillir cet accord, avec l'autorisation du juge des
+libertés et de la détention du tribunal de grande instance. Des prélèvements aux mêmes fins sur les ascendants, descendants
+ou collatéraux supposés de cette personne peuvent être également réalisés. Le consentement exprès de chaque personne
+concernée est alors recueilli par écrit préalablement à la réalisation du prélèvement, après que celle-ci a été dûment
+informée de la nature de ce prélèvement, de sa finalité ainsi que du caractère à tout moment révocable de son consentement.
+Le consentement mentionne la finalité du prélèvement et de l'identification. 
+
+Les modalités de mise en œuvre des recherches d'identification mentionnées au 3° du présent article sont précisées par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°95-73 du 21 janvier 1995 - art. 26
 
 _Cité par_:
 
@@ -1246,7 +1268,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-270 du 24 mars 2005 - art. 93 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
+  - Loi n°2011-267 du 14 mars 2011 - art. 6
 
 _Codifié par_:
 
@@ -6354,7 +6376,9 @@ Lorsque le corps d'une personne décédée est retrouvé et peut être identifi�
 de l'état civil du lieu présumé du décès, quel que soit le temps écoulé entre le décès et la découverte du corps. 
 
 Si le défunt ne peut être identifié, l'acte de décès doit comporter son signalement le plus complet ; en cas d'identification
-ultérieure, l'acte est rectifié dans les conditions prévues à l'article 99 du présent code.
+ultérieure, l'acte est rectifié dans les conditions prévues à l'article 99 du présent code. L'officier d'état civil informe
+sans délai le procureur de la République du décès, afin qu'il puisse prendre les réquisitions nécessaires aux fins d'établir
+l'identité du défunt.
 
 **Liens relatifs à cet article**
 
@@ -6373,20 +6397,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
-  - Ordonnance 1945-10-30 art. 1
+  - Loi n°2011-267 du 14 mars 2011 - art. 6
 
 _Cite_:
 
-  - Code civil - art. 99 (V)
+  - Code civil - art. 99
 
 _Codifié par_:
 
   - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 88
