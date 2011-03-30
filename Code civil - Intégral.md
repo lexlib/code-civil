@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-03-30
+Version Consolidée au 2011-03-31
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -71588,13 +71588,13 @@ _Créé par_:
 
 ###### Article 2492
 
-Les articles 7 à 32-5, 34 à 56, 58 à 61, 62-1, 63 à 315 et 317 à 515-8 sont applicables à Mayotte.
+Le livre Ier est applicable à Mayotte sous réserve des dispositions ci-après.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 17
 
 _Anciens textes_:
 
@@ -71602,12 +71602,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 317 (V)
-  - Code civil - art. 34 (V)
-  - Code civil - art. 58 (V)
-  - Code civil - art. 62-1 (V)
-  - Code civil - art. 63 (V)
-  - Code civil - art. 7 (V)
+  - Code civil - art. 317
+  - Code civil - art. 34
+  - Code civil - art. 58
+  - Code civil - art. 62-1
+  - Code civil - art. 63
+  - Code civil - art. 7
 
 _Codifié par_:
 
@@ -71638,81 +71638,6 @@ _Anciens textes_:
 _Cite_:
 
   - Code civil - art. 26
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-
-###### Article 2495
-
-Les articles 57 et 61-3 sont applicables dans leur rédaction issue de la loi n° 93-22 du 8 janvier 1993 modifiant le code
-civil relatif à l'état civil, à la famille et aux droits de l'enfant et instituant le juge aux affaires familiales. 
-
-Les modifications apportées à ces articles par la loi n° 2002-304 du 4 mars 2002 relative au nom de famille entreront en
-vigueur à Mayotte à compter du 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-_Abrogé par_:
-
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 17
-
-_Cité par_:
-
-  - Décret n°2017-890 du 6 mai 2017 - art. 9-1 (V)
-  - Décret n°2019-136 du 27 février 2019 (V)
-  - Décret n°2019-136 du 27 février 2019 - art. 1
-  - Décret n°2019-136 du 27 février 2019 - art. 2
-
-_Anciens textes_:
-
-  - Code civil - art. 2290 (T)
-
-_Cite_:
-
-  - Code civil - art. 57
-  - Code civil - art. 61-3
-  - Loi n°93-22 du 8 janvier 1993
-  - Loi n°2002-304 du 4 mars 2002
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-
-###### Article 2498
-
-Les articles 354, 361 et 363 sont applicables à Mayotte dans leur rédaction issue de la loi n° 93-22 du 8 janvier 1993. 
-
-Les modifications apportées à ces articles par la loi n° 2002-304 du 4 mars 2002 relative au nom de famille entreront en
-vigueur à Mayotte à compter du 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°93-22 du 8 janvier 1993
-  - Loi n°2002-304 du 4 mars 2002
-  - Code civil - art. 354
-  - Code civil - art. 361
-  - Code civil - art. 363
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-_Abrogé par_:
-
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 17
-
-_Anciens textes_:
-
-  - Code civil - art. 2292 (T)
 
 _Codifié par_:
 
@@ -72949,26 +72874,31 @@ Le créancier en possession d'un certificat nominatif d'inscription délivré pa
 ou d'un titre exécutoire peut, à défaut de paiement à l'échéance, poursuivre la vente par expropriation forcée des immeubles
 immatriculés de son débiteur affectés à la créance.
 
-En cas d'affectation de plusieurs immeubles à une même créance, l'exécution ne peut être poursuivie simultanément sur chacun
-d'eux qu'après autorisation du juge.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 _Cité par_:
 
   - Décret n°2006-936 du 27 juillet 2006 - art. 167 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 17
+
+_Codifié par_:
+
+  - Loi n°1804-03-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
+
 _Anciens textes_:
 
   - Code civil - art. 2327 (MMN)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L612-5 (VD)
 
 
 ###### Article 2534
