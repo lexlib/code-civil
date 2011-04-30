@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-05-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -5942,12 +5942,12 @@ _Modifié par_:
 ###### Article 71
 
 Celui des futurs époux qui serait dans l'impossibilité de se procurer cet acte pourra le suppléer en rapportant un acte de
-notoriété délivré par le juge du tribunal d'instance du lieu de sa naissance ou par celui de son domicile.
+notoriété délivré par un notaire ou, à l'étranger, par les autorités diplomatiques ou consulaires françaises compétentes.
 
-L'acte de notoriété contiendra la déclaration faite par trois témoins de l'un ou de l'autre sexe, parents ou non parents, des
-prénoms, nom, profession et domicile du futur époux, et de ceux de ses père et mère, s'ils sont connus ; le lieu, et, autant
-que possible, l'époque de sa naissance, et les causes qui empêchent d'en rapporter l'acte. Les témoins signeront l'acte de
-notoriété avec le juge du tribunal d'instance ; et s'il en est qui ne puissent ou ne sachent signer, il en sera fait mention.
+L'acte de notoriété est établi sur la foi des déclarations d'au moins trois témoins et de tout autre document produit qui
+attestent des prénoms, nom, profession et domicile du futur époux et de ceux de ses père et mère s'ils sont connus, du lieu
+et, autant que possible, de l'époque de la naissance et des causes qui empêchent de produire l'acte de naissance. L'acte de
+notoriété est signé par le notaire ou l'autorité diplomatique ou consulaire et par les témoins.
 
 **Liens relatifs à cet article**
 
@@ -5962,41 +5962,13 @@ _Cité par_:
   - Code civil - art. 317 (V)
   - Code civil - art. 63 (VD)
 
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
-###### Article 72
-
-Ni l'acte de notoriété ni le refus de le délivrer ne sont sujets à recours.
-
-**Liens relatifs à cet article**
-
 _Modifié par_:
-
-  - Loi n°72-3 du 3 janvier 1972 - art. 3 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-_Abrogé par_:
 
   - Loi n°2011-331 du 28 mars 2011 - art. 13
 
-_Cité par_:
-
-  - Code civil - art. 311-3 (Ab)
-  - Code civil - art. 317 (V)
-
 _Codifié par_:
 
   - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 73
@@ -6076,7 +6048,8 @@ _Créé par_:
 
 Le jour désigné par les parties, après le délai de publication, l'officier de l'état civil, à la mairie, en présence d'au
 moins deux témoins, ou de quatre au plus, parents ou non des parties, fera lecture aux futurs époux des articles 212, 213
-(alinéas 1er et 2), 214 (alinéa 1er) et 215 (alinéa 1er) du présent code. Il sera également fait lecture de l'article 371-1. 
+(alinéas 1er et 2), 214 (alinéa 1er), 215 (alinéa 1er) et 220 du présent code. Il sera également fait lecture de l'article
+371-1. 
 
 Toutefois, en cas d'empêchement grave, le procureur de la République du lieu du mariage pourra requérir l'officier de l'état
 civil de se transporter au domicile ou à la résidence de l'une des parties pour célébrer le mariage. En cas de péril imminent
@@ -6108,25 +6081,17 @@ _Cité par_:
   - Code de procédure pénale - art. D424 (V)
   - Code général des collectivités territoriales - art. R2122-10 (VD)
 
-_Codifié par_:
-
-  - Loi n°1803-03-11
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte)
-
 _Modifié par_:
 
-  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+  - Loi n°2010-737 du 1er juillet 2010 - art. 8
 
 _Cite_:
 
-  - Code civil - art. 212 (V)
-  - Code civil - art. 213 (V)
-  - Code civil - art. 214 (V)
-  - Code civil - art. 215 (V)
-  - Code civil - art. 371-1 (V)
+  - Code civil - art. 212
+  - Code civil - art. 213
+  - Code civil - art. 214
+  - Code civil - art. 215
+  - Code civil - art. 371-1
 
 
 ###### Article 76
@@ -14379,23 +14344,26 @@ _Codifié par_:
 
 ###### Article 317
 
-Chacun des parents ou l'enfant peut demander au juge que lui soit délivré, dans les conditions prévues aux articles 71 et 72,
-un acte de notoriété qui fera foi de la possession d'état jusqu'à preuve contraire. 
+Chacun des parents ou l'enfant peut demander au juge que lui soit délivré un acte de notoriété qui fera foi de la possession
+d'état jusqu'à preuve contraire.
 
-Quand le parent prétendu est décédé avant la déclaration de naissance de l'enfant, l'acte de notoriété peut être délivré en
-prouvant une réunion suffisante de faits au sens de l'article 311-1. 
+L'acte de notoriété est établi sur la foi des déclarations d'au moins trois témoins et, si le juge l'estime nécessaire, de
+tout autre document produit qui attestent une réunion suffisante de faits au sens de l'article 311-1. 
 
 La délivrance de l'acte de notoriété ne peut être demandée que dans un délai de cinq ans à compter de la cessation de la
-possession d'état alléguée ou à compter du décès du parent prétendu. 
+possession d'état alléguée ou à compter du décès du parent prétendu, y compris lorsque celui-ci est décédé avant la
+déclaration de naissance. 
 
 La filiation établie par la possession d'état constatée dans l'acte de notoriété est mentionnée en marge de l'acte de
-naissance de l'enfant.
+naissance de l'enfant. 
+
+Ni l'acte de notoriété, ni le refus de le délivrer ne sont sujets à recours.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-61 du 16 janvier 2009 - art. 1
+  - Loi n°2011-331 du 28 mars 2011 - art. 13
 
 _Cité par_:
 
@@ -14406,8 +14374,6 @@ _Cité par_:
 _Cite_:
 
   - Code civil - art. 311-1
-  - Code civil - art. 71
-  - Code civil - art. 72
 
 
 ### Chapitre III : Des actions relatives à la filiation<a id=104></a>
@@ -23816,7 +23782,9 @@ assistance réciproques. Si les partenaires n'en disposent autrement, l'aide mat
 respectives.
 
 Les partenaires sont tenus solidairement à l'égard des tiers des dettes contractées par l'un d'eux pour les besoins de la vie
-courante. Toutefois, cette solidarité n'a pas lieu pour les dépenses manifestement excessives.
+courante. Toutefois, cette solidarité n'a pas lieu pour les dépenses manifestement excessives. Elle n'a pas lieu non plus,
+s'ils n'ont été conclus du consentement des deux partenaires, pour les achats à tempérament ni pour les emprunts à moins que
+ces derniers ne portent sur des sommes modestes nécessaires aux besoins de la vie courante.
 
 **Liens relatifs à cet article**
 
@@ -23828,11 +23796,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Loi n°2010-737 du 1er juillet 2010 - art. 9
 
 
 ###### Article 515-5
