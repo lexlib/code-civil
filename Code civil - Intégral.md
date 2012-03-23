@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-12-15
+Version Consolidée au 2012-03-24
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -18790,20 +18790,24 @@ _Abrogé par_:
 
 ###### Article 389-8
 
-Un mineur peut être autorisé, par ses deux parents qui exercent en commun l'autorité parentale ou par son administrateur
-légal sous contrôle judiciaire avec l'autorisation du juge des tutelles, à accomplir seul les actes d'administration
-nécessaires pour les besoins de la création et de la gestion d'une entreprise individuelle à responsabilité limitée ou d'une
-société unipersonnelle. Les actes de disposition ne peuvent être effectués que par ses deux parents ou, à défaut, par son
-administrateur légal sous contrôle judiciaire avec l'autorisation du juge des tutelles.
+Un mineur âgé de seize ans révolus peut être autorisé, par ses deux parents qui exercent en commun l'autorité parentale ou
+par son administrateur légal sous contrôle judiciaire avec l'autorisation du juge des tutelles, à accomplir seul les actes
+d'administration nécessaires pour les besoins de la création et de la gestion d'une entreprise individuelle à responsabilité
+limitée ou d'une société unipersonnelle. Les actes de disposition ne peuvent être effectués que par ses deux parents ou, à
+défaut, par son administrateur légal sous contrôle judiciaire avec l'autorisation du juge des tutelles. 
 
 L'autorisation visée au premier alinéa revêt la forme d'un acte sous seing privé ou d'un acte notarié et comporte la liste
 des actes d'administration pouvant être accomplis par le mineur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-658 du 15 juin 2010 - art. 2
+  - Loi n°2012-387 du 22 mars 2012 - art. 32
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -19108,15 +19112,16 @@ _Créé par_:
 ###### Article 401
 
 Le conseil de famille règle les conditions générales de l'entretien et de l'éducation du mineur en ayant égard à la volonté
-que les père et mère avaient pu exprimer.
+que les père et mère avaient pu exprimer. 
 
-Il apprécie les indemnités qui peuvent être allouées au tuteur.
+Il apprécie les indemnités qui peuvent être allouées au tuteur. 
 
 Il prend les décisions et donne au tuteur les autorisations nécessaires pour la gestion des biens du mineur conformément aux
-dispositions du titre XII.
+dispositions du titre XII. 
 
-Le conseil de famille autorise le mineur à accomplir seul les actes d'administration nécessaires pour les besoins de la
-création et de la gestion d'une entreprise individuelle à responsabilité limitée ou d'une société unipersonnelle.
+Le conseil de famille autorise le mineur âgé de seize ans révolus à accomplir seul les actes d'administration nécessaires
+pour les besoins de la création et de la gestion d'une entreprise individuelle à responsabilité limitée ou d'une société
+unipersonnelle. 
 
 L'autorisation visée à l'alinéa précédent revêt la forme d'un acte sous seing privé ou d'un acte notarié et comporte la liste
 des actes d'administration pouvant être accomplis par le mineur.
@@ -19125,7 +19130,7 @@ des actes d'administration pouvant être accomplis par le mineur.
 
 _Modifié par_:
 
-  - Loi n°2010-658 du 15 juin 2010 - art. 2
+  - Loi n°2012-387 du 22 mars 2012 - art. 32
 
 _Cité par_:
 
