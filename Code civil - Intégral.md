@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-06-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -480,102 +480,91 @@ Version Consolidée au 2012-03-24
     - [Titre XV : Des transactions (art. 2044 à 2058)](#477)
     - [Titre XVI : Du compromis (art. 2059 à 2061)](#478)
     - [Titre XVII : De la convention de procédure participative (art. 2062 à 2068)](#479)
-    - [Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble (art. 2190 à 2216)](#480)
-      - [Chapitre Ier : De la saisie. (art. 2191 à 2213)](#481)
-        - [Section 1 : Du créancier. (art. 2191 à 2192)](#482)
-        - [Section 2 : Des biens et droits saisissables. (art. 2193 à 2195)](#483)
-        - [Section 3 : Du débiteur. (art. 2196 à 2197)](#484)
-        - [Section 4 : Des effets de l'acte de saisie. (art. 2198 à 2200)](#485)
-        - [Section 5 : De la vente. (art. 2201 à 2213)](#486)
-          - [Paragraphe 1 : Dispositions relatives à la vente amiable. (art. 2202 à 2203)](#487)
-          - [Paragraphe 2 : Dispositions relatives à l'adjudication. (art. 2204 à 2212)](#488)
-          - [Paragraphe 3 : Dispositions communes. (art. 2213)](#489)
-      - [Chapitre II : De la distribution du prix. (art. 2214 à 2216)](#490)
-    - [Titre XX : De la prescription extinctive (art. 2219 à 2254)](#491)
-      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2223)](#492)
-      - [Chapitre II : Des délais et du point de départ de la prescription extinctive. (art. 2224 à 2227)](#493)
-        - [Section 1 : Du délai de droit commun et de son point de départ. (art. 2224)](#494)
-        - [Section 2 : De quelques délais et points de départ particuliers. (art. 2225 à 2227)](#495)
-      - [Chapitre III : Du cours de la prescription extinctive. (art. 2228 à 2246)](#496)
-        - [Section 1 : Dispositions générales. (art. 2228 à 2232)](#497)
-        - [Section 2 : Des causes de report du point de départ ou de suspension de la prescription. (art. 2233 à 2239)](#498)
-        - [Section 3 : Des causes d'interruption de la prescription. (art. 2240 à 2246)](#499)
-      - [Chapitre IV : Des conditions de la prescription extinctive. (art. 2247 à 2254)](#500)
-        - [Section 1 : De l'invocation de la prescription. (art. 2247 à 2249)](#501)
-        - [Section 2 : De la renonciation à la prescription. (art. 2250 à 2253)](#502)
-        - [Section 3 : De l'aménagement conventionnel de la prescription. (art. 2254)](#503)
-    - [Titre XXI : De la possession et de la prescription acquisitive (art. 2255 à 2279)](#504)
-      - [Chapitre Ier : Dispositions générales. (art. 2255 à 2257)](#505)
-      - [Chapitre II : De la prescription acquisitive. (art. 2258 à 2277)](#506)
-        - [Section 1 : Des conditions de la prescription acquisitive. (art. 2260 à 2271)](#507)
-        - [Section 2 : De la prescription acquisitive en matière immobilière. (art. 2272 à 2275)](#508)
-        - [Section 3 : De la prescription acquisitive en matière mobilière. (art. 2276 à 2277)](#509)
-      - [Chapitre III : De la protection possessoire. (art. 2278 à 2279)](#510)
-  - [Livre IV : Des sûretés (art. 2284 à 2488-6)](#511)
-    - [Titre Ier : Des sûretés personnelles (art. 2287-1 à 2322)](#512)
-      - [Chapitre Ier : Du cautionnement (art. 2288 à 2320)](#513)
-        - [Section 1 : De la nature et de l'étendue du cautionnement (art. 2288 à 2297)](#514)
-        - [Section 2 : De l'effet du cautionnement (art. 2298 à 2310)](#515)
-          - [Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution (art. 2298 à 2304)](#516)
-          - [Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution (art. 2305 à 2309)](#517)
-          - [Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs (art. 2310)](#518)
-        - [Section 3 : De l'extinction du cautionnement (art. 2311 à 2316)](#519)
-        - [Section 4 : De la caution légale et de la caution judiciaire (art. 2317 à 2320)](#520)
-      - [Chapitre II : De la garantie autonome (art. 2321)](#521)
-      - [Chapitre III : De la lettre d'intention (art. 2322)](#522)
-    - [Titre II : Des sûretés réelles (art. 2323 à 2488-6)](#523)
-      - [Sous-titre Ier : Dispositions générales (art. 2323 à 2328-1)](#524)
-      - [Sous-titre II : Des sûretés sur les meubles (art. 2329 à 2372-5)](#525)
-        - [Chapitre Ier : Des privilèges mobiliers (art. 2330 à 2332-3)](#526)
-          - [Section 1 : Des privilèges généraux (art. 2331)](#527)
-          - [Section 2 : Des privilèges spéciaux (art. 2332)](#528)
-          - [Section 3 : Du classement des privilèges (art. 2332-1 à 2332-3)](#529)
-        - [Chapitre II : Du gage de meubles corporels (art. 2333 à 2354)](#530)
-          - [Section 1 : Du droit commun du gage (art. 2333 à 2350)](#531)
-          - [Section 2 : Du gage portant sur un véhicule automobile. (art. 2351 à 2353)](#532)
-          - [Section 3 : Dispositions communes. (art. 2354)](#533)
-        - [Chapitre III : Du nantissement de meubles incorporels. (art. 2355 à 2366)](#534)
-        - [Chapitre IV : De la propriété retenue ou cédée à titre de garantie. (art. 2367 à 2372-5)](#535)
-          - [Section 1 : De la propriété retenue à titre de garantie. (art. 2367 à 2372)](#536)
-          - [Section 2 : De la propriété cédée à titre de garantie. (art. 2372-1 à 2372-5)](#537)
-      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488-6)](#538)
-        - [Chapitre Ier : Des privilèges immobiliers (art. 2374 à 2386)](#539)
-          - [Section 1 : Des privilèges spéciaux. (art. 2374)](#540)
-          - [Section 2 : Des privilèges généraux. (art. 2375 à 2376)](#541)
-          - [Section 3 : Des cas où les privilèges doivent être inscrits (art. 2377 à 2386)](#542)
-        - [Chapitre II : Du gage immobilier. (art. 2387 à 2392)](#543)
-        - [Chapitre III : Des hypothèques (art. 2393 à 2425)](#544)
-          - [Section 1 : Dispositions générales. (art. 2393 à 2399)](#545)
-          - [Section 2 : Des hypothèques légales (art. 2400 à 2411)](#546)
-            - [Sous-section 1 : Dispositions générales. (art. 2400 à 2401)](#547)
-            - [Sous-section 2 : Des règles particulières à l'hypothèque légale des époux. (art. 2402 à 2408)](#548)
-            - [Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2409 à 2411)](#549)
-          - [Section 3 : Des hypothèques judiciaires (art. 2412)](#550)
-          - [Section 4 : Des hypothèques conventionnelles (art. 2413 à 2424)](#551)
-          - [Section 5 : Du classement des hypothèques (art. 2425)](#552)
-        - [Chapitre IV : De l'inscription des privilèges et des hypothèques (art. 2426 à 2457)](#553)
-          - [Section 1 : Du mode d'inscription des privilèges et des hypothèques (art. 2426 à 2439)](#554)
-          - [Section 2 : De la radiation et de la réduction des inscriptions (art. 2440 à 2448)](#555)
-            - [Sous-section 1 : Dispositions générales. (art. 2440 à 2445)](#556)
-            - [Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle (art. 2446 à 2448)](#557)
-          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art. 2449 à 2457)](#558)
-        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#559)
-        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#560)
-        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#561)
-        - [Chapitre VIII : De la propriété cédée à titre de garantie (art. 2488-1 à 2488-6)](#562)
-  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#563)
-    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#564)
-    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#565)
-    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#566)
-    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#567)
-    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#568)
-      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#569)
-        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#570)
-        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#571)
-        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#572)
-      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#573)
-        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#574)
-        - [Section 2 : Expropriation forcée (art. 2533 à 2534)](#575)
+    - [Titre XX : De la prescription extinctive (art. 2219 à 2254)](#480)
+      - [Chapitre Ier : Dispositions générales. (art. 2219 à 2223)](#481)
+      - [Chapitre II : Des délais et du point de départ de la prescription extinctive. (art. 2224 à 2227)](#482)
+        - [Section 1 : Du délai de droit commun et de son point de départ. (art. 2224)](#483)
+        - [Section 2 : De quelques délais et points de départ particuliers. (art. 2225 à 2227)](#484)
+      - [Chapitre III : Du cours de la prescription extinctive. (art. 2228 à 2246)](#485)
+        - [Section 1 : Dispositions générales. (art. 2228 à 2232)](#486)
+        - [Section 2 : Des causes de report du point de départ ou de suspension de la prescription. (art. 2233 à 2239)](#487)
+        - [Section 3 : Des causes d'interruption de la prescription. (art. 2240 à 2246)](#488)
+      - [Chapitre IV : Des conditions de la prescription extinctive. (art. 2247 à 2254)](#489)
+        - [Section 1 : De l'invocation de la prescription. (art. 2247 à 2249)](#490)
+        - [Section 2 : De la renonciation à la prescription. (art. 2250 à 2253)](#491)
+        - [Section 3 : De l'aménagement conventionnel de la prescription. (art. 2254)](#492)
+    - [Titre XXI : De la possession et de la prescription acquisitive (art. 2255 à 2279)](#493)
+      - [Chapitre Ier : Dispositions générales. (art. 2255 à 2257)](#494)
+      - [Chapitre II : De la prescription acquisitive. (art. 2258 à 2277)](#495)
+        - [Section 1 : Des conditions de la prescription acquisitive. (art. 2260 à 2271)](#496)
+        - [Section 2 : De la prescription acquisitive en matière immobilière. (art. 2272 à 2275)](#497)
+        - [Section 3 : De la prescription acquisitive en matière mobilière. (art. 2276 à 2277)](#498)
+      - [Chapitre III : De la protection possessoire. (art. 2278 à 2279)](#499)
+  - [Livre IV : Des sûretés (art. 2284 à 2488-6)](#500)
+    - [Titre Ier : Des sûretés personnelles (art. 2287-1 à 2322)](#501)
+      - [Chapitre Ier : Du cautionnement (art. 2288 à 2320)](#502)
+        - [Section 1 : De la nature et de l'étendue du cautionnement (art. 2288 à 2297)](#503)
+        - [Section 2 : De l'effet du cautionnement (art. 2298 à 2310)](#504)
+          - [Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution (art. 2298 à 2304)](#505)
+          - [Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution (art. 2305 à 2309)](#506)
+          - [Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs (art. 2310)](#507)
+        - [Section 3 : De l'extinction du cautionnement (art. 2311 à 2316)](#508)
+        - [Section 4 : De la caution légale et de la caution judiciaire (art. 2317 à 2320)](#509)
+      - [Chapitre II : De la garantie autonome (art. 2321)](#510)
+      - [Chapitre III : De la lettre d'intention (art. 2322)](#511)
+    - [Titre II : Des sûretés réelles (art. 2323 à 2488-6)](#512)
+      - [Sous-titre Ier : Dispositions générales (art. 2323 à 2328-1)](#513)
+      - [Sous-titre II : Des sûretés sur les meubles (art. 2329 à 2372-5)](#514)
+        - [Chapitre Ier : Des privilèges mobiliers (art. 2330 à 2332-3)](#515)
+          - [Section 1 : Des privilèges généraux (art. 2331)](#516)
+          - [Section 2 : Des privilèges spéciaux (art. 2332)](#517)
+          - [Section 3 : Du classement des privilèges (art. 2332-1 à 2332-3)](#518)
+        - [Chapitre II : Du gage de meubles corporels (art. 2333 à 2354)](#519)
+          - [Section 1 : Du droit commun du gage (art. 2333 à 2350)](#520)
+          - [Section 2 : Du gage portant sur un véhicule automobile. (art. 2351 à 2353)](#521)
+          - [Section 3 : Dispositions communes. (art. 2354)](#522)
+        - [Chapitre III : Du nantissement de meubles incorporels. (art. 2355 à 2366)](#523)
+        - [Chapitre IV : De la propriété retenue ou cédée à titre de garantie. (art. 2367 à 2372-5)](#524)
+          - [Section 1 : De la propriété retenue à titre de garantie. (art. 2367 à 2372)](#525)
+          - [Section 2 : De la propriété cédée à titre de garantie. (art. 2372-1 à 2372-5)](#526)
+      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488-6)](#527)
+        - [Chapitre Ier : Des privilèges immobiliers (art. 2374 à 2386)](#528)
+          - [Section 1 : Des privilèges spéciaux. (art. 2374)](#529)
+          - [Section 2 : Des privilèges généraux. (art. 2375 à 2376)](#530)
+          - [Section 3 : Des cas où les privilèges doivent être inscrits (art. 2377 à 2386)](#531)
+        - [Chapitre II : Du gage immobilier. (art. 2387 à 2392)](#532)
+        - [Chapitre III : Des hypothèques (art. 2393 à 2425)](#533)
+          - [Section 1 : Dispositions générales. (art. 2393 à 2399)](#534)
+          - [Section 2 : Des hypothèques légales (art. 2400 à 2411)](#535)
+            - [Sous-section 1 : Dispositions générales. (art. 2400 à 2401)](#536)
+            - [Sous-section 2 : Des règles particulières à l'hypothèque légale des époux. (art. 2402 à 2408)](#537)
+            - [Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle. (art. 2409 à 2411)](#538)
+          - [Section 3 : Des hypothèques judiciaires (art. 2412)](#539)
+          - [Section 4 : Des hypothèques conventionnelles (art. 2413 à 2424)](#540)
+          - [Section 5 : Du classement des hypothèques (art. 2425)](#541)
+        - [Chapitre IV : De l'inscription des privilèges et des hypothèques (art. 2426 à 2457)](#542)
+          - [Section 1 : Du mode d'inscription des privilèges et des hypothèques (art. 2426 à 2439)](#543)
+          - [Section 2 : De la radiation et de la réduction des inscriptions (art. 2440 à 2448)](#544)
+            - [Sous-section 1 : Dispositions générales. (art. 2440 à 2445)](#545)
+            - [Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle (art. 2446 à 2448)](#546)
+          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art. 2449 à 2457)](#547)
+        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#548)
+        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#549)
+        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#550)
+        - [Chapitre VIII : De la propriété cédée à titre de garantie (art. 2488-1 à 2488-6)](#551)
+  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#552)
+    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#553)
+    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#554)
+    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#555)
+    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#556)
+    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#557)
+      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#558)
+        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#559)
+        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#560)
+        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#561)
+      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#562)
+        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#563)
+        - [Section 2 : Expropriation forcée (art. 2534)](#564)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -43926,7 +43915,7 @@ _Abrogé par_:
 ###### Article 1298
 
 La compensation n'a pas lieu au préjudice des droits acquis à un tiers. Ainsi celui qui, étant débiteur, est devenu créancier
-depuis la saisie-arrêt faite par un tiers entre ses mains, ne peut, au préjudice du saisissant, opposer la compensation.
+depuis la  saisie faite par un tiers entre ses mains, ne peut, au préjudice du saisissant, opposer la compensation.
 
 **Liens relatifs à cet article**
 
@@ -43934,9 +43923,13 @@ _Codifié par_:
 
   - Loi n°1804-02-07
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-02-07 promulguée le 17 février 1804
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1299
@@ -59584,8 +59577,8 @@ _Créé par_:
 ###### Article 1944
 
 Le dépôt doit être remis au déposant aussitôt qu'il le réclame, lors même que le contrat aurait fixé un délai déterminé pour
-la restitution ; à moins qu'il n'existe, entre les mains du dépositaire, une saisie-arrêt ou une opposition à la restitution
-et au déplacement de la chose déposée.
+la restitution ; à moins qu'il n'existe, entre les mains du dépositaire, une  saisie ou une opposition à la restitution et au
+déplacement de la chose déposée.
 
 **Liens relatifs à cet article**
 
@@ -59593,9 +59586,9 @@ _Codifié par_:
 
   - Loi n°1804-03-14
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°1804-03-14 promulguée le 24 mars 1804
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 
 ###### Article 1945
@@ -62079,972 +62072,9 @@ _Modifié par_:
   - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble<a id=480></a>
+## Titre XX : De la prescription extinctive<a id=480></a>
 
-###### Article 2190
-
-La saisie immobilière tend à la vente forcée de l'immeuble du débiteur ou, le cas échéant, du tiers détenteur en vue de la
-distribution de son prix.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2485 (M)
-  - Code civil - art. 2485 (V)
-  - Code des procédures civiles d'exécution - art. L311-1 (VD)
-
-
-### Chapitre Ier : De la saisie.<a id=481></a>
-
-#### Section 1 : Du créancier.<a id=482></a>
-
-###### Article 2191
-
-Tout créancier muni d'un titre exécutoire constatant une créance liquide et exigible peut procéder à une saisie immobilière
-dans les conditions fixées par le présent chapitre et par les dispositions qui ne lui sont pas contraires de la loi du 9
-juillet 1991 portant réforme des procédures civiles d'exécution. 
-
-Lorsque la poursuite est engagée en vertu d'une décision de justice exécutoire par provision, la vente forcée ne peut
-intervenir qu'après une décision définitive passée en force de chose jugée. 
-
-Toutefois, pendant le délai de l'opposition, aucune poursuite ne peut être engagée en vertu d'un jugement rendu par défaut.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Cite_:
-
-  - Loi n°91-650 du 9 juillet 1991
-
-_Cité par_:
-
-  - Loi n°91-650 du 9 juillet 1991 - art. 31 (VT)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 49 (Ab)
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2486 (M)
-  - Code civil - art. 2486 (V)
-  - Code des procédures civiles d'exécution - art. L311-2 (VD)
-  - Code des procédures civiles d'exécution - art. L311-4 (VD)
-
-
-###### Article 2192
-
-Le créancier qui a procédé à la saisie d'un immeuble de son débiteur ne peut engager une nouvelle procédure de saisie sur un
-autre bien immobilier de celui-ci que dans le cas d'insuffisance du bien déjà saisi.
-
-Le créancier ne peut saisir les immeubles qui ne sont pas hypothéqués en sa faveur que dans le cas où l'hypothèque dont il
-bénéficie ne lui permet pas d'être rempli de ses droits.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2487 (M)
-  - Code civil - art. 2487 (V)
-  - Code des procédures civiles d'exécution - art. L311-5 (VD)
-
-
-#### Section 2 : Des biens et droits saisissables.<a id=483></a>
-
-###### Article 2193
-
-Sauf dispositions législatives particulières, la saisie immobilière peut porter sur tous les droits réels afférents aux
-immeubles, y compris leurs accessoires réputés immeubles, susceptibles de faire l'objet d'une cession.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Cité par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 49 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L311-6 (VD)
-
-
-###### Article 2194
-
-La saisie d'un immeuble emporte saisie de ses fruits, sauf l'effet d'une saisie antérieure.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°60-323  du 2 avril 1960  - art. 65 (VT)
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L321-3 (VD)
-
-
-###### Article 2195
-
-La saisie des immeubles communs est poursuivie contre les deux époux.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L311-7 (VD)
-
-
-#### Section 3 : Du débiteur.<a id=484></a>
-
-###### Article 2196
-
-En cas de saisies simultanées de plusieurs de ses immeubles, le débiteur peut demander au juge le cantonnement de celles-ci.
-
-Il peut également solliciter du juge une conversion partielle des saisies en hypothèque sur certains de ses immeubles qui
-prendra rang au jour de la publication de la saisie, sous réserve de l'inscription de la sûreté dans le mois de la
-notification de la décision.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 43 (V)
-  - Décret n°55-22 du 4 janvier 1955 - art. 9 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 13 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 41 (VD)
-  - Décret n°63-1123 du 9 novembre 1963 - art. 4 (M)
-  - Loi n°78-753 du 17 juillet 1978 - art. 21 (M)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 141 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 291 (M)
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2449 (V)
-  - Code des procédures civiles d'exécution - art. L321-6 (VD)
-
-
-###### Article 2197
-
-Les immeubles d'un mineur, même émancipé, ou d'un majeur en curatelle ou en tutelle ne peuvent être saisis avant la
-discussion de leurs meubles.
-
-Toutefois, la discussion des meubles n'est pas requise avant la saisie des immeubles indivis entre un majeur et un mineur ou
-un majeur en curatelle ou en tutelle, si la dette leur est commune. Elle ne l'est pas non plus dans le cas où les poursuites
-ont été commencées alors que le majeur n'était pas encore placé sous curatelle ou sous tutelle.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 41 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 85-2 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 85-4 (M)
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2450 (V)
-  - Code des procédures civiles d'exécution - art. L311-8 (VD)
-
-
-#### Section 4 : Des effets de l'acte de saisie.<a id=485></a>
-
-###### Article 2198
-
-La saisie rend l'immeuble indisponible et restreint les droits de jouissance et d'administration du débiteur. 
-
-Le bien ne peut être aliéné ni grevé de droits réels par le débiteur sous réserve des dispositions de l'article 2201.
-
-A moins que le bien soit loué, le débiteur en est constitué séquestre sauf à ce que les circonstances justifient la
-désignation d'un tiers ou l'expulsion du débiteur pour cause grave.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Cite_:
-
-  - Code civil - art. 2201
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2451 (V)
-  - Code des procédures civiles d'exécution - art. L321-2 (VD)
-
-_Cité par_:
-
-  - Code de la consommation - art. L331-3-2 (VT)
-  - Code de la consommation - art. L332-6 (VT)
-  - Code de la consommation - art. L722-8 (VD)
-  - Code de la consommation - art. L742-7 (VD)
-
-
-###### Article 2199
-
-Les baux consentis par le débiteur après la saisie sont, quelle que soit leur durée, inopposables au créancier poursuivant
-comme à l'acquéreur.
-
-La preuve de l'antériorité du bail peut être faite par tout moyen.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2452 (V)
-  - Code des procédures civiles d'exécution - art. L321-4 (VD)
-
-
-###### Article 2200
-
-La saisie immobilière est opposable aux tiers à partir de sa publication au fichier immobilier. 
-
-Les aliénations non publiées ou publiées postérieurement sont inopposables au créancier poursuivant comme à l'acquéreur dans
-les conditions prévues à l'article 2201, sauf consignation d'une somme suffisante pour acquitter en principal, intérêts et
-frais, ce qui est dû aux créanciers inscrits ainsi qu'au créancier poursuivant ; la somme ainsi consignée leur est affectée
-spécialement. 
-
-Sont pareillement inopposables les inscriptions du chef du débiteur qui n'ont pas été prises antérieurement à la publication
-de la saisie, sous réserve du droit pour le vendeur, le prêteur de deniers pour l'acquisition et le copartageant d'inscrire,
-dans les délais prévus par les articles 2379 à 2381, le privilège qui leur est conféré par l'article 2374.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 31 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 23 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 28 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 51 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 52 (Ab)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 77 (M)
-  - Décret n°55-1350 du 14 octobre 1955 - art. 77-2 (M)
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 26 (Ab)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 970 (Ab)
-  - Code civil - art. 2134 (T)
-  - Code civil - art. 2150 (T)
-  - Code civil - art. 2203 (T)
-  - Code de procédure civile - art. 674 (M)
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Cite_:
-
-  - Code civil - art. 2201
-  - Code civil - art. 2374
-  - Code civil - art. 2379
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2453 (V)
-  - Code des procédures civiles d'exécution - art. L321-5 (VD)
-
-
-#### Section 5 : De la vente.<a id=486></a>
-
-###### Article 2201
-
-Les biens sont vendus soit à l'amiable sur autorisation judiciaire, soit par adjudication.
-
-Est nulle toute convention portant qu'à défaut d'exécution des engagements pris envers lui, le créancier peut faire vendre
-les immeubles de son débiteur en dehors des formes prescrites pour la saisie immobilière.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 8-1 (M)
-  - Code civil - art. 2198 (VT)
-  - Code civil - art. 2200 (VT)
-  - Code civil - art. 2203-1 (T)
-
-_Codifié par_:
-
-  - Loi n°72-626 1972-07-05
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2454 (V)
-  - Code des procédures civiles d'exécution - art. L311-3 (VD)
-  - Code des procédures civiles d'exécution - art. L322-1 (VD)
-
-
-##### Paragraphe 1 : Dispositions relatives à la vente amiable.<a id=487></a>
-
-###### Article 2202
-
-La vente amiable sur autorisation judiciaire produit les effets d'une vente volontaire. Elle ne peut pas donner lieu à
-rescision pour lésion.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Modifié par_:
-
-  - Loi n°2010-1609 du 22 décembre 2010 - art. 6 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2455 (V)
-  - Code des procédures civiles d'exécution - art. L322-3 (VD)
-
-_Cité par_:
-
-  - Code de l'industrie cinématographique - art. 37 (M)
-
-
-###### Article 2203
-
-L'acte notarié de vente n'est établi que sur consignation du prix et des frais de la vente et justification du paiement des
-frais taxés.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°72-626 du 5 juillet 1972
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2456 (V)
-  - Code des procédures civiles d'exécution - art. L322-4 (VD)
-
-
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.<a id=488></a>
-
-###### Article 2204
-
-L'adjudication de l'immeuble a lieu aux enchères publiques à l'audience du juge.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Cité par_:
-
-  - Code de commerce. - art. L642-18 (VD)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-5 (VD)
-
-
-###### Article 2205
-
-Sous réserve des incapacités tenant aux fonctions qu'elle exerce, toute personne peut se porter enchérisseur si elle justifie
-de garanties de paiement.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Code civil - art. 2092-3 (M)
-  - Code civil - art. 2092-3 (T)
-
-_Cité par_:
-
-  - Code de commerce. - art. L642-18 (VD)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-7 (VD)
-
-
-###### Article 2206
-
-Le montant de la mise à prix est fixé par le créancier poursuivant. A défaut d'enchère, celui-ci est déclaré adjudicataire
-d'office à ce montant.
-
-Le débiteur peut, en cas d'insuffisance manifeste du montant de la mise à prix, saisir le juge afin de voir fixer une mise à
-prix en rapport avec la valeur vénale de l'immeuble et les conditions du marché. Toutefois, à défaut d'enchère, le
-poursuivant ne peut être déclaré adjudicataire que pour la mise à prix initiale.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Cité par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 45 (Ab)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 76 (Ab)
-  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-  - Code de commerce. - art. L642-18 (VD)
-  - Code de procédure civile - art. 1281-17 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-6 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-
-###### Article 2207
-
-L'adjudication ne peut donner lieu à déclaration de commande.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-8 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-
-###### Article 2208
-
-L'adjudication emporte vente forcée du bien saisi et en transmet la propriété à l'adjudicataire.
-
-Elle ne confère à celui-ci d'autres droits que ceux appartenant au saisi. Ce dernier est tenu, à l'égard de l'adjudicataire,
-à la délivrance du bien et à la garantie d'éviction.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Cité par_:
-
-  - Loi n°85-1372 du 23 décembre 1985 - art. 53 (V)
-
-_Créé par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-10 (VD)
-
-
-###### Article 2209
-
-Le titre de vente n'est délivré à l'adjudicataire que sur justification du paiement des frais taxés.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 295 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 94 (Ab)
-  - Code de commerce - art. R622-19 (V)
-  - Code de procédure civile - art. 675 (Ab)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-11 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-
-###### Article 2210
-
-Le jugement d'adjudication constitue un titre d'expulsion à l'encontre du saisi.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-13 (VD)
-
-
-###### Article 2211
-
-L'adjudicataire doit consigner le prix sur un compte séquestre ou à la Caisse des dépôts et consignations et payer les frais
-de la vente.
-
-Il ne peut, avant cette consignation et ce paiement, accomplir un acte de disposition sur le bien à l'exception de la
-constitution d'une hypothèque accessoire à un contrat de prêt destiné à financer l'acquisition de ce bien.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-9 (VD)
-
-
-###### Article 2212
-
-A défaut de consignation du prix et de paiement des frais, la vente est résolue de plein droit.
-
-L'adjudicataire défaillant est tenu au paiement de la différence entre son enchère et le prix de la revente, si celui-ci est
-moindre. Il ne peut prétendre à la répétition des sommes qu'il a acquittées.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 101 (Ab)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 83 (Ab)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-12 (VD)
-
-
-##### Paragraphe 3 : Dispositions communes.<a id=489></a>
-
-###### Article 2213
-
-La consignation du prix et le paiement des frais de la vente purgent de plein droit l'immeuble de toute hypothèque et de tout
-privilège du chef du débiteur à compter de la publication du titre de vente.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-1609 du 22 décembre 2010 - art. 6 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L322-14 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-
-### Chapitre II : De la distribution du prix.<a id=490></a>
-
-###### Article 2214
-
-Seuls sont admis à faire valoir leurs droits sur le prix de la vente le créancier poursuivant, les créanciers inscrits sur
-l'immeuble saisi à la date de la publication du commandement de payer valant saisie, les créanciers inscrits sur l'immeuble
-avant la publication du titre de vente et qui sont intervenus dans la procédure ainsi que les créanciers énumérés au 1° bis
-de l'article 2374 et à l'article 2375.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Cité par_:
-
-  - Loi n°76-519 du 15 juin 1976 - art. 6 (M)
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 112 (Ab)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 113 (Ab)
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Cite_:
-
-  - Code civil - art. 2374
-  - Code civil - art. 2375
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L331-1 (VD)
-
-
-###### Article 2215
-
-Les créanciers sommés de déclarer leur créance et qui ont omis de le faire sont déchus du bénéfice de leur sûreté pour la
-distribution du prix de vente de l'immeuble.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°91-650 du 9 juillet 1991 - art. 31 (M)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 113 (Ab)
-  - Décret n°2006-936 du 27 juillet 2006 - art. 41 (Ab)
-  - Décret n°2009-160 du 12 février 2009 - art. 138
-  - Décret n°2009-160 du 12 février 2009 - art. 142
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L331-2 (VD)
-
-
-###### Article 2216
-
-Si la distribution du prix n'est pas intervenue dans un délai fixé par décret en Conseil d'Etat, la consignation produit, à
-l'égard du débiteur, tous les effets d'un paiement à hauteur de la part du prix de vente qui sera remise aux créanciers après
-la distribution.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L334-1 (VD)
-
-
-## Titre XX : De la prescription extinctive<a id=491></a>
-
-### Chapitre Ier : Dispositions générales.<a id=492></a>
+### Chapitre Ier : Dispositions générales.<a id=481></a>
 
 ###### Article 2219
 
@@ -63115,9 +62145,9 @@ _Modifié par_:
   - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
-### Chapitre II : Des délais et du point de départ de la prescription extinctive.<a id=493></a>
+### Chapitre II : Des délais et du point de départ de la prescription extinctive.<a id=482></a>
 
-#### Section 1 : Du délai de droit commun et de son point de départ.<a id=494></a>
+#### Section 1 : Du délai de droit commun et de son point de départ.<a id=483></a>
 
 ###### Article 2224
 
@@ -63149,7 +62179,7 @@ _Modifié par_:
   - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
-#### Section 2 : De quelques délais et points de départ particuliers.<a id=495></a>
+#### Section 2 : De quelques délais et points de départ particuliers.<a id=484></a>
 
 ###### Article 2225
 
@@ -63215,9 +62245,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L631-7-1 (VT)
 
 
-### Chapitre III : Du cours de la prescription extinctive.<a id=496></a>
+### Chapitre III : Du cours de la prescription extinctive.<a id=485></a>
 
-#### Section 1 : Dispositions générales.<a id=497></a>
+#### Section 1 : Dispositions générales.<a id=486></a>
 
 ###### Article 2228
 
@@ -63325,7 +62355,7 @@ _Nouveaux textes_:
   - Code civil - art. 2262 (V)
 
 
-#### Section 2 : Des causes de report du point de départ ou de suspension de la prescription.<a id=498></a>
+#### Section 2 : Des causes de report du point de départ ou de suspension de la prescription.<a id=487></a>
 
 ###### Article 2233
 
@@ -63498,7 +62528,7 @@ _Nouveaux textes_:
   - Code civil - art. 2269 (V)
 
 
-#### Section 3 : Des causes d'interruption de la prescription.<a id=499></a>
+#### Section 3 : Des causes d'interruption de la prescription.<a id=488></a>
 
 ###### Article 2240
 
@@ -63559,7 +62589,8 @@ _Modifié par_:
 
 ###### Article 2244
 
-Le délai de prescription ou le délai de forclusion est également interrompu par un acte d'exécution forcée.
+Le délai de prescription ou le délai de forclusion est également interrompu par une mesure conservatoire prise en application
+du code des procédures civiles d'exécution ou un acte d'exécution forcée.
 
 **Liens relatifs à cet article**
 
@@ -63575,7 +62606,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-561 du 17 juin 2008 - art. 1
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 
 ###### Article 2245
@@ -63610,9 +62641,9 @@ _Modifié par_:
   - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
-### Chapitre IV : Des conditions de la prescription extinctive.<a id=500></a>
+### Chapitre IV : Des conditions de la prescription extinctive.<a id=489></a>
 
-#### Section 1 : De l'invocation de la prescription.<a id=501></a>
+#### Section 1 : De l'invocation de la prescription.<a id=490></a>
 
 ###### Article 2247
 
@@ -63655,7 +62686,7 @@ _Modifié par_:
   - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
-#### Section 2 : De la renonciation à la prescription.<a id=502></a>
+#### Section 2 : De la renonciation à la prescription.<a id=491></a>
 
 ###### Article 2250
 
@@ -63710,7 +62741,7 @@ _Modifié par_:
   - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
-#### Section 3 : De l'aménagement conventionnel de la prescription.<a id=503></a>
+#### Section 3 : De l'aménagement conventionnel de la prescription.<a id=492></a>
 
 ###### Article 2254
 
@@ -63739,9 +62770,9 @@ _Cité par_:
   - Code des assurances - art. L114-3 (V)
 
 
-## Titre XXI : De la possession et de la prescription acquisitive<a id=504></a>
+## Titre XXI : De la possession et de la prescription acquisitive<a id=493></a>
 
-### Chapitre Ier : Dispositions générales.<a id=505></a>
+### Chapitre Ier : Dispositions générales.<a id=494></a>
 
 ###### Article 2255
 
@@ -63798,7 +62829,7 @@ _Anciens textes_:
   - Code civil - art. 2231 (T)
 
 
-### Chapitre II : De la prescription acquisitive.<a id=506></a>
+### Chapitre II : De la prescription acquisitive.<a id=495></a>
 
 ###### Article 2258
 
@@ -63829,7 +62860,7 @@ _Cite_:
   - Code civil - art. 2222 (V)
 
 
-#### Section 1 : Des conditions de la prescription acquisitive.<a id=507></a>
+#### Section 1 : Des conditions de la prescription acquisitive.<a id=496></a>
 
 ###### Article 2260
 
@@ -64077,7 +63108,7 @@ _Modifié par_:
   - Loi n°2008-561 du 17 juin 2008 - art. 2
 
 
-#### Section 2 : De la prescription acquisitive en matière immobilière.<a id=508></a>
+#### Section 2 : De la prescription acquisitive en matière immobilière.<a id=497></a>
 
 ###### Article 2272
 
@@ -64148,7 +63179,7 @@ _Anciens textes_:
   - Code civil - art. 2269 (T)
 
 
-#### Section 3 : De la prescription acquisitive en matière mobilière.<a id=509></a>
+#### Section 3 : De la prescription acquisitive en matière mobilière.<a id=498></a>
 
 ###### Article 2276
 
@@ -64211,7 +63242,7 @@ _Cite_:
   - Code civil - art. 2332 (V)
 
 
-### Chapitre III : De la protection possessoire.<a id=510></a>
+### Chapitre III : De la protection possessoire.<a id=499></a>
 
 ###### Article 2278
 
@@ -64258,7 +63289,7 @@ _Cité par_:
   - Décret n°56-27 du 11 janvier 1956 - art. 12 (Ab)
 
 
-# Livre IV : Des sûretés<a id=511></a>
+# Livre IV : Des sûretés<a id=500></a>
 
 ###### Article 2284
 
@@ -64381,7 +63412,7 @@ _Modifié par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 3 () JORF 24 mars 2006
 
 
-## Titre Ier : Des sûretés personnelles<a id=512></a>
+## Titre Ier : Des sûretés personnelles<a id=501></a>
 
 ###### Article 2287-1
 
@@ -64398,9 +63429,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 
-### Chapitre Ier : Du cautionnement<a id=513></a>
+### Chapitre Ier : Du cautionnement<a id=502></a>
 
-#### Section 1 : De la nature et de l'étendue du cautionnement<a id=514></a>
+#### Section 1 : De la nature et de l'étendue du cautionnement<a id=503></a>
 
 ###### Article 2288
 
@@ -64697,9 +63728,9 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-#### Section 2 : De l'effet du cautionnement<a id=515></a>
+#### Section 2 : De l'effet du cautionnement<a id=504></a>
 
-##### Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution<a id=516></a>
+##### Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution<a id=505></a>
 
 ###### Article 2298
 
@@ -64931,7 +63962,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-##### Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution<a id=517></a>
+##### Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution<a id=506></a>
 
 ###### Article 2305
 
@@ -65097,7 +64128,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-##### Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs<a id=518></a>
+##### Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs<a id=507></a>
 
 ###### Article 2310
 
@@ -65131,7 +64162,7 @@ _Nouveaux textes_:
   - Code civil - art. 2516 (V)
 
 
-#### Section 3 : De l'extinction du cautionnement<a id=519></a>
+#### Section 3 : De l'extinction du cautionnement<a id=508></a>
 
 ###### Article 2311
 
@@ -65306,7 +64337,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-#### Section 4 : De la caution légale et de la caution judiciaire<a id=520></a>
+#### Section 4 : De la caution légale et de la caution judiciaire<a id=509></a>
 
 ###### Article 2317
 
@@ -65419,7 +64450,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-### Chapitre II : De la garantie autonome<a id=521></a>
+### Chapitre II : De la garantie autonome<a id=510></a>
 
 ###### Article 2321
 
@@ -65470,7 +64501,7 @@ _Codifié par_:
   - Loi n°1804-02-14
 
 
-### Chapitre III : De la lettre d'intention<a id=522></a>
+### Chapitre III : De la lettre d'intention<a id=511></a>
 
 ###### Article 2322
 
@@ -65499,9 +64530,9 @@ _Nouveaux textes_:
   - Code civil - art. 2528 (V)
 
 
-## Titre II : Des sûretés réelles<a id=523></a>
+## Titre II : Des sûretés réelles<a id=512></a>
 
-### Sous-titre Ier : Dispositions générales<a id=524></a>
+### Sous-titre Ier : Dispositions générales<a id=513></a>
 
 ###### Article 2323
 
@@ -65671,7 +64702,7 @@ _Abrogé par_:
   - Ordonnance n°2017-748 du 4 mai 2017 - art. 2
 
 
-### Sous-titre II : Des sûretés sur les meubles<a id=525></a>
+### Sous-titre II : Des sûretés sur les meubles<a id=514></a>
 
 ###### Article 2329
 
@@ -65692,7 +64723,7 @@ _Modifié par_:
   - Ordonnance n°2009-112 du 30 janvier 2009 - art. 3
 
 
-#### Chapitre Ier : Des privilèges mobiliers<a id=526></a>
+#### Chapitre Ier : Des privilèges mobiliers<a id=515></a>
 
 ###### Article 2330
 
@@ -65713,7 +64744,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 1 : Des privilèges généraux<a id=527></a>
+##### Section 1 : Des privilèges généraux<a id=516></a>
 
 ###### Article 2331
 
@@ -65861,7 +64892,7 @@ _Cite_:
   - Code du travail - art. L980-11-1 (Ab)
 
 
-##### Section 2 : Des privilèges spéciaux<a id=528></a>
+##### Section 2 : Des privilèges spéciaux<a id=517></a>
 
 ###### Article 2332
 
@@ -65962,7 +64993,7 @@ _Cite_:
   - Code du travail - art. L721-1 (Ab)
 
 
-##### Section 3 : Du classement des privilèges<a id=529></a>
+##### Section 3 : Du classement des privilèges<a id=518></a>
 
 ###### Article 2332-1
 
@@ -66035,9 +65066,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
 
 
-#### Chapitre II : Du gage de meubles corporels<a id=530></a>
+#### Chapitre II : Du gage de meubles corporels<a id=519></a>
 
-##### Section 1 : Du droit commun du gage<a id=531></a>
+##### Section 1 : Du droit commun du gage<a id=520></a>
 
 ###### Article 2333
 
@@ -66437,7 +65468,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L523-1 (VD)
 
 
-##### Section 2 : Du gage portant sur un véhicule automobile.<a id=532></a>
+##### Section 2 : Du gage portant sur un véhicule automobile.<a id=521></a>
 
 ###### Article 2351
 
@@ -66502,7 +65533,7 @@ _Cite_:
   - Code civil - art. 2346 (V)
 
 
-##### Section 3 : Dispositions communes.<a id=533></a>
+##### Section 3 : Dispositions communes.<a id=522></a>
 
 ###### Article 2354
 
@@ -66520,7 +65551,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 11 () JORF 24 mars 2006
 
 
-#### Chapitre III : Du nantissement de meubles incorporels.<a id=534></a>
+#### Chapitre III : Du nantissement de meubles incorporels.<a id=523></a>
 
 ###### Article 2355
 
@@ -66756,9 +65787,9 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 12 () JORF 24 mars 2006
 
 
-#### Chapitre IV : De la propriété retenue ou cédée à titre de garantie.<a id=535></a>
+#### Chapitre IV : De la propriété retenue ou cédée à titre de garantie.<a id=524></a>
 
-##### Section 1 : De la propriété retenue à titre de garantie.<a id=536></a>
+##### Section 1 : De la propriété retenue à titre de garantie.<a id=525></a>
 
 ###### Article 2367
 
@@ -66838,7 +65869,7 @@ subrogée au bien.
   - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
-##### Section 2 : De la propriété cédée à titre de garantie.<a id=537></a>
+##### Section 2 : De la propriété cédée à titre de garantie.<a id=526></a>
 
 ###### Article 2372-1
 
@@ -66955,7 +65986,7 @@ _Cite_:
   - Code civil - art. 2372-2
 
 
-### Sous-titre III : Des sûretés sur les immeubles<a id=538></a>
+### Sous-titre III : Des sûretés sur les immeubles<a id=527></a>
 
 ###### Article 2373
 
@@ -66970,9 +66001,9 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 10
 
 
-#### Chapitre Ier : Des privilèges immobiliers<a id=539></a>
+#### Chapitre Ier : Des privilèges immobiliers<a id=528></a>
 
-##### Section 1 : Des privilèges spéciaux.<a id=540></a>
+##### Section 1 : Des privilèges spéciaux.<a id=529></a>
 
 ###### Article 2374
 
@@ -67091,7 +66122,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 2 : Des privilèges généraux.<a id=541></a>
+##### Section 2 : Des privilèges généraux.<a id=530></a>
 
 ###### Article 2375
 
@@ -67226,7 +66257,7 @@ _Cité par_:
   - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (V)
 
 
-##### Section 3 : Des cas où les privilèges doivent être inscrits<a id=542></a>
+##### Section 3 : Des cas où les privilèges doivent être inscrits<a id=531></a>
 
 ###### Article 2377
 
@@ -67705,7 +66736,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre II : Du gage immobilier.<a id=543></a>
+#### Chapitre II : Du gage immobilier.<a id=532></a>
 
 ###### Article 2387
 
@@ -67812,9 +66843,9 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 10
 
 
-#### Chapitre III : Des hypothèques<a id=544></a>
+#### Chapitre III : Des hypothèques<a id=533></a>
 
-##### Section 1 : Dispositions générales.<a id=545></a>
+##### Section 1 : Dispositions générales.<a id=534></a>
 
 ###### Article 2393
 
@@ -67997,9 +67028,9 @@ _Anciens textes_:
   - Code civil - art. 2120 (T)
 
 
-##### Section 2 : Des hypothèques légales<a id=546></a>
+##### Section 2 : Des hypothèques légales<a id=535></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=547></a>
+##### Sous-section 1 : Dispositions générales.<a id=536></a>
 
 ###### Article 2400
 
@@ -68093,7 +67124,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Sous-section 2 : Des règles particulières à l'hypothèque légale des époux.<a id=548></a>
+##### Sous-section 2 : Des règles particulières à l'hypothèque légale des époux.<a id=537></a>
 
 ###### Article 2402
 
@@ -68382,7 +67413,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=549></a>
+##### Sous-section 3 : Des règles particulières à l'hypothèque légale des personnes en tutelle.<a id=538></a>
 
 ###### Article 2409
 
@@ -68476,7 +67507,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 3 : Des hypothèques judiciaires<a id=550></a>
+##### Section 3 : Des hypothèques judiciaires<a id=539></a>
 
 ###### Article 2412
 
@@ -68523,7 +67554,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 4 : Des hypothèques conventionnelles<a id=551></a>
+##### Section 4 : Des hypothèques conventionnelles<a id=540></a>
 
 ###### Article 2413
 
@@ -68901,7 +67932,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 20 () JORF 24 mars 2006
 
 
-##### Section 5 : Du classement des hypothèques<a id=552></a>
+##### Section 5 : Du classement des hypothèques<a id=541></a>
 
 ###### Article 2425
 
@@ -68963,9 +67994,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre IV : De l'inscription des privilèges et des hypothèques<a id=553></a>
+#### Chapitre IV : De l'inscription des privilèges et des hypothèques<a id=542></a>
 
-##### Section 1 : Du mode d'inscription des privilèges et des hypothèques<a id=554></a>
+##### Section 1 : Du mode d'inscription des privilèges et des hypothèques<a id=543></a>
 
 ###### Article 2426
 
@@ -69587,9 +68618,9 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-##### Section 2 : De la radiation et de la réduction des inscriptions<a id=555></a>
+##### Section 2 : De la radiation et de la réduction des inscriptions<a id=544></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=556></a>
+##### Sous-section 1 : Dispositions générales.<a id=545></a>
 
 ###### Article 2440
 
@@ -69798,7 +68829,7 @@ _Anciens textes_:
   - Code civil - art. 2162 (T)
 
 
-##### Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle<a id=557></a>
+##### Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle<a id=546></a>
 
 ###### Article 2446
 
@@ -69920,7 +68951,7 @@ _Anciens textes_:
   - Code civil - art. 2165 (T)
 
 
-##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs<a id=558></a>
+##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs<a id=547></a>
 
 ###### Article 2449
 
@@ -70221,7 +69252,7 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=559></a>
+#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=548></a>
 
 ###### Article 2458
 
@@ -70607,7 +69638,7 @@ _Anciens textes_:
   - Code civil - art. 2179 (T)
 
 
-#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=560></a>
+#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=549></a>
 
 ###### Article 2475
 
@@ -70958,7 +69989,7 @@ _Anciens textes_:
   - Code civil - art. 2192 (T)
 
 
-#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=561></a>
+#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=550></a>
 
 ###### Article 2488
 
@@ -71009,7 +70040,7 @@ _Cite_:
   - Code civil - art. 2423 (V)
 
 
-#### Chapitre VIII : De la propriété cédée à titre de garantie<a id=562></a>
+#### Chapitre VIII : De la propriété cédée à titre de garantie<a id=551></a>
 
 ###### Article 2488-1
 
@@ -71141,7 +70172,7 @@ _Abrogé par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
-# Livre V : Dispositions applicables à Mayotte<a id=563></a>
+# Livre V : Dispositions applicables à Mayotte<a id=552></a>
 
 ###### Article 2489
 
@@ -71210,7 +70241,7 @@ _Modifié par_:
   - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 
-## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=564></a>
+## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=553></a>
 
 ###### Article 2491
 
@@ -71235,7 +70266,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
-## Titre Ier : Dispositions relatives au livre Ier<a id=565></a>
+## Titre Ier : Dispositions relatives au livre Ier<a id=554></a>
 
 ###### Article 2492
 
@@ -71475,7 +70506,7 @@ _Abrogé par_:
   - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 
-## Titre II : Dispositions relatives au livre II<a id=566></a>
+## Titre II : Dispositions relatives au livre II<a id=555></a>
 
 ###### Article 2500
 
@@ -71566,7 +70597,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre III : Dispositions relatives au livre III<a id=567></a>
+## Titre III : Dispositions relatives au livre III<a id=556></a>
 
 ###### Article 2503
 
@@ -71756,7 +70787,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=568></a>
+## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=557></a>
 
 ###### Article 2509
 
@@ -71779,9 +70810,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=569></a>
+### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=558></a>
 
-#### Section 1 : Dispositions générales<a id=570></a>
+#### Section 1 : Dispositions générales<a id=559></a>
 
 ###### Article 2510
 
@@ -71960,7 +70991,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=571></a>
+#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=560></a>
 
 ###### Article 2516
 
@@ -72084,7 +71115,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 3 : De l'inscription des droits sur l'immeuble<a id=572></a>
+#### Section 3 : De l'inscription des droits sur l'immeuble<a id=561></a>
 
 ###### Article 2521
 
@@ -72423,9 +71454,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre II : Dispositions diverses<a id=573></a>
+### Chapitre II : Dispositions diverses<a id=562></a>
 
-#### Section 1 : Privilèges et hypothèques<a id=574></a>
+#### Section 1 : Privilèges et hypothèques<a id=563></a>
 
 ###### Article 2530
 
@@ -72505,40 +71536,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : Expropriation forcée<a id=575></a>
-
-###### Article 2533
-
-Le créancier en possession d'un certificat nominatif d'inscription délivré par le conservateur de la propriété immobilière,
-ou d'un titre exécutoire peut, à défaut de paiement à l'échéance, poursuivre la vente par expropriation forcée des immeubles
-immatriculés de son débiteur affectés à la créance.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 167 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 17
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Code civil - art. 2327 (MMN)
-
-_Nouveaux textes_:
-
-  - Code des procédures civiles d'exécution - art. L612-5 (VD)
-
+#### Section 2 : Expropriation forcée<a id=564></a>
 
 ###### Article 2534
 
