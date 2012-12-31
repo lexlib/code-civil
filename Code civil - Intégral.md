@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2012-10-01
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -547,24 +547,25 @@ Version Consolidée au 2012-10-01
           - [Section 2 : De la radiation et de la réduction des inscriptions (art. 2440 à 2448)](#544)
             - [Sous-section 1 : Dispositions générales. (art. 2440 à 2445)](#545)
             - [Sous-section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle (art. 2446 à 2448)](#546)
-          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art. 2449 à 2457)](#547)
-        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#548)
-        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#549)
-        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#550)
-        - [Chapitre VIII : De la propriété cédée à titre de garantie (art. 2488-1 à 2488-6)](#551)
-  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#552)
-    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#553)
-    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#554)
-    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#555)
-    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#556)
-    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#557)
-      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#558)
-        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#559)
-        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#560)
-        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#561)
-      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#562)
-        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#563)
-        - [Section 2 : Expropriation forcée (art. 2534)](#564)
+          - [Section 3 : De la publicité des registres et de la responsabilité des conservateurs (art.  à 2448)](#547)
+          - [Section 3 : De la publicité des registres et de la responsabilité en matière de publicité foncière (art. 2449 à 2457)](#548)
+        - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#549)
+        - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#550)
+        - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#551)
+        - [Chapitre VIII : De la propriété cédée à titre de garantie (art. 2488-1 à 2488-6)](#552)
+  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#553)
+    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#554)
+    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#555)
+    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#556)
+    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#557)
+    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#558)
+      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#559)
+        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#560)
+        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#561)
+        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#562)
+      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#563)
+        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#564)
+        - [Section 2 : Expropriation forcée (art. 2534)](#565)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -23616,11 +23617,11 @@ _Codifié par_:
 ###### Article 515-5-3
 
 A défaut de dispositions contraires dans la convention, chaque partenaire est gérant de l'indivision et peut exercer les
-pouvoirs reconnus par les articles 1873-6 à 1873-8.
+pouvoirs reconnus par les articles 1873-6 à 1873-8. 
 
 Pour l'administration des biens indivis, les partenaires peuvent conclure une convention relative à l'exercice de leurs
 droits indivis dans les conditions énoncées aux articles 1873-1 à 1873-15. A peine d'inopposabilité, cette convention est, à
-l'occasion de chaque acte d'acquisition d'un bien soumis à publicité foncière, publiée à la conservation des hypothèques.
+l'occasion de chaque acte d'acquisition d'un bien soumis à publicité foncière, publiée au fichier immobilier. 
 
 Par dérogation à l'article 1873-3, la convention d'indivision est réputée conclue pour la durée du pacte civil de solidarité.
 Toutefois, lors de la dissolution du pacte, les partenaires peuvent décider qu'elle continue de produire ses effets. Cette
@@ -23628,13 +23629,9 @@ décision est soumise aux dispositions des articles 1873-1 à 1873-15.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
 _Modifié par_:
 
-  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Cité par_:
 
@@ -23642,8 +23639,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 1873-3 (V)
-  - Code civil 1873-6 à 1873-8, 1873-1 à 1873-15, 1873-3
+  - Code civil - art. 1873-1
+  - Code civil - art. 1873-3
+  - Code civil - art. 1873-6
 
 
 ###### Article 515-6
@@ -36033,8 +36031,8 @@ _Modifié par_:
 ###### Article 939
 
 Lorsqu'il y aura donation de biens susceptibles d'hypothèques, la publication des actes contenant la donation et
-l'acceptation, ainsi que la notification de l'acceptation qui aurait eu lieu par acte séparé, devra être faite aux bureaux
-des hypothèques dans l'arrondissement desquels les biens sont situés.
+l'acceptation, ainsi que la notification de l'acceptation qui aurait eu lieu par acte séparé, devra être faite            au
+service chargé de la publicité foncière de la situation des biens.
 
 **Liens relatifs à cet article**
 
@@ -36043,13 +36041,9 @@ _Cité par_:
   - Décret n°55-22 du 4 janvier 1955 - art. 30 (VD)
   - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 
 ###### Article 940
@@ -36423,7 +36417,7 @@ _Modifié par_:
 
 La révocation pour cause d'ingratitude ne préjudiciera ni aux aliénations faites par le donataire, ni aux hypothèques et
 autres charges réelles qu'il aura pu imposer sur l'objet de la donation, pourvu que le tout soit antérieur à la publication,
-au bureau des hypothèques de la situation des biens, de la demande en révocation.
+au fichier immobilier, de la demande en révocation. 
 
 Dans le cas de révocation, le donataire sera condamné à restituer la valeur des objets aliénés, eu égard au temps de la
 demande, et les fruits, à compter du jour de cette demande.
@@ -36435,13 +36429,9 @@ _Cité par_:
   - Décret du 18 novembre 1924 - art. 25 (Ab)
   - Décret n°2009-1193 du 7 octobre 2009 - art. 75 (V)
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 
 ###### Article 959
@@ -52027,26 +52017,22 @@ _Modifié par_:
 
 Le vendeur qui use du pacte de rachat doit rembourser non seulement le prix principal, mais encore les frais et loyaux coûts
 de la vente, les réparations nécessaires, et celles qui ont augmenté la valeur du fonds, jusqu'à concurrence de cette
-augmentation. Il ne peut entrer en possession qu'après avoir satisfait à toutes ces obligations.
+augmentation. Il ne peut entrer en possession qu'après avoir satisfait à toutes ces obligations. 
 
 Lorsque le vendeur rentre dans son héritage par l'effet du pacte de rachat, il le reprend, exempt de toutes les charges et
-hypothèques dont l'acquéreur l'aurait grevé, à la condition que ce pacte ait été régulièrement publié au bureau des
-hypothèques, antérieurement à la publication desdites charges et hypothèques. Il est tenu d'exécuter les baux faits sans
+hypothèques dont l'acquéreur l'aurait grevé, à la condition que ce pacte ait été régulièrement publié   au fichier
+immobilier, antérieurement à la publication desdites charges et hypothèques. Il est tenu d'exécuter les baux faits sans
 fraude par l'acquéreur.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
+
 _Cité par_:
 
   - Code civil - art. 1659 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-06
-
-_Créé par_:
-
-  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
 #### Section 2 : De la rescision de la vente pour cause de lésion.<a id=407></a>
@@ -66195,18 +66181,14 @@ _Cité par_:
 ###### Article 2377
 
 Entre les créanciers, les privilèges ne produisent d'effet à l'égard des immeubles qu'autant qu'ils sont rendus publics par
-une inscription à la conservation des hypothèques, de la manière déterminée par les articles suivants et par les articles
-2426 et 2428.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+une inscription    au fichier immobilier, de la manière déterminée par les articles suivants et par les articles 2426 et
+2428.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
@@ -66214,16 +66196,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2426 (V)
-  - Code civil - art. 2428 (V)
+  - Code civil - art. 2426
+  - Code civil - art. 2428
 
 _Cité par_:
 
   - Code civil - art. 2508 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ###### Article 2378
@@ -67870,7 +67848,7 @@ _Créé par_:
 ###### Article 2425
 
 Entre les créanciers, l'hypothèque, soit légale, soit judiciaire, soit conventionnelle, n'a rang que du jour de l'inscription
-prise par le créancier à la conservation des hypothèques, dans la forme et de la manière prescrites par la loi. 
+prise par le créancier    au fichier immobilier, dans la forme et de la manière prescrites par la loi. 
 
 Lorsque plusieurs inscriptions sont requises le même jour relativement au même immeuble, celle qui est requise en vertu du
 titre portant la date la plus ancienne est réputée d'un rang antérieur, quel que soit l'ordre qui résulte du registre prévu à
@@ -67907,8 +67885,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-1640 du 21 décembre 2006 - art. 39 () JORF 22 décembre 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 7 (V) JORF 27 décembre 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
@@ -67917,14 +67894,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2383 (V)
-  - Code civil - art. 2386 (V)
-  - Code civil - art. 2400 (V)
-  - Code civil - art. 2453 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
+  - Code civil - art. 2383
+  - Code civil - art. 2386
+  - Code civil - art. 2400
+  - Code civil - art. 2453
 
 
 #### Chapitre IV : De l'inscription des privilèges et des hypothèques<a id=542></a>
@@ -67933,22 +67906,18 @@ _Codifié par_:
 
 ###### Article 2426
 
-Sont inscrits au bureau des hypothèques de la situation des biens : 
+Sont inscrits au service chargé de la publicité foncière de la situation des biens : 
 
 1° Les privilèges sur les immeubles, sous réserve des seules exceptions visées à l'article 2378 ; 
 
 2° Les hypothèques légales, judiciaires ou conventionnelles.
 
-L'inscription qui n'est jamais faite d'office par le conservateur, ne peut avoir lieu que pour une somme et sur des immeubles
+L'inscription qui n'est jamais faite d'office par ce service, ne peut avoir lieu que pour une somme et sur des immeubles
 déterminés, dans les conditions fixées par l'article 2428. 
 
 En toute hypothèse, les immeubles sur lesquels l'inscription est requise doivent être individuellement désignés, avec
 indication de la commune où ils sont situés, à l'exclusion de toute désignation générale, même limitée à une circonscription
 territoriale donnée.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -67966,13 +67935,9 @@ _Cité par_:
   - Code civil - art. 2412 (V)
   - Code civil - art. 2418 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
@@ -67980,8 +67945,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2378 (V)
-  - Code civil - art. 2428 (V)
+  - Code civil - art. 2378
+  - Code civil - art. 2428
 
 
 ###### Article 2427
@@ -68039,15 +68004,15 @@ _Codifié par_:
 
 ###### Article 2428
 
-L'inscription des privilèges et hypothèques est opérée par le conservateur des hypothèques sur le dépôt de deux bordereaux
-datés, signés et certifiés conformes entre eux par le signataire du certificat d'identité prévu aux articles 5 et 6 du décret
-du 4 janvier 1955 ; un décret en Conseil d'Etat détermine les conditions de forme auxquelles le bordereau destiné à être
-conservé au bureau des hypothèques doit satisfaire. Au cas où l'inscrivant ne se serait pas servi d'une formule
-réglementaire, le conservateur accepterait cependant le dépôt, sous réserve des dispositions de l'avant-dernier alinéa du
-présent article. 
+L'inscription des privilèges et hypothèques est opérée par le service chargé de la publicité foncière sur le dépôt de deux
+bordereaux datés, signés et certifiés conformes entre eux par le signataire du certificat d'identité prévu aux articles 5 et
+6 du décret du 4 janvier 1955 ; un décret en Conseil d'Etat détermine les conditions de forme auxquelles le bordereau destiné
+à être conservé par ce service doit satisfaire. Au cas où l'inscrivant ne se serait pas servi d'une formule réglementaire, le
+service chargé de la publicité foncière accepterait cependant le dépôt, sous réserve des dispositions de l'avant-dernier
+alinéa du présent article. 
 
 Toutefois, pour l'inscription des hypothèques et sûretés judiciaires, le créancier présente en outre, soit par lui-même, soit
-par un tiers, au conservateur des hypothèques : 
+par un tiers, audit service : 
 
 1° L'original, une expédition authentique ou un extrait littéral de la décision judiciaire donnant naissance à l'hypothèque,
 lorsque celle-ci résulte des dispositions de l'article 2123 ; 
@@ -68063,12 +68028,12 @@ Le dépôt est refusé :
 2° A défaut de la mention visée de la certification de l'identité des parties prescrite par les articles 5 et 6 du décret du
 4 janvier 1955, ou si les immeubles ne sont pas individuellement désignés, avec indication de la commune où ils sont situés. 
 
-Si le conservateur, après avoir accepté le dépôt, constate l'omission d'une des mentions prescrites, ou une discordance
-entre, d'une part, les énonciations relatives à l'identité des parties ou à la désignation des immeubles contenues dans le
-bordereau, et, d'autre part, ces mêmes énonciations contenues dans les bordereaux ou titres déjà publiés depuis le 1er
-janvier 1956, la formalité est rejetée, à moins que le requérant ne régularise le bordereau ou qu'il ne produise les
-justifications établissant son exactitude, auxquels cas la formalité prend rang à la date de la remise du bordereau constatée
-au registre de dépôts. 
+Si le service chargé de la publicité foncière, après avoir accepté le dépôt, constate l'omission d'une des mentions
+prescrites, ou une discordance entre, d'une part, les énonciations relatives à l'identité des parties ou à la désignation des
+immeubles contenues dans le bordereau, et, d'autre part, ces mêmes énonciations contenues dans les bordereaux ou titres déjà
+publiés depuis le 1er janvier 1956, la formalité est rejetée, à moins que le requérant ne régularise le bordereau ou qu'il ne
+produise les justifications établissant son exactitude, auxquels cas la formalité prend rang à la date de la remise du
+bordereau constatée au registre de dépôts. 
 
 La formalité est également rejetée lorsque les bordereaux comportent un montant de créance garantie supérieur à celui
 figurant dans le titre pour les hypothèques et sûretés judiciaires ainsi que, dans l'hypothèse visée au premier alinéa du
@@ -68081,8 +68046,8 @@ Le décret prévu ci-dessus détermine les modalités du refus du dépôt ou du 
 
 _Cite_:
 
-  - Décret n°55-22 du 4 janvier 1955 (V)
-  - Code civil - art. 2123 (T)
+  - Décret n°55-22 du 4 janvier 1955
+  - Code civil - art. 2123
 
 _Cité par_:
 
@@ -68126,16 +68091,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-201 du 15 février 2007 - art. 1 () JORF 16 février 2007
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
   - Code civil - art. 2148 (M)
   - Code civil - art. 2148 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ###### Article 2429
@@ -68168,7 +68129,7 @@ _Créé par_:
 
 ###### Article 2430
 
-Sont publiées par le conservateur, sous forme de mentions en marge des inscriptions existantes, les subrogations aux
+Sont publiées au fichier immobilier, sous forme de mentions en marge des inscriptions existantes, les subrogations aux
 privilèges et hypothèques, mainlevées, réductions, cessions d'antériorité et transferts qui ont été consentis, prorogations
 de délais, changements de domicile et, d'une manière générale, toutes modifications, notamment dans la personne du créancier
 bénéficiaire de l'inscription, qui n'ont pas pour effet d'aggraver la situation du débiteur. 
@@ -68179,21 +68140,18 @@ créances privilégiées ou hypothécaires.
 Sont publiées sous la même forme les conventions qui doivent l'être en application de l'article 2422. 
 
 Les actes et décisions judiciaires constatant ces différentes conventions ou dispositions et les copies, extraits ou
-expéditions déposés au bureau des hypothèques en vue de l'exécution des mentions doivent contenir la désignation des parties
-conformément au premier alinéa des articles 5 et 6 du décret du 4 janvier 1955. Cette désignation n'a pas à être certifiée. 
+expéditions déposés au service chargé de la publicité foncière en vue de l'exécution des mentions doivent contenir la
+désignation des parties conformément au premier alinéa des articles 5 et 6 du décret du 4 janvier 1955. Cette désignation n'a
+pas à être certifiée. 
 
 En outre, au cas où la modification mentionnée ne porte que sur parties des immeubles grevés, lesdits immeubles doivent, sous
 peine de refus du dépôt, être individuellement désignés.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°55-22 du 4 janvier 1955 (V)
+  - Décret n°55-22 du 4 janvier 1955
 
 _Cité par_:
 
@@ -68211,39 +68169,28 @@ _Cité par_:
   - Code civil - art. 1069 (Ab)
   - Code civil - art. 2422 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 24 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
   - Code civil - art. 2149 (T)
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
 
 ###### Article 2431
 
-Le conservateur fait mention, sur le registre prescrit par l'article 2453 ci-après, du dépôt des bordereaux, et remet au
-requérant, tant le titre ou l'expédition du titre, que l'un des bordereaux, au pied duquel il mentionne la date du dépôt, le
-volume et le numéro sous lesquels le bordereau destiné aux archives a été classé. 
+Le service chargé de la publicité foncière fait mention, sur le registre prescrit par l'article 2453 ci-après, du dépôt des
+bordereaux, et remet au requérant, tant le titre ou l'expédition du titre, que l'un des bordereaux, au pied duquel il
+mentionne la date du dépôt, le volume et le numéro sous lesquels le bordereau destiné aux archives a été classé. 
 
-La date de l'inscription est déterminée par la mention portée sur le registre des dépôts. 
-
-Les bordereaux destinés aux archives seront reliés sans déplacement par les soins et aux frais des conservateurs.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+La date de l'inscription est déterminée par la mention portée sur le registre des dépôts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Cité par_:
 
@@ -68256,11 +68203,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2453 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
+  - Code civil - art. 2453
 
 
 ###### Article 2432
@@ -68300,28 +68243,20 @@ _Anciens textes_:
 ###### Article 2433
 
 Il est loisible à celui qui a requis une inscription ainsi qu'à ses représentants ou cessionnaires par acte authentique de
-changer au bureau des hypothèques le domicile par lui élu dans cette inscription, à la charge d'en choisir et indiquer un
-autre situé en France métropolitaine, dans les départements d'outre-mer ou dans la collectivité territoriale de Saint-Pierre-
-et-Miquelon.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+changer au service chargé de la publicité foncière le domicile par lui élu dans cette inscription, à la charge d'en choisir
+et indiquer un autre situé en France métropolitaine, dans les départements d'outre-mer ou dans la collectivité territoriale
+de Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
   - Code civil - art. 2152 (M)
   - Code civil - art. 2152 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
 ###### Article 2434
@@ -68596,16 +68531,16 @@ _Codifié par_:
 
 ###### Article 2441
 
-Dans l'un et l'autre cas, ceux qui requièrent la radiation déposent au bureau du conservateur l'expédition de l'acte
-authentique portant consentement, ou celle du jugement.
+Dans l'un et l'autre cas, ceux qui requièrent la radiation déposent au service chargé de la publicité foncière l'expédition
+de l'acte authentique portant consentement, ou celle du jugement.
 
 Aucune pièce justificative n'est exigée à l'appui de l'expédition de l'acte authentique en ce qui concerne les énonciations
 établissant l'état, la capacité et la qualité des parties, lorsque ces énonciations sont certifiées exactes dans l'acte par
 le notaire ou l'autorité administrative.
 
-La radiation de l'inscription peut être requise par le dépôt au bureau du conservateur d'une copie authentique de l'acte
-notarié certifiant que le créancier a, à la demande du débiteur, donné son accord à cette radiation ; le contrôle du
-conservateur se limite à la régularité formelle de l'acte à l'exclusion de sa validité au fond.
+La radiation de l'inscription peut être requise par le dépôt au service chargé de la publicité foncière d'une copie
+authentique de l'acte notarié certifiant que le créancier a, à la demande du débiteur, donné son accord à cette radiation ;
+le contrôle opéré par ce service se limite à la régularité formelle de l'acte à l'exclusion de sa validité au fond.
 
 **Liens relatifs à cet article**
 
@@ -68617,15 +68552,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-212 du 20 février 2007 - art. 10 (V)
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
   - Code civil - art. 2158 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ###### Article 2442
@@ -68886,11 +68817,13 @@ _Anciens textes_:
 
 ##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs<a id=547></a>
 
+##### Section 3 : De la publicité des registres et de la responsabilité en matière de publicité foncière<a id=548></a>
+
 ###### Article 2449
 
-Les conservateurs des hypothèques sont tenus de délivrer, à tous ceux qui le requièrent, copie ou extrait des documents,
-autres que les bordereaux d'inscription, déposés à leur bureau dans la limite des cinquante années précédant celle de la
-réquisition, et copie ou extrait des inscriptions subsistantes ou certificat qu'il n'existe aucun document ou inscription
+Les services chargés de la publicité foncière sont tenus de délivrer, à tous ceux qui le requièrent, copie ou extrait des
+documents, autres que les bordereaux d'inscription, qui y sont déposés dans la limite des cinquante années précédant celle de
+la réquisition, et copie ou extrait des inscriptions subsistantes ou certificat qu'il n'existe aucun document ou inscription
 entrant dans le cadre de la réquisition.
 
 Ils sont également tenus de délivrer sur réquisition, dans un délai de dix jours, des copies ou extraits du fichier
@@ -68913,13 +68846,9 @@ _Cité par_:
   - Code de la consommation - art. R742-43 (V)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 2
 
 _Anciens textes_:
 
@@ -68928,13 +68857,19 @@ _Anciens textes_:
 
 ###### Article 2450
 
-Ils sont responsables du préjudice résultant :
+I. - L'Etat est responsable du préjudice résultant des fautes commises par chaque service chargé de la publicité foncière
+dans l'exécution de ses attributions, notamment : 
 
-1° Du défaut de publication des actes et décisions judiciaires déposés à leurs bureaux, et des inscriptions requises, toute
-les fois que ce défaut de publication ne résulte pas d'une décision de refus ou de rejet ;
+1° Du défaut de publication des actes et décisions judiciaires déposés dans les services chargés de la publicité foncière et
+des inscriptions requises, toutes les fois que ce défaut de publication ne résulte pas d'une décision de refus ou de rejet ; 
 
-2° De l'omission, dans les certificats qu'ils délivrent, d'une ou de plusieurs des inscriptions existantes, à moins dans ce
-dernier cas, que l'erreur ne provînt de désignations insuffisantes ou inexactes qui ne pourraient leur être imputées.
+2° De l'omission, dans les certificats délivrés par les services chargés de la publicité foncière, d'une ou plusieurs des
+inscriptions existantes, à moins dans ce dernier cas que l'erreur ne provienne de désignations insuffisantes ou inexactes qui
+ne pourraient leur être imputées. 
+
+II. - L'action en responsabilité de l'Etat pour les fautes commises par chaque service chargé de la publicité foncière est
+exercée devant le juge judiciaire et, sous peine de forclusion, dans le délai de dix ans suivant le jour où la faute a été
+commise.
 
 **Liens relatifs à cet article**
 
@@ -68946,13 +68881,9 @@ _Cité par_:
   - Loi n°87-571 du 23 juillet 1987 - art. 25 (VD)
   - Code de l'organisation judiciaire - art. R211-7-1 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 3
 
 _Anciens textes_:
 
@@ -68961,18 +68892,18 @@ _Anciens textes_:
 
 ###### Article 2451
 
-Lorsque le conservateur, délivrant un certificat au nouveau titulaire d'un droit visé à l'article 2476, omet une inscription
-de privilège ou d'hypothèque, le droit demeure dans les mains du nouveau titulaire, affranchi du privilège ou de l'hypothèque
-non révélé, pourvu que la délivrance du certificat ait été requise par l'intéressé en conséquence de la publication de son
-titre. Sans préjudice de son recours éventuel contre le conservateur, le créancier bénéficiaire de l'inscription omise ne
-perd pas le droit de se prévaloir du rang que cette inscription lui confère tant que le prix n'a pas été payé par l'acquéreur
-ou que l'intervention dans l'ordre ouvert entre les autres créanciers est autorisée.
+Lorsque le service chargé de la publicité foncière, délivrant un certificat au nouveau titulaire d'un droit visé à l'article
+2476, omet une inscription de privilège ou d'hypothèque, le droit demeure dans les mains du nouveau titulaire, affranchi du
+privilège ou de l'hypothèque non révélé, pourvu que la délivrance du certificat ait été requise par l'intéressé en
+conséquence de la publication de son titre. Sans préjudice de son recours éventuel contre l'Etat, le créancier bénéficiaire
+de l'inscription omise ne perd pas le droit de se prévaloir du rang que cette inscription lui confère tant que le prix n'a
+pas été payé par l'acquéreur ou que l'intervention dans l'ordre ouvert entre les autres créanciers est autorisée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 4
 
 _Anciens textes_:
 
@@ -68980,48 +68911,40 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2476 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
+  - Code civil - art. 2476
 
 
 ###### Article 2452
 
 En dehors des cas où ils sont fondés à refuser le dépôt ou à rejeter une formalité, conformément aux dispositions
-législatives ou réglementaires, sur la publicité foncière, les conservateurs ne peuvent refuser ni retarder l'exécution d'une
-formalité ni la délivrance des documents régulièrement requis, sous peine des dommages et intérêts des parties ; à l'effet de
-quoi, procès-vebaux des refus ou retardements seront, à la diligence des requérants, dressés sur-le-champ, soit par un juge
-du tribunal d'instance, soit par un huissier audiencier du tribunal, soit par un autre huissier ou un notaire assisté de deux
-témoins.
+législatives ou réglementaires, sur la publicité foncière, les services chargés de la publicité foncière ne peuvent refuser
+ni retarder l'exécution d'une formalité ni la délivrance des documents régulièrement requis, sous peine des dommages et
+intérêts des parties ; à l'effet de quoi, procès-vebaux des refus ou retardements seront, à la diligence des requérants,
+dressés sur-le-champ, soit par un juge du tribunal d'instance, soit par un huissier audiencier du tribunal, soit par un autre
+huissier ou un notaire assisté de deux témoins.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 4
 
 _Anciens textes_:
 
   - Code civil - art. 2199 (T)
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
 
 ###### Article 2453
 
-Les conservateurs seront tenus d'avoir un registre sur lequel ils inscriront, jour par jour, et par ordre numérique, les
-remises qui leur seront faites d'actes, décisions judiciaires, bordereaux et, généralement, de documents déposés en vue de
-l'exécution d'une formalité de publicité.
+Les services chargés de la publicité foncière seront tenus d'avoir un registre sur lequel ils inscriront, jour par jour, et
+par ordre numérique, les remises qui leur seront faites d'actes, décisions judiciaires, bordereaux et, généralement, de
+documents déposés en vue de l'exécution d'une formalité de publicité.
 
 Ils ne pourront exécuter les formalités qu'à la date et dans l'ordre des remises qui leur auront été faites.
 
 Chaque année, une reproduction des registres clôturés pendant l'année précédente sera déposée sans frais au greffe d'un
-tribunal de grande instance ou d'un tribunal d'instance situés dans un arrondissement autre que celui où réside le
-conservateur. 
+tribunal de grande instance ou d'un tribunal d'instance situés dans un arrondissement autre que celui où réside le service
+chargé de la publicité foncière. 
 
 Le tribunal au greffe duquel sera déposée la reproduction sera désigné par arrêté du ministre de la justice.
 
@@ -69050,17 +68973,13 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R321-7 (VD)
   - Code des procédures civiles d'exécution - art. R612-5 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 4
 
 _Anciens textes_:
 
   - Code civil - art. 2200 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ###### Article 2454
@@ -69092,74 +69011,12 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-###### Article 2455
-
-Les conservateurs sont tenus de se conformer, dans l'exercice de leurs fonctions, à toutes les dispositions du présent
-chapitre, à peine d'une amende de 30 à 300 euros pour la première contravention, et de destitution pour la seconde ; sans
-préjudice des dommages et intérêts des parties, lesquels seront payés avant l'amende.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-_Cité par_:
-
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-  - Code de l'industrie cinématographique - art. 37 (Ab)
-  - Code du cinéma et de l'image animée - art. L125-1 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 15 (VD)
-
-_Anciens textes_:
-
-  - Code civil - art. 2202 (M)
-  - Code civil - art. 2202 (T)
-
-
-###### Article 2456
-
-Les mentions de dépôts sont faites sur le registre dont la tenue est prescrite par l'article 2453, de suite, sans aucun blanc
-ni interligne, à peine, contre le conservateur, de 60 à 600 euros d'amende, et des dommages et intérêts des parties, payables
-aussi par préférence à l'amende.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 15 (VD)
-
-_Anciens textes_:
-
-  - Code civil - art. 2203 (M)
-  - Code civil - art. 2203 (T)
-
-_Cite_:
-
-  - Code civil - art. 2453
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-
 ###### Article 2457
 
-Dans les bureaux des hypothèques dont le registre est tenu conformément aux dispositions du deuxième alinéa de l'article
-2454, il est délivré un certificat des formalités acceptées au dépôt et en instance d'enregistrement au fichier immobilier
-sur les immeubles individuellement désignés dans la demande de renseignements. Un décret en Conseil d'Etat précise le contenu
-de ce certificat.
+Dans les services chargés de la publicité foncière dont le registre est tenu conformément aux dispositions du deuxième alinéa
+de l'article 2454, il est délivré un certificat des formalités acceptées au dépôt et en instance d'enregistrement au fichier
+immobilier sur les immeubles individuellement désignés dans la demande de renseignements. Un décret en Conseil d'Etat précise
+le contenu de ce certificat.
 
 **Liens relatifs à cet article**
 
@@ -69168,9 +69025,9 @@ _Cité par_:
   - Décret n°55-22 du 4 janvier 1955 - art. 8-1 (VD)
   - Décret n°55-1350 du 14 octobre 1955 - art. 53-8 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 4
 
 _Anciens textes_:
 
@@ -69178,14 +69035,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2454 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
+  - Code civil - art. 2454
 
 
-#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=548></a>
+#### Chapitre V : De l'effet des privilèges et des hypothèques<a id=549></a>
 
 ###### Article 2458
 
@@ -69571,7 +69424,7 @@ _Anciens textes_:
   - Code civil - art. 2179 (T)
 
 
-#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=549></a>
+#### Chapitre VI : De la purge des privilèges et des hypothèques<a id=550></a>
 
 ###### Article 2475
 
@@ -69597,8 +69450,8 @@ _Modifié par_:
 ###### Article 2476
 
 Les contrats translatifs de la propriété d'immeubles ou droits réels immobiliers que les tiers détenteurs voudront purger de
-privilèges et hypothèques, seront publiés au bureau des hypothèques de la situation des biens, conformément aux lois et
-règlements concernant la publicité foncière.
+privilèges et hypothèques, seront publiés au service chargé de la publicité foncière de la situation des biens, conformément
+aux lois et règlements concernant la publicité foncière.
 
 **Liens relatifs à cet article**
 
@@ -69612,42 +69465,34 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
   - Code civil - art. 2181 (T)
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
 
 ###### Article 2477
 
-La simple publication au bureau des hypothèques des titres translatifs de propriété ne purge pas les hypothèques et
-privilèges établis sur l'immeuble.
+La simple publication au service chargé de la publicité foncière des titres translatifs de propriété ne purge pas les
+hypothèques et privilèges établis sur l'immeuble.
 
 Le vendeur ne transmet à l'acquéreur que la propriété et les droits qu'il avait lui-même sur la chose vendue : il les
 transmet sous l'affectation des mêmes privilèges et hypothèques dont la chose vendue était grevée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code civil - art. 2182 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
 _Modifié par_:
 
-  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Cité par_:
 
   - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
+
+_Anciens textes_:
+
+  - Code civil - art. 2182 (T)
 
 
 ###### Article 2478
@@ -69808,18 +69653,14 @@ _Anciens textes_:
 ###### Article 2483
 
 L'adjudicataire est tenu, au-delà du prix de son adjudication, de restituer à l'acquéreur ou au donataire dépossédé les frais
-et loyaux coûts de son contrat, ceux de la publication au bureau des hypothèques, ceux de notification et ceux faits par lui
-pour parvenir à la revente.
+et loyaux coûts de son contrat, ceux de la publication au fichier immobilier, ceux de notification et ceux faits par lui pour
+parvenir à la revente.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
 _Modifié par_:
 
-  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
@@ -69893,10 +69734,10 @@ _Modifié par_:
 ###### Article 2487
 
 Dans le cas où le titre du nouveau propriétaire comprendrait des immeubles et des meubles, ou plusieurs immeubles, les uns
-hypothéqués, les autres non hypothéqués, situés dans le même ou dans divers arrondissements de bureaux, aliénés pour un seul
-et même prix, ou pour des prix distincts et séparés, soumis ou non à la même exploitation, le prix de chaque immeuble frappé
-d'inscriptions particulières et séparées, sera déclaré dans la notification du nouveau propriétaire, par ventilation, s'il y
-a lieu, du prix total exprimé dans le titre.
+hypothéqués, les autres non hypothéqués, situés dans le même ou relevant du ressort territorial de plusieurs services chargés
+de la publicité foncière, aliénés pour un seul et même prix, ou pour des prix distincts et séparés, soumis ou non à la même
+exploitation, le prix de chaque immeuble frappé d'inscriptions particulières et séparées, sera déclaré dans la notification
+du nouveau propriétaire, par ventilation, s'il y a lieu, du prix total exprimé dans le titre.
 
 Le créancier surenchérisseur ne pourra, en aucun cas, être contraint d'étendre sa soumission ni sur le mobilier, ni sur
 d'autres immeubles que ceux qui sont hypothéqués à sa créance et situés dans le même arrondissement ; sauf le recours du
@@ -69905,13 +69746,9 @@ acquisition, soit de celle des exploitations.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
 _Modifié par_:
 
-  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Cité par_:
 
@@ -69922,7 +69759,7 @@ _Anciens textes_:
   - Code civil - art. 2192 (T)
 
 
-#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=550></a>
+#### Chapitre VII : De l'extinction des privilèges et des hypothèques<a id=551></a>
 
 ###### Article 2488
 
@@ -69941,7 +69778,7 @@ actions qui donnent l'hypothèque ou le privilège.
 
 Quant aux biens qui sont dans la main d'un tiers détenteur, elle lui est acquise par le temps réglé pour la prescription de
 la propriété à son profit : dans le cas où la prescription suppose un titre, elle ne commence à courir que du jour où ce
-titre a été publié au bureau des hypothèques de la situation des immeubles. 
+titre a été publié au fichier immobilier. 
 
 Les inscriptions prises par le créancier n'interrompent pas le cours de la prescription établie par la loi en faveur du
 débiteur ou du tiers détenteur. 
@@ -69950,18 +69787,13 @@ débiteur ou du tiers détenteur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
 _Cité par_:
 
   - Loi n°46-994 du 11 mai 1946 - art. 35 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 33 () JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 11
 
 _Anciens textes_:
 
@@ -69969,11 +69801,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2422 (V)
-  - Code civil - art. 2423 (V)
+  - Code civil - art. 2422
+  - Code civil - art. 2423
 
 
-#### Chapitre VIII : De la propriété cédée à titre de garantie<a id=551></a>
+#### Chapitre VIII : De la propriété cédée à titre de garantie<a id=552></a>
 
 ###### Article 2488-1
 
@@ -70105,7 +69937,7 @@ _Abrogé par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
-# Livre V : Dispositions applicables à Mayotte<a id=552></a>
+# Livre V : Dispositions applicables à Mayotte<a id=553></a>
 
 ###### Article 2489
 
@@ -70129,28 +69961,27 @@ _Codifié par_:
 
 ###### Article 2490
 
-Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit : 
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par : " tribunal de première instance " ; 
+1° " Tribunal de grande instance " ou " tribunal d'instance " par : " tribunal de première instance " ;
 
-2° " Cour " ou " cour d'appel " par : "chambre d'appel de Mamoudzou" ; 
+2° " Cour " ou " cour d'appel " par : " chambre d'appel de Mamoudzou " ;
 
-3° " Juge d'instance " par : " président du tribunal de première instance ou son délégué " ; 
+3° " Juge d'instance " par : " président du tribunal de première instance ou son délégué " ;
 
-4° " Département " ou " arrondissement " par : " collectivité départementale " ; 
+4° " Département " ou " arrondissement " par : " collectivité départementale " ;
 
 5° (Supprimé) ;
 
-6° " Décret du 4 janvier 1955 " par : " dispositions du titre IV du livre IV " ; 
+6° " Décret du 4 janvier 1955 " par : " dispositions du titre IV du livre IV " ;
 
-7° " Bureau des hypothèques " ou " conservation des hypothèques " par : " service de la conservation de la propriété
-immobilière " ; 
+7° " Service chargé de la publicité foncière " par : " service de la conservation de la propriété immobilière " ;
 
-8° " Conservateur des hypothèques " par : " conservateur de la propriété immobilière " ; 
+8° (Supprimé) ;
 
-9° " Inscription à la conservation des hypothèques " par : " inscription au livre foncier " ; 
+9° " Inscription au service chargé de la publicité foncière " par : " inscription au livre foncier " ;
 
-10° " Fichier immobilier " par : " livre foncier ".
+10° " Fichier immobilier " par : " livre foncier " .
 
 **Nota:**
 
@@ -70160,21 +69991,17 @@ compétences fixées entre ces juridictions par le code de l'organisation judici
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 12
+
 _Anciens textes_:
 
   - Code civil - art. 2285 (M)
   - Code civil - art. 2285 (T)
 
-_Codifié par_:
 
-  - Loi n°1804-03-15
-
-_Modifié par_:
-
-  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
-
-
-## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=553></a>
+## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=554></a>
 
 ###### Article 2491
 
@@ -70199,7 +70026,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
-## Titre Ier : Dispositions relatives au livre Ier<a id=554></a>
+## Titre Ier : Dispositions relatives au livre Ier<a id=555></a>
 
 ###### Article 2492
 
@@ -70439,7 +70266,7 @@ _Abrogé par_:
   - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 
-## Titre II : Dispositions relatives au livre II<a id=555></a>
+## Titre II : Dispositions relatives au livre II<a id=556></a>
 
 ###### Article 2500
 
@@ -70530,7 +70357,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre III : Dispositions relatives au livre III<a id=556></a>
+## Titre III : Dispositions relatives au livre III<a id=557></a>
 
 ###### Article 2503
 
@@ -70629,18 +70456,18 @@ participé directement et effectivement à l'activité de l'entreprise pendant a
 " Les droits de créance précités sont d'un montant égal à trois fois le salaire minimum interprofessionnel garanti annuel en
 vigueur au jour du décès dans la limite de 25 % de l'actif successoral et, le cas échéant, le montant des droits propres du
 conjoint survivant dans les opérations de partage successoral et de liquidation du régime matrimonial est diminué de celui de
-cette créance. Pour la liquidation des droits de succession, cette créance s'ajoute à la part du conjoint survivant " ; 
+cette créance. Pour la liquidation des droits de succession, cette créance s'ajoute à la part du conjoint survivant ; " ; 
 
 d) Le cinquième alinéa est remplacé par les dispositions suivantes : 
 
-" Les rémunérations pour les six derniers mois des salariés et apprentis " ; 
+" Les rémunérations pour les six derniers mois des salariés et apprentis ; " ; 
 
 e) Le sixième alinéa n'est pas applicable ; 
 
 f) Le septième alinéa est remplacé par les dispositions suivantes : 
 
 " L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-21 du code du travail applicable dans
-la collectivité départementale de Mayotte " ; 
+la collectivité départementale de Mayotte ; " ; 
 
 g) Au neuvième alinéa, les mots : " des articles L. 122-9, L. 122-32-6, L. 761-5 et L. 761-7 ainsi que l'indemnité prévue à
 l'article L. 321-6 du code du travail pour la totalité de la portion inférieure ou égale au plafond visé à l'article L.
@@ -70654,10 +70481,10 @@ travail applicable dans la collectivité départementale de Mayotte " ;
 
 2° A l'article 2332, le 9° n'est pas applicable ; 
 
-3° A l'article 2377, les mots : " par une inscription à la conservation des hypothèques, de la manière déterminée par les
-articles suivants et par les articles 2426 et 2428 " sont remplacés par les mots : " par inscription sur le livre foncier
-tenu par le conservateur de la propriété immobilière, de la manière déterminée par la loi, et à compter de la date de cette
-inscription, sous réserve des exceptions prévues par les articles suivants " ; 
+3° A l'article 2377, les mots : " par une inscription au fichier immobilier, de la manière déterminée par les articles
+suivants et par les articles 2426 et 2428 " sont remplacés par les mots : " par inscription sur le livre foncier tenu par le
+conservateur de la propriété immobilière, de la manière déterminée par la loi, et à compter de la date de cette inscription,
+sous réserve des exceptions prévues par les articles suivants " ; 
 
 4° Aux articles 2425 et 2431, la référence au registre prévu à l'article 2453 est remplacée par la référence au registre des
 dépôts des actes et documents à inscrire.
@@ -70666,7 +70493,7 @@ dépôts des actes et documents à inscrire.
 
 _Modifié par_:
 
-  - Ordonnance n°2012-792 du 7 juin 2012 - art. 8 (V)
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 12
 
 _Anciens textes_:
 
@@ -70682,12 +70509,8 @@ _Cite_:
   - Code civil - art. 2453
   - Code du travail - art. L122-21
 
-_Codifié par_:
 
-  - Loi n°1804-03-15
-
-
-## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=557></a>
+## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=558></a>
 
 ###### Article 2509
 
@@ -70710,9 +70533,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=558></a>
+### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=559></a>
 
-#### Section 1 : Dispositions générales<a id=559></a>
+#### Section 1 : Dispositions générales<a id=560></a>
 
 ###### Article 2510
 
@@ -70891,7 +70714,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=560></a>
+#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=561></a>
 
 ###### Article 2516
 
@@ -71015,7 +70838,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 3 : De l'inscription des droits sur l'immeuble<a id=561></a>
+#### Section 3 : De l'inscription des droits sur l'immeuble<a id=562></a>
 
 ###### Article 2521
 
@@ -71354,9 +71177,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre II : Dispositions diverses<a id=562></a>
+### Chapitre II : Dispositions diverses<a id=563></a>
 
-#### Section 1 : Privilèges et hypothèques<a id=563></a>
+#### Section 1 : Privilèges et hypothèques<a id=564></a>
 
 ###### Article 2530
 
@@ -71436,7 +71259,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : Expropriation forcée<a id=564></a>
+#### Section 2 : Expropriation forcée<a id=565></a>
 
 ###### Article 2534
 
