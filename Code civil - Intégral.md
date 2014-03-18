@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-03-19
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -10269,13 +10269,11 @@ La solidarité n'a pas lieu, néanmoins, pour des dépenses manifestement excess
 l'utilité ou à l'inutilité de l'opération, à la bonne ou mauvaise foi du tiers contractant.
 
 Elle n'a pas lieu non plus, s'ils n'ont été conclus du consentement des deux époux, pour les achats à tempérament ni pour les
-emprunts à moins que ces derniers ne portent sur des sommes modestes nécessaires aux besoins de la vie courante.
+emprunts à moins que ces derniers ne portent sur des sommes modestes nécessaires aux besoins de la vie courante et que le
+montant cumulé de ces sommes, en cas de pluralité d'emprunts, ne soit pas manifestement excessif eu égard au train de vie du
+ménage.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°85-1372 du 23 décembre 1985 - art. 2 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 _Cité par_:
 
@@ -10283,6 +10281,10 @@ _Cité par_:
   - Code civil - art. 1409 (V)
   - Code civil - art. 1414 (V)
   - Code civil - art. 1536 (V)
+
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 50
 
 _Codifié par_:
 
@@ -23605,7 +23607,8 @@ respectives.
 Les partenaires sont tenus solidairement à l'égard des tiers des dettes contractées par l'un d'eux pour les besoins de la vie
 courante. Toutefois, cette solidarité n'a pas lieu pour les dépenses manifestement excessives. Elle n'a pas lieu non plus,
 s'ils n'ont été conclus du consentement des deux partenaires, pour les achats à tempérament ni pour les emprunts à moins que
-ces derniers ne portent sur des sommes modestes nécessaires aux besoins de la vie courante.
+ces derniers ne portent sur des sommes modestes nécessaires aux besoins de la vie courante et que le montant cumulé de ces
+sommes, en cas de pluralité d'emprunts, ne soit pas manifestement excessif eu égard au train de vie du ménage.
 
 **Liens relatifs à cet article**
 
@@ -23617,7 +23620,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 9
+  - Loi n°2014-344 du 17 mars 2014 - art. 50
 
 
 ###### Article 515-5
