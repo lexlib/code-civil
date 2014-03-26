@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-03-27
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -416,7 +416,7 @@ Version Consolidée au 2014-03-19
     - [Titre VIII : Du contrat de louage (art. 1708 à 1831)](#413)
       - [Chapitre Ier : Dispositions générales. (art. 1708 à 1712)](#414)
       - [Chapitre II : Du louage des choses. (art. 1713 à 1778)](#415)
-        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751)](#416)
+        - [Section 1 : Des règles communes aux baux des maisons et des biens ruraux. (art. 1714 à 1751-1)](#416)
         - [Section 2 : Des règles particulières aux baux à loyer. (art. 1752 à 1762)](#417)
         - [Section 3 : Des règles particulières aux baux à ferme. (art. 1764 à 1778)](#418)
       - [Chapitre III : Du louage d'ouvrage et d'industrie. (art. 1779 à 1799-1)](#419)
@@ -7051,7 +7051,10 @@ _Créé par_:
 
 ###### Article 102
 
-Le domicile de tout Français, quant à l'exercice de ses droits civils, est au lieu où il a son principal établissement.
+Le domicile de tout Français, quant à l'exercice de ses droits civils, est au lieu où il a son principal établissement. 
+
+Le lieu d'exercice des droits civils d'une personne sans domicile stable est celui où elle a fait élection de domicile dans
+les conditions prévues à l'article L. 264-1 du code de l'action sociale et des familles. 
 
 Les bateliers et autres personnes vivant à bord d'un bateau de navigation intérieure immatriculé en France, qui n'ont pas le
 domicile prévu à l'alinéa précédent ou un domicile légal, sont tenus de choisir un domicile dans l'une des communes dont le
@@ -7081,13 +7084,17 @@ _Cité par_:
   - Code du domaine public fluvial et de la navigat... - art. 171 (Ab)
   - Code monétaire et financier - art. L211-4 (VD)
 
-_Modifié par_:
-
-  - Loi n°69-3 du 3 janvier 1969 - art. 13 (Ab) JORF 5 janvier 1969 en vigueur le 1er janvier 1970
-
 _Codifié par_:
 
   - Loi n°1803-03-14
+
+_Modifié par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 46
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L264-1 (V)
 
 
 ###### Article 103
@@ -28136,8 +28143,14 @@ _Créé par_:
 
 ###### Article 713
 
-Les biens qui n'ont pas de maître appartiennent à la commune sur le territoire de laquelle ils sont situés. Toutefois, la
-propriété est transférée de plein droit à l'Etat si la commune renonce à exercer ses droits.
+Les biens qui n'ont pas de maître appartiennent à la commune sur le territoire de laquelle ils sont situés. Par délibération
+du conseil municipal, la commune peut renoncer à exercer ses droits, sur tout ou partie de son territoire, au profit de
+l'établissement public de coopération intercommunale à fiscalité propre dont elle est membre. Les biens sans maître sont
+alors réputés appartenir à l'établissement public de coopération intercommunale à fiscalité propre. 
+
+Toutefois, la propriété est transférée de plein droit à l'Etat si la commune renonce à exercer ses droits en l'absence de
+délibération telle que définie au premier alinéa ou si l'établissement public de coopération intercommunale à fiscalité
+propre renonce à exercer ses droits.
 
 **Liens relatifs à cet article**
 
@@ -28153,7 +28166,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
+  - Loi n°2014-366 du 24 mars 2014 - art. 152
 
 _Codifié par_:
 
@@ -53073,8 +53086,8 @@ Si, durant le bail, la chose louée a besoin de réparations urgentes et qui ne 
 preneur doit les souffrir, quelque incommodité qu'elles lui causent, et quoiqu'il soit privé, pendant qu'elles se font, d'une
 partie de la chose louée.
 
-Mais, si ces réparations durent plus de quarante jours, le prix du bail sera diminué à proportion du temps et de la partie de
-la chose louée dont il aura été privé.
+Mais, si ces réparations durent plus de vingt et un  jours, le prix du bail sera diminué à proportion du temps et de la
+partie de la chose louée dont il aura été privé.
 
 Si les réparations sont de telle nature qu'elles rendent inhabitable ce qui est nécessaire au logement du preneur et de sa
 famille, celui-ci pourra faire résilier le bail.
@@ -53094,13 +53107,13 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L521-3 (T)
   - Code de la construction et de l'habitation. - art. L521-3-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 1
+
 _Codifié par_:
 
   - Loi n°1804-03-07
-
-_Créé par_:
-
-  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
 ###### Article 1725
@@ -53627,16 +53640,18 @@ _Créé par_:
 
 ###### Article 1751
 
-Le droit au bail du local, sans caractère professionnel ou commercial, qui sert effectivement à l'habitation de deux époux
-est, quel que soit leur régime matrimonial et nonobstant toute convention contraire, et même si le bail a été conclu avant le
-mariage, réputé appartenir à l'un et à l'autre des époux.
+Le droit au bail du local, sans caractère professionnel ou commercial, qui sert effectivement à l'habitation de deux époux,
+quel que soit leur régime matrimonial et nonobstant toute convention contraire et même si le bail a été conclu avant le
+mariage, ou de deux partenaires liés par un pacte civil de solidarité, dès lors que les partenaires en font la demande
+conjointement, est réputé appartenir à l'un et à l'autre des époux ou partenaires liés par un pacte civil de solidarité. 
 
 En cas de divorce ou de séparation de corps, ce droit pourra être attribué, en considération des intérêts sociaux et
 familiaux en cause, par la juridiction saisie de la demande en divorce ou en séparation de corps, à l'un des époux, sous
 réserve des droits à récompense ou à indemnité au profit de l'autre époux.
 
-En cas de décès d'un des époux, le conjoint survivant cotitulaire du bail dispose d'un droit exclusif sur celui-ci sauf s'il
-y renonce expressément.
+En cas de décès d'un des époux ou d'un des partenaires liés par un pacte civil de solidarité, le conjoint ou le partenaire
+lié par un pacte civil de solidarité survivant cotitulaire du bail dispose d'un droit exclusif sur celui-ci sauf s'il y
+renonce expressément.
 
 **Liens relatifs à cet article**
 
@@ -53658,14 +53673,23 @@ _Cité par_:
   - Arrêté du 13 décembre 2017 - art. (V)
   - Code de la construction et de l'habitation. - art. L254-7 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 III (champ d'application territoriale Polynésie française et Nouvelle-Calédonie)
-  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 (Mayotte, Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna)
-
 _Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 14 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Loi n°2014-366 du 24 mars 2014 - art. 4
+
+
+###### Article 1751-1
+
+En cas de dissolution du pacte civil de solidarité, l'un des partenaires peut saisir le juge compétent en matière de bail aux
+fins de se voir attribuer le droit au bail du local, sans caractère professionnel ou commercial, qui sert effectivement à
+l'habitation des deux partenaires, sous réserve des créances ou droits à indemnité au profit de l'autre partenaire. Le
+bailleur est appelé à l'instance. Le juge apprécie la demande en considération des intérêts sociaux et familiaux des parties.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 4
 
 
 #### Section 2 : Des règles particulières aux baux à loyer.<a id=417></a>
@@ -65836,12 +65860,20 @@ S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie
 deuxième au troisième, et ainsi de suite ; 
 
 1° bis Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au 2°, le syndicat des
-copropriétaires, sur le lot vendu, pour le paiement des charges et travaux mentionnés aux articles 10 et 30 de la loi n°
-65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, relatifs à l'année courante et aux quatre
-dernières années échues. 
+copropriétaires, sur le lot vendu, pour le paiement des charges et travaux mentionnés à l'article 10, au c du II de l'article
+24 et à l'article 30 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis et des
+cotisations au fonds de travaux mentionné à l'article 14-2 de la même loi, relatifs à l'année courante et aux quatre
+dernières années échues ainsi que des dommages et intérêts alloués par les juridictions et des dépens. 
 
 Toutefois, le syndicat est préféré au vendeur et au prêteur de deniers pour les créances afférentes aux charges et travaux de
-l'année courante et des deux dernières années échues. 
+l'année courante et des deux dernières années échues ; 
+
+1° ter Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au 2° du présent article,
+l'opérateur mentionné à l'article L. 615-10 du code de la construction et de l'habitation, si le bien vendu est assorti d'une
+servitude sur des biens d'intérêt collectif. 
+
+Toutefois, l'opérateur est préféré au vendeur et au prêteur de deniers pour les redevances prévues au même article L. 615-10
+de l'année courante et des deux dernières années échues ; 
 
 2° Même en l'absence de subrogation, ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit
 authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi et, par quittance du vendeur, que ce
@@ -65919,22 +65951,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°65-557 du 10 juillet 1965 (V)
-  - Loi n°84-595 du 12 juillet 1984 (V)
-  - Code civil - art. 924 (V)
-  - Code de la santé publique - art. L1331-30 (V)
-  - Code de la construction et de l'habitation. - art. L129-4 (V)
-  - Code de la construction et de l'habitation. - art. L511-4 (V)
-  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
-
-_Anciens textes_:
-
-  - Code civil - art. 2103 (M)
-  - Code civil - art. 2103 (T)
+  - Loi n°65-557 du 10 juillet 1965
+  - Loi n°84-595 du 12 juillet 1984
+  - Code civil - art. 924
+  - Code de la santé publique - art. L1331-30
+  - Code de la construction et de l'habitation. - art. L129-4
+  - Code de la construction et de l'habitation. - art. L511-4
+  - Code de la construction et de l'habitation. - art. L521-3-2
+  - Code de la construction et de l'habitation. - art. L615-10 (V)
 
 _Modifié par_:
 
-  - Décret n°2007-42 2007-01-11 art. 1 I JORF 12 janvier 2007
+  - Loi n°2014-366 du 24 mars 2014 - art. 73
+
+_Anciens textes_:
+
+  - Code civil - art. 2103 (T)
 
 _Codifié par_:
 
