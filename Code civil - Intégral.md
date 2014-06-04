@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-06-05
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -12479,10 +12479,17 @@ Dans le cadre de la fixation d'une prestation compensatoire, par le juge ou par 
 révision, les parties fournissent au juge une déclaration certifiant sur l'honneur l'exactitude de leurs ressources, revenus,
 patrimoine et conditions de vie.
 
-Dans la détermination des besoins et des ressources, le juge ne prend pas en considération les sommes versées au titre de la
-réparation des accidents du travail et les sommes versées au titre du droit à compensation d'un handicap.
+**Nota:**
+
+Dans sa décision n° 2014-398 QPC du 2 juin 2014 (NOR : CSCX1412522S), le Conseil constitutionnel a déclaré le second alinéa
+de l'article 272 du code civil contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet à compter de la
+publication de la présente décision, dans les conditions fixées par son considérant 11.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décision n°2014-398 QPC du 2 juin 2014 - art. 1, v. init.
 
 _Anciens textes_:
 
@@ -12493,14 +12500,6 @@ _Cité par_:
 
   - Code civil - art. 276 (M)
   - Code de procédure civile - art. 1075-1 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2005-102 du 11 février 2005 - art. 15 () JORF 12 février 2005
 
 
 ###### Article 274
