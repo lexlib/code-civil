@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2015-02-18
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -184,7 +184,7 @@ Version Consolidée au 2014-12-22
       - [Chapitre Ier : Du pacte civil de solidarité (art. 515-1 à 515-7-1)](#181)
       - [Chapitre II : Du concubinage (art. 515-8)](#182)
     - [Titre : XIV : Des mesures de protection des victimes de violences (art. 515-9 à 515-13)](#183)
-  - [Livre II : Des biens et des différentes modifications de la propriété (art. 516 à 710-1)](#184)
+  - [Livre II : Des biens et des différentes modifications de la propriété (art. 515-14 à 710-1)](#184)
     - [Titre Ier : De la distinction des biens (art. 516 à 543)](#185)
       - [Chapitre Ier : Des immeubles (art. 517 à 526)](#186)
       - [Chapitre II : Des meubles (art. 527 à 536)](#187)
@@ -215,7 +215,7 @@ Version Consolidée au 2014-12-22
         - [Section 4 : Comment les servitudes s'éteignent (art. 703 à 710)](#212)
     - [Titre V : De la publicité foncière (art. 710-1)](#213)
       - [Chapitre unique : De la forme authentique des actes (art. 710-1)](#214)
-  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 2279)](#215)
+  - [Livre III : Des différentes manières dont on acquiert la propriété (art. 711 à 2278)](#215)
     - [Dispositions générales (art. 711 à 717)](#216)
     - [Titre Ier : Des successions (art. 720 à 892)](#217)
       - [Chapitre Ier : De l'ouverture des successions, du titre universel et de la saisine (art. 720 à 724-1)](#218)
@@ -495,13 +495,13 @@ Version Consolidée au 2014-12-22
         - [Section 1 : De l'invocation de la prescription. (art. 2247 à 2249)](#492)
         - [Section 2 : De la renonciation à la prescription. (art. 2250 à 2253)](#493)
         - [Section 3 : De l'aménagement conventionnel de la prescription. (art. 2254)](#494)
-    - [Titre XXI : De la possession et de la prescription acquisitive (art. 2255 à 2279)](#495)
+    - [Titre XXI : De la possession et de la prescription acquisitive (art. 2255 à 2278)](#495)
       - [Chapitre Ier : Dispositions générales. (art. 2255 à 2257)](#496)
       - [Chapitre II : De la prescription acquisitive. (art. 2258 à 2277)](#497)
         - [Section 1 : Des conditions de la prescription acquisitive. (art. 2260 à 2271)](#498)
         - [Section 2 : De la prescription acquisitive en matière immobilière. (art. 2272 à 2275)](#499)
         - [Section 3 : De la prescription acquisitive en matière mobilière. (art. 2276 à 2277)](#500)
-      - [Chapitre III : De la protection possessoire. (art. 2278 à 2279)](#501)
+      - [Chapitre III : De la protection possessoire. (art. 2278)](#501)
   - [Livre IV : Des sûretés (art. 2284 à 2488-6)](#502)
     - [Titre Ier : Des sûretés personnelles (art. 2287-1 à 2322)](#503)
       - [Chapitre Ier : Du cautionnement (art. 2288 à 2320)](#504)
@@ -20316,17 +20316,13 @@ cessent, malgré toutes dispositions ou stipulations contraires, dès le retour 
 
 S'il devient nécessaire ou s'il est de l'intérêt de la personne protégée qu'il soit disposé des droits relatifs à son
 logement ou à son mobilier par l'aliénation, la résiliation ou la conclusion d'un bail, l'acte est autorisé par le juge ou
-par le conseil de famille s'il a été constitué, sans préjudice des formalités que peut requérir la nature des biens. L'avis
-préalable d'un médecin inscrit sur la liste prévue à l'article 431 est requis si l'acte a pour finalité l'accueil de
-l'intéressé dans un établissement. Dans tous les cas, les souvenirs, les objets à caractère personnel, ceux indispensables
-aux personnes handicapées ou destinés aux soins des personnes malades sont gardés à la disposition de l'intéressé, le cas
-échéant par les soins de l'établissement dans lequel celui-ci est hébergé.
+par le conseil de famille s'il a été constitué, sans préjudice des formalités que peut requérir la nature des biens. Si
+l'acte a pour finalité l'accueil de l'intéressé dans un établissement, l'avis préalable d'un médecin, n'exerçant pas une
+fonction ou n'occupant pas un emploi dans cet établissement, est requis.  Dans tous les cas, les souvenirs, les objets à
+caractère personnel, ceux indispensables aux personnes handicapées ou destinés aux soins des personnes malades sont gardés à
+la disposition de l'intéressé, le cas échéant par les soins de l'établissement dans lequel celui-ci est hébergé.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
@@ -20337,9 +20333,9 @@ _Cité par_:
   - Code de procédure civile - art. 1256 (V)
   - Code de procédure pénale - art. R217-1 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code civil - art. 431 (V)
+  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
 
 _Codifié par_:
 
@@ -20489,15 +20485,12 @@ _Codifié par_:
 ###### Article 431
 
 La demande est accompagnée, à peine d'irrecevabilité, d'un certificat circonstancié rédigé par un médecin choisi sur une
-liste établie par le procureur de la République.
+liste établie par le procureur de la République. Ce médecin peut solliciter l'avis du médecin traitant de la personne qu'il y
+a lieu de protéger. 
 
 Le coût de ce certificat est fixé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
@@ -20521,34 +20514,13 @@ _Cité par_:
   - Code de procédure pénale - art. D47-24 (V)
   - Code de procédure pénale - art. R217-1 (V)
 
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-
-###### Article 431-1
-
-Pour l'application du dernier alinéa de l'article 426 et de l'article 431, le médecin inscrit sur la liste mentionnée à
-l'article 431 peut solliciter l'avis du médecin traitant de la personne qu'il y a lieu de protéger.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
 
-_Cite_:
-
-  - Code civil - art. 426
-  - Code civil - art. 431
-
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 432
@@ -20556,21 +20528,21 @@ _Créé par_:
 Le juge statue, la personne entendue ou appelée. L'intéressé peut être accompagné par un avocat ou, sous réserve de l'accord
 du juge, par toute autre personne de son choix. 
 
-Le juge peut toutefois, par décision spécialement motivée et sur avis du médecin mentionné à l'article 431, décider qu'il n'y
-a pas lieu de procéder à l'audition de l'intéressé si celle-ci est de nature à porter atteinte à sa santé ou s'il est hors
-d'état d'exprimer sa volonté.
+Le juge peut toutefois, par décision spécialement motivée et sur avis  d'un médecin inscrit sur la liste mentionnée à
+l'article 431, décider qu'il n'y a pas lieu de procéder à l'audition de l'intéressé si celle-ci est de nature à porter
+atteinte à sa santé ou s'il est hors d'état d'exprimer sa volonté.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
 
 _Cité par_:
 
   - Code civil - art. 2502 (V)
   - Code civil - art. 433 (V)
-  - Code civil - art. 442 (M)
+  - Code civil - art. 442 (V)
   - Code civil - art. 494-4 (VD)
   - Code de procédure civile - art. 1220-2 (V)
   - Code de procédure civile - art. 1225 (V)
@@ -20583,7 +20555,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 431 (V)
+  - Code civil - art. 431
 
 _Codifié par_:
 
@@ -20913,21 +20885,31 @@ _Codifié par_:
 
 ###### Article 441
 
-Le juge fixe la durée de la mesure sans que celle-ci puisse excéder cinq ans.
+Le juge fixe la durée de la mesure sans que celle-ci puisse excéder cinq ans. 
+
+Le juge qui prononce une mesure de tutelle peut, par décision spécialement motivée et sur avis conforme d'un médecin inscrit
+sur la liste mentionnée à l'article 431 constatant que l'altération des facultés personnelles de l'intéressé décrites à
+l'article 425 n'apparaît manifestement pas susceptible de connaître une amélioration selon les données acquises de la
+science, fixer une durée plus longue, n'excédant pas dix ans.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
   - Loi n°2007-308 du 5 mars 2007 - art. 45 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
+
+_Cite_:
+
+  - Code civil - art. 425
+  - Code civil - art. 431
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 442
@@ -20936,8 +20918,8 @@ Le juge peut renouveler la mesure pour une même durée.
 
 Toutefois, lorsque l'altération des facultés personnelles de l'intéressé décrite à l'article 425 n'apparaît manifestement pas
 susceptible de connaître une amélioration selon les données acquises de la science, le juge peut, par décision spécialement
-motivée et sur avis conforme du médecin mentionné à l'article 431, renouveler la mesure pour une durée plus longue qu'il
-détermine. 
+motivée et sur avis conforme  d'un médecin inscrit sur la liste mentionnée à l'article 431, renouveler la mesure pour une
+durée plus longue qu'il détermine, n'excédant pas vingt ans. 
 
 Le juge peut, à tout moment, mettre fin à la mesure, la modifier ou lui substituer une autre mesure prévue au présent titre,
 après avoir recueilli l'avis de la personne chargée de la mesure de protection. 
@@ -20946,11 +20928,13 @@ Il statue d'office ou à la requête d'une des personnes mentionnées à l'artic
 conditions prévues à l'article 432. Il ne peut toutefois renforcer le régime de protection de l'intéressé que s'il est saisi
 d'une requête en ce sens satisfaisant aux articles 430 et 431.
 
+**Nota:**
+
+Se reporter aux dispositions de l'article 26 de la loi n° 2015-177 du 16 février 2015 en ce qui concerne les conditions
+d'application des dispositions de l'article 442 dans sa version issue du 6° du II de l'article 1er de ladite loi, aux mesures
+de tutelle et de curatelle.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
@@ -20960,11 +20944,15 @@ _Cité par_:
   - Code de procédure civile - art. 1217 (V)
   - Code de procédure civile - art. 1228 (M)
 
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
+
 _Cite_:
 
-  - Code civil - art. 425 (V)
-  - Code civil - art. 430 (V)
-  - Code civil - art. 431 (V)
+  - Code civil - art. 425
+  - Code civil - art. 430
+  - Code civil - art. 431
   - Code civil - art. 432 (V)
 
 _Codifié par_:
@@ -23058,9 +23046,10 @@ _Modifié par_:
 
 ###### Article 500
 
-Sur proposition du tuteur, le conseil de famille ou, à défaut, le juge arrête le budget de la tutelle en déterminant, en
-fonction de l'importance des biens de la personne protégée et des opérations qu'implique leur gestion, les sommes
-annuellement nécessaires à l'entretien de celle-ci et au remboursement des frais d'administration de ses biens.
+Le tuteur arrête le budget de la tutelle en déterminant, en fonction de l'importance des biens de la personne protégée et des
+opérations qu'implique leur gestion, les sommes annuellement nécessaires à l'entretien de celle-ci et au remboursement des
+frais d'administration de ses biens. Le tuteur en informe le conseil de famille ou, à défaut, le juge. En cas de difficultés,
+le budget est arrêté par le conseil de famille ou, à défaut, par le juge.
 
 Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à inclure dans les frais de gestion la rémunération des
 administrateurs particuliers dont il demande le concours sous sa propre responsabilité.
@@ -23090,13 +23079,13 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
   - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
 
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
+
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 501
@@ -24290,6 +24279,22 @@ _Cite_:
 
 # Livre II : Des biens et des différentes modifications de la propriété<a id=184></a>
 
+###### Article 515-14
+
+Les  animaux sont des êtres vivants doués de sensibilité. Sous réserve des  lois qui les protègent, les animaux sont soumis
+au régime des biens.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 2
+
+_Cité par_:
+
+  - Code civil - art. 2500 (V)
+
+
 ## Titre Ier : De la distinction des biens<a id=185></a>
 
 ###### Article 516
@@ -24413,20 +24418,20 @@ _Créé par_:
 
 ###### Article 522
 
-Les animaux que le propriétaire du fonds livre au fermier ou au métayer pour la culture, estimés ou non, sont censés
-immeubles tant qu'ils demeurent attachés au fonds par l'effet de la convention.
+Les animaux que le propriétaire du fonds livre au fermier ou au métayer pour la culture, estimés ou non, sont soumis au
+régime des  immeubles tant qu'ils demeurent attachés au fonds par l'effet de la convention.
 
-Ceux qu'il donne à cheptel à d'autres qu'au fermier ou métayer sont meubles.
+Ceux qu'il donne à cheptel à d'autres qu'au fermier ou métayer sont soumis au régime des  meubles.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 2
 
 _Codifié par_:
 
   - Loi n°1804-01-25
-
-_Créé par_:
-
-  - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
 ###### Article 523
@@ -24447,32 +24452,25 @@ _Créé par_:
 
 ###### Article 524
 
-Les animaux et les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont
-immeubles par destination. 
+Les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont immeubles par
+destination.
+
+Les animaux que le propriétaire d'un fonds y a placés aux mêmes fins sont soumis au régime des immeubles par destination.
 
 Ainsi, sont immeubles par destination, quand ils ont été placés par le propriétaire pour le service et l'exploitation du
-fonds : 
+fonds :
 
-Les animaux attachés à la culture ; 
+Les ustensiles aratoires ;
 
-Les ustensiles aratoires ; 
+Les semences données aux fermiers ou métayers ;
 
-Les semences données aux fermiers ou métayers ; 
+Les ruches à miel ;
 
-Les pigeons des colombiers ; 
+Les pressoirs, chaudières, alambics, cuves et tonnes ;
 
-Les lapins des garennes ; 
+Les ustensiles nécessaires à l'exploitation des forges, papeteries et autres usines ;
 
-Les ruches à miel ; 
-
-Les poissons des eaux non visées à l'article 402 du code rural et des plans d'eau visés aux articles 432 et 433  du même
-code ; 
-
-Les pressoirs, chaudières, alambics, cuves et tonnes ; 
-
-Les ustensiles nécessaires à l'exploitation des forges, papeteries et autres usines ; 
-
-Les pailles et engrais. 
+Les pailles et engrais.
 
 Sont aussi immeubles par destination tous effets mobiliers que le propriétaire a attachés au fonds à perpétuelle demeure.
 
@@ -24480,7 +24478,7 @@ Sont aussi immeubles par destination tous effets mobiliers que le propriétaire 
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 10
+  - Loi n°2015-177 du 16 février 2015 - art. 2
 
 _Cité par_:
 
@@ -24488,7 +24486,7 @@ _Cité par_:
   - Décret n°2017-456 du 29 mars 2017 - art. 14
   - Décret n°2017-456 du 29 mars 2017 - art. 15
   - Décret n°2017-456 du 29 mars 2017 - art. 19
-  - Code civil - art. 2501 (M)
+  - Code civil - art. 2501 (V)
   - Code de l'urbanisme - art. *R421-17 (V)
   - Code de l'urbanisme - art. L313-1 (V)
   - Code de l'urbanisme - art. R*431-37 (V)
@@ -24576,23 +24574,22 @@ _Créé par_:
 
 ###### Article 528
 
-Sont meubles par leur nature les animaux et les corps qui peuvent se transporter d'un lieu à un autre, soit qu'ils se meuvent
-par eux-mêmes, soit qu'ils ne puissent changer de place que par l'effet d'une force étrangère.
+Sont meubles par leur nature les biens qui peuvent se transporter d'un lieu à un autre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1804-01-25
-
 _Modifié par_:
 
-  - Loi n°99-5 du 6 janvier 1999 - art. 25 () JORF 7 janvier 1999
+  - Loi n°2015-177 du 16 février 2015 - art. 2
 
 _Cité par_:
 
   - Code de la consommation - art. L221-1 (VD)
   - Loi n°1817-01-02 du 2 janvier 1817 - art. 2 (V)
+
+_Codifié par_:
+
+  - Loi n°1804-01-25
 
 
 ###### Article 529
@@ -24679,20 +24676,20 @@ _Créé par_:
 
 ###### Article 533
 
-Le mot "meuble", employé seul dans les dispositions de la loi ou de l'homme, sans autre addition ni désignation, ne comprend
-pas l'argent comptant, les pierreries, les dettes actives, les livres, les médailles, les instruments des sciences, des arts
-et métiers, le linge de corps, les chevaux, équipages, armes, grains, vins, foins et autres denrées ; il ne comprend pas
+Le mot " meuble ", employé seul dans les dispositions de la loi ou de l'homme, sans autre addition ni désignation, ne
+comprend pas l'argent comptant, les pierreries, les dettes actives, les livres, les médailles, les instruments des sciences,
+des arts et métiers, le linge de corps, les équipages, armes, grains, vins, foins et autres denrées ; il ne comprend pas
 aussi ce qui fait l'objet d'un commerce.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 2
+
 _Codifié par_:
 
   - Loi n°1804-01-25
-
-_Créé par_:
-
-  - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
 ###### Article 534
@@ -25325,10 +25322,14 @@ _Codifié par_:
 ###### Article 564
 
 Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou plan d'eau visé aux articles L. 431-6 et L.
-431-7 du code de l'environnement appartiennent au propriétaire de ces objets, pourvu qu'ils n'y aient point été attirés par
+431-7 du code de l'environnement appartiennent au propriétaire de ces derniers, pourvu qu'ils n'y aient point été attirés par
 fraude et artifice.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 2
 
 _Cité par_:
 
@@ -25343,16 +25344,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L431-6 (V)
-  - Code de l'environnement - art. L431-7 (V)
+  - Code de l'environnement - art. L431-6
+  - Code de l'environnement - art. L431-7
 
 _Codifié par_:
 
   - Loi n°1804-01-27
-
-_Modifié par_:
-
-  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
 
 
 #### Section 2 : Du droit d'accession relativement aux choses mobilières<a id=193></a>
@@ -29255,17 +29252,18 @@ _Modifié par_:
 
 ###### Article 745
 
-Les parents collatéraux ne succèdent pas au-delà du sixième degré.
+Les parents collatéraux relevant de l'ordre d'héritiers mentionné au 4° de l'article 734 ne succèdent pas au-delà du sixième
+degré.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 3 (V)
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-_Modifié par_:
-
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ##### Paragraphe 3 : De la division par branches, paternelle et maternelle.<a id=226></a>
@@ -30492,7 +30490,10 @@ successorales dont le règlement est urgent ;
 2° Le recouvrement des fruits et revenus des biens successoraux ou la vente des biens périssables, à charge de justifier que
 les fonds ont été employés à éteindre les dettes visées au 1° ou ont été déposés chez un notaire ou consignés ;
 
-3° L'acte destiné à éviter l'aggravation du passif successoral.
+3° L'acte destiné à éviter l'aggravation du passif successoral ;
+
+4° Les actes liés à la rupture du contrat de travail du salarié du particulier employeur décédé, le paiement des salaires et
+indemnités dus au salarié ainsi que la remise des documents de fin de contrat. 
 
 Sont réputés être des actes d'administration provisoire les opérations courantes nécessaires à la continuation à court terme
 de l'activité de l'entreprise dépendant de la succession.
@@ -30506,7 +30507,7 @@ l'entreprise.
 
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2015-177 du 16 février 2015 - art. 5
 
 _Cité par_:
 
@@ -30515,6 +30516,7 @@ _Cité par_:
   - Code civil - art. 813-4 (V)
   - Code de procédure civile - art. 1379 (VD)
   - Code de procédure civile - art. 997 (V)
+  - Code monétaire et financier - art. L312-1-4 (V)
 
 _Codifié par_:
 
@@ -33291,10 +33293,11 @@ _Cite_:
 Le conjoint survivant ou tout héritier copropriétaire peut également demander l'attribution préférentielle :
 
 1° De la propriété ou du droit au bail du local qui lui sert effectivement d'habitation, s'il y avait sa résidence à l'époque
-du décès, et du mobilier le garnissant ;
+du décès, et du mobilier le garnissant, ainsi que du véhicule du défunt dès lors que ce véhicule lui est nécessaire pour les
+besoins de la vie courante  ;
 
 2° De la propriété ou du droit au bail du local à usage professionnel servant effectivement à l'exercice de sa profession et
-des objets mobiliers à usage professionnel garnissant ce local ;
+des objets mobiliers nécessaires à l'exercice de sa profession  ;
 
 3° De l'ensemble des éléments mobiliers nécessaires à l'exploitation d'un bien rural cultivé par le défunt à titre de fermier
 ou de métayer lorsque le bail continue au profit du demandeur ou lorsqu'un nouveau bail est consenti à ce dernier.
@@ -33306,12 +33309,11 @@ _Cité par_:
   - Loi n°61-1378 du 19 décembre 1961 - art. 14 (V)
   - Loi n°2019-786 du 26 juillet 2019 - art. 1 (V)
   - Code civil - art. 515-6 (V)
-  - Code civil - art. 831-3 (M)
+  - Code civil - art. 831-3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2015-177 du 16 février 2015 - art. 6
 
 _Codifié par_:
 
@@ -33320,17 +33322,12 @@ _Codifié par_:
 
 ###### Article 831-3
 
-L'attribution préférentielle de la propriété du local et du mobilier le garnissant visée au 1° de l'article 831-2 est de
-droit pour le conjoint survivant. 
+L'attribution préférentielle visée au 1° de l'article 831-2 est de droit pour le conjoint survivant. 
 
 Les droits résultant de l'attribution préférentielle ne préjudicient pas aux droits viagers d'habitation et d'usage que le
 conjoint peut exercer en vertu de l'article 764.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
 
 _Cité par_:
 
@@ -33338,15 +33335,18 @@ _Cité par_:
   - Code civil - art. 515-6 (V)
   - Code civil - art. 832-4 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2015-177 du 16 février 2015 - art. 6
 
 _Cite_:
 
-  - Code civil - art. 764 (V)
+  - Code civil - art. 764
   - Code civil - art. 831-2 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 832
@@ -37023,15 +37023,25 @@ fait écrire à la main ou mécaniquement.
 S'il n'y a qu'un notaire, il doit également être dicté par le testateur ; le notaire l'écrit lui-même ou le fait écrire à la
 main ou mécaniquement.
 
-Dans l'un et l'autre cas, il doit en être donné lecture au testateur.
+Dans tous les cas, il doit en être donné lecture au testateur.
+
+Lorsque le testateur ne peut s'exprimer en langue française, la dictée et la lecture peuvent être accomplies par un
+interprète que le testateur choisit sur la liste nationale des experts judiciaires dressée par la Cour de cassation ou sur la
+liste des experts judiciaires dressée par chaque cour d'appel. L'interprète veille à l'exacte traduction des propos tenus. Le
+notaire n'est pas tenu de recourir à un interprète lorsque lui-même ainsi que, selon le cas, l'autre notaire ou les témoins
+comprennent la langue dans laquelle s'exprime le testateur.
+
+Lorsque le testateur peut écrire en langue française mais ne peut parler, le notaire écrit lui-même le testament ou le fait
+écrire à la main ou mécaniquement d'après les notes rédigées devant lui par le testateur, puis en donne lecture à ce dernier.
+Lorsque le testateur ne peut entendre, il prend connaissance du testament en le lisant lui-même, après lecture faite par le
+notaire.
+
+Lorsque le testateur ne peut ni parler ou entendre, ni lire ou écrire, la dictée ou la lecture sont accomplies dans les
+conditions décrites au quatrième alinéa.
 
 Il est fait du tout mention expresse.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
 
 _Cité par_:
 
@@ -37039,7 +37049,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2015-177 du 16 février 2015 - art. 3 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
 
 
 ###### Article 973
@@ -37353,21 +37367,16 @@ _Cité par_:
 
 ###### Article 986
 
-Les testaments faits dans une île du territoire métropolitain ou d'un département d'outre-mer, où il n'existe pas d'office
-notarial, peuvent, lorsque toute communication avec le territoire auquel cette île est rattachée est impossible, être reçus
-dans les formes prévues à l'article 985. L'impossibilité des communications est attestée dans l'acte par le juge d'instance
-ou l'officier municipal qui reçoit le testament.
+Les testaments faits dans une île du territoire français, où il n'existe pas d'office notarial, peuvent, lorsque toute
+communication avec le territoire auquel cette île est rattachée est impossible, être reçus dans les formes prévues à
+l'article 985. L'impossibilité des communications est attestée dans l'acte par le juge d'instance ou l'officier municipal qui
+reçoit le testament.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2015-177 du 16 février 2015 - art. 3 (V)
 
 _Cité par_:
 
@@ -37375,7 +37384,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 985 (V)
+  - Code civil - art. 985
+
+_Codifié par_:
+
+  - Loi n°1803-05-03
 
 
 ###### Article 987
@@ -51789,7 +51802,7 @@ _Créé par_:
 ###### Article 1644
 
 Dans le cas des articles 1641 et 1643, l'acheteur a le choix de rendre la chose et de se faire restituer le prix, ou de
-garder la chose et de se faire rendre une partie du prix, telle qu'elle sera arbitrée par experts.
+garder la chose et de se faire rendre une partie du prix.
 
 **Liens relatifs à cet article**
 
@@ -51802,10 +51815,14 @@ _Cité par_:
   - Code rural - art. L913-7 (T)
   - Code rural ancien - art. 287 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2015-177 du 16 février 2015 - art. 10
+
 _Cite_:
 
-  - Code civil - art. 1641 (V)
-  - Code civil - art. 1643 (V)
+  - Code civil - art. 1641
+  - Code civil - art. 1643
 
 _Nouveaux textes_:
 
@@ -51814,10 +51831,6 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Loi n°1804-03-06
-
-_Créé par_:
-
-  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
 ###### Article 1645
@@ -63631,34 +63644,6 @@ _Anciens textes_:
   - Code civil - art. 2282 (T)
 
 
-###### Article 2279
-
-Les actions possessoires sont ouvertes dans les conditions prévues par le code de procédure civile à ceux qui possèdent ou
-détiennent paisiblement.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2008-561 du 17 juin 2008 - art. 2
-
-_Abrogé par_:
-
-  - Loi n°2015-177 du 16 février 2015 - art. 9
-
-_Nouveaux textes_:
-
-  - Code civil - art. 2276 (V)
-
-_Anciens textes_:
-
-  - Code civil - art. 2283 (T)
-
-_Cité par_:
-
-  - Décret n°56-27 du 11 janvier 1956 - art. 12 (Ab)
-
-
 # Livre IV : Des sûretés<a id=502></a>
 
 ###### Article 2284
@@ -70726,7 +70711,7 @@ _Abrogé par_:
 
 ###### Article 2500
 
-Les articles 516 à 710, à l'exception des articles 642 et 643, sont applicables à Mayotte sous réserve des adaptations
+Les articles 515-14 à 710, à l'exception des articles 642 et 643, sont applicables à Mayotte sous réserve des adaptations
 prévues aux articles 2501 et 2502. 
 
 Les dispositions intéressant les immeubles ne s'appliquent que sous réserve des dispositions du titre IV du présent livre.
@@ -70735,7 +70720,7 @@ Les dispositions intéressant les immeubles ne s'appliquent que sous réserve de
 
 _Modifié par_:
 
-  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 3 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
+  - Loi n°2015-177 du 16 février 2015 - art. 2
 
 _Anciens textes_:
 
@@ -70743,11 +70728,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 2501 (V)
-  - Code civil - art. 2502 (V)
-  - Code civil - art. 516 (V)
-  - Code civil - art. 642 (V)
-  - Code civil - art. 643 (V)
+  - Code civil - art. 2501
+  - Code civil - art. 2502
+  - Code civil - art. 515-14
+  - Code civil - art. 642
+  - Code civil - art. 643
 
 _Codifié par_:
 
@@ -70756,15 +70741,15 @@ _Codifié par_:
 
 ###### Article 2501
 
-Pour l'application du neuvième alinéa de l'article 524, sont immeubles par destination, quand ils ont été placés par le
+Pour l'application de l'article 524, sont soumis au régime des  immeubles par destination, quand ils ont été placés par le
 propriétaire pour le service et l'exploitation du fonds, les poissons des plans d'eau n'ayant aucune communication avec les
 cours d'eau, canaux et ruisseaux et les poissons des piscicultures et enclos piscicoles.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+  - Loi n°2015-177 du 16 février 2015 - art. 2
 
 _Anciens textes_:
 
