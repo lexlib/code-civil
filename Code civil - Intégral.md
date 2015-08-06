@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2015-07-25
+Version Consolidée au 2015-08-07
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -62309,17 +62309,7 @@ _Cité par_:
 ###### Article 2064
 
 Toute personne, assistée de son avocat, peut conclure une convention de procédure participative sur les droits dont elle a la
-libre disposition, sous réserve des dispositions de l'article 2067. 
-
-Toutefois, aucune convention ne peut être conclue à l'effet de résoudre les différends qui s'élèvent à l'occasion de tout
-contrat de travail soumis aux dispositions du code du travail entre les employeurs, ou leurs représentants, et les salariés
-qu'ils emploient.
-
-**Nota:**
-
-LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2064 du code civil entrent en vigueur dans les
-conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
-septembre 2011.
+libre disposition, sous réserve des dispositions de l'article 2067.
 
 **Liens relatifs à cet article**
 
@@ -62329,7 +62319,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
+  - Loi n°2015-990 du 6 août 2015 - art. 258
 
 _Cite_:
 
@@ -62378,11 +62368,7 @@ différend peuvent soumettre cet accord à l'homologation du juge.
 Lorsque, faute de parvenir à un accord au terme de la convention, les parties soumettent leur litige au juge, elles sont
 dispensées de la conciliation ou de la médiation préalable le cas échéant prévue.
 
-**Nota:**
-
-LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2066 du code civil entrent en vigueur dans les
-conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
-septembre 2011.
+Le deuxième alinéa n'est pas applicable aux litiges en matière prud'homale.
 
 **Liens relatifs à cet article**
 
@@ -62392,7 +62378,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
+  - Loi n°2015-990 du 6 août 2015 - art. 258
 
 _Cité par_:
 
