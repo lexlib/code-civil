@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-10-17
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -18871,9 +18871,9 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 193 (Ab)
   - Code de procédure civile - art. 1217 (V)
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2009-61 du 16 janvier 2009 - art. 1
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 391
@@ -18936,14 +18936,9 @@ prend également fin en cas de jugement de mainlevée passé en force de chose j
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 5 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Nouveaux textes_:
 
@@ -18955,7 +18950,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 392 (V)
+  - Code civil - art. 392 (VD)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ##### Sous-section 2 : De l'organisation et du fonctionnement de la tutelle<a id=138></a>
@@ -18973,10 +18972,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 395
@@ -18995,11 +18993,12 @@ Ne peuvent exercer les différentes charges de la tutelle :
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
+  - Code pénal - art. 131-26
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+  - Code civil - art. 384 (VD)
   - Code civil - art. 445 (V)
   - Code civil - art. 480 (VD)
   - Nouveau code de procédure civile - art. 1230 (V)
@@ -19008,10 +19007,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 396
@@ -19025,20 +19023,19 @@ important dans sa situation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
   - Code de procédure civile - art. 1234-2 (V)
   - Code de procédure civile - art. 1234-4 (V)
   - Code des pensions militaires d'invalidité et de... - art. L422-2 (VD)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 397
@@ -19054,10 +19051,9 @@ Le juge peut, s'il estime qu'il y a urgence, prescrire des mesures provisoires d
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -19077,18 +19073,17 @@ Même en présence d'un tuteur testamentaire et sauf vacance, la tutelle est org
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
   - Code civil - art. 456 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 399
@@ -19109,9 +19104,9 @@ représentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -19137,9 +19132,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 401
@@ -19161,9 +19156,9 @@ des actes d'administration pouvant être accomplis par le mineur.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2012-387 du 22 mars 2012 - art. 32
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -19187,14 +19182,13 @@ l'acte et non de la délibération.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cite_:
 
-  - Code civil - art. 1338 (V)
+  - Code civil - art. 1338
 
 _Cité par_:
 
@@ -19228,10 +19222,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 404
@@ -19245,10 +19238,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 405
@@ -19271,10 +19263,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 406
@@ -19283,6 +19274,10 @@ Le tuteur est désigné pour la durée de la tutelle.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
 _Cité par_:
 
   - Décret du 26 mars 1910 - art. 11 (Ab)
@@ -19290,11 +19285,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 407
@@ -19305,6 +19295,10 @@ Elle ne se transmet pas aux héritiers du tuteur.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R443-36 (Ab)
@@ -19312,11 +19306,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 408
@@ -19335,9 +19324,9 @@ création et de la gestion d'une entreprise individuelle à responsabilité limi
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2010-658 du 15 juin 2010 - art. 2
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -19351,9 +19340,9 @@ Les biens ou droits d'un mineur ne peuvent être transférés dans un patrimoine
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ##### Paragraphe 4 : Du subrogé tuteur<a id=142></a>
@@ -19373,10 +19362,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 410
@@ -19394,11 +19382,6 @@ responsabilité, de provoquer la nomination d'un nouveau tuteur.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
 _Cité par_:
 
   - Code civil - art. 447 (VT)
@@ -19406,6 +19389,10 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1803-03-14
+
+**Liens**:
+
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ##### Paragraphe 5 : De la vacance de la tutelle<a id=143></a>
@@ -19451,10 +19438,6 @@ l'Etat qui dispose d'une action récursoire.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
-
 _Cité par_:
 
   - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
@@ -19462,6 +19445,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R443-38 (Ab)
   - Décret du 26 mars 1910 - art. 12 (Ab)
   - Nouveau code de procédure civile - art. 1230 (V)
+
+**Liens**:
+
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
 ###### Article 413
@@ -19475,10 +19462,9 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 _Cité par_:
 
