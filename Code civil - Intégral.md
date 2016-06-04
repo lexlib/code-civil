@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-03-16
+Version Consolidée au 2016-06-05
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -1230,7 +1230,9 @@ L'identification d'une personne par ses empreintes génétiques ne peut être re
 
 2° A des fins médicales ou de recherche scientifique ; 
 
-3° Aux fins d'établir, lorsqu'elle est inconnue, l'identité de personnes décédées. 
+3° Aux fins d'établir, lorsqu'elle est inconnue, l'identité de personnes décédées ;
+
+4° Dans les conditions prévues à l'article L. 2381-1 du code de la défense.  
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le
 juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la
@@ -1262,6 +1264,7 @@ en Conseil d'Etat.
 _Cite_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 26
+  - Code de la défense. - art. L2381-1
 
 _Cité par_:
 
@@ -1283,7 +1286,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 6
+  - Loi n°2016-731 du 3 juin 2016 - art. 116
 
 _Codifié par_:
 
@@ -16716,6 +16719,25 @@ _Créé par_:
   - Loi n°96-1238 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
 
 
+###### Article 371-6
+
+L'enfant quittant le territoire national sans être accompagné d'un titulaire de l'autorité parentale est muni d'une
+autorisation de sortie du territoire signée d'un titulaire de l'autorité parentale.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 49
+
+_Cité par_:
+
+  - Décret n°2016-1483 du 2 novembre 2016 (V)
+  - Décret n°2016-1483 du 2 novembre 2016 - art. 1 (VD)
+
+
 #### Section 1 : De l'exercice de l'autorité parentale<a id=123></a>
 
 ##### Paragraphe 1 : Principes généraux.<a id=124></a>
@@ -17678,14 +17700,22 @@ centre d'accueil ou d'observation, soit prendre l'une des mesures prévues aux a
 En cas d'urgence, le procureur de la République du lieu où le mineur a été trouvé a le même pouvoir, à charge de saisir dans
 les huit jours le juge compétent, qui maintiendra, modifiera ou rapportera la mesure. Si la situation de l'enfant le permet,
 le procureur de la République fixe la nature et la fréquence du droit de correspondance, de visite et d'hébergement des
-parents, sauf à les réserver si l'intérêt de l'enfant l'exige.
+parents, sauf à les réserver si l'intérêt de l'enfant l'exige. 
 
 Lorsqu'un service de l'aide sociale à l'enfance signale la situation d'un mineur privé temporairement ou définitivement de la
 protection de sa famille, selon le cas, le procureur de la République ou le juge des enfants demande au ministère de la
-justice de lui communiquer, pour chaque département, les informations permettant l'orientation du mineur concerné.
+justice de lui communiquer, pour chaque département, les informations permettant l'orientation du mineur concerné. 
 
 Le procureur de la République ou le juge des enfants prend sa décision en stricte considération de l'intérêt de l'enfant,
-qu'il apprécie notamment à partir des éléments ainsi transmis pour garantir des modalités d'accueil adaptées.
+qu'il apprécie notamment à partir des éléments ainsi transmis pour garantir des modalités d'accueil adaptées. 
+
+En cas d'urgence, dès lors qu'il existe des éléments sérieux laissant supposer que l'enfant s'apprête à quitter le territoire
+national dans des conditions qui le mettraient en danger et que l'un des détenteurs au moins de l'autorité parentale ne prend
+pas de mesure pour l'en protéger, le procureur de la République du lieu où demeure le mineur peut, par décision motivée,
+interdire la sortie du territoire de l'enfant. Il saisit dans les huit jours le juge compétent pour qu'il maintienne la
+mesure dans les conditions prévues au dernier alinéa de l'article 375-7 ou qu'il en prononce la mainlevée. La décision du
+procureur de la République fixe la durée de cette interdiction, qui ne peut excéder deux mois. Cette interdiction de sortie
+du territoire est inscrite au fichier des personnes recherchées.
 
 **Liens relatifs à cet article**
 
@@ -17699,7 +17729,7 @@ _Cité par_:
   - Arrêté du 3 mai 2017 - art. 5
   - Décret n°2019-57 du 30 janvier 2019 (V)
   - Code de l'action sociale et des familles - art. L221-2-2 (V)
-  - Code de l'action sociale et des familles - art. L222-5 (V)
+  - Code de l'action sociale et des familles - art. L222-5 (VD)
   - Code de l'action sociale et des familles - art. L223-2 (V)
   - Code de l'action sociale et des familles - art. L227-2 (V)
   - Code de l'action sociale et des familles - art. L228-3 (V)
@@ -17716,12 +17746,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 49
+  - Loi n°2016-731 du 3 juin 2016 - art. 50
 
 _Cite_:
 
   - Code civil - art. 375-3
   - Code civil - art. 375-4
+  - Code civil - art. 375-7 (V)
 
 _Codifié par_:
 
@@ -17769,7 +17800,7 @@ parentale, à charge pour le demandeur de rapporter la preuve de la nécessité 
 
 Le lieu d'accueil de l'enfant doit être recherché dans l'intérêt de celui-ci et afin de faciliter l'exercice du droit de
 visite et d'hébergement par le ou les parents et le maintien de ses liens avec ses frères et sœurs en application de
-l'article 371-5.
+l'article 371-5. 
 
 S'il a été nécessaire de confier l'enfant à une personne ou un établissement, ses parents conservent un droit de
 correspondance ainsi qu'un droit de visite et d'hébergement. Le juge en fixe les modalités et peut, si l'intérêt de l'enfant
@@ -17786,9 +17817,10 @@ en cas de désaccord.
 Le juge peut décider des modalités de l'accueil de l'enfant en considération de l'intérêt de celui-ci. Si l'intérêt de
 l'enfant le nécessite ou en cas de danger, le juge décide de l'anonymat du lieu d'accueil. 
 
-Lorsqu'il fait application des articles 375-2, 375-3 ou 375-5, le juge peut également ordonner l'interdiction de sortie du
-territoire de l'enfant. La décision fixe la durée de cette interdiction qui ne saurait excéder deux ans. Cette interdiction
-de sortie du territoire est inscrite au fichier des personnes recherchées par le procureur de la République.
+Lorsqu'il fait application de l'article 1183 du code de procédure civile, des articles 375-2, 375-3 ou 375-5 du présent code,
+le juge peut également ordonner l'interdiction de sortie du territoire de l'enfant. La décision fixe la durée de cette
+interdiction qui ne saurait excéder deux ans. Cette interdiction de sortie du territoire est inscrite au fichier des
+personnes recherchées par le procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -17806,13 +17838,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 24
+  - Loi n°2016-731 du 3 juin 2016 - art. 50
 
 _Cite_:
 
+  - Code de procédure civile - art. 1183 (V)
   - Code civil - art. 371-5
   - Code civil - art. 373-4
-  - Code civil - art. 375-2
 
 
 ###### Article 375-8
