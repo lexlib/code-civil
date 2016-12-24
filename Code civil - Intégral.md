@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-12-20
+Version Consolidée au 2016-12-25
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -17255,11 +17255,12 @@ Cette pension peut en tout ou partie prendre la forme d'une prise en charge dire
 
 Elle peut être en tout ou partie servie sous forme d'un droit d'usage et d'habitation.
 
+Lorsque le parent débiteur de la pension alimentaire a fait l'objet d'une plainte déposée à la suite de menaces ou de
+violences volontaires sur le parent créancier ou l'enfant ou d'une condamnation pour de telles menaces ou violences ou
+lorsque de telles menaces ou violences sont mentionnées dans une décision de justice, le juge peut prévoir que cette pension
+est versée au directeur de l'organisme débiteur des prestations familiales.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2014-873 du 4 août 2014 - art. 28
 
 _Cité par_:
 
@@ -17268,6 +17269,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R245-47 (V)
   - Code de la sécurité sociale. - art. L582-1 (V)
   - Code de la sécurité sociale. - art. R844-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°2016-1827 du 23 décembre 2016 - art. 41 (V)
 
 _Cite_:
 
