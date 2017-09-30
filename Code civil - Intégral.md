@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-10-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -542,7 +542,7 @@ Version Consolidée au 2017-03-02
         - [Section 2 : De la prescription acquisitive en matière immobilière. (art. 2272 à 2275)](#539)
         - [Section 3 : De la prescription acquisitive en matière mobilière. (art. 2276 à 2277)](#540)
       - [Chapitre III : De la protection possessoire. (art. 2278)](#541)
-  - [Livre IV : Des sûretés (art. 2284 à 2488-6)](#542)
+  - [Livre IV : Des sûretés (art. 2284 à 2488-12)](#542)
     - [Titre Ier : Des sûretés personnelles (art. 2287-1 à 2322)](#543)
       - [Chapitre Ier : Du cautionnement (art. 2288 à 2320)](#544)
         - [Section 1 : De la nature et de l'étendue du cautionnement (art. 2288 à 2297)](#545)
@@ -554,8 +554,8 @@ Version Consolidée au 2017-03-02
         - [Section 4 : De la caution légale et de la caution judiciaire (art. 2317 à 2320)](#551)
       - [Chapitre II : De la garantie autonome (art. 2321)](#552)
       - [Chapitre III : De la lettre d'intention (art. 2322)](#553)
-    - [Titre II : Des sûretés réelles (art. 2323 à 2488-6)](#554)
-      - [Sous-titre Ier : Dispositions générales (art. 2323 à 2328-1)](#555)
+    - [Titre II : Des sûretés réelles (art. 2323 à 2488-5)](#554)
+      - [Sous-titre Ier : Dispositions générales (art. 2323 à 2328)](#555)
       - [Sous-titre II : Des sûretés sur les meubles (art. 2329 à 2372-5)](#556)
         - [Chapitre Ier : Des privilèges mobiliers (art. 2330 à 2332-4)](#557)
           - [Section 1 : Des privilèges généraux (art. 2331)](#558)
@@ -569,7 +569,7 @@ Version Consolidée au 2017-03-02
         - [Chapitre IV : De la propriété retenue ou cédée à titre de garantie. (art. 2367 à 2372-5)](#566)
           - [Section 1 : De la propriété retenue à titre de garantie. (art. 2367 à 2372)](#567)
           - [Section 2 : De la propriété cédée à titre de garantie. (art. 2372-1 à 2372-5)](#568)
-      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488-6)](#569)
+      - [Sous-titre III : Des sûretés sur les immeubles (art. 2373 à 2488-5)](#569)
         - [Chapitre Ier : Des privilèges immobiliers (art. 2374 à 2386)](#570)
           - [Section 1 : Des privilèges spéciaux. (art. 2374)](#571)
           - [Section 2 : Des privilèges généraux. (art. 2375 à 2376)](#572)
@@ -593,20 +593,21 @@ Version Consolidée au 2017-03-02
         - [Chapitre V : De l'effet des privilèges et des hypothèques (art. 2458 à 2474)](#590)
         - [Chapitre VI : De la purge des privilèges et des hypothèques (art. 2475 à 2487)](#591)
         - [Chapitre VII : De l'extinction des privilèges et des hypothèques (art. 2488)](#592)
-        - [Chapitre VIII : De la propriété cédée à titre de garantie (art. 2488-1 à 2488-6)](#593)
-  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#594)
-    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#595)
-    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#596)
-    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#597)
-    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#598)
-    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#599)
-      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#600)
-        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#601)
-        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#602)
-        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#603)
-      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#604)
-        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#605)
-        - [Section 2 : Expropriation forcée (art. 2534)](#606)
+        - [Chapitre VIII : De la propriété cédée à titre de garantie (art. 2488-1 à 2488-5)](#593)
+    - [Titre III : De l'agent des sûretés (art. 2488-6 à 2488-12)](#594)
+  - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#595)
+    - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#596)
+    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#597)
+    - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#598)
+    - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#599)
+    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#600)
+      - [Chapitre Ier : Du régime de l'immatriculation des immeubles (art. 2510 à 2529)](#601)
+        - [Section 1 : Dispositions générales (art. 2510 à 2515)](#602)
+        - [Section 2 : De l'immatriculation des immeubles et de ses effets (art. 2516 à 2520)](#603)
+        - [Section 3 : De l'inscription des droits sur l'immeuble (art. 2521 à 2529)](#604)
+      - [Chapitre II : Dispositions diverses (art. 2530 à 2534)](#605)
+        - [Section 1 : Privilèges et hypothèques (art. 2530 à 2532)](#606)
+        - [Section 2 : Expropriation forcée (art. 2534)](#607)
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général<a id=1></a>
 
 ###### Article 1
@@ -65611,26 +65612,6 @@ _Codifié par_:
   - Loi n°1804-03-19
 
 
-###### Article 2328-1
-
-Toute sûreté réelle peut être constituée, inscrite, gérée et réalisée pour le compte des créanciers de l'obligation garantie
-par une personne qu'ils désignent à cette fin dans l'acte qui constate cette obligation.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 80
-
-_Cité par_:
-
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 117 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-748 du 4 mai 2017 - art. 2
-
-
 ### Sous-titre II : Des sûretés sur les meubles<a id=556></a>
 
 ###### Article 2329
@@ -70953,23 +70934,149 @@ _Cite_:
   - Code civil - art. 2488-2 (V)
 
 
+## Titre III : De l'agent des sûretés<a id=594></a>
+
 ###### Article 2488-6
 
-Les dispositions du présent chapitre ne sont pas applicables aux fiducies constituées à titre de garantie par les personnes
-morales.
+Toute sûreté ou garantie peut être prise, inscrite, gérée et réalisée par un agent des sûretés, qui agit en son nom propre au
+profit des créanciers de l'obligation garantie.
+
+L'agent des sûretés est titulaire des sûretés et garanties.
+
+Les droits et biens acquis par l'agent des sûretés dans l'exercice de sa mission forment un patrimoine affecté à celle-ci,
+distinct de son patrimoine propre.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-7
+
+A peine de nullité, la convention par laquelle les créanciers désignent l'agent des sûretés doit être constatée par un écrit
+qui mentionne sa qualité, l'objet et la durée de sa mission ainsi que l'étendue de ses pouvoirs.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
-
-_Abrogé par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
 
 
-# Livre V : Dispositions applicables à Mayotte<a id=594></a>
+###### Article 2488-8
+
+Lorsque l'agent des sûretés agit au profit des créanciers de l'obligation garantie, il doit faire expressément mention de sa
+qualité.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-9
+
+L'agent des sûretés peut, sans avoir à justifier d'un mandat spécial, exercer toute action pour défendre les intérêts des
+créanciers de l'obligation garantie et procéder à toute déclaration de créance.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-10
+
+Les droits et biens acquis par l'agent des sûretés dans l'exercice de sa mission ne peuvent être saisis que par les
+titulaires de créances nées de leur conservation ou de leur gestion, sous réserve de l'exercice d'un droit de suite et hors
+les cas de fraude.
+
+L'ouverture d'une procédure de sauvegarde, de redressement judiciaire, de liquidation judiciaire ou de rétablissement
+professionnel à l'égard de l'agent des sûretés est sans effet sur le patrimoine affecté à sa mission.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-11
+
+En l'absence de stipulations contractuelles prévoyant les conditions de son remplacement et si l'agent des sûretés manque à
+ses devoirs, met en péril les intérêts qui lui sont confiés ou fait l'objet de l'ouverture d'une procédure de sauvegarde, de
+redressement judiciaire, de liquidation judiciaire ou de rétablissement professionnel, tout créancier bénéficiaire des
+sûretés et garanties peut demander en justice la désignation d'un agent des sûretés provisoire ou le remplacement de l'agent
+des sûretés.
+
+Tout remplacement conventionnel ou judiciaire de l'agent des sûretés emporte de plein droit transmission du patrimoine
+affecté au nouvel agent des sûretés.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-12
+
+L'agent des sûretés est responsable, sur son patrimoine propre, des fautes qu'il commet dans l'exercice de sa mission.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+# Livre V : Dispositions applicables à Mayotte<a id=595></a>
 
 ###### Article 2489
 
@@ -71033,7 +71140,7 @@ _Anciens textes_:
   - Code civil - art. 2285 (T)
 
 
-## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=595></a>
+## Titre préliminaire : Dispositions relatives au titre préliminaire<a id=596></a>
 
 ###### Article 2491
 
@@ -71058,7 +71165,7 @@ _Créé par_:
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 
-## Titre Ier : Dispositions relatives au livre Ier<a id=596></a>
+## Titre Ier : Dispositions relatives au livre Ier<a id=597></a>
 
 ###### Article 2492
 
@@ -71298,7 +71405,7 @@ _Abrogé par_:
   - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 
-## Titre II : Dispositions relatives au livre II<a id=597></a>
+## Titre II : Dispositions relatives au livre II<a id=598></a>
 
 ###### Article 2500
 
@@ -71389,7 +71496,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-## Titre III : Dispositions relatives au livre III<a id=598></a>
+## Titre III : Dispositions relatives au livre III<a id=599></a>
 
 ###### Article 2503
 
@@ -71542,7 +71649,7 @@ _Cite_:
   - Code du travail - art. L122-21
 
 
-## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=599></a>
+## Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.<a id=600></a>
 
 ###### Article 2509
 
@@ -71565,9 +71672,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=600></a>
+### Chapitre Ier : Du régime de l'immatriculation des immeubles<a id=601></a>
 
-#### Section 1 : Dispositions générales<a id=601></a>
+#### Section 1 : Dispositions générales<a id=602></a>
 
 ###### Article 2510
 
@@ -71746,7 +71853,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=602></a>
+#### Section 2 : De l'immatriculation des immeubles et de ses effets<a id=603></a>
 
 ###### Article 2516
 
@@ -71870,7 +71977,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 3 : De l'inscription des droits sur l'immeuble<a id=603></a>
+#### Section 3 : De l'inscription des droits sur l'immeuble<a id=604></a>
 
 ###### Article 2521
 
@@ -72209,9 +72316,9 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-### Chapitre II : Dispositions diverses<a id=604></a>
+### Chapitre II : Dispositions diverses<a id=605></a>
 
-#### Section 1 : Privilèges et hypothèques<a id=605></a>
+#### Section 1 : Privilèges et hypothèques<a id=606></a>
 
 ###### Article 2530
 
@@ -72291,7 +72398,7 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-#### Section 2 : Expropriation forcée<a id=606></a>
+#### Section 2 : Expropriation forcée<a id=607></a>
 
 ###### Article 2534
 
