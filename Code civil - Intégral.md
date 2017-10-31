@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2017-10-01
+Version Consolidée au 2017-11-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -22201,7 +22201,7 @@ _Modifié par_:
 ###### Article 461
 
 La personne en curatelle ne peut, sans l'assistance du curateur, signer la convention par laquelle elle conclut un pacte
-civil de solidarité. Aucune assistance n'est requise lors de la déclaration conjointe au greffe du tribunal d'instance ou
+civil de solidarité. Aucune assistance n'est requise lors de la déclaration conjointe devant l'officier de l'état civil ou
 devant le notaire instrumentaire prévue au premier alinéa de l'article 515-3. 
 
 Les dispositions de l'alinéa précédent sont applicables en cas de modification de la convention. 
@@ -22216,6 +22216,17 @@ La personne en curatelle est assistée de son curateur dans les opérations pré
 Pour l'application du présent article, le curateur est réputé en opposition d'intérêts avec la personne protégée lorsque la
 curatelle est confiée à son partenaire.
 
+**Nota:**
+
+Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier
+jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à
+compter de cette date. 
+
+Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité
+enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont
+remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à
+l'enregistrement du pacte civil de solidarité.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -22225,7 +22236,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-331 du 28 mars 2011 - art. 12
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
 
 _Cite_:
 
@@ -22244,7 +22255,7 @@ de famille s'il a été constitué, après audition des futurs partenaires et re
 de l'entourage.
 
 L'intéressé est assisté de son tuteur lors de la signature de la convention. Aucune assistance ni représentation ne sont
-requises lors de la déclaration conjointe au greffe du tribunal d'instance ou devant le notaire instrumentaire prévue au
+requises lors de la déclaration conjointe devant l'officier de l'état civil ou devant le notaire instrumentaire prévue au
 premier alinéa de l'article 515-3. 
 
 Les dispositions des alinéas précédents sont applicables en cas de modification de la convention. 
@@ -22266,6 +22277,17 @@ La personne en tutelle est représentée par son tuteur dans les opérations pr�
 Pour l'application du présent article, le tuteur est réputé en opposition d'intérêts avec la personne protégée lorsque la
 tutelle est confiée à son partenaire.
 
+**Nota:**
+
+Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier
+jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à
+compter de cette date. 
+
+Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité
+enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont
+remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à
+l'enregistrement du pacte civil de solidarité.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -22275,16 +22297,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-331 du 28 mars 2011 - art. 12
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
 
 _Cite_:
 
   - Code civil - art. 515-3
   - Code civil - art. 515-7
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 463
@@ -24630,28 +24652,39 @@ _Codifié par_:
 
 ###### Article 515-3
 
-Les personnes qui concluent un pacte civil de solidarité en font la déclaration conjointe au greffe du tribunal d'instance
-dans le ressort duquel elles fixent leur résidence commune ou, en cas d'empêchement grave à la fixation de celle-ci, dans le
-ressort duquel se trouve la résidence de l'une des parties. 
+Les personnes qui concluent un pacte civil de solidarité en font la déclaration conjointe devant l'officier de l'état civil
+de la commune dans laquelle elles fixent leur résidence commune ou, en cas d'empêchement grave à la fixation de celle-ci,
+devant l'officier de l'état civil de la commune où se trouve la résidence de l'une des parties. 
 
-En cas d'empêchement grave, le greffier du tribunal d'instance se transporte au domicile ou à la résidence de l'une des
-parties pour enregistrer le pacte civil de solidarité.
+En cas d'empêchement grave, l'officier de l'état civil se transporte au domicile ou à la résidence de l'une des parties pour
+enregistrer le pacte civil de solidarité.
 
-A peine d'irrecevabilité, les personnes qui concluent un pacte civil de solidarité produisent au greffier la convention
-passée entre elles. 
+A peine d'irrecevabilité, les personnes qui concluent un pacte civil de solidarité produisent la convention passée entre
+elles à l'officier de l'état civil, qui la vise avant de la leur restituer. 
 
-Le greffier enregistre la déclaration et fait procéder aux formalités de publicité. 
+L'officier de l'état civil enregistre la déclaration et fait procéder aux formalités de publicité. 
 
 Lorsque la convention de pacte civil de solidarité est passée par acte notarié, le notaire instrumentaire recueille la
 déclaration conjointe, procède à l'enregistrement du pacte et fait procéder aux formalités de publicité prévues à l'alinéa
 précédent. 
 
-La convention par laquelle les partenaires modifient le pacte civil de solidarité est remise ou adressée au greffe du
-tribunal ou au notaire qui a reçu l'acte initial afin d'y être enregistrée.
+La convention par laquelle les partenaires modifient le pacte civil de solidarité est remise ou adressée à l'officier de
+l'état civil ou au notaire qui a reçu l'acte initial afin d'y être enregistrée.
 
 A l'étranger, l'enregistrement de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de
 nationalité française et les formalités prévues aux troisième et cinquième alinéas sont assurés par les agents diplomatiques
 et consulaires français ainsi que celles requises en cas de modification du pacte.
+
+**Nota:**
+
+Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier
+jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à
+compter de cette date. 
+
+Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité
+enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont
+remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à
+l'enregistrement du pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -24677,19 +24710,30 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-331 du 28 mars 2011 - art. 12
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
 
 
 ###### Article 515-3-1
 
 Il est fait mention, en marge de l'acte de naissance de chaque partenaire, de la déclaration de pacte civil de solidarité,
 avec indication de l'identité de l'autre partenaire. Pour les personnes de nationalité étrangère nées à l'étranger, cette
-information est portée sur un registre tenu au greffe du tribunal de grande instance de Paris. L'existence de conventions
-modificatives est soumise à la même publicité.
+information est portée sur un registre tenu au service central d'état civil du ministère des affaires étrangères. L'existence
+de conventions modificatives est soumise à la même publicité.
 
 Le pacte civil de solidarité ne prend effet entre les parties qu'à compter de son enregistrement, qui lui confère date
 certaine. Il n'est opposable aux tiers qu'à compter du jour où les formalités de publicité sont accomplies. Il en va de même
 des conventions modificatives.
+
+**Nota:**
+
+Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier
+jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à
+compter de cette date. 
+
+Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité
+enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont
+remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à
+l'enregistrement du pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -24704,11 +24748,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
 
 
 ###### Article 515-4
@@ -24883,29 +24923,29 @@ _Codifié par_:
 Le pacte civil de solidarité se dissout par la mort de l'un des partenaires ou par le mariage des partenaires ou de l'un
 d'eux. En ce cas, la dissolution prend effet à la date de l'événement. 
 
-Le greffier du tribunal d'instance du lieu d'enregistrement du pacte civil de solidarité ou le notaire instrumentaire qui a
-procédé à l'enregistrement du pacte, informé du mariage ou du décès par l'officier de l'état civil compétent, enregistre la
-dissolution et fait procéder aux formalités de publicité. 
+L'officier de l'état civil du lieu d'enregistrement du pacte civil de solidarité ou le notaire instrumentaire qui a procédé à
+l'enregistrement du pacte, informé du mariage ou du décès par l'officier de l'état civil compétent, enregistre la dissolution
+et fait procéder aux formalités de publicité. 
 
 Le pacte civil de solidarité se dissout également par déclaration conjointe des partenaires ou décision unilatérale de l'un
 d'eux. 
 
-Les partenaires qui décident de mettre fin d'un commun accord au pacte civil de solidarité remettent ou adressent au greffe
-du tribunal d'instance du lieu de son enregistrement ou au notaire instrumentaire qui a procédé à l'enregistrement du pacte
-une déclaration conjointe à cette fin. 
+Les partenaires qui décident de mettre fin d'un commun accord au pacte civil de solidarité remettent ou adressent à
+l'officier de l'état civil du lieu de son enregistrement ou au notaire instrumentaire qui a procédé à l'enregistrement du
+pacte une déclaration conjointe à cette fin. 
 
 Le partenaire qui décide de mettre fin au pacte civil de solidarité le fait signifier à l'autre. Une copie de cette
-signification est remise ou adressée au greffe du tribunal d'instance du lieu de son enregistrement ou au notaire
-instrumentaire qui a procédé à l'enregistrement du pacte. 
+signification est remise ou adressée à l'officier de l'état civil du lieu de son enregistrement ou au notaire instrumentaire
+qui a procédé à l'enregistrement du pacte. 
 
-Le greffier ou le notaire enregistre la dissolution et fait procéder aux formalités de publicité. 
+L'officier de l'état civil ou le notaire enregistre la dissolution et fait procéder aux formalités de publicité. 
 
 La dissolution du pacte civil de solidarité prend effet, dans les rapports entre les partenaires, à la date de son
 enregistrement. 
 
 Elle est opposable aux tiers à partir du jour où les formalités de publicité ont été accomplies.
 
-A l'étranger, les fonctions confiées par le présent article au greffier du tribunal d'instance sont assurées par les agents
+A l'étranger, les fonctions confiées par le présent article à l'officier de l'état civil sont assurées par les agents
 diplomatiques et consulaires français, qui procèdent ou font procéder également aux formalités prévues au sixième alinéa. 
 
 Les partenaires procèdent eux-mêmes à la liquidation des droits et obligations résultant pour eux du pacte civil de
@@ -24916,6 +24956,17 @@ Sauf convention contraire, les créances dont les partenaires sont titulaires l'
 règles prévues à l'article 1469. Ces créances peuvent être compensées avec les avantages que leur titulaire a pu retirer de
 la vie commune, notamment en ne contribuant pas à hauteur de ses facultés aux dettes contractées pour les besoins de la vie
 courante.
+
+**Nota:**
+
+Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier
+jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à
+compter de cette date. 
+
+Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité
+enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont
+remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à
+l'enregistrement du pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -24954,7 +25005,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-331 du 28 mars 2011 - art. 12
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
 
 _Cite_:
 
@@ -31499,17 +31550,19 @@ _Modifié par_:
 
 ###### Article 788
 
-La déclaration doit être faite au greffe du tribunal de grande instance dans le ressort duquel la succession est ouverte.
-Elle comporte élection d'un domicile unique, qui peut être le domicile de l'un des acceptants à concurrence de l'actif net,
-ou celui de la personne chargée du règlement de la succession. Le domicile doit être situé en France.
+La déclaration doit être faite au greffe du tribunal de grande instance dans le ressort duquel la succession est ouverte ou
+devant notaire. Elle comporte élection d'un domicile unique, qui peut être le domicile de l'un des acceptants à concurrence
+de l'actif net, ou celui de la personne chargée du règlement de la succession. Le domicile doit être situé en France.
 
 La déclaration est enregistrée et fait l'objet d'une publicité nationale, qui peut être faite par voie électronique.
 
+**Nota:**
+
+Loi n° 2016-1547 du 18 novembre 2016, article 114 III : Ces dispositions sont applicables aux successions ouvertes à partir
+du premier jour du douzième mois suivant la promulgation de la présente loi. Les instances introduites antérieurement sont
+régies par les dispositions applicables avant cette date.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -31518,6 +31571,10 @@ _Cité par_:
   - Code civil - art. 792 (V)
   - Code de l'organisation judiciaire - art. R123-24 (V)
   - Code de procédure civile - art. 1335 (VD)
+
+_Modifié par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 46
 
 _Codifié par_:
 
@@ -31976,13 +32033,22 @@ _Modifié par_:
 La renonciation à une succession ne se présume pas. 
 
 Pour être opposable aux tiers, la renonciation opérée par l'héritier universel ou à titre universel doit être adressée ou
-déposée au tribunal dans le ressort duquel la succession s'est ouverte.
+déposée au tribunal dans le ressort duquel la succession s'est ouverte ou faite devant notaire.
+
+Dans le mois suivant la renonciation, le notaire qui l'a reçue en adresse copie au tribunal dans le ressort duquel la
+succession s'est ouverte.
+
+**Nota:**
+
+Loi n° 2016-1547 du 18 novembre 2016, article 114 III : Ces dispositions sont applicables aux successions ouvertes à partir
+du premier jour du douzième mois suivant la promulgation de la présente loi. Les instances introduites antérieurement sont
+régies par les dispositions applicables avant cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 5
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 45
 
 
 ###### Article 805
@@ -38772,53 +38838,35 @@ _Codifié par_:
 
 Tout testament olographe ou mystique sera, avant d'être mis à exécution, déposé entre les mains d'un notaire. Le testament
 sera ouvert s'il est cacheté. Le notaire dressera sur-le-champ procès-verbal de l'ouverture et de l'état du testament, en
-précisant les circonstances du dépôt. Le testament ainsi que le procès-verbal seront conservés au rang des minutes du
+précisant les circonstances du dépôt. Dans le cas prévu à l'article 1006, le notaire vérifiera les conditions de la saisine
+du légataire au regard du caractère universel de sa vocation et de l'absence d'héritiers réservataires. Il portera mention de
+ces vérifications sur le procès-verbal. Le testament ainsi que le procès-verbal seront conservés au rang des minutes du
 dépositaire.
 
 Dans le mois qui suivra la date du procès-verbal, le notaire adressera une expédition de celui-ci et une copie figurée du
 testament au greffier du tribunal de grande instance du lieu d'ouverture de la succession, qui lui accusera réception de ces
 documents et les conservera au rang de ses minutes.
 
+Dans le mois suivant cette réception, tout intéressé pourra s'opposer à l'exercice de ses droits par le légataire universel
+saisi de plein droit en vertu du même article 1006. En cas d'opposition, ce légataire se fera envoyer en possession. Les
+modalités d'application du présent alinéa sont déterminées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 2016-1547 du 18 novembre 2016, article 114 III : Ces dispositions sont applicables aux successions ouvertes à partir
+du premier jour du douzième mois suivant la promulgation de ladite loi. Les instances introduites antérieurement sont régies
+par les dispositions applicables avant cette date.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 44
 
 _Cité par_:
 
   - Décret n°2016-1907 du 28 décembre 2016 (V)
   - Code de procédure civile - art. 1378-2 (VD)
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Modifié par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 1008
-
-Dans le cas de l'article 1006, si le testament est olographe ou mystique, le légataire universel sera tenu de se faire
-envoyer en possession, par une ordonnance du président, mise au bas d'une requête, à laquelle sera joint l'acte de dépôt.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret du 18 novembre 1924 - art. 42 (Ab)
-  - Décret n°60-323  du 2 avril 1960  - art. 58 (VT)
-  - Code civil - art. 1030-2 (V)
-
-_Modifié par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 44
-
-_Cite_:
-
-  - Code civil - art. 1006
 
 _Codifié par_:
 
@@ -39294,14 +39342,20 @@ _Codifié par_:
 
 ###### Article 1030-2
 
-Lorsque le testament a revêtu la forme authentique, l'envoi en possession prévu à l'article 1008 n'est pas requis pour
-l'exécution des pouvoirs mentionnés aux articles 1030 et 1030-1.
+Lorsque le testament a revêtu la forme authentique, l'envoi en possession n'est pas requis pour l'exécution des pouvoirs
+mentionnés aux articles 1030 et 1030-1.
+
+**Nota:**
+
+Loi n° 2016-1547 du 18 novembre 2016, article 114 III : Ces dispositions sont applicables aux successions ouvertes à partir
+du premier jour du douzième mois suivant la promulgation de la présente loi. Les instances introduites antérieurement sont
+régies par les dispositions applicables avant cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 19 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 44
 
 _Cité par_:
 
@@ -39309,9 +39363,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 1008 (V)
-  - Code civil - art. 1030 (V)
-  - Code civil - art. 1030-1 (V)
+  - Code civil - art. 1030
+  - Code civil - art. 1030-1
 
 _Codifié par_:
 
@@ -70897,38 +70950,6 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°1804-03-15
-
-
-###### Article 2499
-
-Pour l'application à Mayotte des articles 515-3 et 515-7, les mots : " greffe du tribunal d'instance " sont remplacés par les
-mots : " greffe du tribunal de première instance ", et les mots : " greffiers du tribunal d'instance " sont remplacés par les
-mots : " greffiers du tribunal de première instance ".
-
-**Nota:**
-
-La loi n° 2009-1436 du 24 novembre 2009, article 37 III modifie l'article 2499 du code civil en insérant les mots : "Les mots
-" greffier du tribunal d'instance " sont remplacés par les mots : " greffier du tribunal de première instance " termes déjà
-présents dans la rédaction de l'article.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-1436 du 24 novembre 2009 - art. 37
-
-_Abrogé par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
-
-_Anciens textes_:
-
-  - Code civil - art. 2293 (T)
-
-_Cite_:
-
-  - Code civil - art. 515-3
-  - Code civil - art. 515-7
 
 
 ###### Article 2499-1
