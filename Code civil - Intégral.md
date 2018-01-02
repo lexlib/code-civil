@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-03
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -61724,8 +61724,8 @@ _Codifié par_:
 
 Seuls peuvent avoir la qualité de fiduciaires les établissements de crédit mentionnés au I de l'article L. 511-1 du code
 monétaire et financier, les institutions et services énumérés à l'article L. 518-1 du même code, les entreprises
-d'investissement mentionnées à l'article L. 531-4 du même code ainsi que les entreprises d'assurance régies par l'article L.
-310-1 du code des assurances. 
+d'investissement mentionnées à l'article L. 531-4 du même code, les sociétés de gestion de portefeuille ainsi que les
+entreprises d'assurance régies par l'article L. 310-1 du code des assurances.
 
 Les membres de la profession d'avocat peuvent également avoir la qualité de fiduciaire.
 
@@ -61740,7 +61740,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 18
+  - Ordonnance n°2017-1107 du 22 juin 2017 - art. 17
 
 _Nouveaux textes_:
 
