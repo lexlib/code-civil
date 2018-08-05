@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2018-01-03
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -53056,20 +53056,17 @@ _Créé par_:
 
 La demande n'est plus recevable après l'expiration de deux années, à compter du jour de la vente.
 
-Ce délai court contre les femmes mariées et contre les absents, les majeurs en tutelle et les mineurs venant du chef d'un
-majeur qui a vendu.
-
-Ce délai court aussi et n'est pas suspendu pendant la durée du temps stipulé pour le pacte du rachat.
+Ce délai court et n'est pas suspendu pendant la durée du temps stipulé pour le pacte du rachat.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-703 du 3 août 2018 - art. 18
 
 _Codifié par_:
 
   - Loi n°1804-03-06
-
-_Créé par_:
-
-  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
 ###### Article 1677
