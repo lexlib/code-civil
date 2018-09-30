@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -41106,20 +41106,26 @@ _Modifié par_:
 
 ###### Article 1110
 
-Le contrat de gré à gré est celui dont les stipulations sont librement négociées entre les parties. 
+Le contrat de gré à gré est celui dont les stipulations sont négociables entre les parties.
 
-Le contrat d'adhésion est celui dont les conditions générales, soustraites à la négociation, sont déterminées à l'avance par
-l'une des parties.
+Le contrat d'adhésion est celui qui comporte un ensemble de clauses non négociables, déterminées à l'avance par l'une des
+parties.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1110
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 2
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1111
@@ -41161,10 +41167,15 @@ _Créé par_:
 ###### Article 1112
 
 L'initiative, le déroulement et la rupture des négociations précontractuelles sont libres. Ils doivent impérativement
-satisfaire aux exigences de la bonne foi. 
+satisfaire aux exigences de la bonne foi.
 
 En cas de faute commise dans les négociations, la réparation du préjudice qui en résulte ne peut avoir pour objet de
-compenser la perte des avantages attendus du contrat non conclu.
+compenser ni la perte des avantages attendus du contrat non conclu, ni la perte de chance d'obtenir ces avantages.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1112 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
@@ -41174,7 +41185,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+  - Loi n°2018-287 du 20 avril 2018 - art. 3
 
 
 ###### Article 1112-1
@@ -41291,15 +41302,21 @@ _Modifié par_:
 
 ###### Article 1117
 
-L'offre est caduque à l'expiration du délai fixé par son auteur ou, à défaut, à l'issue d'un délai raisonnable. 
+L'offre est caduque à l'expiration du délai fixé par son auteur ou, à défaut, à l'issue d'un délai raisonnable.
 
-Elle l'est également en cas d'incapacité ou de décès de son auteur.
+Elle l'est également en cas d'incapacité ou de décès de son auteur, ou de décès de son destinataire.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1117
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+  - Loi n°2018-287 du 20 avril 2018 - art. 4
 
 _Codifié par_:
 
@@ -41815,10 +41832,19 @@ _Modifié par_:
 
 ###### Article 1137
 
-Le dol est le fait pour un contractant d'obtenir le consentement de l'autre par des manœuvres ou des mensonges. 
+Le dol est le fait pour un contractant d'obtenir le consentement de l'autre par des manœuvres ou des mensonges.
 
 Constitue également un dol la dissimulation intentionnelle par l'un des contractants d'une information dont il sait le
 caractère déterminant pour l'autre partie.
+
+Néanmoins, ne constitue pas un dol le fait pour une partie de ne pas révéler à son cocontractant son estimation de la valeur
+de la prestation.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1137
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -41833,7 +41859,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+  - Loi n°2018-287 du 20 avril 2018 - art. 5
 
 
 ###### Article 1138
@@ -41926,19 +41952,24 @@ _Modifié par_:
 
 ###### Article 1143
 
-Il y a également violence lorsqu'une partie, abusant de l'état de dépendance dans lequel se trouve son cocontractant, obtient
-de lui un engagement qu'il n'aurait pas souscrit en l'absence d'une telle contrainte et en tire un avantage manifestement
-excessif.
+Il y a également violence lorsqu'une partie, abusant de l'état de dépendance dans lequel se trouve son cocontractant à son
+égard, obtient de lui un engagement qu'il n'aurait pas souscrit en l'absence d'une telle contrainte et en tire un avantage
+manifestement excessif.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1143 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 5
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1144
@@ -41967,20 +41998,25 @@ _Modifié par_:
 
 ###### Article 1145
 
-Toute personne physique peut contracter sauf en cas d'incapacité prévue par la loi. 
+Toute personne physique peut contracter sauf en cas d'incapacité prévue par la loi.
 
-La capacité des personnes morales est limitée aux actes utiles à la réalisation de leur objet tel que défini par leurs
-statuts et aux actes qui leur sont accessoires, dans le respect des règles applicables à chacune d'entre elles.
+La capacité des personnes morales est limitée par les règles applicables à chacune d'entre elles.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1145
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 6
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1146
@@ -42338,20 +42374,26 @@ _Modifié par_:
 
 ###### Article 1161
 
-Un représentant ne peut agir pour le compte des deux parties au contrat ni contracter pour son propre compte avec le
-représenté. 
+En matière de représentation des personnes physiques, un représentant ne peut agir pour le compte de plusieurs parties au
+contrat en opposition d'intérêts ni contracter pour son propre compte avec le représenté.
 
 En ces cas, l'acte accompli est nul à moins que la loi ne l'autorise ou que le représenté ne l'ait autorisé ou ratifié.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1161
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 6
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ##### Sous-section 3 : Le contenu du contrat<a id=332></a>
@@ -42424,18 +42466,25 @@ _Codifié par_:
 ###### Article 1165
 
 Dans les contrats de prestation de service, à défaut d'accord des parties avant leur exécution, le prix peut être fixé par le
-créancier, à charge pour lui d'en motiver le montant en cas de contestation. En cas d'abus dans la fixation du prix, le juge
-peut être saisi d'une demande en dommages et intérêts.
+créancier, à charge pour lui d'en motiver le montant en cas de contestation.
+
+En cas d'abus dans la fixation du prix, le juge peut être saisi d'une demande tendant à obtenir des dommages et intérêts et,
+le cas échéant, la résolution du contrat.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1165 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 7
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1166
@@ -42535,21 +42584,27 @@ _Modifié par_:
 
 ###### Article 1171
 
-Dans un contrat d'adhésion, toute clause qui crée un déséquilibre significatif entre les droits et obligations des parties au
-contrat est réputée non écrite. 
+Dans un contrat d'adhésion, toute clause non négociable, déterminée à l'avance par l'une des parties, qui crée un
+déséquilibre significatif entre les droits et obligations des parties au contrat est réputée non écrite.
 
 L'appréciation du déséquilibre significatif ne porte ni sur l'objet principal du contrat ni sur l'adéquation du prix à la
 prestation.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1171
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 7
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ##### Section 3 : La forme du contrat<a id=333></a>
@@ -43538,15 +43593,20 @@ _Créé par_:
 ###### Article 1216-3
 
 Si le cédant n'est pas libéré par le cédé, les sûretés qui ont pu être consenties subsistent. Dans le cas contraire, les
-sûretés consenties par des tiers ne subsistent qu'avec leur accord.
+sûretés consenties par le cédant ou par des tiers ne subsistent qu'avec leur accord.
 
 Si le cédant est libéré, ses codébiteurs solidaires restent tenus déduction faite de sa part dans la dette.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1216-3 ont un caractère interprétatif.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+  - Loi n°2018-287 du 20 avril 2018 - art. 9
 
 
 ##### Section 5 : L'inexécution du contrat<a id=349></a>
@@ -43559,7 +43619,7 @@ La partie envers laquelle l'engagement n'a pas été exécuté, ou l'a été imp
 
 - poursuivre l'exécution forcée en nature de l'obligation ;
 
-- solliciter une réduction du prix ;
+- obtenir une réduction du prix ;
 
 - provoquer la résolution du contrat ;
 
@@ -43567,15 +43627,20 @@ La partie envers laquelle l'engagement n'a pas été exécuté, ou l'a été imp
 
 Les sanctions qui ne sont pas incompatibles peuvent être cumulées ; des dommages et intérêts peuvent toujours s'y ajouter.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1217 ont un caractère interprétatif.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 10
 
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1218
@@ -43644,9 +43709,19 @@ _Modifié par_:
 ###### Article 1221
 
 Le créancier d'une obligation peut, après mise en demeure, en poursuivre l'exécution en nature sauf si cette exécution est
-impossible ou s'il existe une disproportion manifeste entre son coût pour le débiteur et son intérêt pour le créancier.
+impossible ou s'il existe une disproportion manifeste entre son coût pour le débiteur de bonne foi et son intérêt pour le
+créancier.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1221 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 10
 
 **Liens**:
 
@@ -43655,10 +43730,6 @@ impossible ou s'il existe une disproportion manifeste entre son coût pour le d�
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1222
@@ -43684,12 +43755,23 @@ _Modifié par_:
 
 ###### Article 1223
 
-Le créancier peut, après mise en demeure, accepter une exécution imparfaite du contrat et solliciter une réduction
-proportionnelle du prix. 
+En cas d'exécution imparfaite de la prestation, le créancier peut, après mise en demeure et s'il n'a pas encore payé tout ou
+partie de la prestation, notifier dans les meilleurs délais au débiteur sa décision d'en réduire de manière proportionnelle
+le prix. L'acceptation par le débiteur de la décision de réduction de prix du créancier doit être rédigée par écrit.
 
-S'il n'a pas encore payé, le créancier notifie sa décision de réduire le prix dans les meilleurs délais.
+Si le créancier a déjà payé, à défaut d'accord entre les parties, il peut demander au juge la réduction de prix.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1223
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 10
 
 **Liens**:
 
@@ -43698,10 +43780,6 @@ S'il n'a pas encore payé, le créancier notifie sa décision de réduire le pri
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ##### Sous-section 4 : La résolution<a id=353></a>
@@ -44926,13 +45004,19 @@ _Créé par_:
 
 ###### Article 1304-4
 
-Une partie est libre de renoncer à la condition stipulée dans son intérêt exclusif, tant que celle-ci n'est pas accomplie.
+Une partie est libre de renoncer à la condition stipulée dans son intérêt exclusif, tant que celle-ci n'est pas accomplie ou
+n'a pas défailli.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1304-4 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Loi n°2018-287 du 20 avril 2018 - art. 11
 
 
 ###### Article 1304-5
@@ -45060,13 +45144,18 @@ _Cité par_:
 
 ###### Article 1305-5
 
-La déchéance du terme encourue par un débiteur est inopposable à ses coobligés, même solidaires.
+La déchéance du terme encourue par un débiteur est inopposable à ses coobligés, même solidaires, et à ses cautions.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1305-5 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Loi n°2018-287 du 20 avril 2018 - art. 11
 
 
 #### Section 3 : L'obligation plurale<a id=367></a>
@@ -45614,27 +45703,40 @@ _Modifié par_:
 
 Un débiteur peut, avec l'accord du créancier, céder sa dette.
 
+La cession doit être constatée par écrit, à peine de nullité.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article 1327
+dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son entrée
+en vigueur.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-287 du 20 avril 2018 - art. 12
 
 _Codifié par_:
 
   - Loi n°1804-02-07
 
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
 
 ###### Article 1327-1
 
-Le créancier, s'il a par avance donné son accord à la cession ou n'y est pas intervenu, ne peut se la voir opposer ou s'en
+Le créancier, s'il a par avance donné son accord à la cession et n'y est pas intervenu, ne peut se la voir opposer ou s'en
 prévaloir que du jour où elle lui a été notifiée ou dès qu'il en a pris acte.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1327-1 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Loi n°2018-287 du 20 avril 2018 - art. 13
 
 
 ###### Article 1327-2
@@ -45675,15 +45777,20 @@ _Modifié par_:
 ###### Article 1328-1
 
 Lorsque le débiteur originaire n'est pas déchargé par le créancier, les sûretés subsistent. Dans le cas contraire, les
-sûretés consenties par des tiers ne subsistent qu'avec leur accord.
+sûretés consenties par le débiteur originaire ou par des tiers ne subsistent qu'avec leur accord.
 
 Si le cédant est déchargé, ses codébiteurs solidaires restent tenus déduction faite de sa part dans la dette.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1328-1 ont un caractère interprétatif.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Loi n°2018-287 du 20 avril 2018 - art. 13
 
 
 #### Section 3 : La novation<a id=378></a>
@@ -46233,14 +46340,23 @@ _Créé par_:
 
 ###### Article 1343-3
 
-Le paiement, en France, d'une obligation de somme d'argent s'effectue en euros. Toutefois, le paiement peut avoir lieu en une
-autre devise si l'obligation ainsi libellée procède d'un contrat international ou d'un jugement étranger.
+Le paiement, en France, d'une obligation de somme d'argent s'effectue en euros.
+
+Toutefois, le paiement peut avoir lieu en une autre monnaie si l'obligation ainsi libellée procède d'une opération à
+caractère international ou d'un jugement étranger. Les parties peuvent convenir que le paiement aura lieu en devise s'il
+intervient entre professionnels, lorsque l'usage d'une monnaie étrangère est communément admis pour l'opération concernée.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les dispositions de l'article
+1343-3 dans leur rédaction résultant de ladite loi sont applicables aux actes juridiques conclus ou établis à compter de son
+entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Loi n°2018-287 du 20 avril 2018 - art. 14
 
 _Cité par_:
 
@@ -46651,16 +46767,21 @@ _Créé par_:
 
 ###### Article 1347-6
 
-La caution peut opposer au créancier la compensation intervenue entre ce dernier et le débiteur principal.
+La caution peut opposer la compensation de ce que le créancier doit au débiteur principal.
 
-Le codébiteur solidaire peut se prévaloir de la compensation intervenue entre le créancier et l'un de ses coobligés pour
-faire déduire la part divise de celui-ci du total de la dette.
+Le codébiteur solidaire peut se prévaloir de la compensation de ce que le créancier doit à l'un de ses coobligés pour faire
+déduire la part divise de celui-ci du total de la dette.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1347-6 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Loi n°2018-287 du 20 avril 2018 - art. 15
 
 
 ###### Article 1347-7
@@ -46924,14 +47045,19 @@ _Créé par_:
 
 ###### Article 1352-4
 
-Les restitutions dues à un mineur non émancipé ou à un majeur protégé sont réduites à proportion du profit qu'il a retiré de
+Les restitutions dues par un mineur non émancipé ou par un majeur protégé sont réduites à hauteur du profit qu'il a retiré de
 l'acte annulé.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 16 de la loi n° 2018-287 du 20 avril 2018, les modifications apportées par
+ladite loi aux dispositions de l'article 1352-4 ont un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Loi n°2018-287 du 20 avril 2018 - art. 13
 
 _Cité par_:
 
