@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2019-03-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -109,7 +109,7 @@ Version Consolidée au 2018-10-01
         - [Section 1 : De l'établissement de la filiation par l'effet de la loi (art. 311-25 à 315)](#106)
           - [Paragraphe 1 : De la désignation de la mère dans l'acte de naissance (art. 311-25)](#107)
           - [Paragraphe 2 : De la présomption de paternité (art. 312 à 315)](#108)
-        - [Section 2 : De l'établissement de la filiation par la reconnaissance (art. 316)](#109)
+        - [Section 2 : De l'établissement de la filiation par la reconnaissance (art. 316 à 316-5)](#109)
         - [Section 3 : De l'établissement de la filiation par la possession d'état (art. 317)](#110)
       - [Chapitre III : Des actions relatives à la filiation (art. 318 à 337)](#111)
         - [Section 1 : Dispositions générales (art. 318 à 324)](#112)
@@ -597,7 +597,7 @@ Version Consolidée au 2018-10-01
     - [Titre III : De l'agent des sûretés (art. 2488-6 à 2488-12)](#594)
   - [Livre V : Dispositions applicables à Mayotte (art. 2489 à 2534)](#595)
     - [Titre préliminaire : Dispositions relatives au titre préliminaire (art. 2491)](#596)
-    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2499-5)](#597)
+    - [Titre Ier : Dispositions relatives au livre Ier (art. 2492 à 2495)](#597)
     - [Titre II : Dispositions relatives au livre II (art. 2500 à 2502)](#598)
     - [Titre III : Dispositions relatives au livre III (art. 2503 à 2508)](#599)
     - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. (art. 2509 à 2534)](#600)
@@ -14776,25 +14776,37 @@ _Cite_:
 ###### Article 316
 
 Lorsque la filiation n'est pas établie dans les conditions prévues à la section I du présent chapitre, elle peut l'être par
-une reconnaissance de paternité ou de maternité, faite avant ou après la naissance. 
+une reconnaissance de paternité ou de maternité, faite avant ou après la naissance.
 
-La reconnaissance n'établit la filiation qu'à l'égard de son auteur. 
+La reconnaissance n'établit la filiation qu'à l'égard de son auteur.
 
 Elle est faite dans l'acte de naissance, par acte reçu par l'officier de l'état civil ou par tout autre acte authentique.
+
+L'acte de reconnaissance est établi sur déclaration de son auteur, qui justifie :
+
+1° De son identité par un document officiel délivré par une autorité publique comportant son nom, son prénom, sa date et son
+lieu de naissance, sa photographie et sa signature ainsi que l'identification de l'autorité qui a délivré le document, la
+date et le lieu de délivrance ;
+
+2° De son domicile ou de sa résidence par la production d'une pièce justificative datée de moins de trois mois. Lorsqu'il
+n'est pas possible d'apporter la preuve d'un domicile ou d'une résidence et lorsque la loi n'a pas fixé une commune de
+rattachement, l'auteur fournit une attestation d'élection de domicile dans les conditions fixées à l'article L. 264-2 du code
+de l'action sociale et des familles.
 
 L'acte comporte les énonciations prévues à l'article 62 et la mention que l'auteur de la reconnaissance a été informé du
 caractère divisible du lien de filiation ainsi établi.
 
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
+postérieures à cette date.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 11 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+  - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 _Cité par_:
 
@@ -14803,11 +14815,151 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 62 (V)
+  - Code civil - art. 62
 
 _Codifié par_:
 
   - Loi n°1803-03-14
+
+
+###### Article 316-1
+
+Lorsqu'il existe des indices sérieux laissant présumer, le cas échéant au vu de l'audition par l'officier de l'état civil de
+l'auteur de la reconnaissance de l'enfant, que celle-ci est frauduleuse, l'officier de l'état civil saisit sans délai le
+procureur de la République et en informe l'auteur de la reconnaissance.
+
+Le procureur de la République est tenu de décider, dans un délai de quinze jours à compter de sa saisine, soit de laisser
+l'officier de l'état civil enregistrer la reconnaissance ou mentionner celle-ci en marge de l'acte de naissance, soit qu'il y
+est sursis dans l'attente des résultats de l'enquête à laquelle il fait procéder, soit d'y faire opposition.
+
+La durée du sursis ainsi décidé ne peut excéder un mois, renouvelable une fois par décision spécialement motivée. Toutefois,
+lorsque l'enquête est menée, en totalité ou en partie, à l'étranger par l'autorité diplomatique ou consulaire, la durée du
+sursis est portée à deux mois, renouvelable une fois par décision spécialement motivée. Dans tous les cas, la décision de
+sursis et son renouvellement sont notifiés à l'officier de l'état civil et à l'auteur de la reconnaissance.
+
+A l'expiration du sursis, le procureur de la République fait connaître à l'officier de l'état civil et aux intéressés, par
+décision motivée, s'il laisse procéder à l'enregistrement de la reconnaissance ou à sa mention en marge de l'acte de
+naissance de l'enfant.
+
+L'auteur de la reconnaissance, même mineur, peut contester la décision de sursis ou de renouvellement de celui-ci devant le
+tribunal de grande instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel, la cour statue
+dans le même délai.
+
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
+postérieures à cette date.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 55
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 316-2
+
+Tout acte d'opposition du procureur de la République mentionne les prénoms et nom de l'auteur de la reconnaissance ainsi que
+les prénoms et nom, date et lieu de naissance de l'enfant concerné.
+
+En cas de reconnaissance prénatale, l'acte d'opposition mentionne les prénoms et nom de l'auteur de la reconnaissance ainsi
+que toute indication communiquée à l'officier de l'état civil relative à l'identification de l'enfant à naître.
+
+A peine de nullité, tout acte d'opposition à l'enregistrement d'une reconnaissance ou à sa mention en marge de l'acte de
+naissance de l'enfant énonce la qualité de l'auteur de l'opposition ainsi que les motifs de celle-ci. Il reproduit les
+dispositions législatives sur lesquelles est fondée l'opposition.
+
+L'acte d'opposition est signé, sur l'original et sur la copie, par l'opposant et notifié à l'officier de l'état civil, qui
+met son visa sur l'original.
+
+L'officier de l'état civil fait sans délai une mention sommaire de l'opposition sur le registre de l'état civil. Il mentionne
+également en marge de l'inscription de ladite opposition les éventuelles décisions de mainlevée dont expédition lui a été
+remise. L'auteur de la reconnaissance en est informé sans délai.
+
+En cas d'opposition, l'officier de l'état civil ne peut, sous peine de l'amende prévue à l'article 68, enregistrer la
+reconnaissance ou la mentionner sur l'acte de naissance de l'enfant, sauf si une expédition de la mainlevée de l'opposition
+lui a été remise.
+
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
+postérieures à cette date.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 55
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 316-3
+
+Le tribunal de grande instance se prononce, dans un délai de dix jours à compter de sa saisine, sur la demande en mainlevée
+de l'opposition formée par l'auteur de la reconnaissance, même mineur.
+
+En cas d'appel, il est statué dans le même délai et, si le jugement dont il est fait appel a prononcé mainlevée de
+l'opposition, la cour doit statuer, même d'office.
+
+Le jugement rendu par défaut rejetant l'opposition à l'enregistrement de la reconnaissance ou à sa mention en marge de l'acte
+de naissance de l'enfant ne peut être contesté.
+
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
+postérieures à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 55
+
+
+###### Article 316-4
+
+Lorsque la saisine du procureur de la République concerne une reconnaissance prénatale ou concomitante à la déclaration de
+naissance, l'acte de naissance de l'enfant est dressé sans indication de cette reconnaissance.
+
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
+postérieures à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 55
+
+
+###### Article 316-5
+
+Lorsque la reconnaissance est enregistrée, ses effets pour l'application des articles 311-21 ou 311-23 remontent à la date de
+la saisine du procureur de la République.
+
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
+postérieures à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 
 #### Section 3 : De l'établissement de la filiation par la possession d'état<a id=110></a>
@@ -66809,62 +66961,65 @@ _Modifié par_:
 
 ###### Article 2374
 
-Les créanciers privilégiés sur les immeubles sont : 
+Les créanciers privilégiés sur les immeubles sont :
 
-1° Le vendeur, sur l'immeuble vendu, pour le paiement du prix ; 
+1° Le vendeur, sur l'immeuble vendu, pour le paiement du prix ;
 
 S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le
-deuxième au troisième, et ainsi de suite ; 
+deuxième au troisième, et ainsi de suite ;
 
 1° bis Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au 2°, le syndicat des
 copropriétaires, sur le lot vendu, pour le paiement des charges et travaux mentionnés à l'article 10, au c du II de l'article
 24 et à l'article 30 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis et des
 cotisations au fonds de travaux mentionné à l'article 14-2 de la même loi, relatifs à l'année courante et aux quatre
-dernières années échues ainsi que des dommages et intérêts alloués par les juridictions et des dépens. 
+dernières années échues ainsi que des dommages et intérêts alloués par les juridictions et des dépens.
 
 Toutefois, le syndicat est préféré au vendeur et au prêteur de deniers pour les créances afférentes aux charges et travaux de
-l'année courante et des deux dernières années échues ; 
+l'année courante et des deux dernières années échues ;
 
 1° ter Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au 2° du présent article,
 l'opérateur mentionné à l'article L. 615-10 du code de la construction et de l'habitation, si le bien vendu est assorti d'une
-servitude sur des biens d'intérêt collectif. 
+servitude sur des biens d'intérêt collectif.
 
 Toutefois, l'opérateur est préféré au vendeur et au prêteur de deniers pour les redevances prévues au même article L. 615-10
-de l'année courante et des deux dernières années échues ; 
+de l'année courante et des deux dernières années échues ;
 
 2° Même en l'absence de subrogation, ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit
 authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi et, par quittance du vendeur, que ce
-paiement a été fait des deniers empruntés ; 
+paiement a été fait des deniers empruntés ;
 
 3° Les cohéritiers, sur les immeubles de la succession, pour la garantie des partages faits entre eux, et des soultes ou
 retours de lots ; pour la garantie des indemnités dues en application de l'article 924, les immeubles donnés ou légués sont
-assimilés aux immeubles de la succession ; 
+assimilés aux immeubles de la succession ;
 
 4° Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments,
 canaux ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de grande instance
 dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater
 l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient
-été, dans les six mois au plus de leur perfection, reçus par un expert également nommé d'office ; 
+été, dans les six mois au plus de leur perfection, reçus par un expert également nommé d'office ;
 
 Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-
-value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits ; 
+value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits ;
 
 5° Ceux qui ont prêté les deniers, pour payer ou rembourser les ouvriers, jouissent du même privilège, pourvu que cet emploi
 soit authentiquement constaté par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit ci-dessus pour
-ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ; 
+ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ;
 
 6° Les créanciers du défunt et les légataires de sommes d'argent sur les immeubles de la succession, ainsi que les créanciers
-personnels de l'héritier sur les immeubles de ce dernier, pour la garantie des droits qu'ils tiennent de l'article 878 ; 
+personnels de l'héritier sur les immeubles de ce dernier, pour la garantie des droits qu'ils tiennent de l'article 878 ;
 
 7° Les accédants à la propriété titulaires d'un contrat de location-accession régi par la loi n° 84-595 du 12 juillet 1984
 définissant la location-accession à la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la garantie des
-droits qu'ils tiennent de ce contrat ; 
+droits qu'ils tiennent de ce contrat ;
 
-8° L'Etat ou la commune, pour la garantie des créances nées de l'application de l'article L. 1331-30 du code de la santé
-publique, de l'article L. 123-3 du code de la construction et de l'habitation lorsqu'elles sont relatives à des mesures
-édictées sous peine d'interdiction d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, ou des
-articles L. 129-4, 
-L. 511-4 et L. 521-3-2 de ce dernier code.
+8° L'Etat, la commune ou l'établissement public de coopération intercommunale à fiscalité propre, selon le cas, pour la
+garantie des créances nées de l'application des articles L. 123-3, L. 129-2, L. 129-4, L. 511-2, L. 511-4 ou L. 521-3-2 du
+code de la construction de l'habitation ou des articles L. 1331-29-1 ou L. 1331-30 du code de la santé publique.
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 194 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions entrent en
+vigueur le premier jour du quatrième mois suivant la publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -66913,15 +67068,11 @@ _Cite_:
   - Loi n°65-557 du 10 juillet 1965
   - Loi n°84-595 du 12 juillet 1984
   - Code civil - art. 924
-  - Code de la santé publique - art. L1331-30
-  - Code de la construction et de l'habitation. - art. L129-4
-  - Code de la construction et de l'habitation. - art. L511-4
-  - Code de la construction et de l'habitation. - art. L521-3-2
-  - Code de la construction et de l'habitation. - art. L615-10 (V)
+  - Code de la construction et de l'habitation. - art. L615-10
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 73
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 194 (V)
 
 _Anciens textes_:
 
@@ -71061,182 +71212,99 @@ _Codifié par_:
   - Loi n°1804-03-15
 
 
-###### Article 2499-1
+###### Article 2493
 
-Les articles 57, 62 et 316 sont applicables à Mayotte sous les réserves prévues aux articles 2499-2 à 2499-5.
+Pour un enfant né à Mayotte, le premier alinéa de l'article 21-7 et l'article 21-11 ne sont applicables que si, à la date de
+sa naissance, l'un de ses parents au moins résidait en France de manière régulière, sous couvert d'un titre de séjour, et de
+manière ininterrompue depuis plus de trois mois.
 
 **Nota:**
 
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions sont abrogées à une date
-fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 pour les demandes qui lui sont postérieures.
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et sont applicables aux demandes qui lui sont
+postérieures.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
+  - Loi n°2018-778 du 10 septembre 2018 - art. 16
 
-_Abrogé par_:
+_Anciens textes_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 55
-
-_Cite_:
-
-  - Code civil - art. 2499-2
-  - Code civil - art. 316
-  - Code civil - art. 57
-  - Code civil - art. 62
+  - Code civil - art. 2288 (T)
 
 _Codifié par_:
 
   - Loi n°1804-03-15
 
 
-###### Article 2499-2
+###### Article 2494
 
-Lorsqu'il existe des indices sérieux laissant présumer que la reconnaissance d'un enfant est frauduleuse, l'officier de
-l'état civil saisit le procureur de la République et en informe l'auteur de la reconnaissance. 
+L'article 2493 est applicable dans les conditions prévues à l'article 17-2.
 
-Le procureur de la République est tenu de décider, dans un délai de quinze jours à compter de sa saisine, soit de laisser
-l'officier de l'état civil enregistrer la reconnaissance ou mentionner celle-ci en marge de l'acte de naissance, soit qu'il y
-est sursis dans l'attente des résultats de l'enquête à laquelle il fait procéder, soit d'y faire opposition. 
-
-La durée du sursis ainsi décidé ne peut excéder un mois, renouvelable une fois par décision spécialement motivée. Toutefois,
-lorsque l'enquête est menée, en totalité ou en partie, à l'étranger par l'autorité diplomatique ou consulaire, la durée du
-sursis est portée à deux mois, renouvelable une fois par décision spécialement motivée. Dans tous les cas, la décision de
-sursis et son renouvellement sont notifiés à l'officier de l'état civil et à l'auteur de la reconnaissance.
-
-A l'expiration du sursis, le procureur de la République fait connaître à l'officier de l'état civil et aux intéressés, par
-décision motivée, s'il laisse procéder à l'enregistrement de la reconnaissance ou à sa mention en marge de l'acte de
-naissance de l'enfant.
-
-L'auteur de la reconnaissance peut contester la décision de sursis ou de renouvellement de celui-ci devant le tribunal de
-première instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel,     la chambre d'appel de
-Mamoudzou statue dans le même délai.
+Toutefois, les articles 21-7 et 21-11 sont applicables à l'enfant né à Mayotte de parents étrangers avant l'entrée en vigueur
+de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et une intégration
+réussie, si l'un des parents justifie avoir résidé en France de manière régulière pendant la période de cinq ans mentionnée
+aux mêmes articles 21-7 et 21-11.
 
 **Nota:**
 
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions sont abrogées à une date
-fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 pour les demandes qui lui sont postérieures.
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et sont applicables aux demandes qui lui sont
+postérieures.
 
 **Liens relatifs à cet article**
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 55
+  - Loi n°2018-778 du 10 septembre 2018 - art. 16
+
+_Anciens textes_:
+
+  - Code civil - art. 2289 (T)
+
+_Codifié par_:
+
+  - Loi n°1804-03-15
+
+
+###### Article 2495
+
+A la demande de l'un des parents et sur présentation de justificatifs, la mention qu'au jour de la naissance de l'enfant, il
+réside en France de manière régulière, sous couvert d'un titre de séjour, et de manière ininterrompue depuis plus de trois
+mois est portée sur l'acte de naissance de l'enfant selon des conditions et modalités fixées par décret en Conseil d'Etat.
+
+Lorsque l'officier de l'état civil refuse d'apposer la mention, le parent peut saisir le procureur de la République, qui
+décide, s'il y a lieu, d'ordonner cette mesure de publicité en marge de l'acte, selon des modalités prévues par décret en
+Conseil d'Etat.
+
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et sont applicables aux demandes qui lui sont
+postérieures.
+
+**Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Code civil - art. 2499-1 (VT)
-  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 20 (VD)
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
+  - Décret n°2017-890 du 6 mai 2017 - art. 9-1 (V)
+  - Décret n°2019-136 du 27 février 2019 (V)
+  - Décret n°2019-136 du 27 février 2019 - art. 1
+  - Décret n°2019-136 du 27 février 2019 - art. 2
 
 _Modifié par_:
 
-  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
+  - Loi n°2018-778 du 10 septembre 2018 - art. 17
 
+_Anciens textes_:
 
-###### Article 2499-3
-
-Tout acte d'opposition mentionne les prénoms et nom de l'auteur de la reconnaissance, ainsi que les prénoms et nom, date et
-lieu de naissance de l'enfant concerné.
-
-En cas de reconnaissance prénatale, l'acte d'opposition mentionne les prénoms et nom de l'auteur de la reconnaissance, ainsi
-que toute indication communiquée à l'officier de l'état civil relative à l'identification de l'enfant à naître.
-
-A peine de nullité, tout acte d'opposition à l'enregistrement d'une reconnaissance ou à sa mention en marge de l'acte de
-naissance de l'enfant énonce la qualité de l'auteur de l'opposition ainsi que les motifs de celle-ci.
-
-L'acte d'opposition est signé, sur l'original et sur la copie, par l'opposant et notifié à l'officier de l'état civil, qui
-met son visa sur l'original.
-
-L'officier de l'état civil fait, sans délai, une mention sommaire de l'opposition sur le registre d'état civil. Il mentionne
-également, en marge de l'inscription de ladite opposition, les éventuelles décisions de mainlevée dont expédition lui a été
-remise.
-
-En cas d'opposition, il ne peut, sous peine de l'amende prévue à l'article 68, enregistrer la reconnaissance ou la mentionner
-sur l'acte de naissance de l'enfant, sauf si une expédition de la mainlevée de l'opposition lui a été remise.
-
-**Nota:**
-
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions sont abrogées à une date
-fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 pour les demandes qui lui sont postérieures.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°2018-778 du 10 septembre 2018 - art. 55
-
-_Cite_:
-
-  - Code civil - art. 68
+  - Code civil - art. 2290 (T)
 
 _Codifié par_:
 
   - Loi n°1804-03-15
-
-_Créé par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
-
-
-###### Article 2499-4
-
-Le tribunal de première instance se prononce, dans un délai de dix jours à compter de sa saisine, sur la demande de mainlevée
-de l'opposition formée par l'auteur de la reconnaissance, même mineur. 
-
-En cas d'appel,     la chambre d'appel de Mamoudzou statue dans le même délai. 
-
-Le jugement rendu par défaut, rejetant l'opposition à l'enregistrement de la reconnaissance ou à sa mention en marge de
-l'acte de naissance de l'enfant, ne peut être contesté.
-
-**Nota:**
-
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions sont abrogées à une date
-fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 pour les demandes qui lui sont postérieures.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°2018-778 du 10 septembre 2018 - art. 55
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-_Modifié par_:
-
-  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
-
-
-###### Article 2499-5
-
-Lorsque la saisine du procureur de la République concerne une reconnaissance prénatale ou concomitante à la déclaration de
-naissance, l'acte de naissance de l'enfant est dressé sans indication de cette reconnaissance.
-
-**Nota:**
-
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions sont abrogées à une date
-fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 pour les demandes qui lui sont postérieures.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1804-03-15
-
-_Créé par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
-
-_Abrogé par_:
-
-  - Loi n°2018-778 du 10 septembre 2018 - art. 55
 
 
 ## Titre II : Dispositions relatives au livre II<a id=598></a>
