@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-03-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -5235,6 +5235,17 @@ Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en
 et, dans ces cas, les mariages, naissances et décès pourront être prouvés tant par les registres et papiers émanés des pères
 et mères décédés, que par témoins.
 
+Jusqu'à ce que la reconstitution ou la restitution des registres ait été effectuée, il peut être suppléé par des actes de
+notoriété à tous les actes de l'état civil dont les originaux ont été détruits ou sont disparus par suite d'un sinistre ou de
+faits de guerre.
+
+Ces actes de notoriété sont délivrés par un notaire.
+
+L'acte de notoriété est établi sur la foi des déclarations d'au moins trois témoins et de tout autre document produit qui
+attestent de l'état civil de l'intéressé. L'acte de notoriété est signé par le notaire et par les témoins.
+
+Les requérants et les témoins sont passibles des peines prévues à l'article 441-4 du code pénal.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -5249,13 +5260,17 @@ _Cité par_:
   - Code de procédure civile - art. 1578 (V)
   - Code général des impôts, CGI. - art. 1119 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 6
+
+_Cite_:
+
+  - Code pénal - art. 441-4
+
 _Codifié par_:
 
   - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 47
@@ -6085,10 +6100,10 @@ _Modifié par_:
 
 Avant la célébration du mariage, l'officier de l'état civil fera une publication par voie d'affiche apposée à la porte de la
 maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi
-que le lieu où le mariage devra être célébré. 
+que le lieu où le mariage devra être célébré.
 
 La publication prévue au premier alinéa ou, en cas de dispense de publication accordée conformément aux dispositions de
-l'article 169, la célébration du mariage est subordonnée : 
+l'article 169, la célébration du mariage est subordonnée :
 
 1° A la remise, pour chacun des futurs époux, des indications ou pièces suivantes :
 
@@ -6097,7 +6112,10 @@ l'article 169, la célébration du mariage est subordonnée :
 - la justification de l'identité au moyen d'une pièce délivrée par une autorité publique ;
 
 - l'indication des prénoms, nom, date et lieu de naissance, profession et domicile des témoins, sauf lorsque le mariage doit
-être célébré par une autorité étrangère ; 
+être célébré par une autorité étrangère ;
+
+- le cas échéant, la justification de l'information de la personne chargée de la mesure de protection prévue à l'article
+460 ;
 
 2° A l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces fournies, que cette
 audition n'est pas nécessaire au regard des articles 146 et 180.
@@ -6149,14 +6167,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 8
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 _Cite_:
 
-  - Code civil - art. 146 (V)
-  - Code civil - art. 180 (V)
-  - Code civil - art. 70 (V)
-  - Code civil - art. 71 (V)
+  - Code civil - art. 146
+  - Code civil - art. 180
+  - Code civil - art. 70
+  - Code civil - art. 71
 
 
 ###### Article 64
@@ -7844,15 +7862,9 @@ _Codifié par_:
 Le juge peut désigner un ou plusieurs parents ou alliés, ou, le cas échéant, toutes autres personnes pour représenter la
 personne présumée absente dans l'exercice de ses droits ou dans tout acte auquel elle serait intéressée, ainsi que pour
 administrer tout ou partie de ses biens ; la représentation du présumé absent et l'administration de ses biens sont alors
-soumises aux règles applicables                à la tutelle des majeurs sans conseil de famille, et en outre sous les
-modifications qui suivent.
-
-**Nota:**
-
-Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
-janvier 2016.
-
-Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+soumises, sous réserve des dispositions du présent chapitre, aux règles applicables à la tutelle des majeurs sans conseil de
+famille, ou, à titre exceptionnel et sur décision expresse du juge, aux règles de l'habilitation familiale si le représentant
+est une des personnes mentionnées à l'article 494-1.
 
 **Liens relatifs à cet article**
 
@@ -7868,7 +7880,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 9
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
 
 _Codifié par_:
 
@@ -7935,32 +7947,33 @@ _Cité par_:
 
 ###### Article 116
 
-Si le présumé absent est appelé à un partage, celui-ci peut être fait à l'amiable. 
+Si le présumé absent est appelé à un partage, celui-ci peut être fait à l'amiable.
 
-En ce cas, le juge des tutelles autorise le partage, même partiel, et désigne, s'il y a lieu, un notaire pour y procéder, en
-présence du représentant du présumé absent ou de son remplaçant désigné conformément à l'article 115, si le représentant
-initial est lui-même intéressé au partage. L'état liquidatif est soumis à l'approbation du juge des tutelles. 
+En cas d'opposition d'intérêts entre le représentant et le présumé absent, le juge des tutelles autorise le partage, même
+partiel, en présence du remplaçant désigné conformément à l'article 115.
 
-Le partage peut également être fait en justice conformément aux dispositions des articles 840 à 842. 
+Dans tous les cas, l'état liquidatif est soumis à l'approbation du juge des tutelles.
+
+Le partage peut également être fait en justice conformément aux dispositions des articles 840 à 842.
 
 Tout autre partage est considéré comme provisionnel.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
 _Cité par_:
 
   - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
   - Loi n°2019-786 du 26 juillet 2019 - art. 4 (V)
-  - Code civil - art. 836 (M)
+  - Code civil - art. 836 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
 
 _Cite_:
 
-  - Code civil - art. 115 (V)
-  - Code civil - art. 840 (V)
+  - Code civil - art. 115
+  - Code civil - art. 840
 
 _Codifié par_:
 
@@ -9453,14 +9466,14 @@ _Créé par_:
 
 ###### Article 174
 
-A défaut d'aucun ascendant, le frère ou la soeur, l'oncle ou la tante, le cousin ou la cousine germains, majeurs, ne peuvent
-former aucune opposition que dans les deux cas suivants : 
+A défaut d'ascendant, le frère ou la soeur, l'oncle ou la tante, le cousin ou la cousine germains, majeurs, ne peuvent former
+opposition que dans les deux cas suivants :
 
-1° Lorsque le consentement du conseil de famille, requis par l'article 159, n'a pas été obtenu ; 
+1° Lorsque le consentement du conseil de famille, requis par l'article 159, n'a pas été obtenu ;
 
-2° Lorsque l'opposition est fondée sur l'état de démence du futur époux ; cette opposition, dont le tribunal pourra prononcer
-mainlevée pure et simple, ne sera jamais reçue qu'à la charge, par l'opposant, de provoquer la tutelle des majeurs, et d'y
-faire statuer dans le délai qui sera fixé par le jugement.
+2° Lorsque l'opposition est fondée sur l'altération des facultés personnelles du futur époux ; cette opposition, dont le
+tribunal pourra prononcer mainlevée pure et simple, ne sera jamais reçue qu'à la charge, par l'opposant, de provoquer ou
+faire provoquer l'ouverture d'une mesure de protection juridique.
 
 **Liens relatifs à cet article**
 
@@ -9468,29 +9481,29 @@ _Cité par_:
 
   - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
+
 _Cite_:
 
-  - Code civil - art. 159 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil - art. 175 (V)
+  - Code civil - art. 159
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 
 ###### Article 175
 
-Dans les deux cas prévus par le précédent article, le tuteur ou curateur ne pourra, pendant la durée de la tutelle ou
-curatelle, former opposition qu'autant qu'il y aura été autorisé par un conseil de famille, qu'il pourra convoquer.
+Le tuteur ou le curateur peut former opposition, dans les conditions prévues à l'article 173, au mariage de la personne qu'il
+assiste ou représente.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 **Liens**:
 
@@ -9499,10 +9512,6 @@ curatelle, former opposition qu'autant qu'il y aura été autorisé par un conse
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 175-1
@@ -11696,51 +11705,19 @@ _Créé par_:
 
 ###### Article 249
 
-Si une demande en divorce doit être formée au nom d'un majeur en tutelle, elle est présentée par le tuteur, avec
-l'autorisation du conseil de famille s'il a été institué ou du juge des tutelles. Elle est formée après avis médical et, dans
-la mesure du possible, après audition de l'intéressé, selon le cas, par le conseil de famille ou le juge.
-
-Le majeur en curatelle exerce l'action lui-même avec l'assistance du curateur.
+Dans l'instance en divorce, le majeur en tutelle est représenté par son tuteur et le majeur en curatelle exerce l'action lui-
+même, avec l'assistance de son curateur. Toutefois, la personne protégée peut accepter seule le principe de la rupture du
+mariage sans considération des faits à l'origine de celle-ci.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 _Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 10
-
-
-###### Article 249-1
-
-Si l'époux contre lequel la demande est formée est en tutelle, l'action est exercée contre le tuteur ; s'il est en curatelle,
-il se défend lui-même, avec l'assistance du curateur.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
 
   - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
 ###### Article 249-2
@@ -11761,9 +11738,9 @@ _Modifié par_:
 
 ###### Article 249-3
 
-Si l'un des époux se trouve placé sous la sauvegarde de justice, la demande en divorce ne peut être examinée qu'après
-organisation de la tutelle ou de la curatelle. Toutefois, le juge peut prendre les mesures provisoires prévues aux articles
-254 et 255 et les mesures urgentes prévues à l'article 257.
+Si une demande de mesure de protection juridique est déposée ou en cours, la demande en divorce ne peut être examinée
+qu'après l'intervention du jugement se prononçant sur la mise en place d'une telle mesure de protection. Toutefois, le juge
+peut prendre les mesures provisoires prévues aux articles 254 et 255.
 
 **Nota:**
 
@@ -11773,17 +11750,7 @@ organisation de la tutelle ou de la curatelle. Toutefois, le juge peut prendre l
 
 _Modifié par_:
 
-  - Loi n°2004-439 du 26 mai 2004 - art. 8 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-_Cite_:
-
-  - Code civil - art. 254 (V)
-  - Code civil - art. 255 (V)
-  - Code civil - art. 257 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 _Codifié par_:
 
@@ -11793,22 +11760,17 @@ _Codifié par_:
 ###### Article 249-4
 
 Lorsque l'un des époux se trouve placé sous l'un des régimes de protection prévus au chapitre II du titre XI du présent
-livre, aucune demande en divorce par consentement mutuel ou pour acceptation du principe de la rupture du mariage ne peut
-être présentée.
+livre, aucune demande en divorce par consentement mutuel ne peut être présentée.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 10
 
 
 #### Section 2 : De la procédure applicable au divorce par consentement mutuel judiciaire<a id=79></a>
@@ -13805,8 +13767,7 @@ _Cite_:
 
 ###### Article 296
 
-La séparation de corps peut être prononcée à la demande de l'un des époux dans les mêmes cas et aux mêmes conditions que le
-divorce judiciaire.
+La séparation de corps peut être prononcée ou constatée dans les mêmes cas et aux mêmes conditions que le divorce.
 
 **Liens relatifs à cet article**
 
@@ -13818,7 +13779,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+  - Loi n°2019-222 du 23 mars 2019 - art. 24
 
 _Codifié par_:
 
@@ -13883,14 +13844,18 @@ _Créé par_:
 
 ###### Article 298
 
-En outre, les règles contenues à l'article 228 ainsi qu'au chapitre II ci-dessus sont applicables à la procédure de la
-séparation de corps.
+En outre, les règles contenues aux articles 229-1 à 229-4 ainsi qu'au chapitre II ci-dessus sont applicables à la procédure
+de la séparation de corps.
 
 **Nota:**
 
 
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 24
 
 _Cité par_:
 
@@ -13903,20 +13868,11 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code civil - art. 228 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+  - Code civil - art. 229-1
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 #### Section 2 : Des conséquences de la séparation de corps<a id=96></a>
@@ -13943,8 +13899,9 @@ _Créé par_:
 
 ###### Article 300
 
-Chacun des époux séparés conserve l'usage du nom de l'autre. Toutefois, le jugement de séparation de corps ou un jugement
-postérieur peut, compte tenu des intérêts respectifs des époux, le leur interdire.
+Chacun des époux séparés conserve l'usage du nom de l'autre. Toutefois, la convention de séparation de corps par acte sous
+signature privée contresigné par avocats déposé au rang des minutes d'un notaire, le jugement de séparation de corps ou un
+jugement postérieur peut, compte tenu des intérêts respectifs des époux, le leur interdire.
 
 **Nota:**
 
@@ -13952,36 +13909,26 @@ postérieur peut, compte tenu des intérêts respectifs des époux, le leur inte
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+  - Loi n°2019-222 du 23 mars 2019 - art. 24
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 20 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
 
 ###### Article 301
 
 En cas de décès de l'un des époux séparés de corps, l'autre époux conserve les droits que la loi accorde au conjoint
-survivant. Lorsque la séparation de corps est prononcée par consentement mutuel, les époux peuvent inclure dans leur
-convention une renonciation aux droits successoraux qui leur sont conférés par les articles 756 à 757-3 et 764 à 766.
+survivant. En cas de séparation de corps par consentement mutuel, les époux peuvent inclure dans leur convention une
+renonciation aux droits successoraux qui leur sont conférés par les articles 756 à 757-3 et 764 à 766.
 
 **Nota:**
 
 
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 _Codifié par_:
 
@@ -13994,12 +13941,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2019-222 du 23 mars 2019 - art. 24
 
 _Cite_:
 
-  - Code civil - art. 756 (V)
-  - Code civil - art. 764 (V)
+  - Code civil - art. 756
+  - Code civil - art. 764
 
 
 ###### Article 302
@@ -14036,12 +13983,13 @@ _Cité par_:
 ###### Article 303
 
 La séparation de corps laisse subsister le devoir de secours ; le jugement qui la prononce ou un jugement postérieur fixe la
-pension alimentaire qui est due à l'époux dans le besoin. 
+pension alimentaire qui est due à l'époux dans le besoin. La pension alimentaire peut aussi être prévue par la convention de
+séparation de corps par consentement mutuel.
 
 Cette pension est attribuée sans considération des torts. L'époux débiteur peut néanmoins invoquer, s'il y a lieu, les
-dispositions de l'article 207, alinéa 2. 
+dispositions de l'article 207, alinéa 2.
 
-Cette pension est soumise aux règles des obligations alimentaires. 
+Cette pension est soumise aux règles des obligations alimentaires.
 
 Toutefois, lorsque la consistance des biens de l'époux débiteur s'y prête, la pension alimentaire est remplacée, en tout ou
 partie, par la constitution d'un capital, selon les règles des articles 274 à 275-1,277 et 281. Si ce capital devient
@@ -14053,21 +14001,16 @@ insuffisant pour couvrir les besoins du créancier, celui-ci peut demander un co
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-
 _Modifié par_:
 
-  - Loi n°2004-439 du 26 mai 2004 - art. 20 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2019-222 du 23 mars 2019 - art. 24
 
 _Cite_:
 
-  - Code civil - art. 207 (V)
-  - Code civil - art. 274 (V)
-  - Code civil - art. 277 (V)
-  - Code civil - art. 281 (V)
+  - Code civil - art. 207
+  - Code civil - art. 274
+  - Code civil - art. 277
+  - Code civil - art. 281
 
 _Codifié par_:
 
@@ -14156,8 +14099,8 @@ _Modifié par_:
 
 Dans tous les cas de séparation de corps, celle-ci peut être convertie en divorce par consentement mutuel.
 
-Quand la séparation de corps a été prononcée par consentement mutuel, elle ne peut être convertie en divorce que par une
-nouvelle demande conjointe.
+En cas de séparation de corps par consentement mutuel, la conversion en divorce ne peut intervenir que par consentement
+mutuel.
 
 **Nota:**
 
@@ -14165,18 +14108,13 @@ nouvelle demande conjointe.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+  - Loi n°2019-222 du 23 mars 2019 - art. 24
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 308
@@ -14529,8 +14467,8 @@ _Modifié par_:
 ###### Article 311-20
 
 Les époux ou les concubins qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers
-donneur, doivent préalablement donner, dans des conditions garantissant le secret, leur consentement au juge ou au notaire,
-qui les informe des conséquences de leur acte au regard de la filiation.
+donneur, doivent préalablement donner, dans des conditions garantissant le secret, leur consentement à un notaire, qui les
+informe des conséquences de leur acte au regard de la filiation.
 
 Le consentement donné à une procréation médicalement assistée interdit toute action aux fins d'établissement ou de
 contestation de la filiation à moins qu'il ne soit soutenu que l'enfant n'est pas issu de la procréation médicalement
@@ -14547,15 +14485,6 @@ responsabilité envers la mère et envers l'enfant.
 En outre, sa paternité est judiciairement déclarée. L'action obéit aux dispositions des articles 328 et 331.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-_Modifié par_:
-
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 7 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -14578,14 +14507,14 @@ _Cité par_:
   - Code de procédure civile - art. 1578 (V)
   - Code général des impôts, CGI. - art. 847 bis  (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 6
+
 _Cite_:
 
   - Code civil - art. 328 (V)
   - Code civil - art. 331 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 #### Section 4 : Des règles de dévolution du nom de famille<a id=104></a>
@@ -15079,26 +15008,25 @@ _Créé par_:
 
 ###### Article 317
 
-Chacun des parents ou l'enfant peut demander au juge du tribunal d'instance du lieu de naissance ou de leur domicile que lui
-soit délivré un acte de notoriété qui fera foi de la possession d'état jusqu'à preuve contraire.
+Chacun des parents ou l'enfant peut demander à un notaire que lui soit délivré un acte de notoriété qui fera foi de la
+possession d'état jusqu'à preuve contraire.
 
-L'acte de notoriété est établi sur la foi des déclarations d'au moins trois témoins et, si le juge l'estime nécessaire, de
-tout autre document produit qui attestent une réunion suffisante de faits au sens de l'article 311-1. 
+L'acte de notoriété est établi sur la foi des déclarations d'au moins trois témoins et de tout autre document produit qui
+attestent une réunion suffisante de faits au sens de l'article 311-1. L'acte de notoriété est signé par le notaire et par les
+témoins.
 
 La délivrance de l'acte de notoriété ne peut être demandée que dans un délai de cinq ans à compter de la cessation de la
 possession d'état alléguée ou à compter du décès du parent prétendu, y compris lorsque celui-ci est décédé avant la
-déclaration de naissance. 
+déclaration de naissance.
 
 La filiation établie par la possession d'état constatée dans l'acte de notoriété est mentionnée en marge de l'acte de
-naissance de l'enfant. 
-
-Ni l'acte de notoriété, ni le refus de le délivrer ne sont sujets à recours.
+naissance de l'enfant.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 19
+  - Loi n°2019-222 du 23 mars 2019 - art. 6
 
 _Cité par_:
 
@@ -17589,6 +17517,12 @@ La séparation des parents est sans incidence sur les règles de dévolution de 
 Chacun des père et mère doit maintenir des relations personnelles avec l'enfant et respecter les liens de celui-ci avec
 l'autre parent.
 
+A cette fin, à titre exceptionnel, à la demande de la personne directement intéressée ou du juge aux affaires familiales, le
+procureur de la République peut requérir le concours de la force publique pour faire exécuter une décision du juge aux
+affaires familiales, une convention de divorce par consentement mutuel prenant la forme d'un acte sous signature privée
+contresigné par avocats déposé au rang des minutes d'un notaire ou une convention homologuée fixant les modalités d'exercice
+de l'autorité parentale.
+
 Tout changement de résidence de l'un des parents, dès lors qu'il modifie les modalités d'exercice de l'autorité parentale,
 doit faire l'objet d'une information préalable et en temps utile de l'autre parent. En cas de désaccord, le parent le plus
 diligent saisit le juge aux affaires familiales qui statue selon ce qu'exige l'intérêt de l'enfant. Le juge répartit les
@@ -17603,7 +17537,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+  - Loi n°2019-222 du 23 mars 2019 - art. 31
 
 _Codifié par_:
 
@@ -17763,6 +17697,16 @@ Il peut notamment ordonner l'interdiction de sortie de l'enfant du territoire fr
 Cette interdiction de sortie du territoire sans l'autorisation des deux parents est inscrite au fichier des personnes
 recherchées par le procureur de la République.
 
+Il peut, même d'office, ordonner une astreinte pour assurer l'exécution de sa décision. Si les circonstances en font
+apparaître la nécessité, il peut assortir d'une astreinte la décision rendue par un autre juge ainsi que l'accord parental
+constaté dans la convention de divorce par consentement mutuel. Les dispositions des articles L. 131-2 à L. 131-4 du code des
+procédures civiles d'exécution sont applicables.
+
+Il peut également, lorsqu'un parent fait délibérément obstacle de façon grave ou renouvelée à l'exécution d'une décision,
+d'une convention de divorce par consentement mutuel prenant la forme d'un acte sous signature privée contresigné par avocats
+déposé au rang des minutes d'un notaire ou d'une convention homologuée fixant les modalités d'exercice de l'autorité
+parentale, le condamner au paiement d'une amende civile d'un montant qui ne peut excéder 10 000 €.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -17775,7 +17719,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 3
+  - Loi n°2019-222 du 23 mars 2019 - art. 31
 
 
 ###### Article 373-2-7
@@ -17871,15 +17815,40 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L161-3 (VD)
 
 
+###### Article 373-2-9-1
+
+Lorsqu'il est saisi d'une requête relative aux modalités d'exercice de l'autorité parentale, le juge aux affaires familiales
+peut attribuer provisoirement la jouissance du logement de la famille à l'un des deux parents, le cas échéant en constatant
+l'accord des parties sur le montant d'une indemnité d'occupation.
+
+Le juge fixe la durée de cette jouissance pour une durée maximale de six mois.
+
+Lorsque le bien appartient aux parents en indivision, la mesure peut être prorogée, à la demande de l'un ou l'autre des
+parents, si durant ce délai le tribunal a été saisi des opérations de liquidation partage par la partie la plus diligente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 32
+
+_Cité par_:
+
+  - Décret n°2019-756 du 22 juillet 2019 - art. 10
+  - Code de l'organisation judiciaire - art. L213-3 (VD)
+  - Code de procédure civile - art. 1136-1 (VD)
+
+
 ###### Article 373-2-10
 
 En cas de désaccord, le juge s'efforce de concilier les parties.
 
 A l'effet de faciliter la recherche par les parents d'un exercice consensuel de l'autorité parentale, le juge peut leur
-proposer une mesure de médiation et, après avoir recueilli leur accord, désigner un médiateur familial pour y procéder.
+proposer une mesure de médiation et, après avoir recueilli leur accord, désigner un médiateur familial pour y procéder, y
+compris dans la décision statuant définitivement sur les modalités d'exercice de l'autorité parentale.
 
-Il peut leur enjoindre, sauf si des violences ont été commises par l'un des parents sur l'autre parent ou sur l'enfant, de
-rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de cette mesure.
+Il peut de même leur enjoindre, sauf si des violences ont été commises par l'un des parents sur l'autre parent ou sur
+l'enfant, de rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de cette mesure.
 
 **Liens relatifs à cet article**
 
@@ -17892,7 +17861,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 6
+  - Loi n°2019-222 du 23 mars 2019 - art. 31
 
 _Codifié par_:
 
@@ -21236,9 +21205,9 @@ _Codifié par_:
 
 ###### Article 427
 
-La personne chargée de la mesure de protection ne peut procéder ni à la modification des comptes ou livrets ouverts au nom de
-la personne protégée, ni à l'ouverture d'un autre compte ou livret auprès d'un établissement habilité à recevoir des fonds du
-public.
+La personne chargée de la mesure de protection ne peut pas procéder à la clôture des comptes ou livrets ouverts, avant le
+prononcé de la mesure, au nom de la personne protégée. Elle ne peut pas non plus procéder à l'ouverture d'un autre compte ou
+livret auprès d'un nouvel établissement habilité à recevoir des fonds du public.
 
 Le juge des tutelles ou le conseil de famille s'il a été constitué peut toutefois l'y autoriser si l'intérêt de la personne
 protégée le commande.
@@ -21263,10 +21232,6 @@ sa signature les comptes dont la personne protégée est titulaire et disposer d
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
@@ -21274,6 +21239,10 @@ _Cité par_:
   - Décret n°2012-663 du 4 mai 2012 - art. 12 (V)
   - Code civil - art. 494-7 (V)
   - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
 
 _Codifié par_:
 
@@ -21284,11 +21253,11 @@ _Codifié par_:
 
 ###### Article 428
 
-La mesure de protection ne peut être ordonnée par le juge qu'en cas de nécessité et lorsqu'il ne peut être suffisamment
-pourvu aux intérêts de la personne par l'application des règles du droit commun de la représentation, de celles relatives aux
-droits et devoirs respectifs des époux et des règles des régimes matrimoniaux, en particulier celles prévues aux articles
-217, 219, 1426 et 1429, par une autre mesure de protection judiciaire moins contraignante ou par le mandat de protection
-future conclu par l'intéressé.
+La mesure de protection judiciaire ne peut être ordonnée par le juge qu'en cas de nécessité et lorsqu'il ne peut être
+suffisamment pourvu aux intérêts de la personne par la mise en œuvre du mandat de protection future conclu par l'intéressé,
+par l'application des règles du droit commun de la représentation, de celles relatives aux droits et devoirs respectifs des
+époux et des règles des régimes matrimoniaux, en particulier celles prévues aux articles 217, 219, 1426 et 1429 ou, par une
+autre mesure de protection moins contraignante.
 
 La mesure est proportionnée et individualisée en fonction du degré d'altération des facultés personnelles de l'intéressé.
 
@@ -21296,7 +21265,7 @@ La mesure est proportionnée et individualisée en fonction du degré d'altérat
 
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cité par_:
 
@@ -21311,10 +21280,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 1426 (V)
-  - Code civil - art. 1429 (V)
-  - Code civil - art. 217 (V)
-  - Code civil - art. 219 (V)
+  - Code civil - art. 1426
+  - Code civil - art. 1429
+  - Code civil - art. 217
+  - Code civil - art. 219
 
 _Codifié par_:
 
@@ -21378,9 +21347,16 @@ _Codifié par_:
 
 La demande est accompagnée, à peine d'irrecevabilité, d'un certificat circonstancié rédigé par un médecin choisi sur une
 liste établie par le procureur de la République. Ce médecin peut solliciter l'avis du médecin traitant de la personne qu'il y
-a lieu de protéger. 
+a lieu de protéger.
 
 Le coût de ce certificat est fixé par décret en Conseil d'Etat.
+
+Lorsque le procureur de la République est saisi par une personne autre que l'une de celles de l'entourage du majeur énumérées
+au premier alinéa de l'article 430, la requête transmise au juge des tutelles comporte en outre, à peine d'irrecevabilité,
+les informations dont cette personne dispose sur la situation sociale et pécuniaire de la personne qu'il y a lieu de protéger
+et l'évaluation de son autonomie ainsi que, le cas échéant, un bilan des actions personnalisées menées auprès d'elle. La
+nature et les modalités de recueil des informations sont définies par voie réglementaire. Le procureur de la République peut
+solliciter du tiers qui l'a saisi des informations complémentaires.
 
 **Liens relatifs à cet article**
 
@@ -21408,7 +21384,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
 
 _Codifié par_:
 
@@ -22378,22 +22354,21 @@ son état le permet.
 Lorsque l'état de la personne protégée ne lui permet pas de prendre seule une décision personnelle éclairée, le juge ou le
 conseil de famille s'il a été constitué peut prévoir qu'elle bénéficiera, pour l'ensemble des actes relatifs à sa personne ou
 ceux d'entre eux qu'il énumère, de l'assistance de la personne chargée de sa protection. Au cas où cette assistance ne
-suffirait pas, il peut, le cas échéant après l'ouverture d'une mesure de tutelle, autoriser le tuteur à représenter
-l'intéressé.
+suffirait pas, il peut, le cas échéant après le prononcé d'une habilitation familiale ou l'ouverture d'une mesure de tutelle,
+autoriser la personne chargée de cette habilitation ou de cette mesure à représenter l'intéressé, y compris pour les actes
+ayant pour effet de porter gravement atteinte à son intégrité corporelle. Sauf urgence, en cas de désaccord entre le majeur
+protégé et la personne chargée de sa protection, le juge autorise l'un ou l'autre à prendre la décision, à leur demande ou
+d'office.
 
 Toutefois, sauf urgence, la personne chargée de la protection du majeur ne peut, sans l'autorisation du juge ou du conseil de
-famille s'il a été constitué, prendre une décision ayant pour effet de porter gravement atteinte à l'intégrité corporelle de
-la personne protégée ou à l'intimité de sa vie privée.
+famille s'il a été constitué, prendre une décision ayant pour effet de porter gravement atteinte à l'intimité de la vie
+privée de la personne protégée.
 
 La personne chargée de la protection du majeur peut prendre à l'égard de celui-ci les mesures de protection strictement
 nécessaires pour mettre fin au danger que son propre comportement ferait courir à l'intéressé. Elle en informe sans délai le
 juge ou le conseil de famille s'il a été constitué.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 116
 
 _Cité par_:
 
@@ -22409,9 +22384,13 @@ _Cité par_:
   - Code de procédure civile - art. 1276 (V)
   - Code de procédure civile - art. 1280 (VD)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
+
 _Cite_:
 
-  - Code civil - art. 458 (V)
+  - Code civil - art. 458
 
 
 ###### Article 459-1
@@ -22468,12 +22447,14 @@ _Codifié par_:
 
 ###### Article 460
 
-Le mariage d'une personne en curatelle n'est permis qu'avec l'autorisation du curateur ou, à défaut, celle du juge.
-
-Le mariage d'une personne en tutelle n'est permis qu'avec l'autorisation du juge ou du conseil de famille s'il a été
-constitué et après audition des futurs conjoints et recueil, le cas échéant, de l'avis des parents et de l'entourage.
+La personne chargée de la mesure de protection est préalablement informée du projet de mariage du majeur qu'il assiste ou
+représente.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 **Liens**:
 
@@ -22482,10 +22463,6 @@ constitué et après audition des futurs conjoints et recueil, le cas échéant,
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 461
@@ -22540,43 +22517,28 @@ _Codifié par_:
 
 ###### Article 462
 
-La conclusion d'un pacte civil de solidarité par une personne en tutelle est soumise à l'autorisation du juge ou du conseil
-de famille s'il a été constitué, après audition des futurs partenaires et recueil, le cas échéant, de l'avis des parents et
-de l'entourage.
+La personne en tutelle est assistée de son tuteur lors de la signature de la convention par laquelle elle conclut un pacte
+civil de solidarité. Aucune assistance ni représentation ne sont requises lors de la déclaration conjointe devant l'officier
+de l'état civil ou devant le notaire instrumentaire prévue au premier alinéa de l'article 515-3.
 
-L'intéressé est assisté de son tuteur lors de la signature de la convention. Aucune assistance ni représentation ne sont
-requises lors de la déclaration conjointe devant l'officier de l'état civil ou devant le notaire instrumentaire prévue au
-premier alinéa de l'article 515-3. 
-
-Les dispositions des alinéas précédents sont applicables en cas de modification de la convention. 
+Les dispositions du premier alinéa du présent article sont applicables en cas de modification de la convention.
 
 La personne en tutelle peut rompre le pacte civil de solidarité par déclaration conjointe ou par décision unilatérale. La
 formalité de signification prévue au cinquième alinéa de l'article 515-7 est opérée à la diligence du tuteur. Lorsque
-l'initiative de la rupture émane de l'autre partenaire, cette signification est faite à la personne du tuteur. 
+l'initiative de la rupture émane de l'autre partenaire, cette signification est faite à la personne du tuteur.
 
 La rupture unilatérale du pacte civil de solidarité peut également intervenir sur l'initiative du tuteur, autorisé par le
 juge ou le conseil de famille s'il a été constitué, après audition de l'intéressé et recueil, le cas échéant, de l'avis des
-parents et de l'entourage. 
+parents et de l'entourage.
 
 Aucune assistance ni représentation ne sont requises pour l'accomplissement des formalités relatives à la rupture par
-déclaration conjointe. 
+déclaration conjointe.
 
 La personne en tutelle est représentée par son tuteur dans les opérations prévues aux dixième et onzième alinéas de l'article
-515-7. 
+515-7.
 
 Pour l'application du présent article, le tuteur est réputé en opposition d'intérêts avec la personne protégée lorsque la
 tutelle est confiée à son partenaire.
-
-**Nota:**
-
-Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier
-jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à
-compter de cette date. 
-
-Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité
-enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont
-remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à
-l'enregistrement du pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -22587,7 +22549,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 _Cite_:
 
@@ -23227,34 +23189,32 @@ _Codifié par_:
 
 ###### Article 483
 
-Le mandat mis à exécution prend fin par : 
+Le mandat mis à exécution prend fin par :
 
 1° Le rétablissement des facultés personnelles de l'intéressé constaté à la demande du mandant ou du mandataire, dans les
-formes prévues à l'article 481 ; 
+formes prévues à l'article 481 ;
 
 2° Le décès de la personne protégée ou son placement en curatelle ou en tutelle, sauf décision contraire du juge qui ouvre la
-mesure ; 
+mesure ;
 
-3° Le décès du mandataire, son placement sous une mesure de protection ou sa déconfiture ; 
+3° Le décès du mandataire, son placement sous une mesure de protection ou sa déconfiture ;
 
 4° Sa révocation prononcée par le juge des tutelles à la demande de tout intéressé, lorsqu'il s'avère que les conditions
-prévues par l'article 425 ne sont pas réunies, lorsque les règles du droit commun de la représentation ou celles relatives
-aux droits et devoirs respectifs des époux et aux régimes matrimoniaux apparaissent suffisantes pour qu'il soit pourvu aux
-intérêts de la personne par son conjoint avec qui la communauté de vie n'a pas cessé ou lorsque l'exécution du mandat est de
-nature à porter atteinte aux intérêts du mandant. 
+prévues par l'article 425 ne sont pas réunies, ou lorsque l'exécution du mandat est de nature à porter atteinte aux intérêts
+du mandant.
 
 Le juge peut également suspendre les effets du mandat pour le temps d'une mesure de sauvegarde de justice.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cite_:
 
-  - Code civil - art. 425 (V)
-  - Code civil - art. 481 (V)
+  - Code civil - art. 425
+  - Code civil - art. 481
 
 _Cité par_:
 
@@ -23319,20 +23279,17 @@ _Créé par_:
 ###### Article 486
 
 Le mandataire chargé de l'administration des biens de la personne protégée fait procéder à leur inventaire lors de
-l'ouverture de la mesure. Il assure son actualisation au cours du mandat afin de maintenir à jour l'état du patrimoine. 
+l'ouverture de la mesure. Il assure son actualisation au cours du mandat afin de maintenir à jour l'état du patrimoine.
 
 Il établit annuellement le compte de sa gestion qui est vérifié selon les modalités définies par le mandat et que le juge
-peut en tout état de cause faire vérifier selon les modalités prévues à l'article 511.
+peut en tout état de cause faire vérifier selon les modalités prévues à l'article 512.
+
+**Nota:**
+
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
+la publication de la présente loi aux mesures de protection ouvertes antérieurement.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
@@ -23340,9 +23297,17 @@ _Cité par_:
   - Code civil - art. 491 (V)
   - Code civil - art. 494 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 30
+
 _Cite_:
 
-  - Code civil - art. 511 (V)
+  - Code civil - art. 512 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 ###### Article 487
@@ -23620,12 +23585,13 @@ _Codifié par_:
 
 ###### Article 494-1
 
-Lorsqu'une personne est hors d'état de manifester sa volonté pour l'une des causes prévues à l'article 425, le juge des
-tutelles peut habiliter une ou plusieurs personnes choisies parmi ses ascendants ou descendants, frères et sœurs ou, à moins
-que la communauté de vie ait cessé entre eux, le conjoint, le partenaire auquel elle est liée par un pacte civil de
-solidarité ou le concubin à la représenter ou à passer un ou des actes en son nom dans les conditions et selon les modalités
-prévues à la présente section et à celles du titre XIII du livre III qui ne lui sont pas contraires, afin d'assurer la
-sauvegarde de ses intérêts. 
+Lorsqu'une personne est dans l'impossibilité de pourvoir seule à ses intérêts en raison d'une altération, médicalement
+constatée soit de ses facultés mentales, soit de ses facultés corporelles de nature à empêcher l'expression de sa volonté, le
+juge des tutelles peut habiliter une ou plusieurs personnes choisies parmi ses ascendants ou descendants, frères et sœurs ou,
+à moins que la communauté de vie ait cessé entre eux, le conjoint, le partenaire auquel elle est liée par un pacte civil de
+solidarité ou le concubin à la représenter, à l'assister dans les conditions prévues à l'article 467 ou à passer un ou des
+actes en son nom dans les conditions et selon les modalités prévues à la présente section et à celles du titre XIII du livre
+III qui ne lui sont pas contraires, afin d'assurer la sauvegarde de ses intérêts. 
 
 La personne habilitée doit remplir les conditions pour exercer les charges tutélaires. Elle exerce sa mission à titre
 gratuit.
@@ -23640,7 +23606,7 @@ _Cité par_:
   - Décret n°2019-756 du 22 juillet 2019 - art. 3
   - Arrêté du 10 janvier 2020 - art. 2
   - Code civil - art. 494-10 (V)
-  - Code civil - art. 494-11 (VD)
+  - Code civil - art. 494-11 (V)
   - Code civil - art. 494-3 (V)
   - Code civil - art. 494-4 (VD)
   - Code civil - art. 494-6 (V)
@@ -23656,11 +23622,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 111 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cite_:
 
-  - Code civil - art. 425 (V)
+  - Code civil - art. 467 (V)
 
 
 ###### Article 494-2
@@ -23686,26 +23652,32 @@ _Cite_:
 
 ###### Article 494-3
 
-La demande aux fins de désignation d'une personne habilitée peut être présentée au juge par l'une des personnes mentionnées à
-l'article 494-1 ou par le procureur de la République à la demande de l'une d'elles.
+La demande aux fins de désignation d'une personne habilitée peut être présentée au juge par la personne qu'il y a lieu de
+protéger, par l'une des personnes mentionnées à l'article 494-1 ou par le procureur de la République à la demande de l'une
+d'elles. 
 
 La demande est introduite, instruite et jugée conformément aux règles du code de procédure civile et dans le respect des
-dispositions des articles 429 et 431.
+dispositions des articles 429 et 431. 
+
+La désignation d'une personne habilitée est également possible à l'issue de l'instruction d'une requête aux fins d'ouverture
+d'une mesure de protection judiciaire ou lorsque, en application du troisième alinéa de l'article 442, le juge des tutelles
+substitue une habilitation familiale à une mesure de curatelle ou de tutelle.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cite_:
 
   - Code civil - art. 429
+  - Code civil - art. 442 (V)
   - Code civil - art. 494-1
 
 _Cité par_:
 
-  - Code civil - art. 494-10 (VD)
+  - Code civil - art. 494-10 (V)
   - Code de procédure civile - art. 1217 (V)
 
 
@@ -23754,15 +23726,18 @@ _Cite_:
 Le juge statue sur le choix de la personne habilitée et l'étendue de l'habilitation en s'assurant que le dispositif projeté
 est conforme aux intérêts patrimoniaux et, le cas échéant, personnels de l'intéressé.
 
+Si l'habilitation familiale sollicitée ne permet pas d'assurer une protection suffisante, le juge peut ordonner une des
+mesures de protection judiciaire mentionnées aux sections 3 et 4 du présent chapitre.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cité par_:
 
-  - Code civil - art. 494-6 (M)
+  - Code civil - art. 494-6 (V)
 
 
 ###### Article 494-6
@@ -23775,7 +23750,8 @@ l'intéressé ;
 – un ou plusieurs actes relatifs à la personne à protéger. Dans ce cas, l'habilitation s'exerce dans le respect des
 dispositions des articles 457-1 à 459-2 du code civil.
 
-La personne habilitée ne peut accomplir un acte de disposition à titre gratuit qu'avec l'autorisation du juge des tutelles.
+La personne habilitée ne peut accomplir en représentation un acte de disposition à titre gratuit qu'avec l'autorisation du
+juge des tutelles.
 
 Si l'intérêt de la personne à protéger l'implique, le juge peut délivrer une habilitation générale portant sur l'ensemble des
 actes ou l'une des deux catégories d'actes mentionnés aux deuxième et troisième alinéas.
@@ -23801,15 +23777,15 @@ des causes prévues à l'article 494-11.
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 111 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cite_:
 
   - Code civil - art. 431
   - Code civil - art. 444
   - Code civil - art. 457-1
-  - Code civil - art. 494-1 (M)
-  - Code civil - art. 494-5
+  - Code civil - art. 494-1
+  - Code civil - art. 494-5 (V)
 
 _Cité par_:
 
@@ -23818,14 +23794,14 @@ _Cité par_:
 
 ###### Article 494-7
 
-La personne habilitée peut, sauf décision contraire du juge, procéder sans autorisation aux actes mentionnés au premier
-alinéa de l'article 427.
+La personne habilitée à représenter la personne protégée peut, sauf décision contraire du juge, procéder sans autorisation
+aux actes mentionnés au premier alinéa de l'article 427.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cite_:
 
@@ -23835,22 +23811,25 @@ _Cite_:
 ###### Article 494-8
 
 La personne à l'égard de qui l'habilitation a été délivrée conserve l'exercice de ses droits autres que ceux dont l'exercice
-a été confié à la personne habilitée en application de la présente section.
+a été confié à la personne habilitée à la représenter en application de la présente section.
 
-Toutefois, elle ne peut, en cas d'habilitation générale, conclure un mandat de protection future pendant la durée de
-l'habilitation.
+Toutefois, elle ne peut, en cas d'habilitation générale à la représenter, conclure un mandat de protection future pendant la
+durée de l'habilitation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 
 ###### Article 494-9
 
 Si la personne à l'égard de qui l'habilitation a été délivrée passe seule un acte dont l'accomplissement a été confié à la
 personne habilitée, celui-ci est nul de plein droit sans qu'il soit nécessaire de justifier d'un préjudice.
+
+Si elle accomplit seule un acte dont l'accomplissement nécessitait une assistance de la personne habilitée, l'acte ne peut
+être annulé que s'il est établi que la personne protégée a subi un préjudice.
 
 Les obligations résultant des actes accomplis par une personne à l'égard de qui une mesure d'habilitation familiale a été
 prononcée moins de deux ans avant le jugement délivrant l'habilitation peuvent être réduits ou annulés dans les conditions
@@ -23872,7 +23851,7 @@ juge des tutelles.
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cité par_:
 
@@ -23880,14 +23859,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 2224 (V)
+  - Code civil - art. 2224
   - Code civil - art. 464
 
 
 ###### Article 494-10
 
-Le juge statue à la demande de l'une des personnes mentionnées à l'article 494-1 ou du procureur de la République sur les
-difficultés qui pourraient survenir dans la mise en œuvre du dispositif.
+Le juge statue à la demande de tout intéressé ou du procureur de la République sur les difficultés qui pourraient survenir
+dans la mise en œuvre du dispositif.
 
 Saisi à cette fin dans les conditions prévues au premier alinéa de l'article 494-3, le juge peut, à tout moment, modifier
 l'étendue de l'habilitation ou y mettre fin, après avoir entendu ou appelé la personne à l'égard de qui l'habilitation a été
@@ -23895,14 +23874,14 @@ délivrée, dans les conditions prévues au premier alinéa de l'article 494-4 a
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cite_:
 
   - Code civil - art. 494-1
-  - Code civil - art. 494-3
+  - Code civil - art. 494-3 (V)
   - Code civil - art. 494-4
 
 _Cité par_:
@@ -23918,10 +23897,10 @@ Outre le décès de la personne à l'égard de qui l'habilitation familiale a é
 
 1° Par le placement de l'intéressé sous sauvegarde de justice, sous curatelle ou sous tutelle ;
 
-2° En cas de jugement de mainlevée passé en force de chose jugée prononcé par le juge à la demande de l'une des personnes
-mentionnées à l'article 494-1 ou du procureur de la République, lorsqu'il s'avère que les conditions prévues à cet article ne
-sont plus réunies ou lorsque l'exécution de l'habilitation familiale est de nature à porter atteinte aux intérêts de la
-personne protégée ;
+2° En cas de jugement de mainlevée passé en force de chose jugée prononcé par le juge à la demande de la personne protégée,
+de l'une des personnes mentionnées à l'article 494-1 ou du procureur de la République, lorsqu'il s'avère que les conditions
+prévues à cet article ne sont plus réunies ou lorsque l'exécution de l'habilitation familiale est de nature à porter atteinte
+aux intérêts de la personne protégée ;
 
 3° De plein droit en l'absence de renouvellement à l'expiration du délai fixé ;
 
@@ -23929,9 +23908,9 @@ personne protégée ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+  - Loi n°2019-222 du 23 mars 2019 - art. 29
 
 _Cité par_:
 
@@ -23940,7 +23919,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 494-1
+  - Code civil - art. 494-1 (V)
 
 
 ###### Article 494-12
@@ -24319,13 +24298,12 @@ opérations qu'implique leur gestion, les sommes annuellement nécessaires à l'
 frais d'administration de ses biens. Le tuteur en informe le conseil de famille ou, à défaut, le juge. En cas de difficultés,
 le budget est arrêté par le conseil de famille ou, à défaut, par le juge.
 
-Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à inclure dans les frais de gestion la rémunération des
-administrateurs particuliers dont il demande le concours sous sa propre responsabilité.
+Sous sa propre responsabilité, le tuteur peut inclure dans les frais de gestion la rémunération des administrateurs
+particuliers dont il demande le concours.
 
-Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à conclure un contrat pour la gestion des valeurs
-mobilières et instruments financiers de la personne protégée. Il choisit le tiers contractant en considération de son
-expérience professionnelle et de sa solvabilité. Le contrat peut, à tout moment et nonobstant toute stipulation contraire,
-être résilié au nom de la personne protégée.
+Si le tuteur conclut un contrat avec un tiers pour la gestion des valeurs mobilières et instruments financiers de la personne
+protégée, il choisit le tiers contractant en considération de son expérience professionnelle et de sa solvabilité. Le contrat
+peut, à tout moment et nonobstant toute stipulation contraire, être résilié au nom de la personne protégée.
 
 **Liens relatifs à cet article**
 
@@ -24349,7 +24327,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
 
 _Codifié par_:
 
@@ -24359,7 +24337,8 @@ _Codifié par_:
 ###### Article 501
 
 Le conseil de famille ou, à défaut, le juge détermine la somme à partir de laquelle commence, pour le tuteur, l'obligation
-d'employer les capitaux liquides et l'excédent des revenus.
+d'employer les capitaux liquides et l'excédent des revenus. Le tuteur peut toutefois, sans autorisation, placer des fonds sur
+un compte.
 
 Le conseil de famille ou, à défaut, le juge prescrit toutes les mesures qu'il juge utiles quant à l'emploi ou au remploi des
 fonds soit par avance, soit à l'occasion de chaque opération. L'emploi ou le remploi est réalisé par le tuteur dans le délai
@@ -24389,13 +24368,13 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
   - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
+
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 502
@@ -24429,20 +24408,29 @@ _Modifié par_:
 
 ###### Article 503
 
-Dans les trois mois de l'ouverture de la tutelle, le tuteur fait procéder, en présence du subrogé tuteur s'il a été désigné,
-à un inventaire des biens de la personne protégée et le transmet au juge. Il en assure l'actualisation au cours de la mesure.
+Le tuteur fait procéder, en présence du subrogé tuteur s'il a été désigné, à un inventaire des biens de la personne protégée,
+qui est transmis au juge dans les trois mois de l'ouverture de la tutelle pour les biens meubles corporels, et dans les six
+mois pour les autres biens, avec le budget prévisionnel. Il en assure l'actualisation au cours de la mesure.
 
 Il peut obtenir communication de tous renseignements et documents nécessaires à l'établissement de l'inventaire auprès de
 toute personne publique ou privée, sans que puisse lui être opposé le secret professionnel ou le secret bancaire.
 
+Lorsque le juge l'estime nécessaire, il peut désigner dès l'ouverture de la mesure un commissaire-priseur judiciaire, un
+huissier de justice ou un notaire pour procéder, aux frais de la personne protégée, à l'inventaire des biens meubles
+corporels, dans le délai prévu au premier alinéa.
+
 Si l'inventaire n'a pas été établi ou se révèle incomplet ou inexact, la personne protégée et, après son décès, ses héritiers
 peuvent faire la preuve de la valeur et de la consistance de ses biens par tous moyens.
 
+En cas de retard dans la transmission de l'inventaire, le juge peut désigner un commissaire-priseur judiciaire, un huissier
+de justice, un notaire ou un mandataire judiciaire à la protection des majeurs pour y procéder aux frais du tuteur.
+
+**Nota:**
+
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
+la publication de la présente loi aux mesures de protection ouvertes antérieurement.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
@@ -24450,6 +24438,10 @@ _Cité par_:
   - Code civil - art. 472 (V)
   - Code de l'action sociale et des familles - art. Annexe 4-6 (V)
   - Code de procédure civile - art. 1253 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 30
 
 _Codifié par_:
 
@@ -24545,30 +24537,30 @@ _Modifié par_:
 
 ###### Article 507
 
-Le partage à l'égard d'une personne protégée peut être fait à l'amiable sur autorisation du conseil de famille ou, à défaut,
-du juge, qui désigne, s'il y a lieu, un notaire pour y procéder. Il peut n'être que partiel. 
+En cas d'opposition d'intérêts avec la personne chargée de la mesure de protection, le partage à l'égard d'une personne
+protégée peut être fait à l'amiable sur autorisation du conseil de famille ou, à défaut, du juge. Il peut n'être que partiel.
 
-L'état liquidatif est soumis à l'approbation du conseil de famille ou, à défaut, du juge. 
+Dans tous les cas, l'état liquidatif est soumis à l'approbation du conseil de famille ou, à défaut, du juge.
 
-Le partage peut également être fait en justice conformément aux articles 840 et 842. 
+Le partage peut également être fait en justice conformément aux articles 840 et 842.
 
 Tout autre partage est considéré comme provisionnel.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
   - Code de procédure civile - art. 1239-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
+
 _Cite_:
 
-  - Code civil - art. 840 (V)
-  - Code civil - art. 842 (V)
+  - Code civil - art. 840
+  - Code civil - art. 842
 
 _Codifié par_:
 
@@ -24578,25 +24570,26 @@ _Codifié par_:
 ###### Article 507-1
 
 Par dérogation à l'article 768, le tuteur ne peut accepter une succession échue à la personne protégée qu'à concurrence de
-l'actif net. Toutefois, le conseil de famille ou, à défaut, le juge peut, par une délibération ou une décision spéciale,
-l'autoriser à accepter purement et simplement si l'actif dépasse manifestement le passif. 
+l'actif net. Toutefois, il peut l'accepter purement et simplement si l'actif dépasse manifestement le passif, après recueil
+d'une attestation du notaire chargé du règlement de la succession ou, à défaut, après autorisation du conseil de famille ou
+du juge.
 
 Le tuteur ne peut renoncer à une succession échue à la personne protégée sans une autorisation du conseil de famille ou, à
 défaut, du juge.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
 _Cité par_:
 
   - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
+
 _Cite_:
 
-  - Code civil - art. 768 (V)
+  - Code civil - art. 768
 
 _Codifié par_:
 
@@ -24740,28 +24733,26 @@ _Codifié par_:
 
 ###### Article 511
 
-Le tuteur soumet chaque année le compte de gestion, accompagné des pièces justificatives, en vue de sa vérification, au
-directeur des services de greffe judiciaires : 
+Pour les mineurs sous tutelle, le tuteur soumet au directeur des services de greffe judiciaires du tribunal de grande
+instance un compte de gestion annuel, accompagné des pièces justificatives, en vue de sa vérification.
 
-1° Du tribunal de grande instance, s'agissant des mesures de protection juridique des mineurs ; 
+Le subrogé tuteur vérifie le compte avant de le transmettre avec ses observations au directeur des services de greffe
+judiciaires.
 
-2° Du tribunal d'instance, s'agissant des mesures de protection juridique des majeurs. 
-
-Lorsqu'un subrogé tuteur a été nommé, il vérifie le compte avant de le transmettre avec ses observations au directeur des
-services de greffe judiciaires. 
-
-Pour la vérification du compte, le directeur des services de greffe judiciaires peut faire usage du droit de communication
-prévu au deuxième alinéa de l'article 510. Il peut être assisté dans sa mission de contrôle des comptes dans les conditions
-fixées par le code de procédure civile. 
-
-S'il refuse d'approuver le compte, le directeur des services de greffe judiciaires dresse un rapport des difficultés
-rencontrées qu'il transmet au juge. Celui-ci statue sur la conformité du compte. 
+Le directeur des services de greffe judiciaires peut être assisté dans sa mission de contrôle des comptes dans les conditions
+fixées par le code de procédure civile.
 
 Le juge peut décider que la mission de vérification et d'approbation des comptes dévolue au directeur des services de greffe
-judiciaires sera exercée par le subrogé tuteur s'il en a été nommé un. 
+judiciaires sera exercée par le subrogé tuteur.
 
-Lorsqu'il est fait application de l'article 457, le juge peut décider que le conseil de famille vérifiera et approuvera les
-comptes en lieu et place du directeur des services de greffe judiciaires.
+Si les ressources du mineur le permettent et si l'importance et la composition de son patrimoine le justifient, le juge peut
+décider que la mission de vérification et d'approbation sera exercée, aux frais du mineur et selon les modalités qu'il fixe,
+par un professionnel qualifié.
+
+**Nota:**
+
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
+la publication de la présente loi aux mesures de protection ouvertes antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -24771,36 +24762,84 @@ _Cité par_:
   - Décret n°2011-1470 du 8 novembre 2011 (V)
   - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (VD)
   - Code civil - art. 486 (M)
-  - Code civil - art. 514 (M)
+  - Code civil - art. 514 (V)
   - Code de l'organisation judiciaire - art. L222-4 (VT)
   - Code de procédure civile - art. 1254-1 (V)
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Loi n°2019-222 du 23 mars 2019 - art. 30
 
 _Cite_:
 
-  - Code civil - art. 457 (V)
+  - Code civil - art. 457
   - Code civil - art. 510
 
 
 ###### Article 512
 
-Lorsque la tutelle n'a pas été confiée à un mandataire judiciaire à la protection des majeurs, le juge peut, par dérogation
-aux articles 510 et 511 et en considération de la modicité des revenus et du patrimoine de la personne protégée, dispenser le
-tuteur d'établir le compte de gestion et de soumettre celui-ci à l'approbation du directeur des services de greffe
-judiciaires.
+Pour les majeurs protégés, les comptes de gestion sont vérifiés et approuvés annuellement par le subrogé tuteur lorsqu'il en
+a été nommé un ou par le conseil de famille lorsqu'il est fait application de l'article 457. Lorsque plusieurs personnes ont
+été désignées dans les conditions de l'article 447 pour la gestion patrimoniale, les comptes annuels de gestion doivent être
+signés par chacune d'elles, ce qui vaut approbation. En cas de difficulté, le juge statue sur la conformité des comptes à la
+requête de l'une des personnes chargées de la mesure de protection.
+
+Par dérogation au premier alinéa du présent article, lorsque l'importance et la composition du patrimoine de la personne
+protégée le justifient, le juge désigne, dès réception de l'inventaire du budget prévisionnel, un professionnel qualifié
+chargé de la vérification et de l'approbation des comptes dans des conditions fixées par décret en Conseil d'Etat. Le juge
+fixe dans sa décision les modalités selon lesquelles le tuteur soumet à ce professionnel le compte de gestion, accompagné des
+pièces justificatives, en vue de ces opérations.
+
+En l'absence de désignation d'un subrogé tuteur, d'un co-tuteur, d'un tuteur adjoint ou d'un conseil de famille, le juge fait
+application du deuxième alinéa du présent article.
+
+**Nota:**
+
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
+la publication de la présente loi aux mesures de protection ouvertes antérieurement à l'exception du deuxième alinéa de
+l'article 512 du code civil, dans sa rédaction résultant de l'article 30 de la présente loi, qui entre en vigueur à une date
+fixée par décret et au plus tard le 31 décembre 2023. La vérification et l'approbation des comptes annuels de gestion établis
+antérieurement à cette entrée en vigueur restent dévolus au directeur des services de greffe judiciaires dans les conditions
+prévues aux articles 511 et 513 du code civil dans leur rédaction antérieure à la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Loi n°2019-222 du 23 mars 2019 - art. 30
+
+_Cité par_:
+
+  - Code civil - art. 486 (V)
+  - Code civil - art. 514 (V)
 
 _Cite_:
 
   - Code civil - art. 510
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
+
+
+###### Article 513
+
+Par dérogation aux articles 510 à 512, le juge peut décider de dispenser le tuteur de soumettre le compte de gestion à
+approbation en considération de la modicité des revenus ou du patrimoine de la personne protégée.
+
+Lorsque la tutelle n'a pas été confiée à un mandataire judiciaire à la protection des majeurs, il peut également décider de
+le dispenser d'établir le compte de gestion.
+
+**Nota:**
+
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
+la publication de la présente loi aux mesures de protection ouvertes antérieurement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 30
 
 _Cité par_:
 
@@ -24811,49 +24850,57 @@ _Codifié par_:
   - Loi n°1803-03-14
 
 
-###### Article 513
+###### Article 513-1
 
-Si les ressources de la personne protégée le permettent et si l'importance et la composition de son patrimoine le justifient,
-le juge peut décider, en considération de l'intérêt patrimonial en cause, que la mission de vérification et d'approbation du
-compte de gestion sera exercée, aux frais de l'intéressée et selon les modalités qu'il fixe, par un technicien.
+La personne chargée de vérifier et d'approuver les comptes peut faire usage du droit de communication prévu au deuxième
+alinéa de l'article 510, sans que puisse lui être opposé le secret professionnel ou le secret bancaire. Elle est tenue
+d'assurer la confidentialité du compte de gestion.
+
+A l'issue de la vérification du compte de gestion, un exemplaire est versé sans délai au dossier du tribunal par la personne
+chargée de cette mission.
+
+En cas de refus d'approbation des comptes, le juge est saisi par un rapport de difficulté et statue sur la conformité du
+compte.
+
+**Nota:**
+
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
+la publication de la présente loi aux mesures de protection ouvertes antérieurement.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Créé par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-_Cité par_:
-
-  - Code civil - art. 514 (M)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Loi n°2019-222 du 23 mars 2019 - art. 30
 
 
 ###### Article 514
 
 Lorsque sa mission prend fin pour quelque cause que ce soit, le tuteur établit un compte de gestion des opérations
-intervenues depuis l'établissement du dernier compte annuel et le soumet à la vérification et à l'approbation prévues aux
-articles 511 et 513. 
+intervenues depuis l'établissement du dernier compte et le soumet à la vérification et à l'approbation prévues aux articles
+511  à 513-1.
 
 En outre, dans les trois mois qui suivent la fin de sa mission, le tuteur ou ses héritiers s'il est décédé remettent une
 copie des cinq derniers comptes de gestion et du compte mentionné au premier alinéa du présent article, selon le cas, à la
 personne devenue capable si elle n'en a pas déjà été destinataire, à la personne nouvellement chargée de la mesure de gestion
-ou aux héritiers de la personne protégée. 
+ou aux héritiers de la personne protégée.
 
-Les alinéas précédents ne sont pas applicables dans le cas prévu à l'article 512. 
+Les alinéas précédents ne sont pas applicables dans le cas prévu à l'article 513.
 
 Dans tous les cas, le tuteur remet aux personnes mentionnées au deuxième alinéa du présent article les pièces nécessaires
 pour continuer la gestion ou assurer la liquidation de la succession, ainsi que l'inventaire initial et les actualisations
 auxquelles il a donné lieu.
 
+**Nota:**
+
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
+la publication de la présente loi aux mesures de protection ouvertes antérieurement.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Loi n°2019-222 du 23 mars 2019 - art. 30
 
 _Cité par_:
 
@@ -24861,8 +24908,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 511 (V)
-  - Code civil - art. 512 (V)
+  - Code civil - art. 511 (VT)
+  - Code civil - art. 512
   - Code civil - art. 513 (V)
 
 _Codifié par_:
@@ -34995,21 +35042,16 @@ _Modifié par_:
 ###### Article 836
 
 Si un indivisaire est présumé absent ou, par suite d'éloignement, se trouve hors d'état de manifester sa volonté, un partage
-amiable peut intervenir dans les conditions prévues à l'article 116. 
+amiable peut intervenir dans les conditions prévues à l'article 116.
 
 De même, si un indivisaire fait l'objet d'un régime de protection, un partage amiable peut intervenir dans les conditions
-prévues aux titres X et XI du livre Ier.
+prévues aux titres X, XI et XII du livre Ier.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-04-19
-
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
 
 _Cite_:
 
@@ -35020,6 +35062,10 @@ _Cité par_:
   - Code civil - art. 815-5-1 (VD)
   - Code civil - art. 837 (V)
   - Code civil - art. 840 (V)
+
+_Codifié par_:
+
+  - Loi n°1803-04-19
 
 
 ###### Article 837
@@ -43092,20 +43138,27 @@ _Codifié par_:
 
 Il est fait exception aux dispositions de l'article précédent pour : 
 
-1° Les actes sous signature privée relatifs au droit de la famille et des successions ; 
+1° Les actes sous signature privée relatifs au droit de la famille et des successions, sauf les conventions sous signature
+privée contresignées par avocats en présence des parties et déposées au rang des minutes d'un notaire selon les modalités
+prévues aux articles 229-1 à 229-4 ou à l'article 298 ; 
 
 2° Les actes sous signature privée relatifs à des sûretés personnelles ou réelles, de nature civile ou commerciale, sauf
 s'ils sont passés par une personne pour les besoins de sa profession.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 25
+
+_Cite_:
+
+  - Code civil - art. 229-1
+  - Code civil - art. 298
+
 _Codifié par_:
 
   - Loi n°1804-02-07
-
-_Modifié par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1176
@@ -48814,36 +48867,38 @@ _Modifié par_:
 
 ###### Article 1397
 
-Après deux années d'application du régime matrimonial, les époux peuvent convenir, dans l'intérêt de la famille, de le
-modifier, ou même d'en changer entièrement, par un acte notarié. A peine de nullité, l'acte notarié contient la liquidation
-du régime matrimonial modifié si elle est nécessaire. 
+Les époux peuvent convenir, dans l'intérêt de la famille, de modifier leur régime matrimonial, ou même d'en changer
+entièrement, par un acte notarié. A peine de nullité, l'acte notarié contient la liquidation du régime matrimonial modifié si
+elle est nécessaire.
 
 Les personnes qui avaient été parties dans le contrat modifié et les enfants majeurs de chaque époux sont informés
-personnellement de la modification envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois mois. 
+personnellement de la modification envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois mois. En
+cas d'enfant mineur sous tutelle ou d'enfant majeur faisant l'objet d'une mesure de protection juridique, l'information est
+délivrée à son représentant, qui agit sans autorisation préalable du conseil de famille ou du juge des tutelles.
 
 Les créanciers sont informés de la modification envisagée par la publication d'un avis dans un journal habilité à recevoir
 les annonces légales dans l'arrondissement ou le département du domicile des époux. Chacun d'eux peut s'opposer à la
-modification dans les trois mois suivant la publication. 
+modification dans les trois mois suivant la publication.
 
 En cas d'opposition, l'acte notarié est soumis à l'homologation du tribunal du domicile des époux. La demande et la décision
-d'homologation sont publiées dans les conditions et sous les sanctions prévues au code de procédure civile. 
+d'homologation sont publiées dans les conditions et sous les sanctions prévues au code de procédure civile.
 
-Lorsque l'un ou l'autre des époux a des enfants mineurs, l'acte notarié est obligatoirement soumis à l'homologation du
-tribunal du domicile des époux. 
+Lorsque l'un ou l'autre des époux a des enfants mineurs sous le régime de l'administration légale, le notaire peut saisir le
+juge des tutelles dans les conditions prévues au deuxième alinéa de l'article 387-3.
 
 Le changement a effet entre les parties à la date de l'acte ou du jugement qui le prévoit et, à l'égard des tiers, trois mois
 après que mention en a été portée en marge de l'acte de mariage. Toutefois, en l'absence même de cette mention, le changement
 n'en est pas moins opposable aux tiers si, dans les actes passés avec eux, les époux ont déclaré avoir modifié leur régime
-matrimonial. 
+matrimonial.
 
 Lorsque l'un ou l'autre des époux fait l'objet d'une mesure de protection juridique dans les conditions prévues au titre XI
 du livre Ier, le changement ou la modification du régime matrimonial est soumis à l'autorisation préalable du juge des
-tutelles ou du conseil de famille s'il a été constitué. 
+tutelles ou du conseil de famille s'il a été constitué.
 
-Il est fait mention de la modification sur la minute du contrat de mariage modifié. 
+Il est fait mention de la modification sur la minute du contrat de mariage modifié.
 
 Les créanciers non opposants, s'il a été fait fraude à leurs droits, peuvent attaquer le changement de régime matrimonial
-dans les conditions de l'article 1341-2. 
+dans les conditions de l'article 1341-2.
 
 Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -48866,11 +48921,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+  - Loi n°2019-222 du 23 mars 2019 - art. 8
 
 _Cite_:
 
-  - Code civil - art. 1341-2 (VD)
+  - Code civil - art. 1341-2
 
 
 ###### Article 1397-1
@@ -49065,15 +49120,18 @@ tuteur ou son curateur.
 A défaut de cette assistance, l'annulation des conventions peut être poursuivie dans l'année du mariage, soit par la personne
 protégée elle-même, soit par ceux dont le consentement était requis, soit par le tuteur ou le curateur.
 
+Toutefois, la personne en charge de la mesure de protection peut saisir le juge pour être autorisée à conclure seule une
+convention matrimoniale, en vue de préserver les intérêts de la personne protégée.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°65-570 1965-07-13
+  - Loi n°65-570 du 13 juillet 1965
 
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 10
+  - Loi n°2019-222 du 23 mars 2019 - art. 10
 
 
 ### Chapitre II : Du régime en communauté<a id=415></a>
