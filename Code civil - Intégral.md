@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -48725,36 +48725,36 @@ _Modifié par_:
 
 Les époux peuvent convenir, dans l'intérêt de la famille, de modifier leur régime matrimonial, ou même d'en changer
 entièrement, par un acte notarié. A peine de nullité, l'acte notarié contient la liquidation du régime matrimonial modifié si
-elle est nécessaire.
+elle est nécessaire. 
 
 Les personnes qui avaient été parties dans le contrat modifié et les enfants majeurs de chaque époux sont informés
 personnellement de la modification envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois mois. En
 cas d'enfant mineur sous tutelle ou d'enfant majeur faisant l'objet d'une mesure de protection juridique, l'information est
-délivrée à son représentant, qui agit sans autorisation préalable du conseil de famille ou du juge des tutelles.
+délivrée à son représentant, qui agit sans autorisation préalable du conseil de famille ou du juge des tutelles. 
 
-Les créanciers sont informés de la modification envisagée par la publication d'un avis dans un journal habilité à recevoir
-les annonces légales dans l'arrondissement ou le département du domicile des époux. Chacun d'eux peut s'opposer à la
-modification dans les trois mois suivant la publication.
+Les créanciers sont informés de la modification envisagée par la publication d'un avis sur un support habilité à recevoir des
+annonces légales dans le département du domicile des époux. Chacun d'eux peut s'opposer à la modification dans les trois mois
+suivant la publication. 
 
 En cas d'opposition, l'acte notarié est soumis à l'homologation du tribunal du domicile des époux. La demande et la décision
-d'homologation sont publiées dans les conditions et sous les sanctions prévues au code de procédure civile.
+d'homologation sont publiées dans les conditions et sous les sanctions prévues au code de procédure civile. 
 
 Lorsque l'un ou l'autre des époux a des enfants mineurs sous le régime de l'administration légale, le notaire peut saisir le
-juge des tutelles dans les conditions prévues au deuxième alinéa de l'article 387-3.
+juge des tutelles dans les conditions prévues au deuxième alinéa de l'article 387-3. 
 
 Le changement a effet entre les parties à la date de l'acte ou du jugement qui le prévoit et, à l'égard des tiers, trois mois
 après que mention en a été portée en marge de l'acte de mariage. Toutefois, en l'absence même de cette mention, le changement
 n'en est pas moins opposable aux tiers si, dans les actes passés avec eux, les époux ont déclaré avoir modifié leur régime
-matrimonial.
+matrimonial. 
 
 Lorsque l'un ou l'autre des époux fait l'objet d'une mesure de protection juridique dans les conditions prévues au titre XI
 du livre Ier, le changement ou la modification du régime matrimonial est soumis à l'autorisation préalable du juge des
-tutelles ou du conseil de famille s'il a été constitué.
+tutelles ou du conseil de famille s'il a été constitué. 
 
-Il est fait mention de la modification sur la minute du contrat de mariage modifié.
+Il est fait mention de la modification sur la minute du contrat de mariage modifié. 
 
 Les créanciers non opposants, s'il a été fait fraude à leurs droits, peuvent attaquer le changement de régime matrimonial
-dans les conditions de l'article 1341-2.
+dans les conditions de l'article 1341-2. 
 
 Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -48777,11 +48777,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 8
+  - Loi n°2019-486 du 22 mai 2019 - art. 3
 
 _Cite_:
 
   - Code civil - art. 1341-2
+  - Code civil - art. 387-3 (V)
 
 
 ###### Article 1397-1
@@ -57280,25 +57281,24 @@ _Cite_:
 
 Toute société doit avoir un objet licite et être constituée dans l'intérêt commun des associés.
 
+La société est gérée dans son intérêt social, en prenant en considération les enjeux sociaux et environnementaux de son
+activité.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
+  - Loi n°78-9 du 4 janvier 1978
 
 _Modifié par_:
 
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+  - Loi n°2019-486 du 22 mai 2019 - art. 169
 
 _Cité par_:
 
-  - Code civil - art. 1844-10 (M)
+  - Code civil - art. 1844-10 (V)
   - Code civil - art. 1871 (V)
   - Code de commerce - art. L235-1 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code civil 1844-10 *nullité*
 
 
 ###### Article 1834
@@ -57324,17 +57324,19 @@ _Cité par_:
 ###### Article 1835
 
 Les statuts doivent être établis par écrit. Ils déterminent, outre les apports de chaque associé, la forme, l'objet,
-l'appellation, le siège social, le capital social, la durée de la société et les modalités de son fonctionnement.
+l'appellation, le siège social, le capital social, la durée de la société et les modalités de son fonctionnement. Les statuts
+peuvent préciser une raison d'être, constituée des principes dont la société se dote et pour le respect desquels elle entend
+affecter des moyens dans la réalisation de son activité.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
+  - Loi n°78-9 du 4 janvier 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+  - Loi n°2019-486 du 22 mai 2019 - art. 169
 
 _Cité par_:
 
@@ -58173,24 +58175,25 @@ _Cité par_:
 
 ###### Article 1844-10
 
-La nullité de la société ne peut résulter que de la violation des dispositions des articles 1832, 1832-1, alinéa 1er, et
-1833, ou de l'une des causes de nullité des contrats en général. 
+La nullité de la société ne peut résulter que de la violation des dispositions de l'article 1832 et du premier alinéa des
+articles 1832-1 et 1833, ou de l'une des causes de nullité des contrats en général. 
 
 Toute clause statutaire contraire à une disposition impérative du présent titre dont la violation n'est pas sanctionnée par
 la nullité de la société, est réputée non écrite. 
 
 La nullité des actes ou délibérations des organes de la société ne peut résulter que de la violation d'une disposition
-impérative du présent titre ou de l'une des causes de nullité des contrats en général.
+impérative du présent titre, à l'exception du dernier alinéa de l'article 1833, ou de l'une des causes de nullité des
+contrats en général.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
+  - Loi n°78-9 du 4 janvier 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+  - Loi n°2019-486 du 22 mai 2019 - art. 169
 
 _Cite_:
 
@@ -71153,17 +71156,13 @@ L'agent des sûretés est titulaire des sûretés et garanties.
 Les droits et biens acquis par l'agent des sûretés dans l'exercice de sa mission forment un patrimoine affecté à celle-ci,
 distinct de son patrimoine propre.
 
-**Nota:**
-
-Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
-le 1
-  <sup>er</sup> octobre 2017.
+Les qualités requises du bénéficiaire de la sûreté s'apprécient en la personne du créancier de l'obligation garantie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 
 ###### Article 2488-7
@@ -71226,44 +71225,33 @@ Les droits et biens acquis par l'agent des sûretés dans l'exercice de sa missi
 titulaires de créances nées de leur conservation ou de leur gestion, sous réserve de l'exercice d'un droit de suite et hors
 les cas de fraude.
 
-L'ouverture d'une procédure de sauvegarde, de redressement judiciaire, de liquidation judiciaire ou de rétablissement
-professionnel à l'égard de l'agent des sûretés est sans effet sur le patrimoine affecté à sa mission.
-
-**Nota:**
-
-Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
-le 1
-  <sup>er</sup> octobre 2017.
+L'ouverture d'une procédure de sauvegarde, de redressement judiciaire, de liquidation judiciaire, de rétablissement
+professionnel, de surendettement ou de résolution bancaire à l'égard de l'agent des sûretés est sans effet sur le patrimoine
+affecté à sa mission.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 
 ###### Article 2488-11
 
 En l'absence de stipulations contractuelles prévoyant les conditions de son remplacement et si l'agent des sûretés manque à
 ses devoirs, met en péril les intérêts qui lui sont confiés ou fait l'objet de l'ouverture d'une procédure de sauvegarde, de
-redressement judiciaire, de liquidation judiciaire ou de rétablissement professionnel, tout créancier bénéficiaire des
-sûretés et garanties peut demander en justice la désignation d'un agent des sûretés provisoire ou le remplacement de l'agent
-des sûretés.
+redressement judiciaire, de liquidation judiciaire, de rétablissement professionnel, de surendettement ou de résolution
+bancaire, tout créancier bénéficiaire des sûretés et garanties peut demander en justice la désignation d'un agent des sûretés
+provisoire ou le remplacement de l'agent des sûretés.
 
 Tout remplacement conventionnel ou judiciaire de l'agent des sûretés emporte de plein droit transmission du patrimoine
 affecté au nouvel agent des sûretés.
 
-**Nota:**
-
-Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
-le 1
-  <sup>er</sup> octobre 2017.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 
 ###### Article 2488-12
