@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-07-12
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -17113,6 +17113,8 @@ L'autorité parentale est un ensemble de droits et de devoirs ayant pour finalit
 Elle appartient aux parents jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa santé et
 sa moralité, pour assurer son éducation et permettre son développement, dans le respect dû à sa personne.
 
+L'autorité parentale s'exerce sans violences physiques ou psychologiques.
+
 Les parents associent l'enfant aux décisions qui le concernent, selon son âge et son degré de maturité.
 
 **Liens relatifs à cet article**
@@ -17133,7 +17135,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-404 du 17 mai 2013 - art. 13
+  - Loi n°2019-721 du 10 juillet 2019 - art. 1
 
 _Codifié par_:
 
