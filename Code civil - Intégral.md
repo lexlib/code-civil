@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-07-12
+Version Consolidée au 2019-07-21
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -477,7 +477,7 @@ Version Consolidée au 2019-07-12
       - [Chapitre II : De la société civile (art. 1845 à 1870-1)](#474)
         - [Section 1 : Dispositions générales. (art. 1845 à 1845-1)](#475)
         - [Section 2 : Gérance. (art. 1846 à 1851)](#476)
-        - [Section 3 : Décisions collectives. (art. 1852 à 1854)](#477)
+        - [Section 3 : Décisions collectives. (art. 1852 à 1854-1)](#477)
         - [Section 4 : Information des associés. (art. 1855 à 1856)](#478)
         - [Section 5 : Engagement des associés à l'égard des tiers. (art. 1857 à 1860)](#479)
         - [Section 6 : Cession des parts sociales. (art. 1861 à 1868)](#480)
@@ -51877,13 +51877,13 @@ _Créé par_:
 ###### Article 1592
 
 Il peut cependant être laissé à l'estimation d'un tiers ; si le tiers ne veut ou ne peut faire l'estimation, il n'y a point
-de vente.
+de vente, sauf estimation par un autre tiers.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 11
+  - Loi n°2019-744 du 19 juillet 2019 - art. 37
 
 _Codifié par_:
 
@@ -57952,30 +57952,28 @@ Tout associé a le droit de participer aux décisions collectives.
 Les copropriétaires d'une part sociale indivise sont représentés par un mandataire unique, choisi parmi les indivisaires ou
 en dehors d'eux. En cas de désaccord, le mandataire sera désigné en justice à la demande du plus diligent.
 
-Si une part est grevée d'un usufruit, le droit de vote appartient au nu-propriétaire, sauf pour les décisions concernant
-l'affectation des bénéfices, où il est réservé à l'usufruitier.
+Si une part est grevée d'un usufruit, le nu-propriétaire et l'usufruitier ont le droit de participer aux décisions
+collectives. Le droit de vote appartient au nu-propriétaire, sauf pour les décisions concernant l'affectation des bénéfices,
+où il est réservé à l'usufruitier. Toutefois, pour les autres décisions, le nu-propriétaire et l'usufruitier peuvent convenir
+que le droit de vote sera exercé par l'usufruitier.
 
-Les statuts peuvent déroger aux dispositions des deux alinéas qui précèdent.
+Les statuts peuvent déroger aux dispositions du deuxième alinéa et de la seconde phrase du troisième alinéa.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
-
-_Créé par_:
-
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+  - Loi n°78-9 du 4 janvier 1978
 
 _Cité par_:
 
   - Décret n°78-704 du 3 juillet 1978 - art. 17 (VD)
   - Code civil - art. 1871 (V)
   - Code du sport. - art. Annexe I-2 à l'article R122-4 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-744 du 19 juillet 2019 - art. 3
 
 
 ###### Article 1844-1
@@ -58171,22 +58169,20 @@ pour la modification de ceux-ci.
 Un an au moins avant la date d'expiration de la société, les associés doivent être consultés à l'effet de décider si la
 société doit être prorogée.
 
-A défaut, tout associé peut demander  au président du tribunal, statuant sur requête, la désignation d'un mandataire de
-justice chargé de provoquer la consultation prévue ci-dessus.
+A défaut, tout associé peut demander au président du tribunal, statuant sur requête, la désignation d'un mandataire de
+justice chargé de provoquer la consultation prévue au deuxième alinéa.
+
+Lorsque la consultation n'a pas eu lieu, le président du tribunal, statuant sur requête à la demande de tout associé dans
+l'année suivant la date d'expiration de la société, peut constater l'intention des associés de proroger la société et
+autoriser la consultation à titre de régularisation dans un délai de trois mois, le cas échéant en désignant un mandataire de
+justice chargé de la provoquer. Si la société est prorogée, les actes conformes à la loi et aux statuts antérieurs à la
+prorogation sont réputés réguliers et avoir été accomplis par la société ainsi prorogée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
-
-_Créé par_:
-
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+  - Loi n°78-9 du 4 janvier 1978
 
 _Cité par_:
 
@@ -58197,6 +58193,10 @@ _Cité par_:
   - Code civil - art. 1844-7 (VD)
   - Code de commerce - art. R123-124 (VD)
   - Code rural et de la pêche maritime - art. R524-15 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-744 du 19 juillet 2019 - art. 4
 
 
 ###### Article 1844-7
@@ -58611,27 +58611,23 @@ parts sociales.
 Dans le silence des statuts, et s'il n'en a été décidé autrement par les associés lors de la désignation, les gérants sont
 réputés nommés pour la durée de la société.
 
-Si, pour quelque cause que ce soit, la société se trouve dépourvue de gérant, tout associé peut demander au président du
-tribunal statuant sur requête la désignation d'un mandataire chargé de réunir les associés en vue de nommer un ou plusieurs
-gérants.
+Si, pour quelque cause que ce soit, la société se trouve dépourvue de gérant, tout associé peut réunir les associés ou, à
+défaut, demander au président du tribunal statuant sur requête la désignation d'un mandataire chargé de le faire, à seule fin
+de nommer un ou plusieurs gérants.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
-
-_Créé par_:
-
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 36 (V)
+  - Loi n°78-9 du 4 janvier 1978
 
 _Cité par_:
 
   - Décret n°78-704 du 3 juillet 1978 - art. 36 (VD)
+
+_Modifié par_:
+
+  - Loi n°2019-744 du 19 juillet 2019 - art. 5
 
 
 ###### Article 1846-1
@@ -58839,6 +58835,23 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+
+
+###### Article 1854-1
+
+En cas de fusion de sociétés civiles, si les statuts prévoient la consultation des associés de la société absorbante, cette
+consultation n'est pas requise lorsque, depuis le dépôt du projet de fusion et jusqu'à la réalisation de l'opération, la
+société absorbante détient au moins 90 % des parts de la société absorbée.
+
+Toutefois, un ou plusieurs associés de la société absorbante réunissant au moins 5 % du capital social peuvent demander en
+justice la désignation d'un mandataire aux fins de provoquer la consultation des associés de la société absorbante pour
+qu'ils se prononcent sur l'approbation de la fusion.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-744 du 19 juillet 2019 - art. 6
 
 
 #### Section 4 : Information des associés.<a id=478></a>
@@ -59125,9 +59138,10 @@ _Cite_:
 ###### Article 1865
 
 La cession de parts sociales doit être constatée par écrit. Elle est rendue opposable à la société dans les formes prévues à
-l'article 1690 ou, si les statuts le stipulent, par transfert sur les registres de la société. 
+l'article 1690 ou, si les statuts le stipulent, par transfert sur les registres de la société.
 
-Elle n'est opposable aux tiers qu'après accomplissement de ces formalités et après publication.
+Elle n'est opposable aux tiers qu'après accomplissement de ces formalités et après publication au registre du commerce et des
+sociétés ; ce dépôt peut être effectué par voie électronique.
 
 **Liens relatifs à cet article**
 
@@ -59142,21 +59156,17 @@ _Cité par_:
   - Code monétaire et financier - art. L214-92 (V)
   - Code monétaire et financier - art. L214-93 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-1300 1970-12-31 art. 36-1 *sociétés civiles faisant appel public à l'épargne*
-
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
+  - Loi n°78-9 du 4 janvier 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatifs JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+  - Loi n°2019-744 du 19 juillet 2019 - art. 7
 
 _Cite_:
 
-  - Code civil - art. 1690 (V)
+  - Code civil - art. 1690
 
 
 ###### Article 1866
