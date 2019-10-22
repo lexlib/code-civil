@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-07-21
+Version Consolidée au 2019-10-23
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -57453,36 +57453,6 @@ _Cite_:
   - Code civil - art. 1839 (V)
 
 
-###### Article 1841
-
-Il est interdit aux sociétés n'y ayant pas été autorisées par la loi de procéder à une offre au public de titres financiers,
-d'émettre des titres négociables ou de procéder à une offre au public, au sens de l'article L. 411-1 du code monétaire et
-financier, de parts sociales, à peine de nullité des contrats conclus ou des titres ou parts sociales émis.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Ordonnance n°2009-798 du 24 juin 2009 - art. 5 (V)
-  - Code civil - art. 1871 (M)
-
-_Modifié par_:
-
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 45
-
-_Abrogé par_:
-
-  - Ordonnance n°2019-1067 du 21 octobre 2019 - art. 1
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code monétaire et financier - art. L412-3 (V)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L411-1
-
-
 ###### Article 1842
 
 Les sociétés autres que les sociétés en participation visées au chapitre III jouissent de la personnalité morale à compter de
@@ -59212,8 +59182,8 @@ Les associés peuvent convenir que la société ne sera point immatriculée. La 
 ". Elle n'est pas une personne morale et n'est pas soumise à publicité. Elle peut être prouvée par tous moyens. 
 
 Les associés conviennent librement de l'objet, du fonctionnement et des conditions de la société en participation, sous
-réserve de ne pas déroger aux dispositions impératives des articles 1832, 1832-1, 1833, 1836 (2 ème alinéa), 1841, 1844 (1er
-alinéa) et 1844-1 (2e alinéa).
+réserve de ne pas déroger aux dispositions impératives des articles 1832,1832-1,1833,1836 (2e alinéa), 1844 (1er alinéa) et
+1844-1 (2e alinéa) et de l'article L. 411-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -59243,21 +59213,21 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°78-9 1978-01-04
+  - Loi n°78-9 du 4 janvier 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+  - Ordonnance n°2019-1067 du 21 octobre 2019 - art. 1
 
 _Cite_:
 
-  - Code civil - art. 1832 (V)
-  - Code civil - art. 1832-1 (V)
-  - Code civil - art. 1833 (V)
-  - Code civil - art. 1836 (V)
-  - Code civil - art. 1841 (V)
-  - Code civil - art. 1844 (V)
-  - Code civil - art. 1844-1 (V)
+  - Code civil - art. 1832
+  - Code civil - art. 1832-1
+  - Code civil - art. 1833
+  - Code civil - art. 1836
+  - Code civil - art. 1844
+  - Code civil - art. 1844-1
+  - Code monétaire et financier - art. L411-1 (V)
 
 
 ###### Article 1871-1
