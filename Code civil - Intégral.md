@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-10-23
+Version Consolidée au 2019-12-15
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -56223,20 +56223,21 @@ _Codifié par_:
 Le fabricant d'un ouvrage, d'une partie d'ouvrage ou d'un élément d'équipement conçu et produit pour satisfaire, en état de
 service, à des exigences précises et déterminées à l'avance, est solidairement responsable des obligations mises par les
 articles 1792, 1792-2 et 1792-3 à la charge du locateur d'ouvrage qui a mis en oeuvre, sans modification et conformément aux
-règles édictées par le fabricant, l'ouvrage, la partie d'ouvrage ou élément d'équipement considéré. 
+règles édictées par le fabricant, l'ouvrage, la partie d'ouvrage ou élément d'équipement considéré.
 
-Sont assimilés à des fabricants pour l'application du présent article : 
+Sont assimilés à des fabricants pour l'application du présent article :
 
-Celui qui a importé un ouvrage, une partie d'ouvrage ou un élément d'équipement fabriqué à l'étranger ; 
+Celui qui a importé un ouvrage, une partie d'ouvrage ou un élément d'équipement fabriqué à l'étranger ;
 
-Celui qui l'a présenté comme son oeuvre en faisant figurer sur lui son nom, sa marque de fabrique ou tout autre signe
-distinctif.
+Celui qui l'a présenté comme son oeuvre en faisant figurer sur lui son nom, sa marque ou tout autre signe distinctif.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
 
 _Cité par_:
 
@@ -56252,11 +56253,15 @@ _Cité par_:
   - Code des assurances - art. Annexe II art A243-1 (VD)
   - Code des assurances - art. R431-51 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
+
 _Cite_:
 
-  - Code civil - art. 1792 (V)
-  - Code civil - art. 1792-2 (V)
-  - Code civil - art. 1792-3 (V)
+  - Code civil - art. 1792
+  - Code civil - art. 1792-2
+  - Code civil - art. 1792-3
 
 _Codifié par_:
 
