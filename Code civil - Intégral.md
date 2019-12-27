@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-12-15
+Version Consolidée au 2019-12-28
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -17583,22 +17583,63 @@ _Cité par_:
 
 ###### Article 373-2-2
 
-En cas de séparation entre les parents, ou entre ceux-ci et l'enfant, la contribution à son entretien et à son éducation
+I. - En cas de séparation entre les parents, ou entre ceux-ci et l'enfant, la contribution à son entretien et à son éducation
 prend la forme d'une pension alimentaire versée, selon le cas, par l'un des parents à l'autre, ou à la personne à laquelle
-l'enfant a été confié. 
+l'enfant a été confié.
 
-Les modalités et les garanties de cette pension alimentaire sont fixées par la convention homologuée visée à l'article
-373-2-7 ou, à défaut, par le juge. Cette convention ou, à défaut, le juge peut prévoir le versement de la pension alimentaire
-par virement bancaire ou par tout autre moyen de paiement. 
+Les modalités et les garanties de cette pension alimentaire sont fixées par :
 
-Cette pension peut en tout ou partie prendre la forme d'une prise en charge directe de frais exposés au profit de l'enfant. 
+1° Une décision judiciaire ;
 
-Elle peut être en tout ou partie servie sous forme d'un droit d'usage et d'habitation.
+2° Une convention homologuée par le juge ;
 
-Lorsque le parent débiteur de la pension alimentaire a fait l'objet d'une plainte déposée à la suite de menaces ou de
-violences volontaires sur le parent créancier ou l'enfant ou d'une condamnation pour de telles menaces ou violences ou
-lorsque de telles menaces ou violences sont mentionnées dans une décision de justice, le juge peut prévoir que cette pension
-est versée au directeur de l'organisme débiteur des prestations familiales.
+3° Une convention de divorce ou de séparation de corps par consentement mutuel selon les modalités prévues à l'article
+229-1 ;
+
+4° Un acte reçu en la forme authentique par un notaire ;
+
+5° Une convention à laquelle l'organisme débiteur des prestations familiales a donné force exécutoire en application de
+l'article L. 582-2 du code de la sécurité sociale.
+
+Il peut être notamment prévu le versement de la pension alimentaire par virement bancaire ou par tout autre moyen de
+paiement.
+
+Cette pension peut en tout ou partie prendre la forme d'une prise en charge directe de frais exposés au profit de l'enfant ou
+être, en tout ou partie, servie sous forme d'un droit d'usage et d'habitation.
+
+II. - Lorsque la pension est fixée en tout ou partie en numéraire, son versement par l'intermédiaire de l'organisme débiteur
+des prestations familiales au parent créancier peut être prévu pour la part en numéraire, dans les conditions et selon les
+modalités prévues au chapitre II du titre VIII du livre V du code de la sécurité sociale et par le code de procédure civile,
+dans les cas suivants :
+
+1° Sur décision du juge, même d'office, lorsque le parent débiteur a fait l'objet d'une plainte ou d'une condamnation pour
+des faits de menaces ou de violences volontaires sur le parent créancier ou l'enfant, ou lorsque de telles menaces ou
+violences sont mentionnées dans une décision de justice concernant le parent débiteur ;
+
+2° Sur décision du juge, lorsqu'au moins un des parents en fait la demande ;
+
+3° Sur accord des parents mentionné dans l'un des titres mentionnés aux 2° à 5° du I.
+
+Sauf lorsque l'intermédiation a été ordonnée dans les conditions du 1° du présent II, il peut être mis fin à l'intermédiation
+sur demande de l'un des parents adressée à l'organisme débiteur des prestations familiales, sous réserve du consentement de
+l'autre parent.
+
+Dans les cas mentionnés aux 3° à 5° du I, la date de paiement et les modalités de revalorisation annuelle du montant de la
+pension versée par l'intermédiaire de l'organisme débiteur des prestations familiales respectent des conditions fixées par
+décret en Conseil d'Etat. Il en est de même dans le cas mentionné au 2° du même I, sauf lorsque la convention homologuée
+comporte des stipulations relatives au paiement de la pension ou à sa revalorisation ou a expressément exclu cette dernière.
+
+Un décret en Conseil d'Etat précise également les éléments strictement nécessaires, au regard de la nécessité de protéger la
+vie privée des membres de la famille, au versement de la pension par l'intermédiaire de l'organisme débiteur des prestations
+familiales que les greffes, les avocats et les notaires sont tenus de transmettre aux organismes débiteurs des prestations
+familiales en sus des extraits exécutoires des décisions mentionnées au 1° du I ou des copies exécutoires des conventions et
+actes mentionnés aux 2° à 4° du même I, ainsi que les modalités de leur transmission.
+
+**Nota:**
+
+Conformément au VIII de l'article 72 de la loi n° 2019-1446 du 24 décembre 2019, les 2° et 3° ainsi que les trois derniers
+alinéas du II de l'article 373-2-2 du code civil dans sa rédaction résultant du I du présent article s'appliquent à compter
+du 1er juin 2020.
 
 **Liens relatifs à cet article**
 
@@ -17612,11 +17653,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1827 du 23 décembre 2016 - art. 41 (V)
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 _Cite_:
 
-  - Code civil - art. 373-2-7
+  - Code de procédure civile
+  - Code de la sécurité sociale. - art. L582-2 (V)
 
 _Codifié par_:
 
@@ -17625,16 +17667,12 @@ _Codifié par_:
 
 ###### Article 373-2-3
 
-Lorsque la consistance des biens du débiteur s'y prête, la pension alimentaire peut être remplacée, en tout ou partie, sous
-les modalités et garanties prévues par la convention homologuée ou par le juge, par le versement d'une somme d'argent entre
-les mains d'un organisme accrédité chargé d'accorder en contrepartie à l'enfant une rente indexée, l'abandon de biens en
-usufruit ou l'affectation de biens productifs de revenus.
+Lorsque la consistance des biens du débiteur s'y prête, la pension alimentaire peut être remplacée, en tout ou partie, par le
+versement d'une somme d'argent entre les mains d'un organisme accrédité chargé d'accorder en contrepartie à l'enfant une
+rente indexée, l'abandon de biens en usufruit ou l'affectation de biens productifs de revenus, sous les modalités et
+garanties prévues par la décision, l'acte ou la convention mentionnés aux 1° à 5° du I de l'article 373-2-2.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
 
 _Cité par_:
 
@@ -17646,6 +17684,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 757 A (V)
   - Code général des impôts, CGI. - art. 80 quater (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quinquies (V)
+
+_Modifié par_:
+
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 _Codifié par_:
 
@@ -17689,8 +17731,8 @@ _Créé par_:
 
 ###### Article 373-2-6
 
-Le juge du tribunal de grande instance délégué aux affaires familiales règle les questions qui lui sont soumises dans le
-cadre du présent chapitre en veillant spécialement à la sauvegarde des intérêts des enfants mineurs.
+Le juge de grande instance délégué aux affaires familiales règle les questions qui lui sont soumises dans le cadre du présent
+chapitre en veillant spécialement à la sauvegarde des intérêts des enfants mineurs.
 
 Le juge peut prendre les mesures permettant de garantir la continuité et l'effectivité du maintien des liens de l'enfant avec
 chacun de ses parents.
@@ -17701,13 +17743,12 @@ recherchées par le procureur de la République.
 
 Il peut, même d'office, ordonner une astreinte pour assurer l'exécution de sa décision. Si les circonstances en font
 apparaître la nécessité, il peut assortir d'une astreinte la décision rendue par un autre juge ainsi que l'accord parental
-constaté dans la convention de divorce par consentement mutuel. Les dispositions des articles L. 131-2 à L. 131-4 du code des
-procédures civiles d'exécution sont applicables.
+constaté dans l'un des titres mentionnés aux 1° et 2° du I de l'article 373-2-2. Les dispositions des articles L. 131-2 à L.
+131-4 du code des procédures civiles d'exécution sont applicables.
 
-Il peut également, lorsqu'un parent fait délibérément obstacle de façon grave ou renouvelée à l'exécution d'une décision,
-d'une convention de divorce par consentement mutuel prenant la forme d'un acte sous signature privée contresigné par avocats
-déposé au rang des minutes d'un notaire ou d'une convention homologuée fixant les modalités d'exercice de l'autorité
-parentale, le condamner au paiement d'une amende civile d'un montant qui ne peut excéder 10 000 €.
+Il peut également, lorsqu'un parent fait délibérément obstacle de façon grave ou renouvelée à l'exécution de l'un des titres
+mentionnés aux 1° à 5° du I de l'article 373-2-2, le condamner au paiement d'une amende civile d'un montant qui ne peut
+excéder 10 000 €.
 
 **Liens relatifs à cet article**
 
@@ -17721,7 +17762,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 31
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 
 ###### Article 373-2-7
