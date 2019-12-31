@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-12-15
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -1261,25 +1261,25 @@ _Codifié par_:
 
 ###### Article 16-11
 
-L'identification d'une personne par ses empreintes génétiques ne peut être recherchée que : 
+L'identification d'une personne par ses empreintes génétiques ne peut être recherchée que :
 
-1° Dans le cadre de mesures d'enquête ou d'instruction diligentées lors d'une procédure judiciaire ; 
+1° Dans le cadre de mesures d'enquête ou d'instruction diligentées lors d'une procédure judiciaire ;
 
-2° A des fins médicales ou de recherche scientifique ; 
+2° A des fins médicales ou de recherche scientifique ;
 
 3° Aux fins d'établir, lorsqu'elle est inconnue, l'identité de personnes décédées ;
 
-4° Dans les conditions prévues à l'article L. 2381-1 du code de la défense.  
+4° Dans les conditions prévues à l'article L. 2381-1 du code de la défense.
 
 En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le
 juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la
 suppression de subsides. Le consentement de l'intéressé doit être préalablement et expressément recueilli. Sauf accord exprès
-de la personne manifesté de son vivant, aucune identification par empreintes génétiques ne peut être réalisée après sa mort. 
+de la personne manifesté de son vivant, aucune identification par empreintes génétiques ne peut être réalisée après sa mort.
 
 Lorsque l'identification est effectuée à des fins médicales ou de recherche scientifique, le consentement exprès de la
 personne doit être recueilli par écrit préalablement à la réalisation de l'identification, après qu'elle a été dûment
 informée de sa nature et de sa finalité. Le consentement mentionne la finalité de l'identification. Il est révocable sans
-forme et à tout moment. 
+forme et à tout moment.
 
 Lorsque la recherche d'identité mentionnée au 3° concerne soit un militaire décédé à l'occasion d'une opération conduite par
 les forces armées ou les formations rattachées, soit une victime de catastrophe naturelle, soit une personne faisant l'objet
@@ -1287,14 +1287,19 @@ de recherches au titre de l'article 26 de la loi n° 95-73 du 21 janvier 1995 d'
 sécurité et dont la mort est supposée, des prélèvements destinés à recueillir les traces biologiques de cette personne
 peuvent être réalisés dans des lieux qu'elle est susceptible d'avoir habituellement fréquentés, avec l'accord du responsable
 des lieux ou, en cas de refus de celui-ci ou d'impossibilité de recueillir cet accord, avec l'autorisation du juge des
-libertés et de la détention du tribunal de grande instance. Des prélèvements aux mêmes fins sur les ascendants, descendants
-ou collatéraux supposés de cette personne peuvent être également réalisés. Le consentement exprès de chaque personne
-concernée est alors recueilli par écrit préalablement à la réalisation du prélèvement, après que celle-ci a été dûment
-informée de la nature de ce prélèvement, de sa finalité ainsi que du caractère à tout moment révocable de son consentement.
-Le consentement mentionne la finalité du prélèvement et de l'identification. 
+libertés et de la détention du tribunal judiciaire. Des prélèvements aux mêmes fins sur les ascendants, descendants ou
+collatéraux supposés de cette personne peuvent être également réalisés. Le consentement exprès de chaque personne concernée
+est alors recueilli par écrit préalablement à la réalisation du prélèvement, après que celle-ci a été dûment informée de la
+nature de ce prélèvement, de sa finalité ainsi que du caractère à tout moment révocable de son consentement. Le consentement
+mentionne la finalité du prélèvement et de l'identification.
 
 Les modalités de mise en œuvre des recherches d'identification mentionnées au 3° du présent article sont précisées par décret
 en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1323,11 +1328,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 116
-
-_Codifié par_:
-
-  - Loi n°1803-03-08
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 16-12
@@ -2313,10 +2314,15 @@ Tout enfant né en France de parents étrangers acquiert la nationalité frança
 France sa résidence et s'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins
 cinq ans, depuis l'âge de onze ans.
 
-Les tribunaux d'instance, les collectivités territoriales, les organismes et services publics, et notamment les
+Les tribunaux judiciaires, les collectivités territoriales, les organismes et services publics, et notamment les
 établissements d'enseignement sont tenus d'informer le public, et en particulier les personnes auxquelles s'applique le
 premier alinéa, des dispositions en vigueur en matière de nationalité. Les conditions de cette information sont fixées par
 décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2353,13 +2359,9 @@ _Cité par_:
   - Code du service national - art. L113-3 (M)
   - Code du service national - art. L15 (M)
 
-_Codifié par_:
-
-  - Loi n°93-933 1993-07-22
-
 _Modifié par_:
 
-  - Loi n°98-170 du 16 mars 1998 - art. 2 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -3937,10 +3939,15 @@ _Anciens textes_:
 Les déclarations de nationalité souscrites en raison soit du mariage avec un conjoint français, en application de l'article
 21-2, soit de la qualité d'ascendant de Français, en application de l'article 21-13-1, soit de la qualité de frère ou sœur de
 Français, en application de l'article 21-13-2, sont reçues par l'autorité administrative. Les autres déclarations de
-nationalité sont reçues par le directeur des services de greffe judiciaires du tribunal d'instance ou par le consul. Les
-formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
+nationalité sont reçues par le directeur des services de greffe judiciaires du tribunal judiciaire ou par le consul. Les
+formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret en Conseil d'Etat.
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -3976,7 +3983,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -3986,21 +3993,22 @@ _Cite_:
 ###### Article 26-1
 
 Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le directeur des services de greffe
-judiciaires du tribunal d'instance, pour les déclarations souscrites en France, soit par le ministre de la justice, pour les
+judiciaires du tribunal judiciaire, pour les déclarations souscrites en France, soit par le ministre de la justice, pour les
 déclarations souscrites à l'étranger, à l'exception des déclarations suivantes, qui sont enregistrées par le ministre chargé
-des naturalisations : 
+des naturalisations :
 
-1° Celles souscrites en raison du mariage avec un conjoint français ; 
+1° Celles souscrites en raison du mariage avec un conjoint français ;
 
-2° Celles souscrites en application de l'article 21-13-1 à raison de la qualité d'ascendant de Français ; 
+2° Celles souscrites en application de l'article 21-13-1 à raison de la qualité d'ascendant de Français ;
 
 3° Celles souscrites en application de l'article 21-13-2 à raison de la qualité de frère ou sœur de Français.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 _Cité par_:
 
@@ -4008,6 +4016,10 @@ _Cité par_:
   - Décret n°2017-890 du 6 mai 2017 - art. 32 (VD)
   - Code civil - art. 21-2 (V)
   - Code civil - art. 21-9 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -4020,19 +4032,19 @@ _Anciens textes_:
 
 ###### Article 26-2
 
-Le siège et le ressort des tribunaux d'instance compétents pour recevoir et enregistrer les déclarations de nationalité
-française sont fixés par décret.
+Le siège et le ressort des tribunaux judiciaires ou des chambres de proximité compétents pour recevoir et enregistrer les
+déclarations de nationalité française sont fixés par décret.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-933 1993-07-22
-
-_Créé par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+  - Loi n°93-933 du 22 juillet 1993
 
 _Cité par_:
 
@@ -4043,6 +4055,10 @@ _Cité par_:
   - Décret n°93-1362 du 30 décembre 1993 - art. 6 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
+
 _Anciens textes_:
 
   - Code de la nationalité française. - art. 104-1 (MMN)
@@ -4050,18 +4066,23 @@ _Anciens textes_:
 
 ###### Article 26-3
 
-Le ministre ou le directeur des services de greffe judiciaires du tribunal d'instance refuse d'enregistrer les déclarations
-qui ne satisfont pas aux conditions légales. 
+Le ministre ou le directeur des services de greffe judiciaires du tribunal judiciaire refuse d'enregistrer les déclarations
+qui ne satisfont pas aux conditions légales.
 
-Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal de grande instance durant un délai de
-six mois. L'action peut être exercée personnellement par le mineur dès l'âge de seize ans. 
+Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal judiciaire durant un délai de six
+mois. L'action peut être exercée personnellement par le mineur dès l'âge de seize ans.
 
 La décision de refus d'enregistrement doit intervenir six mois au plus après la date à laquelle a été délivré au déclarant le
-récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration. 
+récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration.
 
 Le délai est porté à un an pour les déclarations souscrites en vertu des articles 21-2,21-13-1 et 21-13-2. Dans le cas où une
 procédure d'opposition est engagée par le Gouvernement en application des articles 21-4,21-13-1 ou 21-13-2, ce délai est
 porté à deux ans.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4077,7 +4098,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -4365,8 +4386,13 @@ _Cité par_:
 
 ###### Article 29-1
 
-Le siège et le ressort des tribunaux de grande instance compétents pour connaître des contestations sur la nationalité
-française ou étrangère des personnes physiques sont fixés par décret.
+Le siège et le ressort des tribunaux judiciaires compétents pour connaître des contestations sur la nationalité française ou
+étrangère des personnes physiques sont fixés par décret.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4375,14 +4401,9 @@ _Anciens textes_:
   - Code de la nationalité française 125
   - Code de la nationalité française. - art. 125 (MMN)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-933 1993-07-22
-
-_Créé par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -4634,14 +4655,20 @@ _Créé par_:
 
 ###### Article 31
 
-Le directeur des services de greffe judiciaires du tribunal d'instance a seul qualité pour délivrer un certificat de
+Le directeur des services de greffe judiciaires du tribunal judiciaire a seul qualité pour délivrer un certificat de
 nationalité française à toute personne justifiant qu'elle a cette nationalité.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Anciens textes_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Code de la nationalité française 149
+  - Code de la nationalité française. - art. 149 (Ab)
 
 _Cité par_:
 
@@ -4652,20 +4679,20 @@ _Cité par_:
   - Code civil - art. 33-2 (V)
   - Code de l'organisation judiciaire - art. L222-4 (VT)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de la nationalité française 149
-  - Code de la nationalité française. - art. 149 (Ab)
-
-_Codifié par_:
-
-  - Loi n°1803-03-08
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 31-1
 
-Le siège et le ressort des tribunaux d'instance compétents pour délivrer les certificats de nationalité sont fixés par
-décret.
+Le siège et le ressort des tribunaux judiciaires ou des chambres de proximité compétents pour délivrer les certificats de
+nationalité sont fixés par décret.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4676,12 +4703,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-933 1993-07-22
-
-_Modifié par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+  - Loi n°93-933 du 22 juillet 1993
 
 _Cité par_:
 
@@ -4690,6 +4712,11 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 (Ab)
   - Code de l'organisation judiciaire - art. R221-52 (VT)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
+
 
 ###### Article 31-2
 
@@ -4697,9 +4724,14 @@ Le certificat de nationalité indique, en se référant aux chapitres II, III, I
 en vertu de laquelle l'intéressé a la qualité de Français, ainsi que les documents qui ont permis de l'établir. Il fait foi
 jusqu'à preuve du contraire.
 
-Pour l'établissement d'un certificat de nationalité, le directeur des services de greffe judiciaires du tribunal d'instance
+Pour l'établissement d'un certificat de nationalité, le directeur des services de greffe judiciaires du tribunal judiciaire
 pourra présumer, à défaut d'autres éléments, que les actes d'état civil dressés à l'étranger et qui sont produits devant lui
 emportent les effets que la loi française y aurait attachés.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4710,17 +4742,18 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
-
-_Codifié par_:
-
-  - Loi n°1803-03-08
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 31-3
 
-Lorsque le directeur des services de greffe judiciaires du tribunal d'instance refuse de délivrer un certificat de
+Lorsque le directeur des services de greffe judiciaires du tribunal judiciaire refuse de délivrer un certificat de
 nationalité, l'intéressé peut saisir le ministre de la justice, qui décide s'il y a lieu de procéder à cette délivrance.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4731,11 +4764,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
-
-_Codifié par_:
-
-  - Loi n°1803-03-08
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ### Chapitre VII : Des effets sur la nationalité française des transferts de souveraineté relatifs à certains territoires<a id=35></a>
@@ -4937,13 +4966,18 @@ _Anciens textes_:
 ###### Article 33-1
 
 Par dérogation à l'article 26, la déclaration qui doit être reçue par le directeur des services de greffe judiciaires du
-tribunal d'instance est reçue par le président du tribunal de première instance ou par le juge chargé de la section détachée.
+tribunal judiciaire est reçue par le président du tribunal de première instance ou par le juge chargé de la section détachée.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -5304,8 +5338,13 @@ _Codifié par_:
 
 ###### Article 50
 
-Toute contravention aux articles précédents, de la part des fonctionnaires y dénommés, sera poursuivie devant le tribunal de
-grande instance, et punie d'une amende de 3 à 30 euros.
+Toute contravention aux articles précédents, de la part des fonctionnaires y dénommés, sera poursuivie devant le tribunal
+judiciaire, et punie d'une amende de 3 à 30 euros.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5319,11 +5358,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 51
@@ -5383,18 +5418,19 @@ _Codifié par_:
 
 ###### Article 54
 
-Dans tous les cas où un tribunal de grande instance connaîtra des actes relatifs à l'état civil, les parties intéressées
-pourront se pourvoir contre le jugement.
+Dans tous les cas où un tribunal judiciaire connaîtra des actes relatifs à l'état civil, les parties intéressées pourront se
+pourvoir contre le jugement.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-11
-
-_Créé par_:
-
-  - Loi n°1803-03-11 promulguée le 21 mars 1803
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ### Chapitre II : Des actes de naissance.<a id=39></a>
@@ -5900,7 +5936,7 @@ _Créé par_:
 
 ###### Article 61-6
 
-La demande est présentée devant le tribunal de grande instance.
+La demande est présentée devant le tribunal judiciaire.
 
 Le demandeur fait état de son consentement libre et éclairé à la modification de la mention relative à son sexe dans les
 actes de l'état civil et produit tous éléments de preuve au soutien de sa demande.
@@ -5911,11 +5947,16 @@ refus de faire droit à la demande.
 Le tribunal constate que le demandeur satisfait aux conditions fixées à l'article 61-5 et ordonne la modification de la
 mention relative au sexe ainsi que, le cas échéant, des prénoms, dans les actes de l'état civil.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 56
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 61-7
@@ -6063,7 +6104,12 @@ autre que celui de la célébration, l'autorité diplomatique ou consulaire peut
 territorialement compétent de procéder à son audition.
 
 L'officier d'état civil qui ne se conformera pas aux prescriptions des alinéas précédents sera poursuivi devant le tribunal
-de grande instance et puni d'une amende de 3 à 30 euros.
+judiciaire et puni d'une amende de 3 à 30 euros.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6093,7 +6139,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 10
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -6549,14 +6595,15 @@ et précisant les jours et heures de sa naissance et de son décès.
 A défaut du certificat médical prévu à l'alinéa précédent, l'officier de l'état civil établit un acte d'enfant sans vie. Cet
 acte est inscrit à sa date sur les registres de décès et il énonce les jour, heure et lieu de l'accouchement, les prénoms et
 noms, dates et lieux de naissance, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant. L'acte
-dressé ne préjuge pas de savoir si l'enfant a vécu ou non ; tout intéressé pourra saisir le tribunal de grande instance à
-l'effet de statuer sur la question.
+dressé ne préjuge pas de savoir si l'enfant a vécu ou non ; tout intéressé pourra saisir le tribunal judiciaire à l'effet de
+statuer sur la question.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 6 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -6564,9 +6611,9 @@ _Cité par_:
   - Décret n°2008-800 du 20 août 2008 - art. 1 (V)
   - Code de la santé publique - art. R1112-72 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-03-11
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 80
@@ -6810,29 +6857,30 @@ _Modifié par_:
 
 ###### Article 89
 
-La requête est présentée au tribunal de grande instance du lieu de la mort ou de la disparition, si celle-ci s'est produite
-sur un territoire relevant de l'autorité de la France, sinon au tribunal du domicile ou de la dernière résidence du défunt ou
-du disparu ou, à défaut, au tribunal du lieu du port d'attache de l'aéronef ou du bâtiment qui le transportait. A défaut de
-tout autre, le tribunal de grande instance de Paris est compétent.
+La requête est présentée au tribunal judiciaire du lieu de la mort ou de la disparition, si celle-ci s'est produite sur un
+territoire relevant de l'autorité de la France, sinon au tribunal du domicile ou de la dernière résidence du défunt ou du
+disparu ou, à défaut, au tribunal du lieu du port d'attache de l'aéronef ou du bâtiment qui le transportait. A défaut de tout
+autre, le tribunal judiciaire de Paris est compétent.
 
 Si plusieurs personnes ont disparu au cours du même événement, une requête collective peut être présentée au tribunal du lieu
-de la disparition, à celui du port d'attache du bâtiment ou de l'aéronef, au tribunal de grande instance de Paris ou à tout
-autre tribunal de grande instance que l'intérêt de la cause justifie.
+de la disparition, à celui du port d'attache du bâtiment ou de l'aéronef, au tribunal judiciaire de Paris ou à tout autre
+tribunal judiciaire que l'intérêt de la cause justifie.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 87
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
   - Code civil - art. 92 (V)
   - Code des pensions militaires d'invalidité et de... - art. R171 (Ab)
-
-_Codifié par_:
-
-  - Loi n°1803-03-11
 
 
 ###### Article 90
@@ -8058,18 +8106,6 @@ domicile ou de sa résidence, sans que l'on en ait eu de nouvelles depuis plus d
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
-  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
-  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
-
 _Cité par_:
 
   - Arrêté du 31 janvier 2018 - art. (VD)
@@ -8082,10 +8118,6 @@ _Cite_:
   - Code civil - art. 1429 (V)
   - Code civil - art. 217 (V)
   - Code civil - art. 219 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 123
@@ -8699,8 +8731,13 @@ _Créé par_:
 Les officiers de l'état civil qui auraient procédé à la célébration des mariages contractés par des fils ou filles n'ayant
 pas atteint l'âge de dix-huit ans accomplis sans que le consentement des pères et mères, celui des aïeuls ou aïeules et celui
 du conseil de famille, dans le cas où il est requis, soit énoncé dans l'acte de mariage, seront, à la diligence des parties
-intéressées ou du procureur de la République près le tribunal de grande instance de l'arrondissement où le mariage aura été
-célébré, condamnés à l'amende portée en l'article 192 du code civil.
+intéressées ou du procureur de la République près le tribunal judiciaire de l'arrondissement où le mariage aura été célébré,
+condamnés à l'amende portée en l'article 192 du code civil.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8709,17 +8746,13 @@ _Cité par_:
   - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
   - CODE DES COMMUNES. - art. L122-25 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
 _Cite_:
 
   - Code civil - art. 192 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 157
@@ -9113,20 +9146,21 @@ _Codifié par_:
 
 Lorsque des indices sérieux laissent présumer que le mariage envisagé encourt la nullité au titre des articles 144, 146,
 146-1, 147, 161, 162, 163, 180 ou 191, l'autorité diplomatique ou consulaire saisit sans délai le procureur de la République
-compétent et en informe les intéressés. 
+compétent et en informe les intéressés.
 
 Le procureur de la République peut, dans le délai de deux mois à compter de la saisine, faire connaître par une décision
 motivée, à l'autorité diplomatique ou consulaire du lieu où la célébration du mariage est envisagée et aux intéressés, qu'il
-s'oppose à cette célébration. 
+s'oppose à cette célébration.
 
-La mainlevée de l'opposition peut être demandée, à tout moment, devant le tribunal de grande instance conformément aux
-dispositions des articles 177 et 178 par les futurs époux, même mineurs.
+La mainlevée de l'opposition peut être demandée, à tout moment, devant le tribunal judiciaire conformément aux dispositions
+des articles 177 et 178 par les futurs époux, même mineurs.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 _Cité par_:
 
@@ -9134,6 +9168,10 @@ _Cité par_:
   - Décret n°2007-773 du 10 mai 2007 - art. 6 (V)
   - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
   - Code civil - art. 176 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -9147,10 +9185,6 @@ _Cite_:
   - Code civil - art. 177 (V)
   - Code civil - art. 180 (V)
   - Code civil - art. 191 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 #### Section 3 : De la transcription du mariage célébré à l'étranger par une autorité étrangère<a id=60></a>
@@ -9211,27 +9245,28 @@ réalisée par l'officier de l'état civil du lieu du domicile ou de résidence 
 diplomatique ou consulaire territorialement compétente si les époux ont leur domicile ou résidence à l'étranger. La
 réalisation de l'audition peut être déléguée à un ou plusieurs fonctionnaires titulaires chargés de l'état civil ou, le cas
 échéant, aux fonctionnaires dirigeant une chancellerie détachée ou aux consuls honoraires de nationalité française
-compétents. 
+compétents.
 
 Lorsque des indices sérieux laissent présumer que le mariage célébré devant une autorité étrangère encourt la nullité au
 titre des articles 144, 146, 146-1, 147, 161, 162, 163, 180 ou 191, l'autorité diplomatique ou consulaire chargée de
-transcrire l'acte en informe immédiatement le ministère public et sursoit à la transcription. 
+transcrire l'acte en informe immédiatement le ministère public et sursoit à la transcription.
 
 Le procureur de la République se prononce sur la transcription dans les six mois à compter de sa saisine.
 
 S'il ne s'est pas prononcé à l'échéance de ce délai ou s'il s'oppose à la transcription, les époux peuvent saisir le tribunal
-de grande instance pour qu'il soit statué sur la transcription du mariage. Le tribunal de grande instance statue dans le
-mois. En cas d'appel, la cour statue dans le même délai. 
+judiciaire pour qu'il soit statué sur la transcription du mariage. Le tribunal judiciaire statue dans le mois. En cas
+d'appel, la cour statue dans le même délai.
 
 Dans le cas où le procureur de la République demande, dans le délai de six mois, la nullité du mariage, il ordonne que la
 transcription soit limitée à la seule fin de saisine du juge. Jusqu'à la décision de celui-ci, une expédition de l'acte
 transcrit ne peut être délivrée qu'aux autorités judiciaires ou avec l'autorisation du procureur de la République.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 _Cité par_:
 
@@ -9240,6 +9275,10 @@ _Cité par_:
   - Décret n°2007-773 du 10 mai 2007 - art. 9 (V)
   - Décret n°2008-521 du 2 juin 2008 - art. 3 (V)
   - Code civil - art. 171-8 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -9253,10 +9292,6 @@ _Cite_:
   - Code civil - art. 171-2 (V)
   - Code civil - art. 180 (V)
   - Code civil - art. 191 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 171-8
@@ -9458,11 +9493,11 @@ _Créé par_:
 
 Lorsqu'il existe des indices sérieux laissant présumer, le cas échéant au vu de l'audition prévue par l'article 63, que le
 mariage envisagé est susceptible d'être annulé au titre de l'article 146 ou de l'article 180, l'officier de l'état civil peut
-saisir sans délai le procureur de la République. Il en informe les intéressés. 
+saisir sans délai le procureur de la République. Il en informe les intéressés.
 
 Le procureur de la République est tenu, dans les quinze jours de sa saisine, soit de laisser procéder au mariage, soit de
 faire opposition à celui-ci, soit de décider qu'il sera sursis à sa célébration, dans l'attente des résultats de l'enquête à
-laquelle il fait procéder. Il fait connaître sa décision motivée à l'officier de l'état civil, aux intéressés. 
+laquelle il fait procéder. Il fait connaître sa décision motivée à l'officier de l'état civil, aux intéressés.
 
 La durée du sursis décidé par le procureur de la République ne peut excéder un mois renouvelable une fois par décision
 spécialement motivée.
@@ -9471,24 +9506,25 @@ A l'expiration du sursis, le procureur de la République fait connaître par une
 s'il laisse procéder au mariage ou s'il s'oppose à sa célébration.
 
 L'un ou l'autre des futurs époux, même mineur, peut contester la décision de sursis ou son renouvellement devant le président
-du tribunal de grande instance, qui statue dans les dix jours. La décision du président du tribunal de grande instance peut
-être déférée à la cour d'appel qui statue dans le même délai.
+du tribunal judiciaire, qui statue dans les dix jours. La décision du président du tribunal judiciaire peut être déférée à la
+cour d'appel qui statue dans le même délai.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2006-1376 du 14 novembre 2006 - art. 4 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code civil - art. 146 (V)
   - Code civil - art. 180 (V)
   - Code civil - art. 63 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 176
@@ -9530,22 +9566,22 @@ _Codifié par_:
 
 ###### Article 177
 
-Le tribunal de grande instance prononcera dans les dix jours sur la demande en mainlevée formée par les futurs époux, même
-mineurs.
+Le tribunal judiciaire prononcera dans les dix jours sur la demande en mainlevée formée par les futurs époux, même mineurs.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
   - Code civil - art. 171-4 (VD)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 178
@@ -14794,24 +14830,19 @@ décision motivée, s'il laisse procéder à l'enregistrement de la reconnaissan
 naissance de l'enfant.
 
 L'auteur de la reconnaissance, même mineur, peut contester la décision de sursis ou de renouvellement de celui-ci devant le
-tribunal de grande instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel, la cour statue
-dans le même délai.
+tribunal judiciaire, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel, la cour statue dans le
+même délai.
 
 **Nota:**
 
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
-à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
-postérieures à cette date.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 55
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 316-2
@@ -14856,8 +14887,8 @@ _Codifié par_:
 
 ###### Article 316-3
 
-Le tribunal de grande instance se prononce, dans un délai de dix jours à compter de sa saisine, sur la demande en mainlevée
-de l'opposition formée par l'auteur de la reconnaissance, même mineur.
+Le tribunal judiciaire se prononce, dans un délai de dix jours à compter de sa saisine, sur la demande en mainlevée de
+l'opposition formée par l'auteur de la reconnaissance, même mineur.
 
 En cas d'appel, il est statué dans le même délai et, si le jugement dont il est fait appel a prononcé mainlevée de
 l'opposition, la cour doit statuer, même d'office.
@@ -14867,15 +14898,14 @@ de naissance de l'enfant ne peut être contesté.
 
 **Nota:**
 
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
-à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont
-postérieures à cette date.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 55
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 316-4
@@ -14984,30 +15014,26 @@ _Codifié par_:
 
 ###### Article 318-1
 
-Le tribunal de grande instance, statuant en matière civile, est seul compétent pour connaître des actions relatives à la
-filiation.
+Le tribunal judiciaire, statuant en matière civile, est seul compétent pour connaître des actions relatives à la filiation.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code civil - art. 311-5 (T)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 _Cité par_:
 
   - Loi n°72-3 du 3 janvier 1972 - art. 18 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
+_Anciens textes_:
+
+  - Code civil - art. 311-5 (T)
 
 
 ###### Article 319
@@ -16229,8 +16255,8 @@ _Codifié par_:
 
 ###### Article 353
 
-L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande instance qui vérifie dans un délai de six mois
-à compter de la saisine du tribunal si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de
+L'adoption est prononcée à la requête de l'adoptant par le tribunal judiciaire qui vérifie dans un délai de six mois à
+compter de la saisine du tribunal si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de
 l'enfant.
 
 Le mineur capable de discernement est entendu par le tribunal ou, lorsque son intérêt le commande, par la personne désignée
@@ -16250,6 +16276,11 @@ Le jugement produit effet le jour précédant le décès et emporte uniquement m
 
 Le jugement prononçant l'adoption n'est pas motivé.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -16263,11 +16294,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 35
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 353-1
@@ -16787,27 +16814,28 @@ _Cite_:
 L'adoptant est seul investi à l'égard de l'adopté de tous les droits d'autorité parentale, inclus celui de consentir au
 mariage de l'adopté, à moins qu'il ne soit le conjoint du père ou de la mère de l'adopté ; dans ce cas, l'adoptant a
 l'autorité parentale concurremment avec son conjoint, lequel en conserve seul l'exercice, sous réserve d'une déclaration
-conjointe avec l'adoptant adressée au directeur des services de greffe judiciaires du tribunal de grande instance aux fins
-d'un exercice en commun de cette autorité.
+conjointe avec l'adoptant adressée au directeur des services de greffe judiciaires du tribunal judiciaire aux fins d'un
+exercice en commun de cette autorité.
 
 Les droits d'autorité parentale sont exercés par le ou les adoptants dans les conditions prévues par le chapitre Ier du titre
 IX du présent livre.
 
 Les règles de l'administration légale et de la tutelle des mineurs s'appliquent à l'adopté.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
   - Code de procédure civile - art. 1180-1 (VD)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 366
@@ -17324,7 +17352,12 @@ filiation est déjà établie à l'égard de l'autre, celui-ci reste seul invest
 de même lorsque la filiation est judiciairement déclarée à l'égard du second parent de l'enfant.
 
 L'autorité parentale pourra néanmoins être exercée en commun en cas de déclaration conjointe des père et mère adressée au
-directeur des services de greffe judiciaires du tribunal de grande instance ou sur décision du juge aux affaires familiales.
+directeur des services de greffe judiciaires du tribunal judiciaire ou sur décision du juge aux affaires familiales.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17340,11 +17373,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 372-2
@@ -17599,8 +17628,8 @@ _Créé par_:
 
 ###### Article 373-2-6
 
-Le juge du tribunal de grande instance délégué aux affaires familiales règle les questions qui lui sont soumises dans le
-cadre du présent chapitre en veillant spécialement à la sauvegarde des intérêts des enfants mineurs.
+Le juge du tribunal judiciaire délégué aux affaires familiales règle les questions qui lui sont soumises dans le cadre du
+présent chapitre en veillant spécialement à la sauvegarde des intérêts des enfants mineurs.
 
 Le juge peut prendre les mesures permettant de garantir la continuité et l'effectivité du maintien des liens de l'enfant avec
 chacun de ses parents.
@@ -17619,6 +17648,11 @@ d'une convention de divorce par consentement mutuel prenant la forme d'un acte s
 déposé au rang des minutes d'un notaire ou d'une convention homologuée fixant les modalités d'exercice de l'autorité
 parentale, le condamner au paiement d'une amende civile d'un montant qui ne peut excéder 10 000 €.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -17631,7 +17665,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 31
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 373-2-7
@@ -18880,22 +18914,26 @@ par de mauvais traitements, soit par une consommation habituelle et excessive de
 stupéfiants, soit par une inconduite notoire ou des comportements délictueux, notamment lorsque l'enfant est témoin de
 pressions ou de violences, à caractère physique ou psychologique, exercées par l'un des parents sur la personne de l'autre,
 soit par un défaut de soins ou un manque de direction, mettent manifestement en danger la sécurité, la santé ou la moralité
-de l'enfant. 
+de l'enfant.
 
 Peuvent pareillement se voir retirer totalement l'autorité parentale, quand une mesure d'assistance éducative avait été prise
 à l'égard de l'enfant, les père et mère qui, pendant plus de deux ans, se sont volontairement abstenus d'exercer les droits
 et de remplir les devoirs que leur laissait l'article 375-7.
 
-L'action en retrait total de l'autorité parentale est portée devant le tribunal de grande instance, soit par le ministère
-public, soit par un membre de la famille ou le tuteur de l'enfant, soit par le service départemental de l'aide sociale à
-l'enfance auquel l'enfant est confié.
+L'action en retrait total de l'autorité parentale est portée devant le tribunal judiciaire, soit par le ministère public,
+soit par un membre de la famille ou le tuteur de l'enfant, soit par le service départemental de l'aide sociale à l'enfance
+auquel l'enfant est confié.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 25
-  - Loi n°2016-297 du 14 mars 2016 - art. 41
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -18906,10 +18944,6 @@ _Cité par_:
   - Code civil - art. 381 (VD)
   - Code de la famille et de l'aide sociale. - art. 50 (Ab)
   - Code de la famille et de l'aide sociale. - art. 61 (Ab)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 379
@@ -19025,15 +19059,20 @@ _Codifié par_:
 ###### Article 381
 
 Les père et mère qui ont fait l'objet d'un retrait total de l'autorité parentale ou d'un retrait de droits pour l'une des
-causes prévues aux articles 378 et 378-1 pourront, par requête, obtenir du tribunal de grande instance, en justifiant de
-circonstances nouvelles, que leur soient restitués, en tout ou partie, les droits dont ils avaient été privés. 
+causes prévues aux articles 378 et 378-1 pourront, par requête, obtenir du tribunal judiciaire, en justifiant de
+circonstances nouvelles, que leur soient restitués, en tout ou partie, les droits dont ils avaient été privés.
 
 La demande en restitution ne pourra être formée qu'un an au plus tôt après que le jugement prononçant le retrait total ou
 partiel de l'autorité parentale est devenu irrévocable ; en cas de rejet, elle ne pourra être renouvelée qu'après une
 nouvelle période d'un an. Aucune demande ne sera recevable lorsque, avant le dépôt de la requête, l'enfant aura été placé en
-vue de l'adoption. 
+vue de l'adoption.
 
 Si la restitution est accordée, le ministère public requerra, le cas échéant, des mesures d'assistance éducative.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -19047,17 +19086,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
-  - Loi n°96-604 du 5 juillet 1996 - art. 23 () JORF 6 juillet 1996
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code civil - art. 378 (V)
   - Code civil - art. 378-1 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 #### Section 5 : De la déclaration judiciaire de délaissement parental<a id=136></a>
@@ -19082,34 +19116,39 @@ _Cité par_:
 
 ###### Article 381-2
 
-Le tribunal de grande instance déclare délaissé l'enfant recueilli par une personne, un établissement ou un service
-départemental de l'aide sociale à l'enfance qui se trouve dans la situation mentionnée à l'article 381-1 pendant l'année qui
-précède l'introduction de la demande en déclaration judiciaire de délaissement parental. La demande en déclaration de
-délaissement parental est obligatoirement transmise, à l'expiration du délai d'un an prévu à l'article 381-1, par la
-personne, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant, après que des
-mesures appropriées de soutien aux parents leur ont été proposées. La demande peut également être présentée par le ministère
-public agissant d'office ou, le cas échéant, sur proposition du juge des enfants. 
+Le tribunal judiciaire déclare délaissé l'enfant recueilli par une personne, un établissement ou un service départemental de
+l'aide sociale à l'enfance qui se trouve dans la situation mentionnée à l'article 381-1 pendant l'année qui précède
+l'introduction de la demande en déclaration judiciaire de délaissement parental. La demande en déclaration de délaissement
+parental est obligatoirement transmise, à l'expiration du délai d'un an prévu à l'article 381-1, par la personne,
+l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant, après que des mesures
+appropriées de soutien aux parents leur ont été proposées. La demande peut également être présentée par le ministère public
+agissant d'office ou, le cas échéant, sur proposition du juge des enfants.
 
 La simple rétractation du consentement à l'adoption, la demande de nouvelles ou l'intention exprimée mais non suivie d'effet
 de reprendre l'enfant ne constituent pas un acte suffisant pour rejeter de plein droit une demande en déclaration de
-délaissement parental et n'interrompent pas le délai mentionné au premier alinéa du présent article. 
+délaissement parental et n'interrompent pas le délai mentionné au premier alinéa du présent article.
 
 Le délaissement parental n'est pas déclaré si, au cours du délai mentionné au premier alinéa, un membre de la famille a
-demandé à assumer la charge de l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier. 
+demandé à assumer la charge de l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier.
 
-Le délaissement parental peut être déclaré à l'endroit des deux parents ou d'un seul. 
+Le délaissement parental peut être déclaré à l'endroit des deux parents ou d'un seul.
 
 Lorsqu'il déclare l'enfant délaissé, le tribunal délègue par la même décision l'autorité parentale sur l'enfant à la
 personne, à l'établissement ou au service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant ou à qui ce
-dernier a été confié. 
+dernier a été confié.
 
 La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur l'identité de l'enfant.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 40
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ### Chapitre II : De l'autorité parentale relativement aux biens de l'enfant<a id=137></a>
@@ -19263,36 +19302,30 @@ _Modifié par_:
 ###### Article 386
 
 L'administrateur légal est responsable de tout dommage résultant d'une faute quelconque qu'il commet dans la gestion des
-biens du mineur. 
+biens du mineur.
 
-Si l'administration légale est exercée en commun, les deux parents sont responsables solidairement. 
+Si l'administration légale est exercée en commun, les deux parents sont responsables solidairement.
 
 L'Etat est responsable des dommages susceptibles d'être occasionnés par le juge des tutelles et le directeur des services de
-greffe judiciaires du tribunal de grande instance dans l'exercice de leurs fonctions en matière d'administration légale, dans
-les conditions prévues à l'article 412. 
+greffe judiciaires du tribunal judiciaire dans l'exercice de leurs fonctions en matière d'administration légale, dans les
+conditions prévues à l'article 412.
 
 L'action en responsabilité se prescrit par cinq ans à compter de la majorité de l'intéressé ou de son émancipation.
 
 **Nota:**
 
-Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
-janvier 2016.
-
-Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code civil - art. 412
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 #### Section 2 : De la jouissance légale<a id=139></a>
@@ -19558,8 +19591,8 @@ _Cite_:
 ###### Article 387-5
 
 A l'occasion du contrôle mentionné à l'article précédent, le juge peut demander à l'administrateur légal de soumettre au
-directeur des services de greffe judiciaires du tribunal de grande instance un compte de gestion annuel, accompagné des
-pièces justificatives, en vue de sa vérification.
+directeur des services de greffe judiciaires du tribunal judiciaire un compte de gestion annuel, accompagné des pièces
+justificatives, en vue de sa vérification.
 
 Lorsque des comptes ont été demandés, l'administrateur légal doit remettre au directeur des services de greffe judiciaires, à
 la fin de sa mission, un compte définitif des opérations intervenues depuis l'établissement du dernier compte annuel.
@@ -19581,16 +19614,14 @@ l'intéressé.
 
 **Nota:**
 
-Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
-janvier 2016.
-
-Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -20421,11 +20452,16 @@ _Cité par_:
 ###### Article 412
 
 Tous les organes de la tutelle sont responsables du dommage résultant d'une faute quelconque qu'ils commettent dans
-l'exercice de leur fonction. 
+l'exercice de leur fonction.
 
 Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le fonctionnement de la tutelle par le juge des
-tutelles, le directeur des services de greffe judiciaires du tribunal de grande instance ou le greffier, l'action en
-responsabilité est dirigée contre l'Etat qui dispose d'une action récursoire.
+tutelles, le directeur des services de greffe judiciaires du tribunal judiciaire ou le greffier, l'action en responsabilité
+est dirigée contre l'Etat qui dispose d'une action récursoire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -20439,7 +20475,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 413
@@ -20644,17 +20680,22 @@ _Anciens textes_:
 ###### Article 413-8
 
 Le mineur émancipé peut être commerçant sur autorisation du juge des tutelles au moment de la décision d'émancipation et du
-président du tribunal de grande instance s'il formule cette demande après avoir été émancipé.
+président du tribunal judiciaire s'il formule cette demande après avoir été émancipé.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-658 du 15 juin 2010 - art. 2
 
 _Cité par_:
 
   - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -20956,18 +20997,19 @@ _Modifié par_:
 ###### Article 422
 
 Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le fonctionnement de la mesure de protection par
-le juge des tutelles, le directeur des services de greffe judiciaires du tribunal d'instance ou le greffier, l'action en
+le juge des tutelles, le directeur des services de greffe judiciaires du tribunal judiciaire ou le greffier, l'action en
 responsabilité diligentée par la personne protégée ou ayant été protégée ou par ses héritiers est dirigée contre l'Etat qui
 dispose d'une action récursoire.
 
 Lorsque la faute à l'origine du dommage a été commise par le mandataire judiciaire à la protection des majeurs, l'action en
 responsabilité peut être dirigée contre celui-ci ou contre l'Etat qui dispose d'une action récursoire.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 _Cité par_:
 
@@ -20975,7 +21017,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 423
@@ -21124,9 +21166,7 @@ Lorsque la personne protégée n'est titulaire d'aucun compte ou livret, la pers
 ouvre un.
 
 Les opérations bancaires d'encaissement, de paiement et de gestion patrimoniale effectuées au nom et pour le compte de la
-personne protégée sont réalisées exclusivement au moyen des comptes ouverts au nom de celle-ci, sous réserve des dispositions
-applicables aux mesures de protection confiées aux personnes ou services préposés des établissements de santé et des
-établissements sociaux ou médico-sociaux soumis aux règles de la comptabilité publique.
+personne protégée sont réalisées exclusivement au moyen des comptes ouverts au nom de celle-ci.
 
 Les fruits, produits et plus-values générés par les fonds et les valeurs appartenant à la personne protégée lui reviennent
 exclusivement.
@@ -21134,6 +21174,11 @@ exclusivement.
 Si la personne protégée a fait l'objet d'une interdiction d'émettre des chèques, la personne chargée de la mesure de
 protection peut néanmoins, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, faire fonctionner sous
 sa signature les comptes dont la personne protégée est titulaire et disposer de tous les moyens de paiement habituels.
+
+**Nota:**
+
+Conformément aux dispositions du III de l'article 109 de la loi n° 2019-222 du 23 mars 2019, les dispositions de l'article
+427 telles qu'elles résultent du b du 3° du I de l'article 9 entrent en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -21148,10 +21193,6 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 #### Section 2 : Des dispositions communes aux mesures judiciaires<a id=159></a>
@@ -23029,11 +23070,16 @@ _Codifié par_:
 ###### Article 481
 
 Le mandat prend effet lorsqu'il est établi que le mandant ne peut plus pourvoir seul à ses intérêts. Celui-ci en reçoit
-notification dans les conditions prévues par le code de procédure civile. 
+notification dans les conditions prévues par le code de procédure civile.
 
-A cette fin, le mandataire produit au greffe du tribunal d'instance le mandat et un certificat médical émanant d'un médecin
+A cette fin, le mandataire produit au greffe du tribunal judiciaire le mandat et un certificat médical émanant d'un médecin
 choisi sur la liste mentionnée à l'article 431 établissant que le mandant se trouve dans l'une des situations prévues à
 l'article 425. Le greffier vise le mandat et date sa prise d'effet, puis le restitue au mandataire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -23046,7 +23092,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Nouveaux textes_:
 
@@ -23056,10 +23102,6 @@ _Cite_:
 
   - Code civil - art. 425 (V)
   - Code civil - art. 431 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 ###### Article 482
@@ -24632,8 +24674,8 @@ _Codifié par_:
 
 ###### Article 511
 
-Pour les mineurs sous tutelle, le tuteur soumet au directeur des services de greffe judiciaires du tribunal de grande
-instance un compte de gestion annuel, accompagné des pièces justificatives, en vue de sa vérification.
+Pour les mineurs sous tutelle, le tuteur soumet au directeur des services de greffe judiciaires du tribunal judiciaire un
+compte de gestion annuel, accompagné des pièces justificatives, en vue de sa vérification.
 
 Le subrogé tuteur vérifie le compte avant de le transmettre avec ses observations au directeur des services de greffe
 judiciaires.
@@ -24650,8 +24692,8 @@ par un professionnel qualifié.
 
 **Nota:**
 
-Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de
-la publication de la présente loi aux mesures de protection ouvertes antérieurement.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -24661,13 +24703,13 @@ _Cité par_:
   - Décret n°2011-1470 du 8 novembre 2011 (V)
   - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (VD)
   - Code civil - art. 486 (M)
-  - Code civil - art. 514 (V)
+  - Code civil - art. 514 (M)
   - Code de l'organisation judiciaire - art. L222-4 (VT)
   - Code de procédure civile - art. 1254-1 (V)
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 30
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -25398,45 +25440,50 @@ _Cité par_:
 L'ordonnance de protection est délivrée, dans les meilleurs délais, par le juge aux affaires familiales, s'il estime, au vu
 des éléments produits devant lui et contradictoirement débattus, qu'il existe des raisons sérieuses de considérer comme
 vraisemblables la commission des faits de violence allégués et le danger auquel la victime ou un ou plusieurs enfants sont
-exposés. A l'occasion de sa délivrance, le juge aux affaires familiales est compétent pour : 
+exposés. A l'occasion de sa délivrance, le juge aux affaires familiales est compétent pour :
 
 1° Interdire à la partie défenderesse de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge aux
-affaires familiales, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ; 
+affaires familiales, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ;
 
 2° Interdire à la partie défenderesse de détenir ou de porter une arme et, le cas échéant, lui ordonner de remettre au
-service de police ou de gendarmerie qu'il désigne les armes dont elle est détentrice en vue de leur dépôt au greffe ; 
+service de police ou de gendarmerie qu'il désigne les armes dont elle est détentrice en vue de leur dépôt au greffe ;
 
 3° Statuer sur la résidence séparée des époux en précisant lequel des deux continuera à résider dans le logement conjugal et
 sur les modalités de prise en charge des frais afférents à ce logement. Sauf circonstances particulières, la jouissance de ce
-logement est attribuée au conjoint qui n'est pas l'auteur des violences, même s'il a bénéficié d'un hébergement d'urgence ; 
+logement est attribuée au conjoint qui n'est pas l'auteur des violences, même s'il a bénéficié d'un hébergement d'urgence ;
 
 4° Préciser lequel des partenaires liés par un pacte civil de solidarité ou des concubins continuera à résider dans le
 logement commun et statuer sur les modalités de prise en charge des frais afférents à ce logement. Sauf circonstances
 particulières, la jouissance de ce logement est attribuée au partenaire lié par un pacte civil de solidarité ou au concubin
-qui n'est pas l'auteur des violences, même s'il a bénéficié d'un hébergement d'urgence ; 
+qui n'est pas l'auteur des violences, même s'il a bénéficié d'un hébergement d'urgence ;
 
 5° Se prononcer sur les modalités d'exercice de l'autorité parentale et, le cas échéant, sur la contribution aux charges du
 mariage pour les couples mariés, sur l'aide matérielle au sens de l'article 515-4 pour les partenaires d'un pacte civil de
-solidarité et sur la contribution à l'entretien et à l'éducation des enfants ; 
+solidarité et sur la contribution à l'entretien et à l'éducation des enfants ;
 
 6° Autoriser la partie demanderesse à dissimuler son domicile ou sa résidence et à élire domicile chez l'avocat qui l'assiste
-ou la représente ou auprès du procureur de la République près le tribunal de grande instance pour toutes les instances
-civiles dans lesquelles elle est également partie. Si, pour les besoins de l'exécution d'une décision de justice, l'huissier
-chargé de cette exécution doit avoir connaissance de l'adresse de cette personne, celle-ci lui est communiquée, sans qu'il
-puisse la révéler à son mandant ; 
+ou la représente ou auprès du procureur de la République près le tribunal judiciaire pour toutes les instances civiles dans
+lesquelles elle est également partie. Si, pour les besoins de l'exécution d'une décision de justice, l'huissier chargé de
+cette exécution doit avoir connaissance de l'adresse de cette personne, celle-ci lui est communiquée, sans qu'il puisse la
+révéler à son mandant ;
 
 6° bis Autoriser la partie demanderesse à dissimuler son domicile ou sa résidence et à élire domicile pour les besoins de la
-vie courante chez une personne morale qualifiée ; 
+vie courante chez une personne morale qualifiée ;
 
 7° Prononcer l'admission provisoire à l'aide juridictionnelle de la partie demanderesse en application du premier alinéa de
-l'article 20 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique. 
+l'article 20 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique.
 
 Le cas échéant, le juge présente à la partie demanderesse une liste des personnes morales qualifiées susceptibles de
 l'accompagner pendant toute la durée de l'ordonnance de protection. Il peut, avec son accord, transmettre à la personne
-morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la contacte. 
+morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la contacte.
 
 Lorsque le juge délivre une ordonnance de protection en raison de violences susceptibles de mettre en danger un ou plusieurs
 enfants, il en informe sans délai le procureur de la République.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -25445,20 +25492,20 @@ _Cite_:
   - Loi n°91-647 du 10 juillet 1991 - art. 20
   - Code civil - art. 515-4 (V)
 
-_Modifié par_:
-
-  - Loi n°2014-873 du 4 août 2014 - art. 32
-
 _Cité par_:
 
   - Décret n°2015-282 du 11 mars 2015 (V)
   - Code civil - art. 515-12 (VD)
-  - Code civil - art. 515-13 (V)
+  - Code civil - art. 515-13 (VD)
   - Code de procédure civile - art. 1136-13 (V)
   - Code de procédure civile - art. 1136-14 (V)
   - Code de procédure civile - art. 1136-5 (VD)
   - Code de procédure civile - art. 1136-7 (V)
   - Code de procédure civile - art. 1136-8 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 515-12
@@ -28105,28 +28152,25 @@ l'industrie avec le respect dû à la propriété.
 
 S'il y a lieu à expertise, il peut n'être nommé qu'un seul expert.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°73-550 du 28 juin 1973 - art. 2 (V)
+  - Code du travail - art. R513-26 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code civil - art. 640 (V)
-
-_Cité par_:
-
-  - Code du travail - art. R513-26 (M)
-  - Loi n°73-550 du 28 juin 1973 - art. 2 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-01-31
-
-_Créé par_:
-
-  - Loi n°1804-01-31 promulguée le 10 février 1804
-
-_Modifié par_:
-
-  - Loi n°1898-04-08 art. 1 Bulletin des lois, 12° s., B 1970, n°34577
 
 
 ###### Article 642
@@ -29972,26 +30016,26 @@ _Codifié par_:
 
 ###### Article 727-1
 
-La déclaration d'indignité prévue à l'article 727 est prononcée après l'ouverture de la succession par le tribunal de grande
-instance à la demande d'un autre héritier. La demande doit être formée dans les six mois du décès si la décision de
-condamnation ou de déclaration de culpabilité est antérieure au décès, ou dans les six mois de cette décision si elle est
-postérieure au décès. 
+La déclaration d'indignité prévue à l'article 727 est prononcée après l'ouverture de la succession par le tribunal judiciaire
+à la demande d'un autre héritier. La demande doit être formée dans les six mois du décès si la décision de condamnation ou de
+déclaration de culpabilité est antérieure au décès, ou dans les six mois de cette décision si elle est postérieure au décès.
 
 En l'absence d'héritier, la demande peut être formée par le ministère public.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code civil - art. 727 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
 
 
 ###### Article 728
@@ -31820,17 +31864,16 @@ _Modifié par_:
 
 ###### Article 788
 
-La déclaration doit être faite au greffe du tribunal de grande instance dans le ressort duquel la succession est ouverte ou
-devant notaire. Elle comporte élection d'un domicile unique, qui peut être le domicile de l'un des acceptants à concurrence
-de l'actif net, ou celui de la personne chargée du règlement de la succession. Le domicile doit être situé en France.
+La déclaration doit être faite au greffe du tribunal judiciaire dans le ressort duquel la succession est ouverte ou devant
+notaire. Elle comporte élection d'un domicile unique, qui peut être le domicile de l'un des acceptants à concurrence de
+l'actif net, ou celui de la personne chargée du règlement de la succession. Le domicile doit être situé en France.
 
 La déclaration est enregistrée et fait l'objet d'une publicité nationale, qui peut être faite par voie électronique.
 
 **Nota:**
 
-Loi n° 2016-1547 du 18 novembre 2016, article 114 III : Ces dispositions sont applicables aux successions ouvertes à partir
-du premier jour du douzième mois suivant la promulgation de la présente loi. Les instances introduites antérieurement sont
-régies par les dispositions applicables avant cette date.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -31844,11 +31887,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 46
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 789
@@ -33656,33 +33695,34 @@ _Modifié par_:
 ###### Article 815-5-1
 
 Sauf en cas de démembrement de la propriété du bien ou si l'un des indivisaires se trouve dans l'un des cas prévus à
-l'article 836, l'aliénation d'un bien indivis peut être autorisée par le tribunal de grande instance, à la demande de l'un ou
-des indivisaires titulaires d'au moins deux tiers des droits indivis, suivant les conditions et modalités définies aux
-alinéas suivants. 
+l'article 836, l'aliénation d'un bien indivis peut être autorisée par le tribunal judiciaire, à la demande de l'un ou des
+indivisaires titulaires d'au moins deux tiers des droits indivis, suivant les conditions et modalités définies aux alinéas
+suivants.
 
 Le ou les indivisaires titulaires d'au moins deux tiers des droits indivis expriment devant un notaire, à cette majorité,
-leur intention de procéder à l'aliénation du bien indivis. 
+leur intention de procéder à l'aliénation du bien indivis.
 
-Dans le délai d'un mois suivant son recueil, le notaire fait signifier cette intention aux autres indivisaires. 
+Dans le délai d'un mois suivant son recueil, le notaire fait signifier cette intention aux autres indivisaires.
 
 Si l'un ou plusieurs des indivisaires s'opposent à l'aliénation du bien indivis ou ne se manifestent pas dans un délai de
-trois mois à compter de la signification, le notaire le constate par procès-verbal. 
+trois mois à compter de la signification, le notaire le constate par procès-verbal.
 
-Dans ce cas, le tribunal de grande instance peut autoriser l'aliénation du bien indivis si celle-ci ne porte pas une atteinte
-excessive aux droits des autres indivisaires. 
+Dans ce cas, le tribunal judiciaire peut autoriser l'aliénation du bien indivis si celle-ci ne porte pas une atteinte
+excessive aux droits des autres indivisaires.
 
 Cette aliénation s'effectue par licitation. Les sommes qui en sont retirées ne peuvent faire l'objet d'un remploi sauf pour
 payer les dettes et charges de l'indivision.
 
-L'aliénation effectuée dans les conditions fixées par l'autorisation du tribunal de grande instance est opposable à
-l'indivisaire dont le consentement a fait défaut, sauf si l'intention d'aliéner le bien du ou des indivisaires titulaires
-d'au moins deux tiers des droits indivis ne lui avait pas été signifiée selon les modalités prévues au troisième alinéa.
+L'aliénation effectuée dans les conditions fixées par l'autorisation du tribunal judiciaire est opposable à l'indivisaire
+dont le consentement a fait défaut, sauf si l'intention d'aliéner le bien du ou des indivisaires titulaires d'au moins deux
+tiers des droits indivis ne lui avait pas été signifiée selon les modalités prévues au troisième alinéa.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 6
 
 _Cité par_:
 
@@ -33691,6 +33731,10 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L181-30 (VD)
   - Code rural et de la pêche maritime - art. L183-25 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
 _Cite_:
 
   - Code civil - art. 836
@@ -33698,26 +33742,26 @@ _Cite_:
 
 ###### Article 815-6
 
-Le président du tribunal de grande instance peut prescrire ou autoriser toutes les mesures urgentes que requiert l'intérêt
-commun. 
+Le président du tribunal judiciaire peut prescrire ou autoriser toutes les mesures urgentes que requiert l'intérêt commun.
 
 Il peut, notamment, autoriser un indivisaire à percevoir des débiteurs de l'indivision ou des dépositaires de fonds indivis
 une provision destinée à faire face aux besoins urgents, en prescrivant, au besoin, les conditions de l'emploi. Cette
-autorisation n'entraîne pas prise de qualité pour le conjoint survivant ou pour l'héritier. 
+autorisation n'entraîne pas prise de qualité pour le conjoint survivant ou pour l'héritier.
 
 Il peut également soit désigner un indivisaire comme administrateur en l'obligeant s'il y a lieu à donner caution, soit
 nommer un séquestre. Les articles 1873-5 à 1873-9 du présent code s'appliquent en tant que de raison aux pouvoirs et aux
 obligations de l'administrateur, s'ils ne sont autrement définis par le juge.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
 
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -33838,21 +33882,22 @@ auxquels il a consenti ou qui lui sont opposables.
 A défaut d'autre titre, l'étendue des droits de chacun dans l'indivision résulte de l'acte de notoriété ou de l'intitulé
 d'inventaire établi par le notaire.
 
-En cas de contestation, le président du tribunal de grande instance peut ordonner une répartition provisionnelle des
-bénéfices sous réserve d'un compte à établir lors de la liquidation définitive.
+En cas de contestation, le président du tribunal judiciaire peut ordonner une répartition provisionnelle des bénéfices sous
+réserve d'un compte à établir lors de la liquidation définitive.
 
 A concurrence des fonds disponibles, il peut semblablement ordonner une avance en capital sur les droits de l'indivisaire
 dans le partage à intervenir.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-04-19
 
 _Modifié par_:
 
-  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 815-12
@@ -38610,38 +38655,34 @@ _Modifié par_:
 ###### Article 985
 
 Les testaments faits dans un lieu avec lequel toute communication est impossible à cause d'une maladie contagieuse peuvent
-être faits par toute personne atteinte de cette maladie ou située dans des lieux qui en sont infectés, devant le juge
-d'instance ou devant l'un des officiers municipaux de la commune, en présence de deux témoins.
+être faits par toute personne atteinte de cette maladie ou située dans des lieux qui en sont infectés, devant le juge du
+tribunal judiciaire ou devant l'un des officiers municipaux de la commune, en présence de deux témoins.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
-
-_Modifié par_:
-
-  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
   - Décret n°2019-914 du 30 août 2019 - art.
   - Code civil - art. 986 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
 
 ###### Article 986
 
 Les testaments faits dans une île du territoire français, où il n'existe pas d'office notarial, peuvent, lorsque toute
 communication avec le territoire auquel cette île est rattachée est impossible, être reçus dans les formes prévues à
-l'article 985. L'impossibilité des communications est attestée dans l'acte par le juge d'instance ou l'officier municipal qui
-reçoit le testament.
+l'article 985. L'impossibilité des communications est attestée dans l'acte par le juge du tribunal judiciaire ou l'officier
+municipal qui reçoit le testament.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2015-177 du 16 février 2015 - art. 3 (V)
 
 _Cité par_:
 
@@ -38650,10 +38691,6 @@ _Cité par_:
 _Cite_:
 
   - Code civil - art. 985
-
-_Codifié par_:
-
-  - Loi n°1803-05-03
 
 
 ###### Article 987
@@ -39136,24 +39173,19 @@ modalités d'application du présent alinéa sont déterminées par décret en C
 
 **Nota:**
 
-Loi n° 2016-1547 du 18 novembre 2016, article 114 III : Ces dispositions sont applicables aux successions ouvertes à partir
-du premier jour du douzième mois suivant la promulgation de ladite loi. Les instances introduites antérieurement sont régies
-par les dispositions applicables avant cette date.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 44
 
 _Cité par_:
 
   - Décret n°2016-1907 du 28 décembre 2016 (V)
   - Code de procédure civile - art. 1378-2 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°1803-05-03
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 1009
@@ -44930,15 +44962,15 @@ _Créé par_:
 ###### Article 1248
 
 L'action en réparation du préjudice écologique est ouverte à toute personne ayant qualité et intérêt à agir, telle que
-l'Etat, l'Agence française pour la biodiversité, les collectivités territoriales et leurs groupements dont le territoire est
+l'Etat, l'Office français de la biodiversité, les collectivités territoriales et leurs groupements dont le territoire est
 concerné, ainsi que les établissements publics et les associations agréées ou créées depuis au moins cinq ans à la date
 d'introduction de l'instance qui ont pour objet la protection de la nature et la défense de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1087 du 8 août 2016 - art. 4
+  - Loi n°2019-773 du 24 juillet 2019 - art. 21
 
 _Cité par_:
 
@@ -48529,19 +48561,20 @@ _Cité par_:
 ###### Article 1387-1
 
 Lorsque le divorce est prononcé, si des dettes ou sûretés ont été consenties par les époux, solidairement ou séparément, dans
-le cadre de la gestion d'une entreprise, le tribunal de grande instance peut décider d'en faire supporter la charge exclusive
-au conjoint qui conserve le patrimoine professionnel ou, à défaut, la qualification professionnelle ayant servi de fondement
-à l'entreprise.
+le cadre de la gestion d'une entreprise, le tribunal judiciaire peut décider d'en faire supporter la charge exclusive au
+conjoint qui conserve le patrimoine professionnel ou, à défaut, la qualification professionnelle ayant servi de fondement à
+l'entreprise.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°65-570 1965-07-13
-
-_Créé par_:
-
-  - Loi n°2005-882 du 2 août 2005 - art. 13 () JORF 3 août 2005
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 1388
@@ -48600,18 +48633,23 @@ Le contrat de mariage doit déterminer les biens sur lesquels portera la facult�
 fixer des bases d'évaluation et des modalités de paiement, sauf la réduction au profit des héritiers réservataires s'il y a
 avantage indirect.
 
-Compte tenu de ces clauses et à défaut d'accord entre les parties, la valeur des biens sera arrêtée par le tribunal de grande
-instance.
+Compte tenu de ces clauses et à défaut d'accord entre les parties, la valeur des biens sera arrêtée par le tribunal
+judiciaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°65-570 1965-07-13
 
 _Cité par_:
 
   - Loi n°65-570 du 13 juillet 1965 - art. 20 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 1392
@@ -49906,7 +49944,12 @@ _Codifié par_:
 La séparation de biens, quoique prononcée en justice, est nulle si les poursuites tendant à liquider les droits des parties
 n'ont pas été commencées dans les trois mois du jugement passé en force de chose jugée et si le règlement définitif n'est pas
 intervenu dans l'année de l'ouverture des opérations de liquidation. Le délai d'un an peut être prorogé par le président de
-tribunal statuant dans la forme des référés.
+tribunal statuant sur requête.
+
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -49919,7 +49962,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°65-570 1965-07-13
+  - Loi n°65-570 du 13 juillet 1965
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 2
 
 
 ###### Article 1445
@@ -50721,13 +50768,18 @@ _Cité par_:
 ###### Article 1512
 
 Le contrat de mariage peut fixer des bases d'évaluation et des modalités de paiement de la soulte éventuelle. Compte tenu de
-ces clauses et à défaut d'accord entre les parties, la valeur des biens sera fixée par le tribunal de grande instance.
+ces clauses et à défaut d'accord entre les parties, la valeur des biens sera fixée par le tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°65-570 1965-07-13
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 1513
@@ -51229,8 +51281,7 @@ matrimonial est réputé dissous au jour de la demande.
 
 La consistance du patrimoine final est prouvée par un état descriptif, même sous seing privé, que l'époux ou ses héritiers
 doivent établir en présence de l'autre conjoint ou de ses héritiers ou eux dûment appelés. Cet état doit être dressé dans les
-neuf mois de la dissolution du régime matrimonial, sauf prorogation par le président du tribunal statuant en la forme de
-référé.
+neuf mois de la dissolution du régime matrimonial, sauf prorogation par le président du tribunal statuant sur requête.
 
 La preuve que le patrimoine final aurait compris d'autres biens peut être rapportée par tous les moyens, même par témoignages
 et présomptions.
@@ -51238,15 +51289,24 @@ et présomptions.
 Chacun des époux peut, quant aux biens de l'autre, requérir l'apposition des scellés et l'inventaire suivant les règles
 prévues au code de procédure civile.
 
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°65-570 1965-07-13
+  - Loi n°65-570 du 13 juillet 1965
 
 _Cité par_:
 
   - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 2
 
 
 ###### Article 1573
@@ -57602,8 +57662,8 @@ _Cité par_:
 
 I. – Dans les cas où la loi renvoie au présent article pour fixer les conditions de prix d'une cession des droits sociaux
 d'un associé, ou le rachat de ceux-ci par la société, la valeur de ces droits est déterminée, en cas de contestation, par un
-expert désigné, soit par les parties, soit à défaut d'accord entre elles, par ordonnance du président du tribunal statuant en
-la forme des référés et sans recours possible.
+expert désigné, soit par les parties, soit à défaut d'accord entre elles, par jugement du président du tribunal judiciaire ou
+du tribunal de commerce compétent, statuant selon la procédure accélérée au fond et sans recours possible.
 
 L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règles et modalités de détermination de la valeur
 prévues par les statuts de la société ou par toute convention liant les parties.
@@ -57614,6 +57674,11 @@ expert désigné dans les conditions du premier alinéa.
 
 L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règles et modalités de détermination de la valeur
 prévues par toute convention liant les parties.
+
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57731,7 +57796,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-863 du 31 juillet 2014 - art. 37
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 2
 
 
 ###### Article 1843-5
@@ -59636,24 +59701,21 @@ _Cite_:
 ###### Article 1873-10
 
 Le gérant a droit, sauf accord contraire, à la rémunération de son travail. Les conditions en sont fixées par les
-indivisaires, à l'exclusion de l'intéressé, ou, à défaut par le président du tribunal de grande instance statuant à titre
+indivisaires, à l'exclusion de l'intéressé, ou, à défaut par le président du tribunal judiciaire statuant à titre
 provisionnel.
 
 Le gérant répond, comme un mandataire, des fautes qu'il commet dans sa gestion.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°76-1286 1976-12-31
-
-_Créé par_:
-
-  - Loi n°76-1286 du 31 décembre 1976 - art. 12 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article 1873-11
@@ -67168,10 +67230,10 @@ retours de lots ; pour la garantie des indemnités dues en application de l'arti
 assimilés aux immeubles de la succession ;
 
 4° Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments,
-canaux ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de grande instance
-dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater
-l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient
-été, dans les six mois au plus de leur perfection, reçus par un expert également nommé d'office ;
+canaux ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal judiciaire dans le
+ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater l'état des
+lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient été, dans les
+six mois au plus de leur perfection, reçus par un expert également nommé d'office ;
 
 Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-
 value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits ;
@@ -67193,8 +67255,8 @@ code de la construction de l'habitation ou des articles L. 1331-29-1 ou L. 1331-
 
 **Nota:**
 
-Conformément aux dispositions du VI de l'article 194 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions entrent en
-vigueur le premier jour du quatrième mois suivant la publication de ladite loi.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -67247,16 +67309,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 194 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
   - Code civil - art. 2103 (M)
   - Code civil - art. 2103 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ##### Section 2 : Des privilèges généraux.<a id=572></a>
@@ -68614,17 +68672,18 @@ _Modifié par_:
 ###### Article 2411
 
 Pendant la minorité et la tutelle des majeurs, l'inscription prise en vertu de l'article 2409 doit être renouvelée,
-conformément à l'article 2434 du code civil, par le greffier du tribunal d'instance.
+conformément à l'article 2434 du code civil, par le greffier du tribunal judiciaire.
 
 **Nota:**
 
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -68634,10 +68693,6 @@ _Cite_:
 
   - Code civil - art. 2409 (VT)
   - Code civil - art. 2434 (V)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
 
 
 ##### Section 3 : Des hypothèques judiciaires<a id=581></a>
@@ -70129,14 +70184,19 @@ En dehors des cas où ils sont fondés à refuser le dépôt ou à rejeter une f
 législatives ou réglementaires, sur la publicité foncière, les services chargés de la publicité foncière ne peuvent refuser
 ni retarder l'exécution d'une formalité ni la délivrance des documents régulièrement requis, sous peine des dommages et
 intérêts des parties ; à l'effet de quoi, procès-vebaux des refus ou retardements seront, à la diligence des requérants,
-dressés sur-le-champ, soit par un juge du tribunal d'instance, soit par un huissier audiencier du tribunal, soit par un autre
+dressés sur-le-champ, soit par un juge du tribunal judiciaire, soit par un huissier audiencier du tribunal, soit par un autre
 huissier ou un notaire assisté de deux témoins.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 4
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -70152,13 +70212,17 @@ documents déposés en vue de l'exécution d'une formalité de publicité.
 Ils ne pourront exécuter les formalités qu'à la date et dans l'ordre des remises qui leur auront été faites.
 
 Chaque année, une reproduction des registres clôturés pendant l'année précédente sera déposée sans frais au greffe d'un
-tribunal de grande instance ou d'un tribunal d'instance situés dans un arrondissement autre que celui où réside le service
-chargé de la publicité foncière. 
+tribunal judiciaire situés dans un arrondissement autre que celui où réside le service chargé de la publicité foncière.
 
 Le tribunal au greffe duquel sera déposée la reproduction sera désigné par arrêté du ministre de la justice.
 
 Un décret déterminera les modalités d'application du présent article et, notamment, les procédés techniques susceptibles
 d'être employés pour l'établissement de la reproduction à déposer au greffe.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -70184,7 +70248,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 4
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
 
 _Anciens textes_:
 
@@ -70194,10 +70258,15 @@ _Anciens textes_:
 ###### Article 2454
 
 Le registre tenu en exécution de l'article précédent est coté et paraphé à chaque page, par première et dernière, par le juge
-d'instance dans le ressort duquel le bureau est établi. Il est arrêté chaque jour.
+tribunal judiciaire dans le ressort duquel le bureau est établi. Il est arrêté chaque jour.
 
 Par dérogation à l'alinéa précédent, un document informatique écrit peut tenir lieu de registre ; dans ce cas, il doit être
 identifié, numéroté et daté dès son établissement par des moyens offrant toute garantie en matière de preuve.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -70206,18 +70275,14 @@ _Cité par_:
   - Décret n°55-22 du 4 janvier 1955 - art. 8-1 (VD)
   - Code civil - art. 2457 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
 _Anciens textes_:
 
   - Code civil - art. 2201 (M)
   - Code civil - art. 2201 (T)
-
-_Codifié par_:
-
-  - Loi n°1804-03-19
-
-_Créé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
 ###### Article 2457
@@ -71283,7 +71348,7 @@ _Codifié par_:
 
 Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par : " tribunal de première instance " ;
+1° (Abrogé) ;
 
 2° " Cour " ou " cour d'appel " par : " chambre d'appel de Mamoudzou " ;
 
@@ -71301,20 +71366,18 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 
 9° " Inscription au service chargé de la publicité foncière " par : " inscription au livre foncier " ;
 
-10° " Fichier immobilier " par : " livre foncier " .
+10° " Fichier immobilier " par : " livre foncier ".
 
 **Nota:**
 
-Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
-instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
-compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 12
-  - Ordonnance n°2011-337 - art. 12 (VD)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
 
 _Anciens textes_:
 
