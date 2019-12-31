@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2019-10-23
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -4020,19 +4020,19 @@ _Anciens textes_:
 
 ###### Article 26-2
 
-Le siège et le ressort des tribunaux d'instance compétents pour recevoir et enregistrer les déclarations de nationalité
-française sont fixés par décret.
+Le siège et le ressort des tribunaux judiciaires ou des chambres de proximité compétents pour recevoir et enregistrer les
+déclarations de nationalité française sont fixés par décret.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-933 1993-07-22
-
-_Créé par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+  - Loi n°93-933 du 22 juillet 1993
 
 _Cité par_:
 
@@ -4042,6 +4042,10 @@ _Cité par_:
   - Décret n°93-1362 du 30 décembre 1993 - art. 15 (V)
   - Décret n°93-1362 du 30 décembre 1993 - art. 6 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
 
 _Anciens textes_:
 
@@ -4664,8 +4668,13 @@ _Codifié par_:
 
 ###### Article 31-1
 
-Le siège et le ressort des tribunaux d'instance compétents pour délivrer les certificats de nationalité sont fixés par
-décret.
+Le siège et le ressort des tribunaux judiciaires ou des chambres de proximité compétents pour délivrer les certificats de
+nationalité sont fixés par décret.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4676,12 +4685,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-933 1993-07-22
-
-_Modifié par_:
-
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+  - Loi n°93-933 du 22 juillet 1993
 
 _Cité par_:
 
@@ -4689,6 +4693,10 @@ _Cité par_:
   - Décret n°2019-912 du 30 août 2019 - art. 6
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 (Ab)
   - Code de l'organisation judiciaire - art. R221-52 (VT)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
 
 
 ###### Article 31-2
@@ -21125,9 +21133,7 @@ Lorsque la personne protégée n'est titulaire d'aucun compte ou livret, la pers
 ouvre un.
 
 Les opérations bancaires d'encaissement, de paiement et de gestion patrimoniale effectuées au nom et pour le compte de la
-personne protégée sont réalisées exclusivement au moyen des comptes ouverts au nom de celle-ci, sous réserve des dispositions
-applicables aux mesures de protection confiées aux personnes ou services préposés des établissements de santé et des
-établissements sociaux ou médico-sociaux soumis aux règles de la comptabilité publique.
+personne protégée sont réalisées exclusivement au moyen des comptes ouverts au nom de celle-ci.
 
 Les fruits, produits et plus-values générés par les fonds et les valeurs appartenant à la personne protégée lui reviennent
 exclusivement.
@@ -21135,6 +21141,11 @@ exclusivement.
 Si la personne protégée a fait l'objet d'une interdiction d'émettre des chèques, la personne chargée de la mesure de
 protection peut néanmoins, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, faire fonctionner sous
 sa signature les comptes dont la personne protégée est titulaire et disposer de tous les moyens de paiement habituels.
+
+**Nota:**
+
+Conformément aux dispositions du III de l'article 109 de la loi n° 2019-222 du 23 mars 2019, les dispositions de l'article
+427 telles qu'elles résultent du b du 3° du I de l'article 9 entrent en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -21149,10 +21160,6 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2019-222 du 23 mars 2019 - art. 9 (V)
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
 
 
 #### Section 2 : Des dispositions communes aux mesures judiciaires<a id=159></a>
@@ -44931,15 +44938,15 @@ _Créé par_:
 ###### Article 1248
 
 L'action en réparation du préjudice écologique est ouverte à toute personne ayant qualité et intérêt à agir, telle que
-l'Etat, l'Agence française pour la biodiversité, les collectivités territoriales et leurs groupements dont le territoire est
+l'Etat, l'Office français de la biodiversité, les collectivités territoriales et leurs groupements dont le territoire est
 concerné, ainsi que les établissements publics et les associations agréées ou créées depuis au moins cinq ans à la date
 d'introduction de l'instance qui ont pour objet la protection de la nature et la défense de l'environnement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1087 du 8 août 2016 - art. 4
+  - Loi n°2019-773 du 24 juillet 2019 - art. 21
 
 _Cité par_:
 
@@ -49907,7 +49914,12 @@ _Codifié par_:
 La séparation de biens, quoique prononcée en justice, est nulle si les poursuites tendant à liquider les droits des parties
 n'ont pas été commencées dans les trois mois du jugement passé en force de chose jugée et si le règlement définitif n'est pas
 intervenu dans l'année de l'ouverture des opérations de liquidation. Le délai d'un an peut être prorogé par le président de
-tribunal statuant dans la forme des référés.
+tribunal statuant sur requête.
+
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -49920,7 +49932,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°65-570 1965-07-13
+  - Loi n°65-570 du 13 juillet 1965
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 2
 
 
 ###### Article 1445
@@ -51230,8 +51246,7 @@ matrimonial est réputé dissous au jour de la demande.
 
 La consistance du patrimoine final est prouvée par un état descriptif, même sous seing privé, que l'époux ou ses héritiers
 doivent établir en présence de l'autre conjoint ou de ses héritiers ou eux dûment appelés. Cet état doit être dressé dans les
-neuf mois de la dissolution du régime matrimonial, sauf prorogation par le président du tribunal statuant en la forme de
-référé.
+neuf mois de la dissolution du régime matrimonial, sauf prorogation par le président du tribunal statuant sur requête.
 
 La preuve que le patrimoine final aurait compris d'autres biens peut être rapportée par tous les moyens, même par témoignages
 et présomptions.
@@ -51239,15 +51254,24 @@ et présomptions.
 Chacun des époux peut, quant aux biens de l'autre, requérir l'apposition des scellés et l'inventaire suivant les règles
 prévues au code de procédure civile.
 
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°65-570 1965-07-13
+  - Loi n°65-570 du 13 juillet 1965
 
 _Cité par_:
 
   - Ordonnance n°2019-738 du 17 juillet 2019 - art. 29 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 2
 
 
 ###### Article 1573
@@ -57598,8 +57622,8 @@ _Cité par_:
 
 I. – Dans les cas où la loi renvoie au présent article pour fixer les conditions de prix d'une cession des droits sociaux
 d'un associé, ou le rachat de ceux-ci par la société, la valeur de ces droits est déterminée, en cas de contestation, par un
-expert désigné, soit par les parties, soit à défaut d'accord entre elles, par ordonnance du président du tribunal statuant en
-la forme des référés et sans recours possible.
+expert désigné, soit par les parties, soit à défaut d'accord entre elles, par jugement du président du tribunal judiciaire ou
+du tribunal de commerce compétent, statuant selon la procédure accélérée au fond et sans recours possible.
 
 L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règles et modalités de détermination de la valeur
 prévues par les statuts de la société ou par toute convention liant les parties.
@@ -57610,6 +57634,11 @@ expert désigné dans les conditions du premier alinéa.
 
 L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règles et modalités de détermination de la valeur
 prévues par toute convention liant les parties.
+
+**Nota:**
+
+<font color="#333333">Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57727,7 +57756,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-863 du 31 juillet 2014 - art. 37
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 2
 
 
 ###### Article 1843-5
@@ -70148,13 +70177,17 @@ documents déposés en vue de l'exécution d'une formalité de publicité.
 Ils ne pourront exécuter les formalités qu'à la date et dans l'ordre des remises qui leur auront été faites.
 
 Chaque année, une reproduction des registres clôturés pendant l'année précédente sera déposée sans frais au greffe d'un
-tribunal de grande instance ou d'un tribunal d'instance situés dans un arrondissement autre que celui où réside le service
-chargé de la publicité foncière. 
+tribunal judiciaire situés dans un arrondissement autre que celui où réside le service chargé de la publicité foncière.
 
 Le tribunal au greffe duquel sera déposée la reproduction sera désigné par arrêté du ministre de la justice.
 
 Un décret déterminera les modalités d'application du présent article et, notamment, les procédés techniques susceptibles
 d'être employés pour l'établissement de la reproduction à déposer au greffe.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -70180,7 +70213,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 4
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
 
 _Anciens textes_:
 
@@ -71279,7 +71312,7 @@ _Codifié par_:
 
 Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par : " tribunal de première instance " ;
+1° (Abrogé) ;
 
 2° " Cour " ou " cour d'appel " par : " chambre d'appel de Mamoudzou " ;
 
@@ -71297,20 +71330,18 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 
 9° " Inscription au service chargé de la publicité foncière " par : " inscription au livre foncier " ;
 
-10° " Fichier immobilier " par : " livre foncier " .
+10° " Fichier immobilier " par : " livre foncier ".
 
 **Nota:**
 
-Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
-instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
-compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 12
-  - Ordonnance n°2011-337 - art. 12 (VD)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 2
 
 _Anciens textes_:
 
