@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-14
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -62603,11 +62603,9 @@ accorde au constituant.
 
 Lorsque le constituant est une personne physique, il ne peut renoncer à cette faculté.
 
+Le constituant doit informer le fiduciaire de la désignation de ce tiers.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 2
 
 _Cité par_:
 
@@ -62617,6 +62615,10 @@ _Cité par_:
   - Code civil - art. 2027 (V)
   - Code des assurances - art. L311-41 (V)
   - Code monétaire et financier - art. R561-5 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2020-115 du 12 février 2020 - art. 12
 
 _Nouveaux textes_:
 
@@ -62703,18 +62705,23 @@ conditions prévues aux articles 647 et 657 du code général des impôts.
 
 La transmission des droits résultant du contrat de fiducie et, si le bénéficiaire n'est pas désigné dans le contrat de
 fiducie, sa désignation ultérieure doivent, à peine de nullité, donner lieu à un acte écrit enregistré dans les mêmes
-conditions.
+conditions. 
+
+La désignation d'un tiers en application de l'article 2017 et l'information sur l'identité du ou des bénéficiaires effectifs
+de la fiducie mentionnés à l'article L. 561-2-2 du code monétaire et financier doivent également, à peine de nullité, donner
+lieu à un acte écrit établi par le fiduciaire et enregistré dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+  - Ordonnance n°2020-115 du 12 février 2020 - art. 12
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 647 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 657 (V)
+  - Code général des impôts, CGI. - art. 647
+  - Code général des impôts, CGI. - art. 657
+  - Code monétaire et financier - art. L561-2-2
 
 _Cité par_:
 
