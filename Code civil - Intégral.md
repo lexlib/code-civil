@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2020-02-14
+Version Consolidée au 2020-08-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -10351,6 +10351,10 @@ Les obligations résultant de ces dispositions sont réciproques.
 Néanmoins, quand le créancier aura lui-même manqué gravement à ses obligations envers le débiteur, le juge pourra décharger
 celui-ci de tout ou partie de la dette alimentaire.
 
+En cas de condamnation du créancier pour un crime commis sur la personne du débiteur ou l'un de ses ascendants, descendants,
+frères ou sœurs, le débiteur est déchargé de son obligation alimentaire à l'égard du créancier, sauf décision contraire du
+juge.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -10377,21 +10381,13 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. L105 (V)
   - Décret n°1928-04-07 du 7 avril 1928 - art. 15 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 17 (V)
-
 _Modifié par_:
 
-  - Loi n°72-3 du 3 janvier 1972 - art. 3 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+  - Loi n°2020-936 du 30 juillet 2020 - art. 7
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 208
@@ -12274,10 +12270,13 @@ _Codifié par_:
 
 Le juge peut notamment :
 
-1° Proposer aux époux une mesure de médiation et, après avoir recueilli leur accord, désigner un médiateur familial pour y
-procéder ;
+1° Proposer aux époux une mesure de médiation, sauf si des violences sont alléguées par l'un des époux sur l'autre époux ou
+sur l'enfant, ou sauf emprise manifeste de l'un des époux sur son conjoint, et, après avoir recueilli leur accord, désigner
+un médiateur familial pour y procéder ;
 
-2° Enjoindre aux époux de rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de la médiation ;
+2° Enjoindre aux époux, sauf si des violences sont alléguées par l'un des époux sur l'autre époux ou sur l'enfant, ou sauf
+emprise manifeste de l'un des époux sur son conjoint, de rencontrer un médiateur familial qui les informera sur l'objet et le
+déroulement de la médiation ;
 
 3° Statuer sur les modalités de la résidence séparée des époux ;
 
@@ -12300,10 +12299,6 @@ réserve des droits de chacun des époux dans la liquidation du régime matrimon
 règlement des intérêts pécuniaires des époux ;
 
 10° Désigner un notaire en vue d'élaborer un projet de liquidation du régime matrimonial et de formation des lots à partager.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -12337,13 +12332,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-439 2004-05-26 art. 10 I, art. 12 I, III JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 12 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+  - Loi n°2020-936 du 30 juillet 2020 - art. 5
 
 _Codifié par_:
 
@@ -17950,12 +17939,14 @@ _Cité par_:
 En cas de désaccord, le juge s'efforce de concilier les parties.
 
 A l'effet de faciliter la recherche par les parents d'un exercice consensuel de l'autorité parentale, le juge peut leur
-proposer une mesure de médiation sauf si des violences sont alléguées par l'un des parents sur l'autre parent ou sur l'enfant
-et, après avoir recueilli leur accord, désigner un médiateur familial pour y procéder, y compris dans la décision statuant
-définitivement sur les modalités d'exercice de l'autorité parentale.
+proposer une mesure de médiation, sauf si des violences sont alléguées par l'un des parents sur l'autre parent ou sur
+l'enfant, ou sauf emprise manifeste de l'un des parents sur l'autre parent, et, après avoir recueilli leur accord, désigner
+un médiateur familial pour y procéder, y compris dans la décision statuant définitivement sur les modalités d'exercice de
+l'autorité parentale.
 
 Il peut de même leur enjoindre, sauf si des violences sont alléguées par l'un des parents sur l'autre parent ou sur l'enfant,
-de rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de cette mesure.
+ou sauf emprise manifeste de l'un des parents sur l'autre parent, de rencontrer un médiateur familial qui les informera sur
+l'objet et le déroulement de cette mesure.
 
 **Liens relatifs à cet article**
 
@@ -17969,7 +17960,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1480 du 28 décembre 2019 - art. 5
+  - Loi n°2020-936 du 30 juillet 2020 - art. 5
 
 _Codifié par_:
 
@@ -19045,7 +19036,7 @@ _Créé par_:
 Peuvent se voir retirer totalement l'autorité parentale ou l'exercice de l'autorité parentale par une décision expresse du
 jugement pénal les père et mère qui sont condamnés, soit comme auteurs, coauteurs ou complices d'un crime ou délit commis sur
 la personne de leur enfant, soit comme coauteurs ou complices d'un crime ou délit commis par leur enfant, soit comme auteurs,
-coauteurs ou complices d'un crime sur la personne de l'autre parent.
+coauteurs ou complices d'un crime ou délit sur la personne de l'autre parent.
 
 Ce retrait est applicable aux ascendants autres que les père et mère pour la part d'autorité parentale qui peut leur revenir
 sur leurs descendants.
@@ -19062,7 +19053,6 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 24 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 17 (V)
   - Loi n°2009-526 du 12 mai 2009 - art. 108
-  - Code civil - art. 379 (V)
   - Code civil - art. 381 (VD)
   - Code de l'action sociale et des familles - art. L224-4 (V)
   - Code de la famille et de l'aide sociale. - art. 50 (Ab)
@@ -19079,7 +19069,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1480 du 28 décembre 2019 - art. 8
+  - Loi n°2020-936 du 30 juillet 2020 - art. 4
 
 
 ###### Article 378-1
@@ -25676,14 +25666,14 @@ spécialement motivée ;
 responsabilisation pour la prévention et la lutte contre les violences au sein du couple et sexistes. En cas de refus de la
 partie défenderesse, le juge aux affaires familiales en avise immédiatement le procureur de la République ;
 
-3° Statuer sur la résidence séparée des époux. A la demande du conjoint qui n'est pas l'auteur des violences, la jouissance
-du logement conjugal lui est attribuée, sauf circonstances particulières, sur ordonnance spécialement motivée, et même s'il a
+3° Statuer sur la résidence séparée des époux. La jouissance du logement conjugal est attribuée, sauf ordonnance spécialement
+motivée justifiée par des circonstances particulières, au conjoint qui n'est pas l'auteur des violences, et ce même s'il a
 bénéficié d'un hébergement d'urgence. Dans ce cas, la prise en charge des frais afférents peut être à la charge du conjoint
 violent ;
 
-4° Se prononcer sur le logement commun de partenaires liés par un pacte civil de solidarité ou de concubins. A la demande du
-partenaire lié par un pacte civil de solidarité ou du concubin qui n'est pas l'auteur des violences, la jouissance du
-logement commun lui est attribuée, sauf circonstances particulières, sur ordonnance spécialement motivée, et même s'il a
+4° Se prononcer sur le logement commun de partenaires liés par un pacte civil de solidarité ou de concubins. La jouissance du
+logement commun est attribuée, sauf ordonnance spécialement motivée justifiée par des circonstances particulières, au
+partenaire lié par un pacte civil de solidarité ou au concubin qui n'est pas l'auteur des violences, et ce même s'il a
 bénéficié d'un hébergement d'urgence. Dans ce cas, la prise en charge des frais afférents peut être à la charge du partenaire
 ou concubin violent ;
 
@@ -25703,15 +25693,15 @@ révéler à son mandant ;
 6° bis Autoriser la partie demanderesse à dissimuler son domicile ou sa résidence et à élire domicile pour les besoins de la
 vie courante chez une personne morale qualifiée ;
 
-7° Prononcer l'admission provisoire à l'aide juridictionnelle de la partie demanderesse en application du premier alinéa de
-l'article 20 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique.
+7° Prononcer l'admission provisoire à l'aide juridictionnelle des deux parties ou de l'une d'elles en application du premier
+alinéa de l'article 20 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique.
 
 Le cas échéant, le juge présente à la partie demanderesse une liste des personnes morales qualifiées susceptibles de
 l'accompagner pendant toute la durée de l'ordonnance de protection. Il peut, avec son accord, transmettre à la personne
 morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la contacte.
 
-Lorsque le juge délivre une ordonnance de protection en raison de violences susceptibles de mettre en danger un ou plusieurs
-enfants, il en informe sans délai le procureur de la République.
+Lorsque le juge délivre une ordonnance de protection, il en informe sans délai le procureur de la République, auquel il
+signale également les violences susceptibles de mettre en danger un ou plusieurs enfants.
 
 **Nota:**
 
@@ -25719,11 +25709,6 @@ Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019,
 janvier 2020.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°91-647 du 10 juillet 1991 - art. 20
-  - Code civil - art. 515-4
 
 _Cité par_:
 
@@ -25744,26 +25729,28 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (V)
-  - Loi n°2019-1480 du 28 décembre 2019 - art. 4
+  - Loi n°2020-936 du 30 juillet 2020 - art. 1
+  - Loi n°2020-936 du 30 juillet 2020 - art. 2
+  - Loi n°2020-936 du 30 juillet 2020 - art. 26
 
 
 ###### Article 515-11-1
 
-I.-Lorsque l'interdiction prévue au 1° de l'article 515-11 a été prononcée, le juge aux affaires familiales peut ordonner,
-après avoir recueilli le consentement des deux parties, le port par chacune d'elles d'un dispositif électronique mobile anti-
-rapprochement permettant à tout moment de signaler que la partie défenderesse se trouve à moins d'une certaine distance de la
-partie demanderesse, fixée par l'ordonnance. En cas de refus de la partie défenderesse faisant obstacle au prononcé de cette
-mesure, le juge aux affaires familiales en avise immédiatement le procureur de la République.
+I.-Lorsque l'interdiction prévue au 1° de l'article 515-11 a été prononcée, le juge aux affaires familiales peut prononcer
+une interdiction de se rapprocher de la partie demanderesse à moins d'une certaine distance qu'il fixe et ordonner, après
+avoir recueilli le consentement des deux parties, le port par chacune d'elles d'un dispositif électronique mobile anti-
+rapprochement permettant à tout moment de signaler que la partie défenderesse ne respecte pas cette distance. En cas de refus
+de la partie défenderesse faisant obstacle au prononcé de cette mesure, le juge aux affaires familiales en avise
+immédiatement le procureur de la République.
 
 II.-Ce dispositif fait l'objet d'un traitement de données à caractère personnel, dont les conditions et les modalités de mise
 en œuvre sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-1480 du 28 décembre 2019 - art. 4
+  - Loi n°2020-936 du 30 juillet 2020 - art. 3
 
 _Cité par_:
 
@@ -30274,6 +30261,9 @@ donner la mort au défunt ;
 2° Celui qui est condamné, comme auteur ou complice, à une peine correctionnelle pour avoir volontairement commis des
 violences ayant entraîné la mort du défunt sans intention de la donner ;
 
+2° bis Celui qui est condamné, comme auteur ou complice, à une peine criminelle ou correctionnelle pour avoir commis des
+tortures et actes de barbarie, des violences volontaires, un viol ou une agression sexuelle envers le défunt ;
+
 3° Celui qui est condamné pour témoignage mensonger porté contre le défunt dans une procédure criminelle ;
 
 4° Celui qui est condamné pour s'être volontairement abstenu d'empêcher soit un crime soit un délit contre l'intégrité
@@ -30289,21 +30279,17 @@ desquels, en raison de leur décès, l'action publique n'a pas pu être exercée
 
 _Cité par_:
 
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
   - Code civil - art. 727-1 (VD)
   - Code civil - art. 728 (V)
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
+
+_Modifié par_:
+
+  - Loi n°2020-936 du 30 juillet 2020 - art. 8
 
 _Codifié par_:
 
   - Loi n°1803-04-19
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 II 3° (déclaration d'indignité facultative - application aux faits commis antérieurement à l'entrée en vigueur de ladite loi)
-
-_Modifié par_:
-
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ###### Article 727-1
