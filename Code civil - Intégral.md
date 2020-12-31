@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2020-09-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Titre préliminaire : De la publication, des effets et de l'application des lois en général (art. 1 à 6-1)](#1)
   - [Livre Ier : Des personnes (art. 7 à 515-13)](#2)
@@ -81,11 +81,11 @@ Version Consolidée au 2020-09-01
         - [Section 1 : Dispositions générales (art. 248 à 249-4)](#78)
         - [Section 2 : De la procédure applicable au divorce par consentement mutuel judiciaire (art. 250 à 250-3)](#79)
         - [Section 3 : De la procédure applicable aux autres cas de divorce judiciaire (art. 251 à 259-3)](#80)
-          - [Paragraphe 1 : De la requête initiale. (art. 251)](#81)
-          - [Paragraphe 2 : De la conciliation. (art. 252 à 253)](#82)
-          - [Paragraphe 3 : Des mesures provisoires. (art. 254 à 257)](#83)
-          - [Paragraphe 4 : De l'introduction de l'instance en divorce. (art. 257-1 à 258)](#84)
-          - [Paragraphe 5 : Des preuves. (art. 259 à 259-3)](#85)
+          - [Paragraphe 1 : De l'introduction de la demande en divorce (art. 251 à 253)](#81)
+          - [Paragraphe 3 : Des mesures provisoires. (art.  à 253)](#82)
+          - [Paragraphe 2 : Des mesures provisoires. (art. 254 à 256)](#83)
+          - [Paragraphe 5 : Des preuves. (art.  à 256)](#84)
+          - [Paragraphe 3 : Des preuves. (art. 259 à 259-3)](#85)
       - [Chapitre III : Des conséquences du divorce (art. 260 à 286)](#86)
         - [Section 1 : De la date à laquelle se produisent les effets du divorce (art. 260 à 262-2)](#87)
         - [Section 2 : Des conséquences du divorce pour les époux (art. 263 à 285-1)](#88)
@@ -11321,24 +11321,26 @@ _Codifié par_:
 
 ###### Article 233
 
-Le divorce peut être demandé par l'un ou l'autre des époux ou par les deux lorsqu'ils acceptent le principe de la rupture du
-mariage sans considération des faits à l'origine de celle-ci.
+Le divorce peut être demandé conjointement par les époux lorsqu'ils acceptent le principe de la rupture du mariage sans
+considération des faits à l'origine de celle-ci.
 
-Cette acceptation n'est pas susceptible de rétractation, même par la voie de l'appel.
+Il peut être demandé par l'un ou l'autre des époux ou par les deux lorsque chacun d'eux, assisté d'un avocat, a accepté le
+principe de la rupture du mariage par acte sous signature privée contresigné par avocats, qui peut être conclu avant
+l'introduction de l'instance.
+
+Le principe de la rupture du mariage peut aussi être accepté par les époux à tout moment de la procédure.
+
+L'acceptation n'est pas susceptible de rétractation, même par la voie de l'appel.
 
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant
+l'entrée en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie
+et jugée conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas,
+le jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 3 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -11347,9 +11349,14 @@ _Cité par_:
   - Décret n°2019-1380 du 17 décembre 2019 - art. 5
   - Code civil - art. 253 (VT)
   - Code civil - art. 254 (M)
+  - Code civil - art. 257-1 (VT)
   - Code de l'organisation judiciaire - art. Tableau IV bis (V)
   - Code de procédure civile - art. 1123 (VD)
   - Nouveau code de procédure civile - art. 1129 (M)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Codifié par_:
 
@@ -11423,14 +11430,22 @@ _Modifié par_:
 ###### Article 238
 
 L'altération définitive du lien conjugal résulte de la cessation de la communauté de vie entre les époux, lorsqu'ils vivent
-séparés depuis deux ans lors de l'assignation en divorce. 
+séparés depuis un an lors de la demande en divorce.
 
-Nonobstant ces dispositions, le divorce est prononcé pour altération définitive du lien conjugal dans le cas prévu au second
-alinéa de l'article 246, dès lors que la demande présentée sur ce fondement est formée à titre reconventionnel.
+Si le demandeur a introduit l'instance sans indiquer les motifs de sa demande, le délai caractérisant l'altération définitive
+du lien conjugal est apprécié au prononcé du divorce.
+
+Toutefois, sans préjudice des dispositions de l'article 246, dès lors qu'une demande sur ce fondement et une autre demande en
+divorce sont concurremment présentées, le divorce est prononcé pour altération définitive du lien conjugal sans que le délai
+d'un an ne soit exigé.
 
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant
+l'entrée en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie
+et jugée conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas,
+le jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
@@ -11456,17 +11471,14 @@ _Cité par_:
   - Nouveau code de procédure civile - art. 1120 (M)
   - Nouveau code de procédure civile - art. 1124 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
 _Modifié par_:
 
-  - Loi n°2004-439 du 26 mai 2004 - art. 4 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
+  - Loi n°2019-222 du 23 mars 2019 - art. 23
 
 _Cite_:
 
-  - Code civil - art. 246 (V)
+  - Code civil - art. 246
 
 _Codifié par_:
 
@@ -11603,30 +11615,28 @@ _Anciens textes_:
 Si une demande pour altération définitive du lien conjugal et une demande pour faute sont concurremment présentées, le juge
 examine en premier lieu la demande pour faute.
 
-S'il rejette celle-ci, le juge statue sur la demande en divorce pour altération définitive du lien conjugal.
-
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Code civil - art. 238 (VD)
   - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+  - Code civil - art. 238 (VD)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 5 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 #### Section 5 : Des modifications du fondement d'une demande en divorce<a id=76></a>
@@ -11702,27 +11712,27 @@ _Cité par_:
 
 ###### Article 247-2
 
-Si, dans le cadre d'une instance introduite pour altération définitive du lien conjugal, le défendeur demande
+Si le demandeur forme une demande en divorce pour altération définitive du lien conjugal et que le défendeur demande
 reconventionnellement le divorce pour faute, le demandeur peut invoquer les fautes de son conjoint pour modifier le fondement
 de sa demande.
 
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Créé par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 7 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ### Chapitre II : De la procédure du divorce judiciaire<a id=77></a>
@@ -11946,21 +11956,31 @@ _Codifié par_:
 
 #### Section 3 : De la procédure applicable aux autres cas de divorce judiciaire<a id=80></a>
 
-##### Paragraphe 1 : De la requête initiale.<a id=81></a>
+##### Paragraphe 1 : De l'introduction de la demande en divorce<a id=81></a>
 
 ###### Article 251
 
-L'époux qui forme une demande en divorce présente, par avocat, une requête au juge, sans indiquer les motifs du divorce.
+L'époux qui introduit l'instance en divorce peut indiquer les motifs de sa demande si celle-ci est fondée sur l'acceptation
+du principe de la rupture du mariage ou l'altération définitive du lien conjugal. Hors ces deux cas, le fondement de la
+demande doit être exposé dans les premières conclusions au fond.
 
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Nouveaux textes_:
 
@@ -11971,36 +11991,32 @@ _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-##### Paragraphe 2 : De la conciliation.<a id=82></a>
 
 ###### Article 252
 
-Une tentative de conciliation est obligatoire avant l'instance judiciaire. Elle peut être renouvelée pendant l'instance.
+La demande introductive d'instance comporte le rappel des dispositions relatives à :
 
-Le juge cherche à concilier les époux tant sur le principe du divorce que sur ses conséquences.
+1° La médiation en matière familiale et à la procédure participative ;
+
+2° L'homologation des accords partiels ou complets des parties sur les modalités d'exercice de l'autorité parentale et les
+conséquences du divorce.
+
+Elle comporte également, à peine d'irrecevabilité, une proposition de règlement des intérêts pécuniaires et patrimoniaux des
+époux.
 
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
 _Modifié par_:
 
-  - Loi n°2004-439 2004-05-26 art. 6, art. 10 I, art. 11 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 11 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Anciens textes_:
 
@@ -12013,65 +12029,59 @@ _Nouveaux textes_:
 
 _Cité par_:
 
-  - Code civil - art. 254 (V)
+  - Code civil - art. 254 (VD)
   - Code de procédure civile - art. 1108 (VD)
   - Code de procédure civile - art. 1115 (VD)
-
-
-###### Article 253
-
-Les époux ne peuvent accepter le principe de la rupture du mariage et le prononcé du divorce sur le fondement de l'article
-233 que s'ils sont chacun assistés par un avocat.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 _Codifié par_:
 
   - Loi n°1803-03-14
 
-_Modifié par_:
 
-  - Loi n°2004-439 2004-05-26 art. 10 I, art. 11 I, V JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 11 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+###### Article 253
 
-_Cite_:
-
-  - Code civil - art. 233 (V)
-
-
-##### Paragraphe 3 : Des mesures provisoires.<a id=83></a>
-
-###### Article 254
-
-Lors de l'audience prévue à l'article 252, le juge prescrit, en considération des accords éventuels des époux, les mesures
-nécessaires pour assurer leur existence et celle des enfants jusqu'à la date à laquelle le jugement passe en force de chose
-jugée.
+Lorsqu'il rejette définitivement la demande en divorce, le juge peut statuer sur la contribution aux charges du mariage, la
+résidence de la famille et les modalités de l'exercice de l'autorité parentale.
 
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2004-439 2004-05-26 art. 10 I, art. 12 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 12 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
-**Liens**:
 
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+##### Paragraphe 3 : Des mesures provisoires.<a id=82></a>
+
+##### Paragraphe 2 : Des mesures provisoires.<a id=83></a>
+
+###### Article 254
+
+Le juge tient, dès le début de la procédure, sauf si les parties ou la partie seule constituée y renoncent, une audience à
+l'issue de laquelle il prend les mesures nécessaires pour assurer l'existence des époux et des enfants de l'introduction de
+la demande en divorce à la date à laquelle le jugement passe en force de chose jugée, en considération des accords éventuels
+des époux.
+
+**Nota:**
+
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Cité par_:
 
@@ -12081,7 +12091,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 252 (V)
+  - Code civil - art. 252 (VD)
 
 _Codifié par_:
 
@@ -12192,161 +12202,9 @@ _Cité par_:
   - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
 
 
-###### Article 257
+##### Paragraphe 5 : Des preuves.<a id=84></a>
 
-Le juge peut prendre, dès la requête initiale, des mesures d'urgence. 
-
-Il peut, à ce titre, autoriser l'époux demandeur à résider séparément, s'il y a lieu avec ses enfants mineurs. 
-
-Il peut aussi, pour la garantie des droits d'un époux, ordonner toutes mesures conservatoires telles que l'apposition de
-scellés sur les biens communs. Les dispositions de l'article 220-1 et du titre XIV du présent livre et les autres sauvegardes
-instituées par le régime matrimonial demeurent cependant applicables.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 29 juillet 1987 - art. 4 (M)
-  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
-  - Code civil - art. 249-3 (M)
-  - Code de la construction et de l'habitation. - art. L441-1 (VD)
-  - Code de procédure civile - art. 1107 (VD)
-  - Code de procédure civile - art. 1121-1 (VT)
-
-_Modifié par_:
-
-  - Loi n°2010-769 du 9 juillet 2010 - art. 1
-
-_Abrogé par_:
-
-  - Loi n°2019-222 du 23 mars 2019 - art. 22
-
-_Cite_:
-
-  - Code civil - art. 220-1
-
-
-##### Paragraphe 4 : De l'introduction de l'instance en divorce.<a id=84></a>
-
-###### Article 257-1
-
-Après l'ordonnance de non-conciliation, un époux peut introduire l'instance ou former une demande reconventionnelle pour
-acceptation du principe de la rupture du mariage, pour altération définitive du lien conjugal ou pour faute. 
-
-Toutefois, lorsqu'à l'audience de conciliation les époux ont déclaré accepter le principe de la rupture du mariage et le
-prononcé du divorce sur le fondement de l'article 233, l'instance ne peut être engagée que sur ce même fondement.
-
-**Nota:**
-
-Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, les dispositions de l'article 257-1 cessent d'être
-en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a
-été présentée avant l'entrée en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de
-corps est poursuivie et jugée conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en
-vigueur. Dans ce cas, le jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°2004-439 2004-05-26 art. 13 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 13 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Abrogé par_:
-
-  - Loi n°2019-222 du 23 mars 2019 - art. 22
-
-_Cite_:
-
-  - Code civil - art. 233 (VD)
-
-
-###### Article 257-2
-
-A peine d'irrecevabilité, la demande introductive d'instance comporte une proposition de règlement des intérêts pécuniaires
-et patrimoniaux des époux.
-
-**Nota:**
-
-Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, les dispositions de l'article 257-2 cessent d'être
-en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a
-été présentée avant l'entrée en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de
-corps est poursuivie et jugée conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en
-vigueur. Dans ce cas, le jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°2004-439 2004-05-26 art. 13 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 13 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Abrogé par_:
-
-  - Loi n°2019-222 du 23 mars 2019 - art. 22
-
-_Cité par_:
-
-  - Code de procédure civile - art. 1115 (V)
-
-
-###### Article 258
-
-Lorsqu'il rejette définitivement la demande en divorce, le juge peut statuer sur la contribution aux charges du mariage, la
-résidence de la famille et les modalités de l'exercice de l'autorité parentale.
-
-**Nota:**
-
-Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, les dispositions de l'article 258 cessent d'être en
-vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été
-présentée avant l'entrée en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps
-est poursuivie et jugée conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en
-vigueur. Dans ce cas, le jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1803-03-14
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-_Modifié par_:
-
-  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-  - Loi n°2004-439 du 26 mai 2004 - art. 13 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Loi n°2019-222 du 23 mars 2019 - art. 22
-
-_Cité par_:
-
-  - Nouveau code de procédure civile - art. 1073 (M)
-
-
-##### Paragraphe 5 : Des preuves.<a id=85></a>
+##### Paragraphe 3 : Des preuves.<a id=85></a>
 
 ###### Article 259
 
@@ -12515,26 +12373,29 @@ exécutoire, à moins que cette convention n'en stipule autrement ;
 la convention réglant l'ensemble des conséquences du divorce, à moins que celle-ci n'en dispose autrement ;
 
 - lorsqu'il est prononcé pour acceptation du principe de la rupture du mariage, pour altération définitive du lien conjugal
-ou pour faute, à la date de l'ordonnance de non-conciliation. 
+ou pour faute, à la date de la demande en divorce.
 
 A la demande de l'un des époux, le juge peut fixer les effets du jugement à la date à laquelle ils ont cessé de cohabiter et
 de collaborer. Cette demande ne peut être formée qu'à l'occasion de l'action en divorce. La jouissance du logement conjugal
-par un seul des époux conserve un caractère gratuit jusqu'à l'ordonnance de non-conciliation, sauf décision contraire du
-juge.
+par un seul des époux conserve un caractère gratuit jusqu'à la demande en divorce, sauf décision contraire du juge.
 
 **Nota:**
 
-
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Cite_:
 
-  - Code civil - art. 229-2 (V)
+  - Code civil - art. 229-2
 
 _Codifié par_:
 
@@ -12544,23 +12405,26 @@ _Codifié par_:
 ###### Article 262-2
 
 Toute obligation contractée par l'un des époux à la charge de la communauté, toute aliénation de biens communs faite par l'un
-d'eux dans la limite de ses pouvoirs, postérieurement à la requête initiale, sera déclarée nulle, s'il est prouvé qu'il y a
+d'eux dans la limite de ses pouvoirs, postérieurement à la demande en divorce, sera déclarée nulle, s'il est prouvé qu'il y a
 eu fraude aux droits de l'autre conjoint.
 
+**Nota:**
+
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Codifié par_:
 
   - Loi n°1803-03-14
-
-_Créé par_:
-
-  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
 #### Section 2 : Des conséquences du divorce pour les époux<a id=88></a>
@@ -14347,7 +14211,7 @@ Le consentement donné à une procréation médicalement assistée interdit tout
 contestation de la filiation à moins qu'il ne soit soutenu que l'enfant n'est pas issu de la procréation médicalement
 assistée ou que le consentement a été privé d'effet.
 
-Le consentement est privé d'effet en cas de décès, de dépôt d'une requête en divorce ou en séparation de corps ou de
+Le consentement est privé d'effet en cas de décès, d'introduction d'une demande en divorce ou en séparation de corps ou de
 cessation de la communauté de vie, survenant avant la réalisation de la procréation médicalement assistée. Il est également
 privé d'effet lorsque l'homme ou la femme le révoque, par écrit et avant la réalisation de la procréation médicalement
 assistée, auprès du médecin chargé de mettre en œuvre cette assistance.
@@ -14356,6 +14220,14 @@ Celui qui, après avoir consenti à l'assistance médicale à la procréation, n
 responsabilité envers la mère et envers l'enfant.
 
 En outre, sa paternité est judiciairement déclarée. L'action obéit aux dispositions des articles 328 et 331.
+
+**Nota:**
+
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
@@ -14369,6 +14241,7 @@ _Cité par_:
   - Décret n°2019-1408 du 19 décembre 2019 - art. 2
   - Code de commerce - art. Annexe 4-7 (V)
   - Code de l'organisation judiciaire - art. Annexe Tableau IV bis (VT)
+  - Code de la santé publique - art. L2141-6 (V)
   - Code de la santé publique - art. R152-5-9 (Ab)
   - Code de la santé publique - art. R184-1-7 (Ab)
   - Code de la santé publique - art. R2141-11 (Ab)
@@ -14382,12 +14255,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 6
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Cite_:
 
-  - Code civil - art. 328 (V)
-  - Code civil - art. 331 (V)
+  - Code civil - art. 328
+  - Code civil - art. 331
+
+_Codifié par_:
+
+  - Loi n°1803-03-14
 
 
 #### Section 4 : Des règles de dévolution du nom de famille<a id=104></a>
@@ -14622,16 +14499,23 @@ _Cité par_:
 ###### Article 313
 
 La présomption de paternité est écartée lorsque l'acte de naissance de l'enfant ne désigne pas le mari en qualité de père.
-Elle est encore écartée, en cas de demande en divorce ou en séparation de corps, lorsque l'enfant est né plus de trois cents
-jours après la date soit de l'homologation de la convention réglant l'ensemble des conséquences du divorce ou des mesures
-provisoires prises en application de l'article 250-2, soit de l'ordonnance de non-conciliation, et moins de cent quatre-
-vingts jours depuis le rejet définitif de la demande ou la réconciliation.
+Elle est encore écartée lorsque l'enfant est né plus de trois cents jours après l'introduction de la demande en divorce ou en
+séparation de corps ou après le dépôt au rang des minutes d'un notaire de la convention réglant l'ensemble des conséquences
+du divorce, et moins de cent quatre-vingts jours depuis le rejet définitif de la demande ou la réconciliation.
+
+**Nota:**
+
+Conformément au VII de l’article 109 de la loi 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant l'entrée
+en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie et jugée
+conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas, le
+jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-61 du 16 janvier 2009 - art. 1
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Cite_:
 
@@ -18217,21 +18101,21 @@ _Codifié par_:
 
 ###### Article 375-3
 
-Si la protection de l'enfant l'exige, le juge des enfants peut décider de le confier : 
+Si la protection de l'enfant l'exige, le juge des enfants peut décider de le confier :
 
-1° A l'autre parent ; 
+1° A l'autre parent ;
 
-2° A un autre membre de la famille ou à un tiers digne de confiance ; 
+2° A un autre membre de la famille ou à un tiers digne de confiance ;
 
-3° A un service départemental de l'aide sociale à l'enfance ; 
+3° A un service départemental de l'aide sociale à l'enfance ;
 
 4° A un service ou à un établissement habilité pour l'accueil de mineurs à la journée ou suivant toute autre modalité de
-prise en charge ; 
+prise en charge ;
 
-5° A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou spécialisé. 
+5° A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou spécialisé.
 
-Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère ou lorsqu'une
-requête en vue de statuer sur la résidence et les droits de visite afférents à un enfant a été présentée ou une décision
+Toutefois, lorsqu'une demande en divorce a été présentée ou un jugement de divorce rendu entre les père et mère ou lorsqu'une
+demande en vue de statuer sur la résidence et les droits de visite afférents à un enfant a été présentée ou une décision
 rendue entre les père et mère, ces mesures ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour
 le mineur s'est révélé postérieurement à la décision statuant sur les modalités de l'exercice de l'autorité parentale ou
 confiant l'enfant à un tiers. Elles ne peuvent faire obstacle à la faculté qu'aura le juge aux affaires familiales de
@@ -18282,7 +18166,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 32
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Cite_:
 
@@ -25591,26 +25475,34 @@ _Cité par_:
 ###### Article 515-12
 
 Les mesures mentionnées à l'article 515-11 sont prises pour une durée maximale de six mois à compter de la notification de
-l'ordonnance. Elles peuvent être prolongées au-delà si, durant ce délai, une requête en divorce ou en séparation de corps a
-été déposée ou si le juge aux affaires familiales a été saisi d'une requête relative à l'exercice de l'autorité parentale. Le
+l'ordonnance. Elles peuvent être prolongées au-delà si, durant ce délai, une demande en divorce ou en séparation de corps a
+été déposée ou si le juge aux affaires familiales a été saisi d'une demande relative à l'exercice de l'autorité parentale. Le
 juge aux affaires familiales peut, à tout moment, à la demande du ministère public ou de l'une ou l'autre des parties, ou
 après avoir fait procéder à toute mesure d'instruction utile, et après avoir invité chacune d'entre elles à s'exprimer,
 supprimer ou modifier tout ou partie des mesures énoncées dans l'ordonnance de protection, en décider de nouvelles, accorder
 à la personne défenderesse une dispense temporaire d'observer certaines des obligations qui lui ont été imposées ou rapporter
 l'ordonnance de protection.
 
+**Nota:**
+
+Conformément au VII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021. Lorsque la requête initiale a été présentée avant
+l'entrée en vigueur prévue à la première phrase du présent VII, l'action en divorce ou en séparation de corps est poursuivie
+et jugée conformément aux dispositions du code civil dans leur rédaction antérieure à la même entrée en vigueur. Dans ce cas,
+le jugement rendu après ladite entrée en vigueur produit les effets prévus par la loi ancienne.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2014-873 du 4 août 2014 - art. 32
 
 _Cité par_:
 
   - Décret n°2015-282 du 11 mars 2015 (V)
   - Décret n°2020-1161 du 23 septembre 2020 - art. 5
-  - Code civil - art. 515-13 (V)
+  - Code civil - art. 515-13 (VD)
   - Code de procédure civile - art. 1136-20 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 22
 
 _Cite_:
 
@@ -67461,14 +67353,14 @@ personnels de l'héritier sur les immeubles de ce dernier, pour la garantie des 
 définissant la location-accession à la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la garantie des
 droits qu'ils tiennent de ce contrat ;
 
-8° L'Etat, la commune ou l'établissement public de coopération intercommunale à fiscalité propre, selon le cas, pour la
-garantie des créances nées de l'application des articles L. 123-3, L. 129-2, L. 129-4, L. 511-2, L. 511-4 ou L. 521-3-2 du
-code de la construction de l'habitation ou des articles L. 1331-29-1 ou L. 1331-30 du code de la santé publique.
+8° L'Etat, la commune, l'établissement public de coopération intercommunale à fiscalité propre ou la métropole de Lyon, selon
+le cas, pour la garantie des créances nées de l'application de l'article L. 123-3 et du chapitre Ier du titre Ier du livre V
+du code de la construction et de l'habitation.
 
 **Nota:**
 
-Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
-janvier 2020.
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -67503,6 +67395,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L541-4 (V)
   - Code de la construction et de l'habitation. - art. L543-1 (VD)
   - Code de la santé publique - art. L1331-29 (V)
+  - Code de la santé publique - art. L1331-29-1 (VT)
   - Code de procédure civile - art. 686 (Ab)
   - Code des assurances - art. L132-30 (VD)
   - Code des procédures civiles d'exécution - art. L321-5 (VD)
@@ -67521,7 +67414,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 4
 
 _Anciens textes_:
 
@@ -67960,74 +67853,75 @@ _Codifié par_:
 
 ###### Article 2384-1
 
-Le titulaire de la créance conserve son privilège par la double inscription faite : 
+Le titulaire de la créance conserve son privilège par la double inscription faite :
 
-1° Par leur auteur, soit de l'arrêté de police, pris en application de l'article L. 1331-28 du code de la santé publique, de
-l'article L. 123-3 du code de la construction et de l'habitation pour les mesures édictées sous peine d'interdiction
-d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, ou des articles L. 129-2, L. 129-3, L.
-511-2 ou L. 511-3 de ce dernier code, comportant une évaluation sommaire du coût des mesures ou des travaux à exécuter, soit
-de la mise en demeure effectuée en application de l'article L. 1331-26-1 ou du II de l'article L. 1331-29 du code de la santé
-publique, de l'article L. 123-3 du code de la construction et de l'habitation pour la mise en oeuvre de mesures édictées sous
-peine d'interdiction d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, de l'article L. 129-2
-ou du IV de l'article L. 511-2 de ce dernier code, comportant l'évaluation du coût des mesures ou travaux à exécuter ; 
+1° Par l'auteur de l'arrêté de police pris en application de l'article L. 123-3 du code de la construction et de l'habitation
+pour les mesures édictées sous peine d'interdiction d'habiter ou d'utiliser les locaux ou de fermeture définitive de
+l'établissement ou de l'article L. 511-11 du même code comportant une évaluation sommaire du coût des mesures ou des travaux
+à exécuter ;
 
-2° Du titre de recouvrement de la créance par son auteur. 
+2° Du titre de recouvrement de la créance par son auteur.
 
-Pour les créances nées de l'application de l'article L. 521-3-2 du code de la construction et de l'habitation, du I de
-l'article L. 511-2 du même code ou du I de l'article L. 1331-28 du code de la santé publique lorsque la démolition du
-bâtiment déclaré insalubre ou menaçant ruine a été ordonnée, le privilège prend rang à concurrence du montant évalué ou de
-celui du titre de recouvrement, s'il lui est inférieur, à compter de la première inscription et à compter de la deuxième
-inscription pour la fraction du montant du titre de recouvrement qui serait supérieure au montant résultant de la première
-inscription. 
+Pour les créances nées de l'application du chapitre Ier du titre Ier du livre V ou de l'article L. 521-3-2 du code de la
+construction et de l'habitation lorsque la démolition du bâtiment déclaré insalubre ou menaçant ruine a été ordonnée, le
+privilège prend rang à concurrence du montant évalué ou de celui du titre de recouvrement, s'il lui est inférieur, à compter
+de la première inscription et à compter de la deuxième inscription pour la fraction du montant du titre de recouvrement qui
+serait supérieure au montant résultant de la première inscription.
 
 Pour les autres créances, le privilège est conservé à concurrence du montant évalué ou de celui du titre de recouvrement,
 s'il lui est inférieur.
+
+**Nota:**
+
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Ordonnance n°2007-42 du 11 janvier 2007 - art. 4 (VD)
-  - Code civil - art. 2384-2 (V)
+  - Code civil - art. 2384-2 (VD)
   - Code civil - art. 2384-4 (V)
   - Code de la construction et de l'habitation. - art. L441-2-3-3 (V)
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 89 (V)
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 4
 
 _Cite_:
 
-  - Code de la santé publique - art. L1331-26-1 (V)
-  - Code de la santé publique - art. L1331-28
-  - Code de la santé publique - art. L1331-29
-  - Code de la construction et de l'habitation. - art. L511-2 (VT)
-  - Code de la construction et de l'habitation. - art. L511-3 (V)
-  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
+  - Code de la construction et de l'habitation. - art. L123-3 (M)
+  - Code de la construction et de l'habitation. - art. L521-3-2 (VT)
 
 
 ###### Article 2384-2
 
 Par dérogation à l'article 2384-1, le privilège peut également être conservé par la seule inscription du titre de
-recouvrement, à concurrence de sa valeur. 
+recouvrement, à concurrence de sa valeur.
 
-Dans ce cas pour les créances nées de l'application de l'article L. 521-3-2 du code de la construction et de l'habitation, du
-I de l'article L. 511-2 du même code ou du I de l'article L. 1331-28 du code de la santé publique lorsque la démolition du
-bâtiment déclaré insalubre ou menaçant ruine a été ordonnée, le privilège prend rang à compter de l'émission du titre s'il
-est présenté à l'inscription dans un délai de deux mois à compter de l'émission.
+Dans ce cas pour les créances nées de l'application du chapitre Ier du titre Ier du livre V ou de l'article L. 521-3-2 du
+code de la construction et de l'habitation lorsque la démolition du bâtiment déclaré insalubre ou menaçant ruine a été
+ordonnée, le privilège prend rang à compter de l'émission du titre s'il est présenté à l'inscription dans un délai de deux
+mois à compter de l'émission.
+
+**Nota:**
+
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 89 (V)
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 4
 
 _Cite_:
 
-  - Code civil - art. 2384-1
-  - Code de la santé publique - art. L1331-28 (V)
-  - Code de la construction et de l'habitation. - art. L511-2 (V)
-  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
+  - Code civil - art. 2384-1 (VD)
+  - Code de la santé publique - art. L1331-28
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L521-3-2
 
 
 ###### Article 2384-3
